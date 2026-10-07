@@ -41,9 +41,10 @@ registered manifest fingerprint after review. Commit and push content first, the
 the campus reference update. Do not maintain another grading implementation here.
 
 The native chemistry compiler and ion compiler remain in the university. Unit II
-build inputs resolve directly from this checkout. Generated `ion-data.json`, the
-generated lesson reader, HTML pages and deployment snapshots remain campus-owned
-outputs; they are not independent authoring sources.
+build inputs resolve directly from this checkout. Admitted `ion-data.json` and its generated lesson reader now live here and are
+manifest-pinned. Their generator stays in the university. Regenerate these admitted
+payloads here after source review; generated campus pages are ignored installation
+caches rather than content tracked in the university repository.
 
 Historical source packages may contain old demo scripts or HTML. They remain inert
 provenance, not supported launchers or alternate grading engines. Mixed-subject

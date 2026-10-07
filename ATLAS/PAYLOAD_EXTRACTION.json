@@ -1,0 +1,18 @@
+{
+  "originCommit": "4f7363448bef5df345761b9205fdde97f33adcc1",
+  "files": [
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/ion-data.json",
+      "bytes": 1799477,
+      "sha256": "cc7ab047cbe6a8fbff19feb317e0d7f38874d0f36c4fd5447d58071a1f5c4d02",
+      "role": "admitted-generated-payload"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/lessons.html",
+      "bytes": 230117,
+      "sha256": "753b96bb93d55122ba3cd9977ac4305df986b220d42dd2ffba7001a0f3ae4f38",
+      "role": "admitted-generated-payload"
+    }
+  ],
+  "campusRole": "generator and ignored installation cache"
+}
