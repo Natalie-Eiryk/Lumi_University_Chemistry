@@ -1,0 +1,2916 @@
+{
+  "schema_version": "1.0.0",
+  "dataset_version": "2026-10-06.1",
+  "status": "authored_reference_content_not_native_api_not_runtime_compiled",
+  "scope": "118 element identities and layout; neutral first-20 configurations; selected teaching ions only",
+  "source_access_date": "2026-10-06",
+  "conventions": {
+    "names": "IUPAC spellings aluminium, caesium, sulfur; allow aluminum/cesium/sulphur only as search aliases",
+    "group": "IUPAC numbers 1\u201318; null for all detached La\u2013Lu and Ac\u2013Lr entries; null is not group zero",
+    "block": "s/p/d for unambiguous displayed main-body assignments; null for the entire detached series rather than asserting a disputed boundary or a 15-element f block",
+    "display_region": "Detached lanthanoid_series and actinoid_series are layout regions, not a claim that every entry has differentiating f electron",
+    "display_coordinates": "18-column classroom layout; main rows 1\u20137; detached rows 8\u20139 columns 3\u201317; placeholders at period 6/7 group 3 link to 57\u201371 / 89\u2013103, not extra elements",
+    "helium": "group 18, s block, 1s^2, 2 valence electrons",
+    "hydrogen": "group 1 placement; nonmetal, not an alkali metal",
+    "charge": "signed integer in units of elementary charge; distinct from atom multiplicity and oxidation state",
+    "unknown": "null or absent means intentionally not supplied, never zero",
+    "license_note": "Original schema, examples and validation prose. Minimal factual transcription with source attribution; no source images, prose passages or full third-party database copied. Publisher-specific licenses remain with sources. Audit their terms before importing any additional bulk data."
+  },
+  "sources": [
+    {
+      "id": "iupac_elements",
+      "title": "IUPAC Periodic Table Challenge: element identities",
+      "url": "https://iupac.org/periodic-table-challenge/",
+      "supports": "Atomic numbers, symbols and canonical names; factual transcription only"
+    },
+    {
+      "id": "iupac_layout",
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/",
+      "supports": "Groups 1\u201318, detached series and group-3 convention caveat"
+    },
+    {
+      "id": "nist_config",
+      "title": "NIST Atomic Reference Data: Electronic Configurations of the Elements",
+      "url": "https://www.nist.gov/pml/atomic-reference-data-electronic-structure-calculations/atomic-reference-data-electronic-8",
+      "supports": "Neutral ground-state reference configurations; first 20 and Cr/Cu spot checks"
+    },
+    {
+      "id": "openstax_electrons",
+      "title": "OpenStax Chemistry 2e, 6.4 Electronic Structure of Atoms",
+      "url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "supports": "Main-group valence convention and ion electron-removal teaching rules"
+    },
+    {
+      "id": "openstax_ions",
+      "title": "OpenStax Chemistry 2e, 2.6 Ionic and Molecular Compounds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "supports": "Selected ion charges, polyatomic groups, charge neutrality and limits of bonding heuristic"
+    },
+    {
+      "id": "openstax_names",
+      "title": "OpenStax Chemistry 2e, 2.7 Chemical Nomenclature",
+      "url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "supports": "Variable-charge ion naming and formula conventions"
+    }
+  ],
+  "elements": [
+    {
+      "atomic_number": 1,
+      "symbol": "H",
+      "name": "hydrogen",
+      "period": 1,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 1,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 2,
+      "symbol": "He",
+      "name": "helium",
+      "period": 1,
+      "group": 18,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 1,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 3,
+      "symbol": "Li",
+      "name": "lithium",
+      "period": 2,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 2,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 4,
+      "symbol": "Be",
+      "name": "beryllium",
+      "period": 2,
+      "group": 2,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 2,
+      "display_column": 2,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 5,
+      "symbol": "B",
+      "name": "boron",
+      "period": 2,
+      "group": 13,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 2,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 6,
+      "symbol": "C",
+      "name": "carbon",
+      "period": 2,
+      "group": 14,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 2,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 7,
+      "symbol": "N",
+      "name": "nitrogen",
+      "period": 2,
+      "group": 15,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 2,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 8,
+      "symbol": "O",
+      "name": "oxygen",
+      "period": 2,
+      "group": 16,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 2,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 9,
+      "symbol": "F",
+      "name": "fluorine",
+      "period": 2,
+      "group": 17,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 2,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 10,
+      "symbol": "Ne",
+      "name": "neon",
+      "period": 2,
+      "group": 18,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 2,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 11,
+      "symbol": "Na",
+      "name": "sodium",
+      "period": 3,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 3,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 12,
+      "symbol": "Mg",
+      "name": "magnesium",
+      "period": 3,
+      "group": 2,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 3,
+      "display_column": 2,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 13,
+      "symbol": "Al",
+      "name": "aluminium",
+      "period": 3,
+      "group": 13,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 3,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 14,
+      "symbol": "Si",
+      "name": "silicon",
+      "period": 3,
+      "group": 14,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 3,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 15,
+      "symbol": "P",
+      "name": "phosphorus",
+      "period": 3,
+      "group": 15,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 3,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 16,
+      "symbol": "S",
+      "name": "sulfur",
+      "period": 3,
+      "group": 16,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 3,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 17,
+      "symbol": "Cl",
+      "name": "chlorine",
+      "period": 3,
+      "group": 17,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 3,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 18,
+      "symbol": "Ar",
+      "name": "argon",
+      "period": 3,
+      "group": 18,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 3,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 19,
+      "symbol": "K",
+      "name": "potassium",
+      "period": 4,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 4,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 20,
+      "symbol": "Ca",
+      "name": "calcium",
+      "period": 4,
+      "group": 2,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 4,
+      "display_column": 2,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 21,
+      "symbol": "Sc",
+      "name": "scandium",
+      "period": 4,
+      "group": 3,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 3,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 22,
+      "symbol": "Ti",
+      "name": "titanium",
+      "period": 4,
+      "group": 4,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 4,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 23,
+      "symbol": "V",
+      "name": "vanadium",
+      "period": 4,
+      "group": 5,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 5,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 24,
+      "symbol": "Cr",
+      "name": "chromium",
+      "period": 4,
+      "group": 6,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 6,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 25,
+      "symbol": "Mn",
+      "name": "manganese",
+      "period": 4,
+      "group": 7,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 7,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 26,
+      "symbol": "Fe",
+      "name": "iron",
+      "period": 4,
+      "group": 8,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 8,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 27,
+      "symbol": "Co",
+      "name": "cobalt",
+      "period": 4,
+      "group": 9,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 9,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 28,
+      "symbol": "Ni",
+      "name": "nickel",
+      "period": 4,
+      "group": 10,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 10,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 29,
+      "symbol": "Cu",
+      "name": "copper",
+      "period": 4,
+      "group": 11,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 11,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 30,
+      "symbol": "Zn",
+      "name": "zinc",
+      "period": 4,
+      "group": 12,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 4,
+      "display_column": 12,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 31,
+      "symbol": "Ga",
+      "name": "gallium",
+      "period": 4,
+      "group": 13,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 4,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 32,
+      "symbol": "Ge",
+      "name": "germanium",
+      "period": 4,
+      "group": 14,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 4,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 33,
+      "symbol": "As",
+      "name": "arsenic",
+      "period": 4,
+      "group": 15,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 4,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 34,
+      "symbol": "Se",
+      "name": "selenium",
+      "period": 4,
+      "group": 16,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 4,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 35,
+      "symbol": "Br",
+      "name": "bromine",
+      "period": 4,
+      "group": 17,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 4,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 36,
+      "symbol": "Kr",
+      "name": "krypton",
+      "period": 4,
+      "group": 18,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 4,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 37,
+      "symbol": "Rb",
+      "name": "rubidium",
+      "period": 5,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 5,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 38,
+      "symbol": "Sr",
+      "name": "strontium",
+      "period": 5,
+      "group": 2,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 5,
+      "display_column": 2,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 39,
+      "symbol": "Y",
+      "name": "yttrium",
+      "period": 5,
+      "group": 3,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 3,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 40,
+      "symbol": "Zr",
+      "name": "zirconium",
+      "period": 5,
+      "group": 4,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 4,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 41,
+      "symbol": "Nb",
+      "name": "niobium",
+      "period": 5,
+      "group": 5,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 5,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 42,
+      "symbol": "Mo",
+      "name": "molybdenum",
+      "period": 5,
+      "group": 6,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 6,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 43,
+      "symbol": "Tc",
+      "name": "technetium",
+      "period": 5,
+      "group": 7,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 7,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 44,
+      "symbol": "Ru",
+      "name": "ruthenium",
+      "period": 5,
+      "group": 8,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 8,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 45,
+      "symbol": "Rh",
+      "name": "rhodium",
+      "period": 5,
+      "group": 9,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 9,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 46,
+      "symbol": "Pd",
+      "name": "palladium",
+      "period": 5,
+      "group": 10,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 10,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 47,
+      "symbol": "Ag",
+      "name": "silver",
+      "period": 5,
+      "group": 11,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 11,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 48,
+      "symbol": "Cd",
+      "name": "cadmium",
+      "period": 5,
+      "group": 12,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 5,
+      "display_column": 12,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 49,
+      "symbol": "In",
+      "name": "indium",
+      "period": 5,
+      "group": 13,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 5,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 50,
+      "symbol": "Sn",
+      "name": "tin",
+      "period": 5,
+      "group": 14,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 5,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 51,
+      "symbol": "Sb",
+      "name": "antimony",
+      "period": 5,
+      "group": 15,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 5,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 52,
+      "symbol": "Te",
+      "name": "tellurium",
+      "period": 5,
+      "group": 16,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 5,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 53,
+      "symbol": "I",
+      "name": "iodine",
+      "period": 5,
+      "group": 17,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 5,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 54,
+      "symbol": "Xe",
+      "name": "xenon",
+      "period": 5,
+      "group": 18,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 5,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 55,
+      "symbol": "Cs",
+      "name": "caesium",
+      "period": 6,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 6,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 56,
+      "symbol": "Ba",
+      "name": "barium",
+      "period": 6,
+      "group": 2,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 6,
+      "display_column": 2,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 57,
+      "symbol": "La",
+      "name": "lanthanum",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 3,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 58,
+      "symbol": "Ce",
+      "name": "cerium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 4,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 59,
+      "symbol": "Pr",
+      "name": "praseodymium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 5,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 60,
+      "symbol": "Nd",
+      "name": "neodymium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 6,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 61,
+      "symbol": "Pm",
+      "name": "promethium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 7,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 62,
+      "symbol": "Sm",
+      "name": "samarium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 8,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 63,
+      "symbol": "Eu",
+      "name": "europium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 9,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 64,
+      "symbol": "Gd",
+      "name": "gadolinium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 10,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 65,
+      "symbol": "Tb",
+      "name": "terbium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 11,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 66,
+      "symbol": "Dy",
+      "name": "dysprosium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 12,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 67,
+      "symbol": "Ho",
+      "name": "holmium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 68,
+      "symbol": "Er",
+      "name": "erbium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 69,
+      "symbol": "Tm",
+      "name": "thulium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 70,
+      "symbol": "Yb",
+      "name": "ytterbium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 71,
+      "symbol": "Lu",
+      "name": "lutetium",
+      "period": 6,
+      "group": null,
+      "block": null,
+      "display_region": "lanthanoid_series",
+      "display_row": 8,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 72,
+      "symbol": "Hf",
+      "name": "hafnium",
+      "period": 6,
+      "group": 4,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 4,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 73,
+      "symbol": "Ta",
+      "name": "tantalum",
+      "period": 6,
+      "group": 5,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 5,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 74,
+      "symbol": "W",
+      "name": "tungsten",
+      "period": 6,
+      "group": 6,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 6,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 75,
+      "symbol": "Re",
+      "name": "rhenium",
+      "period": 6,
+      "group": 7,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 7,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 76,
+      "symbol": "Os",
+      "name": "osmium",
+      "period": 6,
+      "group": 8,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 8,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 77,
+      "symbol": "Ir",
+      "name": "iridium",
+      "period": 6,
+      "group": 9,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 9,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 78,
+      "symbol": "Pt",
+      "name": "platinum",
+      "period": 6,
+      "group": 10,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 10,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 79,
+      "symbol": "Au",
+      "name": "gold",
+      "period": 6,
+      "group": 11,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 11,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 80,
+      "symbol": "Hg",
+      "name": "mercury",
+      "period": 6,
+      "group": 12,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 6,
+      "display_column": 12,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 81,
+      "symbol": "Tl",
+      "name": "thallium",
+      "period": 6,
+      "group": 13,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 6,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 82,
+      "symbol": "Pb",
+      "name": "lead",
+      "period": 6,
+      "group": 14,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 6,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 83,
+      "symbol": "Bi",
+      "name": "bismuth",
+      "period": 6,
+      "group": 15,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 6,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 84,
+      "symbol": "Po",
+      "name": "polonium",
+      "period": 6,
+      "group": 16,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 6,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 85,
+      "symbol": "At",
+      "name": "astatine",
+      "period": 6,
+      "group": 17,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 6,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 86,
+      "symbol": "Rn",
+      "name": "radon",
+      "period": 6,
+      "group": 18,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 6,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 87,
+      "symbol": "Fr",
+      "name": "francium",
+      "period": 7,
+      "group": 1,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 7,
+      "display_column": 1,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 88,
+      "symbol": "Ra",
+      "name": "radium",
+      "period": 7,
+      "group": 2,
+      "block": "s",
+      "display_region": "s",
+      "display_row": 7,
+      "display_column": 2,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 89,
+      "symbol": "Ac",
+      "name": "actinium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 3,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 90,
+      "symbol": "Th",
+      "name": "thorium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 4,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 91,
+      "symbol": "Pa",
+      "name": "protactinium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 5,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 92,
+      "symbol": "U",
+      "name": "uranium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 6,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 93,
+      "symbol": "Np",
+      "name": "neptunium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 7,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 94,
+      "symbol": "Pu",
+      "name": "plutonium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 8,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 95,
+      "symbol": "Am",
+      "name": "americium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 9,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 96,
+      "symbol": "Cm",
+      "name": "curium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 10,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 97,
+      "symbol": "Bk",
+      "name": "berkelium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 11,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 98,
+      "symbol": "Cf",
+      "name": "californium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 12,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 99,
+      "symbol": "Es",
+      "name": "einsteinium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 100,
+      "symbol": "Fm",
+      "name": "fermium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 101,
+      "symbol": "Md",
+      "name": "mendelevium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 102,
+      "symbol": "No",
+      "name": "nobelium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 103,
+      "symbol": "Lr",
+      "name": "lawrencium",
+      "period": 7,
+      "group": null,
+      "block": null,
+      "display_region": "actinoid_series",
+      "display_row": 9,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 104,
+      "symbol": "Rf",
+      "name": "rutherfordium",
+      "period": 7,
+      "group": 4,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 4,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 105,
+      "symbol": "Db",
+      "name": "dubnium",
+      "period": 7,
+      "group": 5,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 5,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 106,
+      "symbol": "Sg",
+      "name": "seaborgium",
+      "period": 7,
+      "group": 6,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 6,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 107,
+      "symbol": "Bh",
+      "name": "bohrium",
+      "period": 7,
+      "group": 7,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 7,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 108,
+      "symbol": "Hs",
+      "name": "hassium",
+      "period": 7,
+      "group": 8,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 8,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 109,
+      "symbol": "Mt",
+      "name": "meitnerium",
+      "period": 7,
+      "group": 9,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 9,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 110,
+      "symbol": "Ds",
+      "name": "darmstadtium",
+      "period": 7,
+      "group": 10,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 10,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 111,
+      "symbol": "Rg",
+      "name": "roentgenium",
+      "period": 7,
+      "group": 11,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 11,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 112,
+      "symbol": "Cn",
+      "name": "copernicium",
+      "period": 7,
+      "group": 12,
+      "block": "d",
+      "display_region": "d",
+      "display_row": 7,
+      "display_column": 12,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 113,
+      "symbol": "Nh",
+      "name": "nihonium",
+      "period": 7,
+      "group": 13,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 7,
+      "display_column": 13,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 114,
+      "symbol": "Fl",
+      "name": "flerovium",
+      "period": 7,
+      "group": 14,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 7,
+      "display_column": 14,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 115,
+      "symbol": "Mc",
+      "name": "moscovium",
+      "period": 7,
+      "group": 15,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 7,
+      "display_column": 15,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 116,
+      "symbol": "Lv",
+      "name": "livermorium",
+      "period": 7,
+      "group": 16,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 7,
+      "display_column": 16,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 117,
+      "symbol": "Ts",
+      "name": "tennessine",
+      "period": 7,
+      "group": 17,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 7,
+      "display_column": 17,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    },
+    {
+      "atomic_number": 118,
+      "symbol": "Og",
+      "name": "oganesson",
+      "period": 7,
+      "group": 18,
+      "block": "p",
+      "display_region": "p",
+      "display_row": 7,
+      "display_column": 18,
+      "source_ids": [
+        "iupac_elements",
+        "iupac_layout"
+      ]
+    }
+  ],
+  "neutral_first_20": [
+    {
+      "atomic_number": 1,
+      "symbol": "H",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^1",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 1
+        }
+      ],
+      "valence_electrons": 1,
+      "core_electrons": 0,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 2,
+      "symbol": "He",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        }
+      ],
+      "valence_electrons": 2,
+      "core_electrons": 0,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 3,
+      "symbol": "Li",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^1",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 1
+        }
+      ],
+      "valence_electrons": 1,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 4,
+      "symbol": "Be",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        }
+      ],
+      "valence_electrons": 2,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 5,
+      "symbol": "B",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^1",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 1
+        }
+      ],
+      "valence_electrons": 3,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 6,
+      "symbol": "C",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^2",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 2
+        }
+      ],
+      "valence_electrons": 4,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 7,
+      "symbol": "N",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^3",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 3
+        }
+      ],
+      "valence_electrons": 5,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 8,
+      "symbol": "O",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^4",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 4
+        }
+      ],
+      "valence_electrons": 6,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 9,
+      "symbol": "F",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^5",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 5
+        }
+      ],
+      "valence_electrons": 7,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 10,
+      "symbol": "Ne",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        }
+      ],
+      "valence_electrons": 8,
+      "core_electrons": 2,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 11,
+      "symbol": "Na",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^1",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 1
+        }
+      ],
+      "valence_electrons": 1,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 12,
+      "symbol": "Mg",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        }
+      ],
+      "valence_electrons": 2,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 13,
+      "symbol": "Al",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^1",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 1
+        }
+      ],
+      "valence_electrons": 3,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 14,
+      "symbol": "Si",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^2",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 2
+        }
+      ],
+      "valence_electrons": 4,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 15,
+      "symbol": "P",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^3",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 3
+        }
+      ],
+      "valence_electrons": 5,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 16,
+      "symbol": "S",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^4",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 4
+        }
+      ],
+      "valence_electrons": 6,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 17,
+      "symbol": "Cl",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^5",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 5
+        }
+      ],
+      "valence_electrons": 7,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 18,
+      "symbol": "Ar",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^6",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 6
+        }
+      ],
+      "valence_electrons": 8,
+      "core_electrons": 10,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 19,
+      "symbol": "K",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^6 4s^1",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 6
+        },
+        {
+          "subshell": "4s",
+          "electrons": 1
+        }
+      ],
+      "valence_electrons": 1,
+      "core_electrons": 18,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    },
+    {
+      "atomic_number": 20,
+      "symbol": "Ca",
+      "species_charge": 0,
+      "state": "neutral_ground_state",
+      "configuration_ascii": "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2",
+      "occupancy": [
+        {
+          "subshell": "1s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2s",
+          "electrons": 2
+        },
+        {
+          "subshell": "2p",
+          "electrons": 6
+        },
+        {
+          "subshell": "3s",
+          "electrons": 2
+        },
+        {
+          "subshell": "3p",
+          "electrons": 6
+        },
+        {
+          "subshell": "4s",
+          "electrons": 2
+        }
+      ],
+      "valence_electrons": 2,
+      "core_electrons": 18,
+      "valence_convention": "electrons in highest occupied principal shell; neutral first-20 main-group atoms only",
+      "source_ids": [
+        "nist_config",
+        "openstax_electrons"
+      ]
+    }
+  ],
+  "selected_monatomic_teaching_ions": [
+    {
+      "id": "H+1",
+      "symbol": "H",
+      "charge": 1,
+      "name": "hydrogen ion",
+      "note": "context-dependent; not a bare free proton in ordinary aqueous solution",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "H-1",
+      "symbol": "H",
+      "charge": -1,
+      "name": "hydride",
+      "note": "selected ionic hydrides",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Li+1",
+      "symbol": "Li",
+      "charge": 1,
+      "name": "lithium",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Be+2",
+      "symbol": "Be",
+      "charge": 2,
+      "name": "beryllium",
+      "note": "formal introductory charge; bonding is context-dependent",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Na+1",
+      "symbol": "Na",
+      "charge": 1,
+      "name": "sodium",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Mg+2",
+      "symbol": "Mg",
+      "charge": 2,
+      "name": "magnesium",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Al+3",
+      "symbol": "Al",
+      "charge": 3,
+      "name": "aluminium",
+      "note": "charge choice does not establish ionic bonding in every aluminium compound",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "K+1",
+      "symbol": "K",
+      "charge": 1,
+      "name": "potassium",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Ca+2",
+      "symbol": "Ca",
+      "charge": 2,
+      "name": "calcium",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "N-3",
+      "symbol": "N",
+      "charge": -3,
+      "name": "nitride",
+      "note": "selected binary ionic model",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "O-2",
+      "symbol": "O",
+      "charge": -2,
+      "name": "oxide",
+      "note": "not peroxide or superoxide",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "F-1",
+      "symbol": "F",
+      "charge": -1,
+      "name": "fluoride",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "P-3",
+      "symbol": "P",
+      "charge": -3,
+      "name": "phosphide",
+      "note": "selected binary ionic model",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "S-2",
+      "symbol": "S",
+      "charge": -2,
+      "name": "sulfide",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Cl-1",
+      "symbol": "Cl",
+      "charge": -1,
+      "name": "chloride",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Br-1",
+      "symbol": "Br",
+      "charge": -1,
+      "name": "bromide",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "I-1",
+      "symbol": "I",
+      "charge": -1,
+      "name": "iodide",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Zn+2",
+      "symbol": "Zn",
+      "charge": 2,
+      "name": "zinc",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Ag+1",
+      "symbol": "Ag",
+      "charge": 1,
+      "name": "silver",
+      "note": "",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Fe+2",
+      "symbol": "Fe",
+      "charge": 2,
+      "name": "iron(II)",
+      "note": "requires charge choice",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Fe+3",
+      "symbol": "Fe",
+      "charge": 3,
+      "name": "iron(III)",
+      "note": "requires charge choice",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Cu+1",
+      "symbol": "Cu",
+      "charge": 1,
+      "name": "copper(I)",
+      "note": "requires charge choice",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    },
+    {
+      "id": "Cu+2",
+      "symbol": "Cu",
+      "charge": 2,
+      "name": "copper(II)",
+      "note": "requires charge choice",
+      "source_ids": [
+        "openstax_ions",
+        "openstax_names"
+      ]
+    }
+  ],
+  "polyatomic_ions": [
+    {
+      "id": "ammonium",
+      "name": "ammonium",
+      "formula_ascii": "NH4",
+      "charge": 1,
+      "atoms": {
+        "N": 1,
+        "H": 4
+      },
+      "atom_count": 5,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "hydroxide",
+      "name": "hydroxide",
+      "formula_ascii": "OH",
+      "charge": -1,
+      "atoms": {
+        "O": 1,
+        "H": 1
+      },
+      "atom_count": 2,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "nitrate",
+      "name": "nitrate",
+      "formula_ascii": "NO3",
+      "charge": -1,
+      "atoms": {
+        "N": 1,
+        "O": 3
+      },
+      "atom_count": 4,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "nitrite",
+      "name": "nitrite",
+      "formula_ascii": "NO2",
+      "charge": -1,
+      "atoms": {
+        "N": 1,
+        "O": 2
+      },
+      "atom_count": 3,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "sulfate",
+      "name": "sulfate",
+      "formula_ascii": "SO4",
+      "charge": -2,
+      "atoms": {
+        "S": 1,
+        "O": 4
+      },
+      "atom_count": 5,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "sulfite",
+      "name": "sulfite",
+      "formula_ascii": "SO3",
+      "charge": -2,
+      "atoms": {
+        "S": 1,
+        "O": 3
+      },
+      "atom_count": 4,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "carbonate",
+      "name": "carbonate",
+      "formula_ascii": "CO3",
+      "charge": -2,
+      "atoms": {
+        "C": 1,
+        "O": 3
+      },
+      "atom_count": 4,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "hydrogen_carbonate",
+      "name": "hydrogen carbonate",
+      "formula_ascii": "HCO3",
+      "charge": -1,
+      "atoms": {
+        "H": 1,
+        "C": 1,
+        "O": 3
+      },
+      "atom_count": 5,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "phosphate",
+      "name": "phosphate",
+      "formula_ascii": "PO4",
+      "charge": -3,
+      "atoms": {
+        "P": 1,
+        "O": 4
+      },
+      "atom_count": 5,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "acetate",
+      "name": "acetate",
+      "formula_ascii": "C2H3O2",
+      "charge": -1,
+      "atoms": {
+        "C": 2,
+        "H": 3,
+        "O": 2
+      },
+      "atom_count": 7,
+      "aliases": [
+        "CH3COO"
+      ],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "hydrogen_sulfate",
+      "name": "hydrogen sulfate",
+      "formula_ascii": "HSO4",
+      "charge": -1,
+      "atoms": {
+        "H": 1,
+        "S": 1,
+        "O": 4
+      },
+      "atom_count": 6,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    },
+    {
+      "id": "permanganate",
+      "name": "permanganate",
+      "formula_ascii": "MnO4",
+      "charge": -1,
+      "atoms": {
+        "Mn": 1,
+        "O": 4
+      },
+      "atom_count": 5,
+      "aliases": [],
+      "source_ids": [
+        "openstax_ions"
+      ]
+    }
+  ],
+  "ground_state_exceptions": [
+    {
+      "symbol": "Cr",
+      "atomic_number": 24,
+      "configuration_ascii": "[Ar] 3d^5 4s^1",
+      "source_ids": [
+        "nist_config"
+      ]
+    },
+    {
+      "symbol": "Cu",
+      "atomic_number": 29,
+      "configuration_ascii": "[Ar] 3d^10 4s^1",
+      "source_ids": [
+        "nist_config"
+      ]
+    }
+  ],
+  "unsupported_properties": [
+    "atomic weights",
+    "radii",
+    "electronegativities",
+    "all oxidation states",
+    "complete ion ground-state configurations",
+    "universal material/bonding classifier",
+    "predicted chemical behavior of superheavy elements"
+  ]
+}

@@ -1,0 +1,828 @@
+[
+  {
+    "url": "https://periodic-table.rsc.org/element/1/",
+    "sha256": "66c3f9ece8838c5a927c0359cbf0c6046e93259340dda7dcc2ec62248c65c78f",
+    "number": 1,
+    "file": "rsc/001.html",
+    "bytes": 170206
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/2/",
+    "sha256": "76f33e3503e4cadc253fc7f69ac1cb233c41c9d046fa0782fb1647951f520373",
+    "number": 2,
+    "file": "rsc/002.html",
+    "bytes": 157272
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/3/",
+    "sha256": "e069d791afeb475fb17dc93ea21dc80e0ca5c87f1e79f2325e3ded76d81df397",
+    "number": 3,
+    "file": "rsc/003.html",
+    "bytes": 156198
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/4/",
+    "sha256": "e3e0e012f2671b5e554247acca0904f9598e1308790f17a67d1cdd4dbabb7cfc",
+    "number": 4,
+    "file": "rsc/004.html",
+    "bytes": 154267
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/5/",
+    "sha256": "ab1eca7f8ca4b9e21b2ab125d28d20b49a792d630933897658c595ae4dea3e9e",
+    "number": 5,
+    "file": "rsc/005.html",
+    "bytes": 156176
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/6/",
+    "sha256": "071aa6b65854c447b8fbf99c94558abc90dd4845ddb008f67ec970e07e4c3ad9",
+    "number": 6,
+    "file": "rsc/006.html",
+    "bytes": 202858
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/7/",
+    "sha256": "e27b062d5b1acbb77b4c54e66d5e2a5395a989f00e5667f7617a2180e2cd9331",
+    "number": 7,
+    "file": "rsc/007.html",
+    "bytes": 163925
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/8/",
+    "sha256": "5af63e04775f93b84238d6f59246f662cc344607aaa3cc7b71739f2b3e3618f5",
+    "number": 8,
+    "file": "rsc/008.html",
+    "bytes": 166598
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/9/",
+    "sha256": "11b1bfe394e728606669926d96159344a63427b7f4964332c83800005c1627a4",
+    "number": 9,
+    "file": "rsc/009.html",
+    "bytes": 162613
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/10/",
+    "sha256": "97a1e248a76928860e11609eb24dfb179ffddbb4b1560aa6842db77e30996d8c",
+    "number": 10,
+    "file": "rsc/010.html",
+    "bytes": 155785
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/11/",
+    "sha256": "1a846de0d1f12cf8790c0560293af73ec3e26f671e820210479e6059468b3837",
+    "number": 11,
+    "file": "rsc/011.html",
+    "bytes": 155612
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/12/",
+    "sha256": "53280a1bd8658a213e8ed816098432a3b49ed6354d359e7f1ce2ca9e3ae7d715",
+    "number": 12,
+    "file": "rsc/012.html",
+    "bytes": 157285
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/13/",
+    "sha256": "13d747b558a7377b9cbf26148d7da1b88758aad5b3539c969ba1cfb8a5a70eba",
+    "number": 13,
+    "file": "rsc/013.html",
+    "bytes": 157936
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/14/",
+    "sha256": "f696622ccb571c1650b7159f49847d57b408ed60f5646670d14f5a29f1d565ec",
+    "number": 14,
+    "file": "rsc/014.html",
+    "bytes": 165149
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/15/",
+    "sha256": "fdfaaf04f8d4d2cef9a0b2d880c48dfc4b14b7294eb8e8aaaec445af8d3aec43",
+    "number": 15,
+    "file": "rsc/015.html",
+    "bytes": 161714
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/16/",
+    "sha256": "95c0f9074b8394f350fa7421a2a3ce39b9834f49e42eab08b3713d1f78d4c1f9",
+    "number": 16,
+    "file": "rsc/016.html",
+    "bytes": 164687
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/17/",
+    "sha256": "874b1a999d041cdfae79c9c451844245028ca9ede45506965679aee52246fd09",
+    "number": 17,
+    "file": "rsc/017.html",
+    "bytes": 162748
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/18/",
+    "sha256": "b64ab1b96e368ab6f7f9339a65d6a5f7a62e68ebe66cc6c8f7ad184dcc27ef75",
+    "number": 18,
+    "file": "rsc/018.html",
+    "bytes": 155488
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/19/",
+    "sha256": "89f217abed78ac5360bdba467ab93f0c9b15f7f2bf0b46e33b32dcf450b597a2",
+    "number": 19,
+    "file": "rsc/019.html",
+    "bytes": 157086
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/20/",
+    "sha256": "51d862b1c870ba9381f25e4c63d69766bae1741d49afdfe5a7851d664fbcdfe6",
+    "number": 20,
+    "file": "rsc/020.html",
+    "bytes": 160741
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/21/",
+    "sha256": "80ecf1cee8c8af46cb62494b10425e63de18afbee487cdb2fd8fa27bcfba4928",
+    "number": 21,
+    "file": "rsc/021.html",
+    "bytes": 154896
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/22/",
+    "sha256": "f589cde9359f4cc83bfc5d6aad97397d513f1337462c14afd0dbe2d5288976a7",
+    "number": 22,
+    "file": "rsc/022.html",
+    "bytes": 158441
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/23/",
+    "sha256": "e07892f6176fff68abbac63f662a301418347f314338cebf2676585cf7727b9b",
+    "number": 23,
+    "file": "rsc/023.html",
+    "bytes": 156595
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/24/",
+    "sha256": "dd729846aea0cc0355e6ad79413613ffdd65f8495dad7166e466536b54a1146e",
+    "number": 24,
+    "file": "rsc/024.html",
+    "bytes": 159060
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/25/",
+    "sha256": "68351d3c5998e52aaefe641fda6d7f191842e082fbbe9bbcc69687a236ea464d",
+    "number": 25,
+    "file": "rsc/025.html",
+    "bytes": 156209
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/26/",
+    "sha256": "51d2d12fd58c037e223113b5b537510e164e4d22bf607ff1d2ed9cf89de7ffbb",
+    "number": 26,
+    "file": "rsc/026.html",
+    "bytes": 158349
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/27/",
+    "sha256": "241439f3d33188161b5f7ba21d84736b029038c3343de06cd16c2768f26d1614",
+    "number": 27,
+    "file": "rsc/027.html",
+    "bytes": 156721
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/28/",
+    "sha256": "1237efb03c85c1f076e8b98058ab9005630b1ba07cd3f24b1867f8dfc65bbe54",
+    "number": 28,
+    "file": "rsc/028.html",
+    "bytes": 160508
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/29/",
+    "sha256": "503c99821f78ef9202e050d39080529f41eed04034304870485cb747236831aa",
+    "number": 29,
+    "file": "rsc/029.html",
+    "bytes": 155125
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/30/",
+    "sha256": "a9388ae16a7e28f0cdd2d51f5ef6e977a014fd58cc34732b6d0ace7d929b8609",
+    "number": 30,
+    "file": "rsc/030.html",
+    "bytes": 159475
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/31/",
+    "sha256": "3a5fc05e5919eee5375ffb1b6ae6d7d703def3f64d8d1358f7fbaf417c195e3b",
+    "number": 31,
+    "file": "rsc/031.html",
+    "bytes": 155689
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/32/",
+    "sha256": "6945bd729e7915b54869a932267deda7b8467a08266360140dbfc8763409709e",
+    "number": 32,
+    "file": "rsc/032.html",
+    "bytes": 158926
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/33/",
+    "sha256": "4281632b505452fc500ed4eb3baf8b0585112f5f346c98517e36b8fe5fefaa23",
+    "number": 33,
+    "file": "rsc/033.html",
+    "bytes": 159020
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/34/",
+    "sha256": "5aff7a25f1123eb704585ff9d2de36dc5e60addaaa9cd4629082aae0fcb852a1",
+    "number": 34,
+    "file": "rsc/034.html",
+    "bytes": 163346
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/35/",
+    "sha256": "686a07f0a26c263f1f87f72132a84cb08052478e43704f9ca13639ec42762e22",
+    "number": 35,
+    "file": "rsc/035.html",
+    "bytes": 161199
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/36/",
+    "sha256": "b20f1b2d5a838be7b45ce4fb32b3ecfd9b15c985e2a6c67c5eb3f184a0b733cc",
+    "number": 36,
+    "file": "rsc/036.html",
+    "bytes": 158244
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/37/",
+    "sha256": "17c360988fa8cdc8b0b1fc00c57a4e474849385f6f09520d7bf78279468dee73",
+    "number": 37,
+    "file": "rsc/037.html",
+    "bytes": 156326
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/38/",
+    "sha256": "4632d22b4ebc62a65bc478b799f4ebadb6b60bb4ea774c7866560080dbb53120",
+    "number": 38,
+    "file": "rsc/038.html",
+    "bytes": 156053
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/39/",
+    "sha256": "d42678f31cdc3dbe20e8daea7d828074eb38ac32dfddb6a198b3f4aa84a273fe",
+    "number": 39,
+    "file": "rsc/039.html",
+    "bytes": 154970
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/40/",
+    "sha256": "3820c9eda08df346b995eae854a0e94229f01a580df50d93d6c96d8206fbc946",
+    "number": 40,
+    "file": "rsc/040.html",
+    "bytes": 159692
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/41/",
+    "sha256": "72bbbaceda55526b78a1286d044133349260cd46d8c2113814794838d64259e9",
+    "number": 41,
+    "file": "rsc/041.html",
+    "bytes": 156644
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/42/",
+    "sha256": "a4cc3825d23b4f1ec5e01b633d45585595502124dea32fe93246aa87ceeeba74",
+    "number": 42,
+    "file": "rsc/042.html",
+    "bytes": 158137
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/43/",
+    "sha256": "387e70351ae5e6fb31b953cfc19f1c89833eec7b0e08c71c811e6fde0fe31f65",
+    "number": 43,
+    "file": "rsc/043.html",
+    "bytes": 145215
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/44/",
+    "sha256": "96c5409eb3002177072308f16401bc189f5c4e0bb999de745d4030aa2336859e",
+    "number": 44,
+    "file": "rsc/044.html",
+    "bytes": 161325
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/45/",
+    "sha256": "1e4daae715e44426ab74231037fca4646235d6f77f3d691e24d859a1f3aa0baf",
+    "number": 45,
+    "file": "rsc/045.html",
+    "bytes": 154927
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/46/",
+    "sha256": "732eea212905032d9aa0bab04f8a475510f60feabf8b015beb994be2e3fab1e7",
+    "number": 46,
+    "file": "rsc/046.html",
+    "bytes": 158159
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/47/",
+    "sha256": "bffc7ecaa4b1e5a83654d602f881e2b955bf10929d72119108e04a962db81c21",
+    "number": 47,
+    "file": "rsc/047.html",
+    "bytes": 153819
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/48/",
+    "sha256": "935b40306d55f427c7470a85b9889ed67a0dde63a67fb6323c85d10047e6b223",
+    "number": 48,
+    "file": "rsc/048.html",
+    "bytes": 160085
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/49/",
+    "sha256": "b16cf0891e102803b2f5310b786bc66c91137c5cd35aabb59a6e0d9e9cd5469f",
+    "number": 49,
+    "file": "rsc/049.html",
+    "bytes": 154346
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/50/",
+    "sha256": "4a9d9040aa7ad7e1206b4cc01742cbbac57458a68efdf063cbcd96a75e5d5a20",
+    "number": 50,
+    "file": "rsc/050.html",
+    "bytes": 161384
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/51/",
+    "sha256": "79e84dba1c1d48a499465e3aa8d249ae2d30da270eb50eac2914e1eeb03112a3",
+    "number": 51,
+    "file": "rsc/051.html",
+    "bytes": 154901
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/52/",
+    "sha256": "a4aa5c342ef776af0c1cc618449fb0809c9391524d61622ea783477034a7e62c",
+    "number": 52,
+    "file": "rsc/052.html",
+    "bytes": 160245
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/53/",
+    "sha256": "ca3f66a0ad08b381310e6434c42625e1701150eebcfb2cf3a2e5902a443eed65",
+    "number": 53,
+    "file": "rsc/053.html",
+    "bytes": 161745
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/54/",
+    "sha256": "25f7a28f07f7c255ee65afeddc62bd6c80b75cdbd77184439b658b450f2ecaca",
+    "number": 54,
+    "file": "rsc/054.html",
+    "bytes": 162819
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/55/",
+    "sha256": "44aa63ab69e0044ef19e6141a163ea4581296dfd047fd9934898d99d44d8a2b1",
+    "number": 55,
+    "file": "rsc/055.html",
+    "bytes": 154715
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/56/",
+    "sha256": "75f4a427b7662d6eea219c28cc2f72e12575625da22c4c14a4dca41dedcaee79",
+    "number": 56,
+    "file": "rsc/056.html",
+    "bytes": 158763
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/57/",
+    "sha256": "09360972be82fdbe132791079a72ed49e1b1da3d5b64f81a34c78eff80aee905",
+    "number": 57,
+    "file": "rsc/057.html",
+    "bytes": 157079
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/58/",
+    "sha256": "ed7c537c8af2d0431b508fb1eb6a5187cf980dfcdf68db3045422fcf86ea6d95",
+    "number": 58,
+    "file": "rsc/058.html",
+    "bytes": 158883
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/59/",
+    "sha256": "6af630a7d22adcf530de145310610eb5fa80d7940cda569b7ea3049709202c53",
+    "number": 59,
+    "file": "rsc/059.html",
+    "bytes": 155161
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/60/",
+    "sha256": "34643edf9e01ef3b8bd00a92c5f9716f9aace3c30b352b4696ae5e2c71df5e6c",
+    "number": 60,
+    "file": "rsc/060.html",
+    "bytes": 160179
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/61/",
+    "sha256": "94a699181de28a222ff8f5b90c6e9b8aa2ae475bf863c1e5d5b8d25962930131",
+    "number": 61,
+    "file": "rsc/061.html",
+    "bytes": 146237
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/62/",
+    "sha256": "98bfae02926a70f611de306e5694537e581320aca9a47d9559aefbcde66259fb",
+    "number": 62,
+    "file": "rsc/062.html",
+    "bytes": 159854
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/63/",
+    "sha256": "958dd4e91ca2b50beffa26a2d3218f69c2d5bbf59ddb26096b495ac54bc911cf",
+    "number": 63,
+    "file": "rsc/063.html",
+    "bytes": 156029
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/64/",
+    "sha256": "ea411e3fdcdea9369dce7afb92de8a787d6110c1c72fc57de362f3d0c63f0975",
+    "number": 64,
+    "file": "rsc/064.html",
+    "bytes": 159701
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/65/",
+    "sha256": "0706701bc9df64b7bfd86d7f57b241bccd77f76dfe68c38748c4f0eef51d8652",
+    "number": 65,
+    "file": "rsc/065.html",
+    "bytes": 154791
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/66/",
+    "sha256": "0c56fc983819197358bf7f3597069c92bd802b22304ce45829653383991ee345",
+    "number": 66,
+    "file": "rsc/066.html",
+    "bytes": 158945
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/67/",
+    "sha256": "02e6c1cb7c62be1a27eb237dc08ef63d2aaa6318147e0a2ec1274cad591789da",
+    "number": 67,
+    "file": "rsc/067.html",
+    "bytes": 153962
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/68/",
+    "sha256": "3ae3885466be795ccccddadcd0358dd7e64fb9a958c5b0395fb6ef904943397f",
+    "number": 68,
+    "file": "rsc/068.html",
+    "bytes": 159176
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/69/",
+    "sha256": "131b86b367db09a1dae91eefe6521dc5c6480e516050a3cf67fbd8c70ef6a6a6",
+    "number": 69,
+    "file": "rsc/069.html",
+    "bytes": 154305
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/70/",
+    "sha256": "3b6098298f76294ecb3bbd7aba9f69e9ac0fa8e0565f56e7aa02a59985bae66a",
+    "number": 70,
+    "file": "rsc/070.html",
+    "bytes": 159945
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/71/",
+    "sha256": "74afefa6e4ef89565afcfb170dd87f0e85e2c32834e0b2659c2f838282f785d6",
+    "number": 71,
+    "file": "rsc/071.html",
+    "bytes": 156456
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/72/",
+    "sha256": "96898eb8097b0e3e9e823dcd78d69d4aa36b3ed00cb11a6d5590f6f815324729",
+    "number": 72,
+    "file": "rsc/072.html",
+    "bytes": 158117
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/73/",
+    "sha256": "2f99c249462fd75776e744a6b8f077e2af56e8e6ce91df54fb5651bb335a7950",
+    "number": 73,
+    "file": "rsc/073.html",
+    "bytes": 158086
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/74/",
+    "sha256": "971f0e8ce2fcfc63fdf32ddc386e10ca90d5c1916936a1fbd087a93e2f515528",
+    "number": 74,
+    "file": "rsc/074.html",
+    "bytes": 157606
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/75/",
+    "sha256": "806a7bd80db47866bba5d8021ac036fb2de34ffd43191f59a8107288f5a54dd0",
+    "number": 75,
+    "file": "rsc/075.html",
+    "bytes": 155800
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/76/",
+    "sha256": "c2d5553b8922a735bbe18879f3d87310e02beb2620a65e1560bb003b0ade9c93",
+    "number": 76,
+    "file": "rsc/076.html",
+    "bytes": 158361
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/77/",
+    "sha256": "0d93e3357e2f97c407e4fffa3f59673d0739c80423a958154829caaf8683b309",
+    "number": 77,
+    "file": "rsc/077.html",
+    "bytes": 156339
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/78/",
+    "sha256": "d2e0e9829212015d21c8dc0fb6d814b83e93fadaebc8e527d87cebb8b45d9531",
+    "number": 78,
+    "file": "rsc/078.html",
+    "bytes": 160842
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/79/",
+    "sha256": "6db0169689b2cbc392ed85e2cff3eee0162a306e13c7a94334e3555e68f811cf",
+    "number": 79,
+    "file": "rsc/079.html",
+    "bytes": 155359
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/80/",
+    "sha256": "6078e536509dc0ea54d5092a4a453a7ebb89c04aec1099aa88acee6e45ed49dc",
+    "number": 80,
+    "file": "rsc/080.html",
+    "bytes": 159507
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/81/",
+    "sha256": "b343551323addac1727ecddf1cba1b6d2c28a39b94396bbebc0a58b7c9da821d",
+    "number": 81,
+    "file": "rsc/081.html",
+    "bytes": 155900
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/82/",
+    "sha256": "275560abb37bd4bf61989d9b79e7106fef8da5d6c0bd45ae0b925c42eb5767e8",
+    "number": 82,
+    "file": "rsc/082.html",
+    "bytes": 156466
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/83/",
+    "sha256": "f04b2c2fe8c4c3a8d5bb7d76dc7f0ba9d2d54c1a3f9ddf2fc1ac20ed32fef7c7",
+    "number": 83,
+    "file": "rsc/083.html",
+    "bytes": 154706
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/84/",
+    "sha256": "50ca46e45ad2db24960e973b00b305390c08d87a4e4f38f2456d16bb2198c9ae",
+    "number": 84,
+    "file": "rsc/084.html",
+    "bytes": 154386
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/85/",
+    "sha256": "023bec9eefad2a0e31f41da041307ed091d2fede12fa1087bb1e5cdd88be26a0",
+    "number": 85,
+    "file": "rsc/085.html",
+    "bytes": 145819
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/86/",
+    "sha256": "a4ed82bb70473a316e6eb2a95021e1658d042209e11fb8892c2d3f12edbc796a",
+    "number": 86,
+    "file": "rsc/086.html",
+    "bytes": 155717
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/87/",
+    "sha256": "42f0a51e477e869332bab7a6ec2e5afd512f7342d3c945d08f0246fcd3621b62",
+    "number": 87,
+    "file": "rsc/087.html",
+    "bytes": 144871
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/88/",
+    "sha256": "571831a22c9c7ce254c2e7964e87a6918ee93c7fd1785e7b3925e5240e19b8f2",
+    "number": 88,
+    "file": "rsc/088.html",
+    "bytes": 158773
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/89/",
+    "sha256": "8a7c7c8b1330fc5bab4ba7bb806d81babf4d0a11dad7d920fbf1e63cfadde2d3",
+    "number": 89,
+    "file": "rsc/089.html",
+    "bytes": 155332
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/90/",
+    "sha256": "dcd75940f3277a4111f26a934efd388ba03d3f294f0d94032a5858f002e6e704",
+    "number": 90,
+    "file": "rsc/090.html",
+    "bytes": 158246
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/91/",
+    "sha256": "9732e979cf5f45fb4869b325432e30f5abe9663ebb986e3a908807dc2acfcd36",
+    "number": 91,
+    "file": "rsc/091.html",
+    "bytes": 154157
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/92/",
+    "sha256": "399702aa8b93b0130f857e7fcd7b14c5f112235c3b70f8eb644549c0d4bca94e",
+    "number": 92,
+    "file": "rsc/092.html",
+    "bytes": 163840
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/93/",
+    "sha256": "7a76603f9f68e3928e75dd21e122f23a49590624a5ad56d569667536fadf1d67",
+    "number": 93,
+    "file": "rsc/093.html",
+    "bytes": 146315
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/94/",
+    "sha256": "31447ccd81e72a68aef0c863bb78f085af83a30c34bc4648d1b0adbf88169a00",
+    "number": 94,
+    "file": "rsc/094.html",
+    "bytes": 154337
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/95/",
+    "sha256": "921bb7a81d385de6025b1be6426277ba75a632c2f5e06a34e192600891fd5642",
+    "number": 95,
+    "file": "rsc/095.html",
+    "bytes": 147422
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/96/",
+    "sha256": "8031a43a03c8216eb47ed6a3a291bf5e6f605aad5023cd0ae4c2359a84ff6645",
+    "number": 96,
+    "file": "rsc/096.html",
+    "bytes": 150177
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/97/",
+    "sha256": "2b331fa12d2630af547337a4ee94d8d84507607a91e24790096fb91aa8a5b75f",
+    "number": 97,
+    "file": "rsc/097.html",
+    "bytes": 146010
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/98/",
+    "sha256": "eedcccfec97ee5d56cc0330a7fe0f9e07facc7e088a3a62acaf380e57665e61e",
+    "number": 98,
+    "file": "rsc/098.html",
+    "bytes": 149061
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/99/",
+    "sha256": "b5ecc56487e717572b463f32a25294267a7c63327dee5bab0ab08f9d7cdb1afe",
+    "number": 99,
+    "file": "rsc/099.html",
+    "bytes": 145233
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/100/",
+    "sha256": "b8ca470161d447e2adadeac934941729cd6ffac5625d92c0f747fa3453ee7ae6",
+    "number": 100,
+    "file": "rsc/100.html",
+    "bytes": 144835
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/101/",
+    "sha256": "337d412403792f08e3a84a1f1983f1576af52d53055995d4a0868c81834e35e5",
+    "number": 101,
+    "file": "rsc/101.html",
+    "bytes": 135025
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/102/",
+    "sha256": "0bdf06ba06ac4c85771117fccf9df35d51c65e19080a2dec71cf24c76fe5d757",
+    "number": 102,
+    "file": "rsc/102.html",
+    "bytes": 145994
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/103/",
+    "sha256": "c1a919ff35b2a4f9480017cec62e75e0ac90224d64125274e755e3903f78c9ea",
+    "number": 103,
+    "file": "rsc/103.html",
+    "bytes": 143394
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/104/",
+    "sha256": "139c986a64d113f86a3163b47e7842e7d5a15b9882ef0888396e6ea7eface3c5",
+    "number": 104,
+    "file": "rsc/104.html",
+    "bytes": 143902
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/105/",
+    "sha256": "15b1938afd4c794e8b483e7c22bc757420d93b5ae9385240bff98a79cafc2c5b",
+    "number": 105,
+    "file": "rsc/105.html",
+    "bytes": 142489
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/106/",
+    "sha256": "4bd7b9323e1744d1bc1927e78fb1311188afbb5506fb08443de511bb02bc85e0",
+    "number": 106,
+    "file": "rsc/106.html",
+    "bytes": 143388
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/107/",
+    "sha256": "8ad1ed26ff6119381b89e36aca4f39575c39ec5bdd007bdaa0628700a597b340",
+    "number": 107,
+    "file": "rsc/107.html",
+    "bytes": 142736
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/108/",
+    "sha256": "8589d93126e58c4f6a40634dee84c5947c8abc8044fe8f8d8278b8e21dcbea67",
+    "number": 108,
+    "file": "rsc/108.html",
+    "bytes": 143348
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/109/",
+    "sha256": "078ff903c372190f30e04da3f0a64975428cf8a32a192ca8562d68db8ae5b038",
+    "number": 109,
+    "file": "rsc/109.html",
+    "bytes": 143485
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/110/",
+    "sha256": "fdc58fabccf3903170a2c7cd94706b9035477942ad830c15ded75d73b01619d5",
+    "number": 110,
+    "file": "rsc/110.html",
+    "bytes": 144017
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/111/",
+    "sha256": "3d1bc84ba0d64bd32311e2ddbbab82d2d6f1a797d1af3a37965f0b0f5bcd54ff",
+    "number": 111,
+    "file": "rsc/111.html",
+    "bytes": 141774
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/112/",
+    "sha256": "b51e3a239b3f98d5f1b5e57988c8e27189884dbba0881492472f9441150714ff",
+    "number": 112,
+    "file": "rsc/112.html",
+    "bytes": 142988
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/113/",
+    "sha256": "f1735c5a5cf80b58bdb6afd9bae867bca5c025f0a754d1a99fcdac3ae0068e50",
+    "number": 113,
+    "file": "rsc/113.html",
+    "bytes": 133764
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/114/",
+    "sha256": "60cc28ce49fa5a812bc8de20fa720a77921873538cbb9b82308e0905f4caa221",
+    "number": 114,
+    "file": "rsc/114.html",
+    "bytes": 144716
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/115/",
+    "sha256": "95123c96c183397d6d8a45e93b0dc89d96dc71f515628ed27126047d48038be3",
+    "number": 115,
+    "file": "rsc/115.html",
+    "bytes": 133993
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/116/",
+    "sha256": "332d4ed7f0238783c165cceaaf6cc50ff3c7ea82a1a449ba5f15c7fa9f297e39",
+    "number": 116,
+    "file": "rsc/116.html",
+    "bytes": 145162
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/117/",
+    "sha256": "4af128e2d05525e82823f6d894dcc29aa5cd0db201a334434abb18822592ffdc",
+    "number": 117,
+    "file": "rsc/117.html",
+    "bytes": 133967
+  },
+  {
+    "url": "https://periodic-table.rsc.org/element/118/",
+    "sha256": "88fcfbdec7684e657f2c2a81f1335f35af2b1d433585cf8d2e795f1081d2b329",
+    "number": 118,
+    "file": "rsc/118.html",
+    "bytes": 143967
+  }
+]

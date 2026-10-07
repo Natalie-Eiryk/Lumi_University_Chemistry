@@ -1,0 +1,959 @@
+{
+  "contract_id": "pwb.interaction.v1",
+  "schema_version": "1.0.0",
+  "artifact_kind": "design_contract",
+  "status": "proposed_not_implemented",
+  "authority": {
+    "host": "Campus",
+    "drafts": "existing_shared_store",
+    "grading": "existing_native_grader",
+    "completion": "existing_native_course_rules",
+    "rule": "Adapter names below describe required semantics; discover real APIs before implementation. No alternate store, gradebook, or completion authority."
+  },
+  "mode_ids": [
+    "explore",
+    "identify_element",
+    "build_formula",
+    "ion_ledger",
+    "electron_configuration",
+    "lewis_structure"
+  ],
+  "capabilities": [
+    {
+      "id": "select_element",
+      "modes": [
+        "explore",
+        "identify_element"
+      ],
+      "availability": "initial"
+    },
+    {
+      "id": "compare_elements",
+      "modes": [
+        "explore",
+        "identify_element",
+        "ion_ledger"
+      ],
+      "availability": "initial"
+    },
+    {
+      "id": "electron_ledger",
+      "modes": [
+        "electron_configuration",
+        "ion_ledger"
+      ],
+      "availability": "initial"
+    },
+    {
+      "id": "core_builder",
+      "modes": [
+        "electron_configuration"
+      ],
+      "availability": "initial",
+      "meaning": "Noble-gas shorthand core selection; not a nuclear model."
+    },
+    {
+      "id": "ion_tray",
+      "modes": [
+        "build_formula",
+        "ion_ledger"
+      ],
+      "availability": "initial"
+    },
+    {
+      "id": "formula_builder",
+      "modes": [
+        "build_formula"
+      ],
+      "availability": "initial"
+    },
+    {
+      "id": "name_builder",
+      "modes": [
+        "build_formula"
+      ],
+      "availability": "initial",
+      "meaning": "Authored naming response, with explicit nomenclature policy and accepted variants."
+    },
+    {
+      "id": "lewis_canvas",
+      "modes": [
+        "lewis_structure"
+      ],
+      "availability": "later_gated"
+    },
+    {
+      "id": "domain_counter",
+      "modes": [
+        "lewis_structure"
+      ],
+      "availability": "later_gated"
+    },
+    {
+      "id": "select_elements",
+      "modes": [
+        "identify_element"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "classify_clue",
+      "modes": [
+        "identify_element"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "configuration_builder",
+      "modes": [
+        "electron_configuration"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "configuration_compare",
+      "modes": [
+        "electron_configuration"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "orbital_boxes",
+      "modes": [
+        "electron_configuration"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "configuration_audit",
+      "modes": [
+        "electron_configuration"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "notation_sort",
+      "modes": [
+        "ion_ledger"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "species_sort",
+      "modes": [
+        "ion_ledger"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "formula_audit",
+      "modes": [
+        "build_formula"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "naming_system_sort",
+      "modes": [
+        "build_formula"
+      ],
+      "availability": "initial",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "electron_budget",
+      "modes": [
+        "lewis_structure"
+      ],
+      "availability": "later_gated",
+      "meaning": "Authored response variant; does not require a separate screen."
+    },
+    {
+      "id": "model_boundary",
+      "modes": [
+        "lewis_structure"
+      ],
+      "availability": "later_gated",
+      "meaning": "Authored response variant; does not require a separate screen."
+    }
+  ],
+  "regions": [
+    {
+      "id": "activity_rail",
+      "purpose": "Mode, goal, navigation, native save status"
+    },
+    {
+      "id": "clue_card",
+      "purpose": "Authored clues and species conditions"
+    },
+    {
+      "id": "periodic_table",
+      "purpose": "Mode-labeled inspect, candidate selection, or atom addition"
+    },
+    {
+      "id": "reference_drawer",
+      "purpose": "Nonmutating element reference and explicit action buttons"
+    },
+    {
+      "id": "assembly_tray",
+      "purpose": "Structured parts, group multipliers, counts, formula preview"
+    },
+    {
+      "id": "electron_charge_ledger",
+      "purpose": "Distinct monatomic electron accounting and formula charge balance"
+    },
+    {
+      "id": "reasoning_hints",
+      "purpose": "Always available help and optional confidence/reasoning"
+    },
+    {
+      "id": "session_journal",
+      "purpose": "Review actions, formatting events, feedback, and notes"
+    }
+  ],
+  "state_dimensions": {
+    "interaction_intent": [
+      "inspect",
+      "choose_candidate",
+      "toggle_candidate",
+      "add_atom",
+      "edit_orbital"
+    ],
+    "draft_lifecycle": [
+      "pristine",
+      "edited",
+      "restored",
+      "changed_since_check"
+    ],
+    "validation": [
+      "unchecked",
+      "checking",
+      "correct",
+      "needs_revision",
+      "ambiguous",
+      "unavailable"
+    ],
+    "persistence": [
+      "clean",
+      "saving",
+      "saved",
+      "failed",
+      "conflicted"
+    ],
+    "overlay": [
+      "none",
+      "reference",
+      "hints",
+      "notation_help",
+      "discard_confirmation"
+    ]
+  },
+  "draft_model": {
+    "identity_fields": [
+      "user_id",
+      "activity_id",
+      "activity_version",
+      "mode_id",
+      "draft_revision"
+    ],
+    "chemistry_fields": {
+      "candidate_element_ids": "Array of stable element IDs; cardinality follows response contract",
+      "parts": "Array of element or intact-group records with stable part IDs, element/group IDs, positive integer multiplicity, explicit species charge if applicable, and authored role",
+      "species_charge": "Integer charge for the explicitly identified whole species; separate from multiplicity",
+      "coefficient": "Positive integer number of whole formula units only when the task supports coefficients",
+      "configuration": "Parsed subshell/orbital occupancy and preserved raw notation",
+      "name_response": "Preserved learner text and optional structured naming tokens",
+      "reasoning_note": "Optional learner explanation",
+      "confidence": "Optional not_sure, tentative, or confident; not correctness evidence"
+    },
+    "presentation_fields": [
+      "focused_element_id",
+      "reference_cards",
+      "active_hint_level",
+      "formula_view",
+      "click_provenance",
+      "selected_intent"
+    ],
+    "optional_history_fields": [
+      "undo_transactions",
+      "redo_transactions"
+    ],
+    "rule": "Persist via Campus-supported shape or adapter; do not silently assume history persistence or introduce parallel storage."
+  },
+  "activity_response_requirements": [
+    "Explicit formula_kind where applicable: molecular, empirical, formula_unit, ion, or unsupported scoped type",
+    "Explicit species condition: neutral, specified ion charge, or authored ambiguity",
+    "Explicit candidate response: single, select_all, accepted_candidate_set, or insufficient_information",
+    "Explicit ordering policy and whether order itself is assessed",
+    "Explicit normalization and accepted naming/configuration variants",
+    "Explicit allowed capabilities and any assessment reference restrictions"
+  ],
+  "invariants": [
+    {
+      "id": "INV-01",
+      "rule": "Inspection changes no chemistry draft and submits no attempt."
+    },
+    {
+      "id": "INV-02",
+      "rule": "Each intentional add_atom adds one atom and leaves species charge unchanged."
+    },
+    {
+      "id": "INV-03",
+      "rule": "Atom/group multiplicity, coefficient, net charge, oxidation state, and formal charge remain separate fields and labels."
+    },
+    {
+      "id": "INV-04",
+      "rule": "Intact groups preserve group identity and multiplicity; expanded counts are derived, not a competing editable draft."
+    },
+    {
+      "id": "INV-05",
+      "rule": "Click order is provenance; chemical display follows explicit authored order policy."
+    },
+    {
+      "id": "INV-06",
+      "rule": "Normalization never reduces molecular formulas to empirical formulas or infers ion charge from an atom subscript."
+    },
+    {
+      "id": "INV-07",
+      "rule": "Help is available before attempts and viewing it does not change the answer."
+    },
+    {
+      "id": "INV-08",
+      "rule": "Native grader owns correctness and completion; local validation is structural or explanatory only."
+    },
+    {
+      "id": "INV-09",
+      "rule": "Modal cancellation, reference navigation, and hint Back leave draft content and save revision unchanged."
+    },
+    {
+      "id": "INV-10",
+      "rule": "Submitted attempt revisions are immutable; old feedback cannot overwrite a newer draft."
+    },
+    {
+      "id": "INV-11",
+      "rule": "A network failure is neither an incorrect answer nor completion."
+    },
+    {
+      "id": "INV-12",
+      "rule": "Ambiguous clues use an authored accepted set or insufficiency response; never arbitrary uniqueness."
+    },
+    {
+      "id": "INV-13",
+      "rule": "Identity and activity version isolate drafts and prevent cross-user or cross-activity restoration."
+    },
+    {
+      "id": "INV-14",
+      "rule": "A syntactically valid composition or zero net charge does not prove chemical existence or structural uniqueness."
+    }
+  ],
+  "events": [
+    {
+      "id": "inspect_element",
+      "guard": "Valid element ID",
+      "effect": "Open reference only; preserve draft",
+      "feedback": "Element reference heading and focus return target",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "select_candidate",
+      "guard": "Single-candidate response enabled",
+      "effect": "Replace candidate; selecting same ID is idempotent",
+      "feedback": "Candidate selected; explicit Clear choice is available",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "toggle_candidate",
+      "guard": "Select-all response enabled",
+      "effect": "Toggle candidate set membership",
+      "feedback": "Selected count and changed element",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "clear_candidate",
+      "guard": "Candidate exists",
+      "effect": "Clear candidate or set explicitly",
+      "feedback": "Choice cleared",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "add_atom",
+      "guard": "Add intent; supported element; within bound",
+      "effect": "Increase that part atom count by one; charge unchanged",
+      "feedback": "Added element; new count; charge unchanged where helpful",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "increment_part",
+      "guard": "Part exists; count below supported bound",
+      "effect": "Increase whole part multiplicity by one",
+      "feedback": "New atom or intact-group count",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "set_part_count",
+      "guard": "Committed integer at or above zero within bounds",
+      "effect": "Set part multiplicity; zero removes reversibly",
+      "feedback": "New count; invalid input retains previous valid state and editable text",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "add_group",
+      "guard": "Authored intact group supported",
+      "effect": "Add group record or increment its multiplicity",
+      "feedback": "Group identity, count, and charge if specified",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "remove_part",
+      "guard": "Part exists",
+      "effect": "Remove whole element or group record",
+      "feedback": "Removed part with Undo affordance",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "decompose_group",
+      "guard": "Explicitly permitted by task",
+      "effect": "Replace group representation reversibly without changing totals",
+      "feedback": "Group decomposed; representation changed",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "set_species_charge",
+      "guard": "Explicit species target and permitted charge range",
+      "effect": "Set net charge; update derived electron count for monatomic species",
+      "feedback": "Species and charge explicitly announced",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "add_electron",
+      "guard": "Electron-ledger task; resulting count permitted",
+      "effect": "Increase electrons by one; recompute charge; protons fixed",
+      "feedback": "Electron count and resulting charge",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "remove_electron",
+      "guard": "Electron-ledger task; electron count above zero",
+      "effect": "Decrease electrons by one; recompute charge; protons fixed",
+      "feedback": "Electron count and resulting charge",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "edit_configuration",
+      "guard": "Configuration capability enabled",
+      "effect": "Commit parsed occupancy or preserve incomplete raw input",
+      "feedback": "Electron total and specific parse guidance",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "edit_name",
+      "guard": "Naming capability enabled",
+      "effect": "Preserve learner naming response; no unsupported autocorrection",
+      "feedback": "Changed since check",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "reorder_parts",
+      "guard": "Formula order is learner-assessed",
+      "effect": "Change representational order without count or charge changes",
+      "feedback": "Order changed",
+      "undoable_draft_edit": true
+    },
+    {
+      "id": "check_answer",
+      "guard": "Required response shape present; no same-revision in-flight check",
+      "effect": "Snapshot revision; submit through native adapter once",
+      "feedback": "Checking, then revision-bound native result; unreachable becomes unavailable",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "open_hint",
+      "guard": "Learning help permitted from activity entry",
+      "effect": "Open authored selected level; no draft mutation",
+      "feedback": "Reveal amount labeled; current level restored",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "next_hint",
+      "guard": "Next authored level exists and explicitly requested",
+      "effect": "Advance exactly one level",
+      "feedback": "New explanation; no automatic answer reveal beyond selected level",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "hint_back",
+      "guard": "Previous viewed level exists",
+      "effect": "Return to previous level without revealing anything new",
+      "feedback": "Previous level and intact draft",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "close_overlay",
+      "guard": "Overlay open",
+      "effect": "Close overlay; restore opener focus; no chemistry mutation",
+      "feedback": "Draft and current hint level retained",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "undo",
+      "guard": "Undoable semantic draft transaction exists",
+      "effect": "Reverse one draft transaction; immutable attempts untouched",
+      "feedback": "Descriptive reversed action and resulting draft",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "redo",
+      "guard": "Redo branch exists",
+      "effect": "Reapply one transaction",
+      "feedback": "Descriptive action and resulting draft",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "reset_draft",
+      "guard": "Draft nonpristine",
+      "effect": "If recoverable, reset as one undoable transaction; otherwise request actual-loss confirmation",
+      "feedback": "Undo reset, or safe-default Keep working",
+      "undoable_draft_edit": "conditional",
+      "undoability_condition": "True only when the actual host preserves reset as one recoverable semantic transaction. Otherwise require explicit actual-loss confirmation before resetting."
+    },
+    {
+      "id": "cancel_discard",
+      "guard": "Loss confirmation open",
+      "effect": "Close confirmation; preserve exact draft and revision",
+      "feedback": "Focus returns to initiating action; no destructive side effect",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "confirm_discard",
+      "guard": "Explicit loss disclosure and destructive action selected",
+      "effect": "Discard only the specified unsaved draft scope; navigate if requested",
+      "feedback": "Scope-specific confirmation; submitted history remains intact",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "request_exit",
+      "guard": "Any session",
+      "effect": "Save using native store; navigate when safe; ask only when real unsaved loss exists",
+      "feedback": "Saved or Stay and retry / Leave without saving",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "save_acknowledged",
+      "guard": "Acknowledgement matches sent revision",
+      "effect": "Mark acknowledged revision saved; newer edits remain pending",
+      "feedback": "Saved only when authoritative acknowledgement supports it",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "save_failed",
+      "guard": "Save transport or host error",
+      "effect": "Keep current draft; expose retry and loss risk",
+      "feedback": "Not saved; retry",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "save_conflicted",
+      "guard": "Native conflict detected",
+      "effect": "Preserve current draft and native remote revision; require supported resolution",
+      "feedback": "Another version was saved; review choices",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "restore_draft",
+      "guard": "Identity and activity version match or migration explicitly supported",
+      "effect": "Restore chemistry draft; restore optional history only if supported",
+      "feedback": "Resumed where you left off",
+      "undoable_draft_edit": false
+    },
+    {
+      "id": "activity_version_mismatch",
+      "guard": "Saved draft incompatible with current task",
+      "effect": "Preserve recoverable old draft; require explicit updated-task start",
+      "feedback": "Task changed; recovery and start choices",
+      "undoable_draft_edit": false
+    }
+  ],
+  "host_adapter_semantics": {
+    "load_activity": "Obtain versioned activity and allowed response contract",
+    "load_draft": "Read current-user, activity-version-scoped draft",
+    "save_draft": "Persist semantic draft against a known revision and expose acknowledgement",
+    "submit_attempt": "Submit an immutable draft snapshot with native idempotency identity",
+    "read_attempt": "Resolve uncertain timeout result before retrying a potentially completed submission",
+    "read_completion": "Use existing course completion semantics; no local replacement",
+    "resolve_draft_conflict": "Use native version-protected resolution; never silent overwrite",
+    "navigate": "Use native course navigation and actual loss warnings only"
+  },
+  "formula_normalization": {
+    "safe_after_parse": [
+      "Trim surrounding whitespace",
+      "Normalize supported subscript and superscript glyphs into structured fields",
+      "Normalize supported configuration spacing",
+      "Apply explicitly authored accepted naming spelling variants"
+    ],
+    "never_implicit": [
+      "Molecular-to-empirical reduction",
+      "Charge inferred from bare atom count",
+      "Coefficient treated as a subscript",
+      "Dropping group identity",
+      "Formula order inferred from tap order",
+      "Inferring ionic charge solely from atomic number or mass",
+      "Inventing a stable compound from balanced counts",
+      "Conflating oxidation state, net charge, and formal charge"
+    ],
+    "ambiguous_text": "Preserve raw input. Fe2 is an atom-count expression under the formula grammar. Fe2+ is ambiguous across common text conventions and requires clarification; accept explicit Fe^2+ or Unicode Fe²⁺ as charge plus two on one Fe. Never infer a missing sign. Formula case remains meaningful: Co differs from CO.",
+    "parse_failure": "Retain exact input, identify the unsupported or malformed span, and offer notation help without sending a wrong-grade event."
+  },
+  "accessibility": {
+    "product_touch_target_css_px": 44,
+    "table_navigation": "Managed focus, spatial arrows through populated cells, Home/End within row, explicit f-block jump/return, searchable equivalent list",
+    "cell_name_fields": [
+      "symbol",
+      "element_name",
+      "atomic_number",
+      "mode_action",
+      "selected_or_count_state"
+    ],
+    "noncolor_cues": [
+      "text",
+      "distinct focus and selection outlines",
+      "category labels or patterns"
+    ],
+    "formula_text_alternatives": {
+      "Fe₂": "iron, atom count two",
+      "Fe²⁺": "iron ion, charge plus two"
+    },
+    "live_updates": "One concise polite summary per semantic transaction; detailed ledger remains readable on demand",
+    "reflow": "Surrounding controls reflow through 400 percent zoom; inherently two-dimensional periodic table may scroll in a named region",
+    "prohibited_dependencies": [
+      "hover_only",
+      "drag_only",
+      "double_click_disambiguation",
+      "long_press_only",
+      "color_only",
+      "timed_help",
+      "sound_only"
+    ]
+  },
+  "periodic_layout": {
+    "required_fields": [
+      "element_id",
+      "atomic_number",
+      "symbol",
+      "period",
+      "group_or_null",
+      "display_row",
+      "display_column",
+      "layout_convention_id"
+    ],
+    "f_block": "Explicit detached-row mapping; connector cells are navigation controls and never element answers",
+    "convention": "Use validated curricular layout convention consistently and disclose choices; do not infer family from screen coordinate",
+    "source_file": "reference_data.json",
+    "source_required_fields": [
+      "atomic_number",
+      "symbol",
+      "name",
+      "period",
+      "group",
+      "display_row",
+      "display_column",
+      "display_region"
+    ],
+    "adapter_mapping": {
+      "element_id": "Derive stable pwb.element.{atomic_number} after uniqueness validation; never derive from display position",
+      "atomic_number": "elements[].atomic_number",
+      "symbol": "elements[].symbol",
+      "period": "elements[].period",
+      "group_or_null": "elements[].group; preserve null, never coerce to zero",
+      "display_row": "elements[].display_row",
+      "display_column": "elements[].display_column",
+      "layout_convention_id": "pwb.layout.detached_series.v1; adapter-owned identifier bound to reference_data.conventions and dataset_version",
+      "category_id": "Optional separately validated curricular category map. Not present in current reference records; omit categorical coloring until available. display_region is a layout region, not a chemical family."
+    }
+  },
+  "performance_targets_unverified": {
+    "typical_activation_response_ms": 100,
+    "rapid_activation_test": "Ten deliberate activations produce ten additions without dropped or duplicated transactions",
+    "network": "No per-hover grade or reference fetch; no duplicate check attempts; no invented cached offline save state",
+    "fallback": "Preserve text counts, reference text, and ledger when optional graphics fail"
+  },
+  "acceptance_test_source": "01_WORKBENCH_UX.md#acceptance-scenarios-for-integration",
+  "acceptance_test_ids": [
+    "UX-01",
+    "UX-02",
+    "UX-03",
+    "UX-04",
+    "UX-05",
+    "UX-06",
+    "UX-07",
+    "UX-08",
+    "UX-09",
+    "UX-10",
+    "UX-11",
+    "UX-12",
+    "UX-13",
+    "UX-14",
+    "UX-15",
+    "UX-16",
+    "UX-17",
+    "UX-18",
+    "UX-19",
+    "UX-20",
+    "UX-21",
+    "UX-22",
+    "UX-23",
+    "UX-24",
+    "UX-25"
+  ],
+  "release_gates": [
+    "Campus contract verification",
+    "Chemistry content and notation review",
+    "Keyboard, screen-reader, touch, zoom and reduced-motion testing",
+    "Recovery, conflict, and idempotency testing"
+  ],
+  "implementation_scope": "Design only; no application implementation or deployment is included.",
+  "response_envelope": {
+    "fields": [
+      "activity_id",
+      "activity_version",
+      "draft_revision",
+      "response_parts",
+      "optional_confidence",
+      "optional_reasoning_note"
+    ],
+    "response_part": {
+      "fields": [
+        "part_id",
+        "type",
+        "value",
+        "raw_input_if_applicable"
+      ],
+      "rule": "part_id is an authored stable identifier, not a label copied from an answer key. An activity can require several parts and several instances of a type."
+    },
+    "grading": "Native grader evaluates components independently under the authored rubric. Required explanations are response parts; optional reflection is separate. Preserve scientifically correct components when another component needs revision. Do not require exact text matching for equivalent reasoning."
+  },
+  "response_types": {
+    "element_id": "One validated element identifier",
+    "element_id_set": "Unordered set of validated element identifiers with authored cardinality",
+    "integer": "Integer with explicit unit or semantic label such as electron count, charge, or domains",
+    "boolean": "Explicit yes/no proposition tied to an authored prompt",
+    "explanation": "Learner reasoning text evaluated semantically against authored rubric",
+    "configuration": "Structured subshell occupancy plus original notation, optional shorthand core, and explicit species identity",
+    "orbital_occupancy": "Authored orbital IDs with electron occupancy and spin values; total and unpaired count may be separate response parts",
+    "formula": "Structured elements/groups/multiplicities, explicit overall charge, formula kind, learner order, and raw input",
+    "formula_set": "Named independent formula response parts keyed by authored subquestion IDs; never one overwritten global tray",
+    "chemical_name": "Preserved learner text with optional structured naming tokens and authored nomenclature policy",
+    "classification_map": "Map from authored item IDs to category IDs; no answers hidden in option values or presentation labels",
+    "comparison": "Authored comparison claims or named fields plus reasoning, not a single element picker",
+    "charge_ledger": "Explicit species IDs, multiplicities, charge contributions, and overall total",
+    "lewis_graph": "Later-gated atom IDs, bonds, lone pairs, unpaired electrons, net charge and formal charge; coordinates excluded from chemistry identity",
+    "domain_summary": "Later-gated central atom ID, bonding domains, lone-pair domains, total domains, electron geometry and molecular shape",
+    "insufficient_information": "Explicit authored ambiguity response with optional reason and next-clue request"
+  },
+  "composite_activity_mappings": [
+    {
+      "activities": [
+        "pwb.act.001",
+        "pwb.act.003",
+        "pwb.act.005",
+        "pwb.act.007",
+        "pwb.act.009"
+      ],
+      "parts": [
+        "element_id",
+        "integer_or_related_element_when_prompt_requires",
+        "explanation_when_prompt_requires"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.002"
+      ],
+      "parts": [
+        "element_id_set",
+        "explanation"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.004",
+        "pwb.act.006",
+        "pwb.act.010",
+        "pwb.act.017",
+        "pwb.act.028"
+      ],
+      "parts": [
+        "comparison",
+        "configuration_or_counts_when_prompt_requires",
+        "explanation"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.008",
+        "pwb.act.024",
+        "pwb.act.025",
+        "pwb.act.026",
+        "pwb.act.049",
+        "pwb.act.060"
+      ],
+      "parts": [
+        "classification_map",
+        "explanation",
+        "chemical_name_per_item_for_049"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.011",
+        "pwb.act.012",
+        "pwb.act.013",
+        "pwb.act.014",
+        "pwb.act.015",
+        "pwb.act.016",
+        "pwb.act.018",
+        "pwb.act.020"
+      ],
+      "parts": [
+        "configuration_full_and_or_shorthand_as_prompted",
+        "core_id_when_prompted",
+        "integer_counts_when_prompted",
+        "explanation_when_prompted"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.019"
+      ],
+      "parts": [
+        "orbital_occupancy",
+        "integer_unpaired_electrons",
+        "explanation"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.021",
+        "pwb.act.022",
+        "pwb.act.023",
+        "pwb.act.027",
+        "pwb.act.029",
+        "pwb.act.030"
+      ],
+      "parts": [
+        "charge_ledger_or_named_charge_values",
+        "integer_counts_when_prompted",
+        "formula_ion_when_prompted",
+        "insufficient_information_when_authored",
+        "explanation"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.031",
+        "pwb.act.032",
+        "pwb.act.033",
+        "pwb.act.034",
+        "pwb.act.035",
+        "pwb.act.036",
+        "pwb.act.037",
+        "pwb.act.040",
+        "pwb.act.048"
+      ],
+      "parts": [
+        "formula",
+        "integer_counts_or_charge_ledger_when_prompted",
+        "explanation_when_prompted"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.038",
+        "pwb.act.039"
+      ],
+      "parts": [
+        "formula_set",
+        "explanation_when_prompted"
+      ],
+      "ui": "One persistent draft tray per named subquestion, with explicit tab labels and independent check-component feedback"
+    },
+    {
+      "activities": [
+        "pwb.act.041",
+        "pwb.act.042",
+        "pwb.act.043",
+        "pwb.act.046",
+        "pwb.act.047",
+        "pwb.act.050"
+      ],
+      "parts": [
+        "chemical_name",
+        "integer_charge_when_prompted",
+        "explanation_when_prompted"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.044",
+        "pwb.act.045"
+      ],
+      "parts": [
+        "chemical_name_per_authored_item",
+        "explanation_when_prompted"
+      ]
+    },
+    {
+      "activities": [
+        "pwb.act.051",
+        "pwb.act.052",
+        "pwb.act.053"
+      ],
+      "parts": [
+        "integer_electron_budget",
+        "explanation"
+      ],
+      "availability": "later_gated"
+    },
+    {
+      "activities": [
+        "pwb.act.054",
+        "pwb.act.058"
+      ],
+      "parts": [
+        "lewis_graph",
+        "integer_electron_budget",
+        "explanation"
+      ],
+      "availability": "later_gated"
+    },
+    {
+      "activities": [
+        "pwb.act.055",
+        "pwb.act.056",
+        "pwb.act.057",
+        "pwb.act.059"
+      ],
+      "parts": [
+        "domain_summary",
+        "integer_electron_budget_when_prompted",
+        "resonance_graph_set_when_prompted",
+        "explanation"
+      ],
+      "availability": "later_gated"
+    }
+  ],
+  "composite_mapping_rule": "These mappings specify supported response shapes, not a declaration that every answer-key field must be entered. At integration, derive required parts from each exact activity prompt and rubric. Canonical-answer aliases and explanatory metadata must not accidentally become required learner fields.",
+  "reference_availability": {
+    "rule": "Only show fields present in validated reference data or explicitly sourced extension data. No universal full-element electron configuration or atomic weight coverage is implied.",
+    "available": "118 identities/layout; first-20 neutral configurations; selected teaching ions; explicit selected exceptions",
+    "missing": "Show Not included in this reference set with a scoped lesson/source route; do not fabricate values."
+  }
+}

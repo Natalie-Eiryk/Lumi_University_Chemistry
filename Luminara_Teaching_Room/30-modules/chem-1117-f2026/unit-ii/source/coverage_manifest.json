@@ -1,0 +1,224 @@
+{
+  "manifest_type": "content-only provenance and coverage index; NOT a native campus admissions schema",
+  "prepared_date": "2026-10-06",
+  "scope_title": "Chem. 1117 Review Unit II Chapters 4–5",
+  "source_pdf": {
+    "path": "sources/1117 Unit II Review Sheet F25.pdf",
+    "sha256": "eb55cf0d0aa171b3e749808de67e36de9b9c6f87ccab5a2b9f6fa9e3e425d7b8",
+    "pages": 8,
+    "library_file_id": "libfile_57669585c000819183f1568c1881a8b7",
+    "answer_key_supplied": false
+  },
+  "question_groups": [
+    {
+      "worksheet_question": "Q1",
+      "source_page": 1,
+      "source_task_count": 5,
+      "task": "Definitions of ion, anion, cation, ionic bond, ionic compound",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q2",
+      "source_page": 1,
+      "source_task_count": 4,
+      "task": "N gains 3; Li loses 1; Ti loses 2; Br gains 1 electrons",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": [
+        "Instructor expected ion symbol vs formation equation unknown"
+      ]
+    },
+    {
+      "worksheet_question": "Q3",
+      "source_page": 2,
+      "source_task_count": 2,
+      "task": "Ion charge from 34p/36e and 11p/10e",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q4",
+      "source_page": 2,
+      "source_task_count": 6,
+      "task": "Common ions: aluminum, sodium, calcium, sulfur, iodine, nitrogen",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q5",
+      "source_page": 2,
+      "source_task_count": 12,
+      "task": "Name S²−, Sr²+, Au+, Fe³+, NH₄+, CO₃²−, Sn²+, Mg²+, Cu+, Hg²+, CN−, SO₄²−",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q6",
+      "source_page": 3,
+      "source_task_count": 12,
+      "task": "Symbols: selenide, silver, hydroxide, acetate, hypochlorite, bicarbonate, oxide, cobalt(II), sulfite, permanganate, nitrate, phosphate",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q7",
+      "source_page": 3,
+      "source_task_count": 16,
+      "task": "Row-major grid Cu²+/Ca²+/NH₄+/Fe³+ with S²−/Cl−/PO₄³−/CO₃²−; a–p; a supplied as CuS",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q8",
+      "source_page": 4,
+      "source_task_count": 16,
+      "task": "Name all 16 Q7 substances",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q9",
+      "source_page": 5,
+      "source_task_count": 5,
+      "task": "Predict bonding: Ca/F, C/F, Mg/F, Si/F, Li/F",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q10",
+      "source_page": 5,
+      "source_task_count": 1,
+      "task": "Identify four octet-exception elements and explain; exact instructor four unspecified",
+      "lesson_file": "02_lewis_geometry.md",
+      "item_bank": "02_lewis_geometry_items.json",
+      "answer_file": "02_lewis_geometry_answers.md",
+      "convention_flags": [
+        "Exact four exception elements unknown"
+      ]
+    },
+    {
+      "worksheet_question": "Q11",
+      "source_page": 5,
+      "source_task_count": 4,
+      "task": "Total valence electrons: NCl₃, HI, CHCl₃, PBr₃",
+      "lesson_file": "02_lewis_geometry.md",
+      "item_bank": "02_lewis_geometry_items.json",
+      "answer_file": "02_lewis_geometry_answers.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q12",
+      "source_page": 5,
+      "source_task_count": 4,
+      "task": "Shared pairs: NCl₃, HI, CHCl₃, PBr₃",
+      "lesson_file": "02_lewis_geometry.md",
+      "item_bank": "02_lewis_geometry_items.json",
+      "answer_file": "02_lewis_geometry_answers.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q13",
+      "source_page": 6,
+      "source_task_count": 4,
+      "task": "Lewis drawings: NCl₃, HI, CHCl₃, PBr₃",
+      "lesson_file": "02_lewis_geometry.md",
+      "item_bank": "02_lewis_geometry_items.json",
+      "answer_file": "02_lewis_geometry_answers.md",
+      "convention_flags": []
+    },
+    {
+      "worksheet_question": "Q14",
+      "source_page": 6,
+      "source_task_count": 6,
+      "task": "Lewis/orbital/molecular geometry: SiF₄, AlCl₃, CO₂, SO₃, CF₂Cl₂, NO₂−",
+      "lesson_file": "02_lewis_geometry.md",
+      "item_bank": "02_lewis_geometry_items.json",
+      "answer_file": "02_lewis_geometry_answers.md",
+      "convention_flags": [
+        "Orbital geometry provisionally means electron-domain geometry",
+        "SO3 Lewis convention unknown",
+        "AlCl3 uses monomer model",
+        "Angles supplemental"
+      ]
+    },
+    {
+      "worksheet_question": "Q15",
+      "source_page": 7,
+      "source_task_count": 10,
+      "task": "Name PI₃, P₄S₃, NI₃, NaH, OsO₄, AsCl₃, AlF₃, SiCl₄, SbF₅, NO",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": [
+        "OsO4 course-preferred name unknown"
+      ]
+    },
+    {
+      "worksheet_question": "Q16",
+      "source_page": 8,
+      "source_task_count": 10,
+      "task": "Formulas: nitrogen dioxide, bromine pentaiodide, dinitrogen tetroxide, selenium dioxide, dinitrogen pentasulfide, sulfur hexafluoride, dinitrogen trioxide, arsenic pentachloride, xenon tetroxide, triphosphorus tetraselenide",
+      "lesson_file": "01_ions_formulas_naming.md",
+      "item_bank": "01_ions_formulas_naming.items.json",
+      "answer_file": "01_ions_formulas_naming.answer_key.md",
+      "convention_flags": []
+    }
+  ],
+  "count_policy": "117 source task records when Q10 is counted as one composite task asking for four examples; Q7a is the supplied worked cell. Teaching banks may represent source tasks as linked multi-step records, so counts require comparison with this policy.",
+  "supplemental": [
+    "Six-species E/I/IC/CC diagnostic",
+    "Transfer practice",
+    "Three-stage hints and full explanations",
+    "Self-correction and confidence reflection",
+    "Idealized angle reinforcement",
+    "Session/fading/feedback scripts"
+  ],
+  "binding_status": "All worksheet labels and packet-local IDs are candidate bindings. Existing native question anchors have not been inspected.",
+  "native_validation_status": "Not run; no implementation, admission, deployment, persistence or runtime claim",
+  "qa_status_file": "QA_STATUS.md",
+  "section_artifacts": {
+    "ionic": [
+      "01_ions_formulas_naming.md",
+      "01_ions_formulas_naming.items.json",
+      "01_ions_formulas_naming.answer_key.md"
+    ],
+    "lewis": [
+      "02_lewis_geometry.md",
+      "02_lewis_geometry_items.json",
+      "02_lewis_geometry_answers.md",
+      "02_lewis_geometry_answers.json"
+    ],
+    "handoff": [
+      "00_START_HERE.md",
+      "03_SESSION_AND_FEEDBACK.md",
+      "04_CODEX_HANDOFF.md",
+      "PROVENANCE.md"
+    ]
+  },
+  "assembled_content_counts": {
+    "source_task_records": 117,
+    "supplemental_records": 25,
+    "ionic_source_records": 98,
+    "ionic_supplemental_records": 16,
+    "lewis_source_records": 19,
+    "lewis_supplemental_records": 9
+  }
+}

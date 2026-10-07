@@ -1,0 +1,601 @@
+{
+  "schema_version": "1.0.0",
+  "namespace": "pwb",
+  "delivery_rule": "Keep separate from learner-facing payload until reveal; separation is pedagogical, not a security boundary.",
+  "answers": [
+    {
+      "activity_id": "pwb.act.001",
+      "canonical_answer": {
+        "symbol": "Cl",
+        "electrons": 17
+      },
+      "explanation": "The exponents total 17; a neutral atom therefore has atomic number 17, chlorine.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.002",
+      "canonical_answer": {
+        "symbols": [
+          "F",
+          "Cl"
+        ],
+        "family": "group 17"
+      },
+      "explanation": "The pattern specifies seven valence electrons in a p-block atom; within the stated scope both fluorine and chlorine fit.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.003",
+      "canonical_answer": {
+        "symbol": "C",
+        "atomic_number": 6
+      },
+      "explanation": "Carbon has 2s² 2p² as its valence configuration.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.004",
+      "canonical_answer": {
+        "shared": "ns¹",
+        "Li": "2s¹",
+        "Na": "3s¹",
+        "difference": "highest occupied principal shell"
+      },
+      "explanation": "Both neutral atoms have one outer s electron, in different principal shells.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.005",
+      "canonical_answer": {
+        "symbol": "Mg",
+        "electrons": 12,
+        "valence_electrons": 2
+      },
+      "explanation": "Atomic number fixes 12 protons; neutrality fixes 12 electrons. The outer configuration is 3s².",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.006",
+      "canonical_answer": {
+        "electrons": 2,
+        "configuration": "1s²",
+        "reason": "the first shell has only the 1s orbital"
+      },
+      "explanation": "Helium has a filled first shell of two electrons. The familiar octet pattern applies to filled outer s and p subshells beyond the first shell.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.007",
+      "canonical_answer": {
+        "symbol": "Ar",
+        "next": "K"
+      },
+      "explanation": "Argon is Z = 18. Potassium begins occupation of 4s after this noble-gas configuration.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.008",
+      "canonical_answer": {
+        "classification": "subshell occupancy",
+        "meaning": "five electrons in the 3p subshell"
+      },
+      "explanation": "A fragment labels occupancy of one subshell. Inferring chlorine additionally requires a neutral ground-state-atom context; do not silently treat the fragment as the complete configuration.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.009",
+      "canonical_answer": {
+        "symbol": "Ca",
+        "atomic_number": 20
+      },
+      "explanation": "Calcium has [Ar] 4s².",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.010",
+      "canonical_answer": {
+        "O": "2s² 2p⁴",
+        "S": "3s² 3p⁴",
+        "valence_electrons": 6
+      },
+      "explanation": "Both are group-16 main-group atoms; their outer principal shells differ.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.011",
+      "canonical_answer": {
+        "full": "1s² 2s¹",
+        "shorthand": "[He] 2s¹"
+      },
+      "explanation": "The two-electron helium configuration replaces the 1s² core.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.012",
+      "canonical_answer": {
+        "shorthand": "[He] 2s² 2p⁶",
+        "electron_total": 10
+      },
+      "explanation": "He is the preceding noble gas. Ne itself is not used as its own core in this exercise.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.013",
+      "canonical_answer": {
+        "shorthand": "[Ne] 3s¹",
+        "switch": "Na, the first element after Ne"
+      },
+      "explanation": "Na has 11 electrons; the completed 10-electron Ne configuration becomes its core.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.014",
+      "canonical_answer": {
+        "full": "1s² 2s² 2p⁶ 3s²",
+        "shorthand": "[Ne] 3s²"
+      },
+      "explanation": "The original totals 11 electrons; neutral Mg requires 12.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.015",
+      "canonical_answer": {
+        "configuration": "1s² 2s² 2p⁴",
+        "total": 8
+      },
+      "explanation": "Two electrons occupy 1s, two occupy 2s, and four occupy 2p.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.016",
+      "canonical_answer": {
+        "configuration": "[Ar] 4s¹",
+        "missing_in_incorrect_form": "3s² 3p⁶"
+      },
+      "explanation": "K contains 19 electrons. [Ne] 4s¹ contains only 11 and omits the filled third-shell valence subshells.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.017",
+      "canonical_answer": {
+        "same": true,
+        "symbol": "Mg",
+        "nearest_core": "[Ne] 3s²"
+      },
+      "explanation": "Both expand to 12 electrons. The second compresses the whole nearest noble-gas core.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.018",
+      "canonical_answer": {
+        "full": "1s² 2s² 2p⁶ 3s² 3p³",
+        "shorthand": "[Ne] 3s² 3p³",
+        "valence_electrons": 5
+      },
+      "explanation": "P has 15 electrons total; five are in its outer n = 3 shell.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.019",
+      "canonical_answer": {
+        "occupancies": [
+          1,
+          1,
+          1
+        ],
+        "spins": "parallel",
+        "unpaired_electrons": 3
+      },
+      "explanation": "Hund’s rule gives one same-spin electron per degenerate p orbital before pairing.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.020",
+      "canonical_answer": {
+        "configuration": "[Ar] 4s²"
+      },
+      "explanation": "For neutral Ca, the two electrons beyond Ar occupy 4s. A correct count alone does not establish the ground-state occupancy.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.021",
+      "canonical_answer": {
+        "electrons": 10,
+        "ion": "Na⁺"
+      },
+      "explanation": "The proton count remains 11; 11 − 10 gives charge +1.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.022",
+      "canonical_answer": {
+        "protons": 17,
+        "electrons": 18,
+        "charge": -1,
+        "ion": "Cl⁻"
+      },
+      "explanation": "Adding an electron changes charge, not elemental identity.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.023",
+      "canonical_answer": {
+        "ion": "Mg²⁺",
+        "calculation": "12 − 10 = +2"
+      },
+      "explanation": "Atomic number 12 identifies magnesium; the two-electron deficit gives +2.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.024",
+      "canonical_answer": {
+        "Fe₂": "two Fe atoms in the written neutral species/formula unit",
+        "Fe²⁺": "one iron ion with charge +2",
+        "2 Fe": "coefficient: two Fe atoms or two amounts of Fe according to context"
+      },
+      "explanation": "Subscripts describe composition; superscript signs and numerals describe net charge; coefficients multiply the entire written species.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.025",
+      "canonical_answer": {
+        "category": "element",
+        "bonding": "covalent bond within a diatomic molecule"
+      },
+      "explanation": "Only nitrogen atoms occur. Covalent bonding does not by itself make a substance a compound.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.026",
+      "canonical_answer": {
+        "NH₄⁺": "polyatomic ion",
+        "(NH₄)₂CO₃": "ionic compound",
+        "bonding": "covalent within polyatomic ions; electrostatic attraction between oppositely charged ions"
+      },
+      "explanation": "Ammonium is one charged multi-atom unit. Ammonium carbonate combines ammonium cations and carbonate anions.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.027",
+      "canonical_answer": {
+        "change": "gains 2 electrons",
+        "electrons": 10
+      },
+      "explanation": "O has eight protons; ten electrons produce charge −2.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.028",
+      "canonical_answer": {
+        "same_element": false,
+        "Na⁺_protons": 11,
+        "Ne_protons": 10,
+        "relationship": "isoelectronic"
+      },
+      "explanation": "Equal electron counts do not imply equal nuclear charge or element identity.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.029",
+      "canonical_answer": {
+        "Na": 1,
+        "Mg": 2,
+        "Al": 3,
+        "Cl": -1
+      },
+      "explanation": "These main-group examples commonly lose one, two, or three electrons, or gain one, respectively, in introductory ionic compounds.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.030",
+      "canonical_answer": {
+        "answer": "No",
+        "needed": "the compound formula, explicit ion charge, or a name with Roman numeral"
+      },
+      "explanation": "Variable-charge metals require additional evidence; do not force a single fixed ion charge from the column.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.031",
+      "canonical_answer": {
+        "formula": "NaCl",
+        "ratio": "1:1",
+        "model": "electron transfer can form the ions; ionic bonding is their electrostatic attraction, not a shared electron pair"
+      },
+      "explanation": "One +1 ion balances one −1 ion. Solid sodium chloride is an ionic lattice, not isolated NaCl molecules.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.032",
+      "canonical_answer": {
+        "formula": "MgCl₂",
+        "charge_sum": "(+2) + 2(−1) = 0"
+      },
+      "explanation": "Two chloride ions balance one magnesium ion.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.033",
+      "canonical_answer": {
+        "formula": "CaO",
+        "ratio": "1:1"
+      },
+      "explanation": "A single +2 and −2 already cancel. Ionic formulas normally report the lowest whole-number ratio of ions.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.034",
+      "canonical_answer": {
+        "formula": "Al₂O₃",
+        "positive": 6,
+        "negative": -6
+      },
+      "explanation": "Two aluminum ions and three oxide ions give equal and opposite six-unit charges.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.035",
+      "canonical_answer": {
+        "formula": "Ca(NO₃)₂",
+        "charge_sum": "(+2) + 2(−1) = 0"
+      },
+      "explanation": "Two nitrate units are required; parentheses make the outer 2 multiply each entire NO₃ group.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.036",
+      "canonical_answer": {
+        "formula": "(NH₄)₂CO₃",
+        "counts": {
+          "N": 2,
+          "H": 8,
+          "C": 1,
+          "O": 3
+        }
+      },
+      "explanation": "Two ammonium ions balance one carbonate; the external 2 multiplies both N and H in ammonium.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.037",
+      "canonical_answer": {
+        "formula": "FeCl₃",
+        "Fe_count": 1
+      },
+      "explanation": "The III identifies iron charge +3, which requires three chloride ions; it does not request three iron atoms.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.038",
+      "canonical_answer": {
+        "iron(II) oxide": "FeO",
+        "iron(III) oxide": "Fe₂O₃"
+      },
+      "explanation": "Fe²⁺ balances oxide 1:1; Fe³⁺ requires a 2:3 ratio with oxide.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.039",
+      "canonical_answer": {
+        "zinc chloride": "ZnCl₂",
+        "silver oxide": "Ag₂O"
+      },
+      "explanation": "The supplied charges require one zinc to two chloride, and two silver to one oxide.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.040",
+      "canonical_answer": {
+        "formula": "CaCO₃"
+      },
+      "explanation": "The ion ratio 2:2 reduces to 1:1. Carbonate remains CO₃; only the number of whole ions changes.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.041",
+      "canonical_answer": {
+        "name": "sodium chloride"
+      },
+      "explanation": "Name the cation first, then the monatomic anion with its -ide ending; do not use molecular prefixes.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.042",
+      "canonical_answer": {
+        "name": "iron(II) chloride",
+        "Fe_charge": 2
+      },
+      "explanation": "Two chloride ions contribute −2 total, so one iron must carry +2.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.043",
+      "canonical_answer": {
+        "name": "iron(III) oxide",
+        "Fe_charge": 3
+      },
+      "explanation": "Three oxide ions total −6; two iron ions must total +6, making each +3.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.044",
+      "canonical_answer": {
+        "CuCl": "copper(I) chloride",
+        "CuCl₂": "copper(II) chloride"
+      },
+      "explanation": "One versus two chloride ions require +1 versus +2 copper.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.045",
+      "canonical_answer": {
+        "ZnCl₂": "zinc chloride",
+        "Ag₂O": "silver oxide",
+        "also_chemically_explicit": [
+          "zinc(II) chloride",
+          "silver(I) oxide"
+        ]
+      },
+      "explanation": "The usual course convention omits Roman numerals for these fixed-charge examples. Explicit correct charge numerals are chemically interpretable; apply the stated course convention separately.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.046",
+      "canonical_answer": {
+        "name": "carbon dioxide",
+        "meaning": "two oxygen atoms per molecule"
+      },
+      "explanation": "For this molecular compound, prefixes express atom counts, not ion charge.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.047",
+      "canonical_answer": {
+        "name": "dinitrogen tetroxide"
+      },
+      "explanation": "Di- marks two nitrogen atoms; tetra- plus oxide contracts to tetroxide.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.048",
+      "canonical_answer": {
+        "formula": "SO₂"
+      },
+      "explanation": "The name specifies one sulfur and two oxygen atoms in a molecular compound.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.049",
+      "canonical_answer": {
+        "MgCl₂": {
+          "route": "ionic",
+          "name": "magnesium chloride"
+        },
+        "PCl₃": {
+          "route": "binary molecular",
+          "name": "phosphorus trichloride"
+        },
+        "(NH₄)₂SO₄": {
+          "route": "ionic",
+          "name": "ammonium sulfate"
+        }
+      },
+      "explanation": "Metal/nonmetal composition helps with the first two; recognizing ammonium and sulfate ions is necessary for the third.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.050",
+      "canonical_answer": {
+        "name": "calcium nitrate",
+        "reason": "ion identities determine the ionic name; neutrality determines their ratio"
+      },
+      "explanation": "The repeated nitrate units are reflected in the formula but not expressed with ordinary molecular count prefixes in the ionic name.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.051",
+      "canonical_answer": {
+        "total": 8,
+        "calculation": "2(1) + 6 = 8"
+      },
+      "explanation": "Each H supplies one valence electron and O supplies six.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.052",
+      "canonical_answer": {
+        "total": 8,
+        "calculation": "5 + 4(1) − 1 = 8"
+      },
+      "explanation": "A positive overall charge means one fewer electron than the neutral-atom valence sum.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.053",
+      "canonical_answer": {
+        "total": 24,
+        "calculation": "4 + 3(6) + 2 = 24"
+      },
+      "explanation": "The 2− charge contributes two additional electrons to the valence budget.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.054",
+      "canonical_answer": {
+        "central": "C",
+        "single_bonds": 4,
+        "central_lone_pairs": 0,
+        "total_electrons": 8,
+        "hydrogen": "each has two shared electrons around it"
+      },
+      "explanation": "Four C–H single bonds use all eight valence electrons. Carbon has an octet and each H a duet.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.055",
+      "canonical_answer": {
+        "domains": 4,
+        "bonding_domains": 2,
+        "lone_pair_domains": 2,
+        "electron_geometry": "tetrahedral",
+        "molecular_shape": "bent"
+      },
+      "explanation": "All four electron regions determine electron geometry; only atom positions define the bent molecular shape.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.056",
+      "canonical_answer": {
+        "domains": 4,
+        "electron_geometry": "tetrahedral",
+        "molecular_shape": "trigonal pyramidal",
+        "total_electrons": 8
+      },
+      "explanation": "Three bonding regions and one lone pair give four total regions, with a trigonal-pyramidal arrangement of atoms.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.057",
+      "canonical_answer": {
+        "domains": 2,
+        "electron_geometry": "linear",
+        "molecular_shape": "linear",
+        "central_lone_pairs": 0
+      },
+      "explanation": "Each double bond is one spatial electron domain around carbon, even though it contains two shared pairs.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.058",
+      "canonical_answer": {
+        "total_electrons": 8,
+        "single_bonds": 1,
+        "Cl_lone_pairs": 3,
+        "shape": "linear diatomic molecule"
+      },
+      "explanation": "The bond uses two electrons; six remain as three Cl lone pairs. A two-atom molecule is linear without a central-atom VSEPR construction.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.059",
+      "canonical_answer": {
+        "domains": 3,
+        "electron_geometry": "trigonal planar",
+        "shape": "trigonal planar",
+        "resonance_contributors": 3
+      },
+      "explanation": "Each C–O direction is one domain; the resonance description distributes bonding rather than giving a permanent unique double-bond oxygen.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    },
+    {
+      "activity_id": "pwb.act.060",
+      "canonical_answer": {
+        "H₂": "each H has a duet",
+        "BF₃": "B has six electrons around it in the ordinary three-single-bond Lewis structure",
+        "conclusion": "the octet rule is useful but not universal"
+      },
+      "explanation": "Hydrogen’s shell fills at two; the conventional BF₃ Lewis model has an electron-deficient boron center. Do not add electrons that are absent from the total budget.",
+      "grading_notes": "Require only components explicitly requested in this activity’s prompt. Extra canonical fields are explanatory, not mandatory. When a reason is requested, score it separately from the factual response; otherwise do not require an explanation. Accept scientifically equivalent answers within the stated scope and distinguish chemical correctness from explicitly requested notation/convention."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-06",
+  "scope": "local packet structure and arithmetic only; not native runtime validation",
+  "checks": [
+    {
+      "check": "118 unique ordered atomic numbers",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "118 unique symbols",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "unique element display cells",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "first 20 neutral configurations sum to Z",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "first 20 core plus valence equals Z",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "polyatomic atom counts consistent",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "reference source IDs resolve",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse activities.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse answer_keys.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse coverage_manifest.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse interaction_contract.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse packet_manifest.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse packet_structural_checks.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "JSON parse reference_data.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> 01_WORKBENCH_UX.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> 03_CHEMISTRY_DATA_AND_VALIDATION.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> 02_LEARNING_PATHS.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> activities.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> 04_CODEX_INTEGRATION_HANDOFF.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> 05_ACCEPTANCE_TESTS.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> PROVENANCE.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> QA_STATUS.md",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> packet_manifest.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "local link 00_START_HERE.md -> coverage_manifest.json",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "future test IDs unique",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "60 unique authored activity IDs",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "60 unique matching answer IDs",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "activity count declaration",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "every activity has prompt hints distractors reflection and source",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "every answer has answer explanation and grading notes",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "six families of ten cases",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "activity modes match interaction contract",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "activity capabilities match interaction contract",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "all activities have resolved transfer targets",
+      "result": "pass",
+      "detail": ""
+    },
+    {
+      "check": "all activities have explicit entry and journey",
+      "result": "pass",
+      "detail": ""
+    }
+  ],
+  "all_passed": true
+}

@@ -1,0 +1,2991 @@
+{
+  "schema_version": "1.0.0",
+  "namespace": "pwb",
+  "status": "content specification; no executable app",
+  "answer_key_file": "answer_keys.json",
+  "activity_count": 60,
+  "activities": [
+    {
+      "id": "pwb.act.001",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Select the neutral period-3 atom with full configuration 1s² 2s² 2p⁶ 3s² 3p⁵. Explain your electron count.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Add the superscripts, not the shell numbers."
+        },
+        {
+          "level": 2,
+          "text": "There are ten electrons before 3s."
+        },
+        {
+          "level": 3,
+          "text": "The outer shell contains 2 + 5 electrons."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "F",
+          "diagnosis": "Same family, wrong period."
+        },
+        {
+          "response": "S",
+          "diagnosis": "One fewer electron than the given configuration."
+        }
+      ],
+      "metacognitive_question": "Which clue fixes the element rather than only its family?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "select_element",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.004"
+      ]
+    },
+    {
+      "id": "pwb.act.002",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Within H–Ca, select every neutral atom whose valence configuration fits ns² np⁵. No period is specified.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "unordered_set",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Here n is a variable, not a specified shell."
+        },
+        {
+          "level": 2,
+          "text": "Look down group 17."
+        },
+        {
+          "level": 3,
+          "text": "Find the group-17 entries in periods 2 and 3."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Cl only",
+          "diagnosis": "A family clue was mistaken for a unique-element clue."
+        },
+        {
+          "response": "Ne",
+          "diagnosis": "Its p subshell has six, not five, electrons."
+        }
+      ],
+      "metacognitive_question": "What extra clue would reduce your answer to one element?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "select_elements",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.005"
+      ]
+    },
+    {
+      "id": "pwb.act.003",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Select the period-2 atom with four valence electrons, and give its atomic number.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use the row first."
+        },
+        {
+          "level": 2,
+          "text": "For main-group atoms, group 14 corresponds to four valence electrons."
+        },
+        {
+          "level": 3,
+          "text": "Count four positions across the period from Li."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Si",
+          "diagnosis": "Right family, wrong period."
+        },
+        {
+          "response": "Be",
+          "diagnosis": "The group number 2 is not four valence electrons."
+        }
+      ],
+      "metacognitive_question": "Did you use the row, the column, or both?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "select_element",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.006"
+      ]
+    },
+    {
+      "id": "pwb.act.004",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Compare Li and Na. What valence pattern do they share, and what changes?",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Compare their column."
+        },
+        {
+          "level": 2,
+          "text": "Look at the last occupied subshell."
+        },
+        {
+          "level": 3,
+          "text": "Li ends 2s¹; Na ends 3s¹."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "same full configuration",
+          "diagnosis": "Family similarity does not mean identical total electron counts."
+        }
+      ],
+      "metacognitive_question": "Why can similar valence patterns produce a family resemblance?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "compare_elements",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.007"
+      ]
+    },
+    {
+      "id": "pwb.act.005",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Select the first-20 element with Z = 12. Give its neutral electron count and main-group valence count.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Z counts protons."
+        },
+        {
+          "level": 2,
+          "text": "Neutral means equal positive and negative counts."
+        },
+        {
+          "level": 3,
+          "text": "Separate all electrons from outer-shell electrons."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "12 valence electrons",
+          "diagnosis": "Total and valence counts were conflated."
+        }
+      ],
+      "metacognitive_question": "Which count survives when this atom forms an ion?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "select_element",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.008"
+      ]
+    },
+    {
+      "id": "pwb.act.006",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Helium sits in group 18. How many electrons fill its occupied shell, and why should you not assign it eight?",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Identify its highest occupied shell."
+        },
+        {
+          "level": 2,
+          "text": "The n = 1 shell has no p subshell."
+        },
+        {
+          "level": 3,
+          "text": "One s orbital holds two electrons."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "8",
+          "diagnosis": "The octet pattern was applied to the first shell."
+        }
+      ],
+      "metacognitive_question": "What makes a shell filled in this particular case?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "compare_elements",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.009"
+      ]
+    },
+    {
+      "id": "pwb.act.007",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "A neutral atom has 18 electrons and a filled third-shell valence s/p set. Select it; name the next element by atomic number.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Neutral electron count equals Z."
+        },
+        {
+          "level": 2,
+          "text": "Locate the end of period 3."
+        },
+        {
+          "level": 3,
+          "text": "Move one atomic number forward."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Ca",
+          "diagnosis": "Ca is two positions beyond Ar."
+        }
+      ],
+      "metacognitive_question": "Does moving to a new period mean adding a proton as well as an electron?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "select_element",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.010"
+      ]
+    },
+    {
+      "id": "pwb.act.008",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Does “3p⁵” by itself explicitly state a full electron configuration, a subshell occupancy, or a total of five electrons?",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Read each part separately."
+        },
+        {
+          "level": 2,
+          "text": "3 names a principal shell; p names a subshell."
+        },
+        {
+          "level": 3,
+          "text": "The superscript counts electrons only in that subshell."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "five total electrons",
+          "diagnosis": "A local count was mistaken for the whole atom."
+        }
+      ],
+      "metacognitive_question": "What missing context would you request before identifying an element?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "classify_clue",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.001"
+      ]
+    },
+    {
+      "id": "pwb.act.009",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "In the first 20 neutral ground-state atoms, which atom ends in 4s²?",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Start at Ar."
+        },
+        {
+          "level": 2,
+          "text": "The next two positions fill 4s."
+        },
+        {
+          "level": 3,
+          "text": "K contributes the first electron; the next atom contributes the second."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Mg",
+          "diagnosis": "Same valence count, different principal shell."
+        }
+      ],
+      "metacognitive_question": "How did the 4 distinguish Ca from Mg?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "select_element",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.002"
+      ]
+    },
+    {
+      "id": "pwb.act.010",
+      "namespace": "pwb",
+      "topic": "element_clues",
+      "prompt": "Compare neutral O and S: give each valence configuration and the shared valence count.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use their common column."
+        },
+        {
+          "level": 2,
+          "text": "Write outer s and p occupancy, not the full core."
+        },
+        {
+          "level": 3,
+          "text": "Both have two outer s and four outer p electrons."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "O has 8 valence electrons",
+          "diagnosis": "Atomic number was substituted for valence count."
+        }
+      ],
+      "metacognitive_question": "What stays the same down this family?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "compare_elements",
+      "mode": "identify_element",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.01",
+      "transfer_activity_ids": [
+        "pwb.act.003"
+      ]
+    },
+    {
+      "id": "pwb.act.011",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Write the full and noble-gas shorthand ground-state configurations of neutral Li.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Li has three electrons."
+        },
+        {
+          "level": 2,
+          "text": "Fill 1s before 2s."
+        },
+        {
+          "level": 3,
+          "text": "Replace the filled 1s² with the preceding noble gas."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "[Ne] 2s¹",
+          "diagnosis": "The proposed core already contains too many electrons."
+        }
+      ],
+      "metacognitive_question": "How does expanding the bracket verify your shorthand?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "core_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.014"
+      ]
+    },
+    {
+      "id": "pwb.act.012",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Write neutral Ne using the immediately preceding noble-gas core, not [Ne] alone.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find a noble gas with lower Z than 10."
+        },
+        {
+          "level": 2,
+          "text": "Its core contributes two electrons."
+        },
+        {
+          "level": 3,
+          "text": "Eight electrons remain in shell 2."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "[Ne]",
+          "diagnosis": "The prompt requests the preceding core, not a self-label."
+        },
+        {
+          "response": "[He] 2s² 2p⁵",
+          "diagnosis": "This totals nine electrons."
+        }
+      ],
+      "metacognitive_question": "Why is the core still He when the target is Ne?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "core_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.015"
+      ]
+    },
+    {
+      "id": "pwb.act.013",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Move from Ne to Na. Write Na with the immediately preceding noble-gas core and explain exactly when the core switches.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Na comes immediately after Ne."
+        },
+        {
+          "level": 2,
+          "text": "Choose the nearest earlier noble gas."
+        },
+        {
+          "level": 3,
+          "text": "The remaining electron begins 3s."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "[He] 3s¹",
+          "diagnosis": "Eight occupied electrons were dropped."
+        },
+        {
+          "response": "[He] 2s² 2p⁶ 3s¹",
+          "diagnosis": "Chemically valid expanded shorthand, but not the requested nearest-core form; award chemistry credit and ask for compaction."
+        }
+      ],
+      "metacognitive_question": "Can you expand both sides and preserve every electron?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "core_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.016"
+      ]
+    },
+    {
+      "id": "pwb.act.014",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Repair this claimed full configuration for Mg: 1s² 2s² 2p⁶ 3s¹. Then write its nearest noble-gas shorthand.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count before changing anything."
+        },
+        {
+          "level": 2,
+          "text": "Mg is Z = 12."
+        },
+        {
+          "level": 3,
+          "text": "There is room for one more electron in 3s."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "3p¹ instead of completing 3s",
+          "diagnosis": "The lower-energy available subshell was skipped."
+        }
+      ],
+      "metacognitive_question": "Did your repair fix count, filling order, or both?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "core_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.017"
+      ]
+    },
+    {
+      "id": "pwb.act.015",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Write the full ground-state configuration of neutral O and check the total.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use Z = 8."
+        },
+        {
+          "level": 2,
+          "text": "Each s subshell holds at most two."
+        },
+        {
+          "level": 3,
+          "text": "Place the four remaining electrons in 2p."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "1s² 2s⁶",
+          "diagnosis": "An s subshell cannot hold six electrons."
+        }
+      ],
+      "metacognitive_question": "Which check catches an overfilled subshell?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "configuration_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.018"
+      ]
+    },
+    {
+      "id": "pwb.act.016",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Write the nearest-core configuration of neutral K. Explain why [Ne] 4s¹ loses information.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "K follows Ar."
+        },
+        {
+          "level": 2,
+          "text": "Count the electrons represented by each bracket."
+        },
+        {
+          "level": 3,
+          "text": "Ar contributes 18; one remains."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "[Ne] 4s¹",
+          "diagnosis": "The intervening 3s and 3p electrons vanished."
+        }
+      ],
+      "metacognitive_question": "What is the fastest count-based check on a bracket?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "core_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.019"
+      ]
+    },
+    {
+      "id": "pwb.act.017",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Do [He] 2s² 2p⁶ 3s² and [Ne] 3s² represent the same neutral atom? Identify it and say which is the nearest-core form.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Expand the brackets."
+        },
+        {
+          "level": 2,
+          "text": "He contributes 2; Ne contributes 10."
+        },
+        {
+          "level": 3,
+          "text": "Compare the resulting occupancy term by term."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "different atoms",
+          "diagnosis": "Different notation was mistaken for different occupancy."
+        }
+      ],
+      "metacognitive_question": "Can a response be chemically correct but miss the requested format?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "configuration_compare",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.020"
+      ]
+    },
+    {
+      "id": "pwb.act.018",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "For neutral P, give the full configuration, nearest-core form, and valence-electron count.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use atomic number 15."
+        },
+        {
+          "level": 2,
+          "text": "Ne accounts for ten."
+        },
+        {
+          "level": 3,
+          "text": "Split the remaining five between 3s and 3p."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "3 valence electrons",
+          "diagnosis": "Only p electrons were counted; the outer s electrons also count."
+        }
+      ],
+      "metacognitive_question": "Which terms belong to the valence shell?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "configuration_builder",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.011"
+      ]
+    },
+    {
+      "id": "pwb.act.019",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "Place the three 2p electrons of neutral N in the three equal-energy 2p orbitals. State the occupancy before any pairing.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "There are three p orbitals."
+        },
+        {
+          "level": 2,
+          "text": "Use each empty orbital before pairing within one."
+        },
+        {
+          "level": 3,
+          "text": "Place one parallel-spin electron in each box."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "[2,1,0]",
+          "diagnosis": "Pairing was introduced before all degenerate orbitals were singly occupied."
+        }
+      ],
+      "metacognitive_question": "What distinction separates a subshell from an orbital?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "orbital_boxes",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.012"
+      ]
+    },
+    {
+      "id": "pwb.act.020",
+      "namespace": "pwb",
+      "topic": "electron_configuration",
+      "prompt": "A learner writes Ca as [Ar] 3d². Keep the electron total but correct the neutral ground-state configuration.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count: the total is already 20."
+        },
+        {
+          "level": 2,
+          "text": "Inspect the filling sequence immediately after 3p."
+        },
+        {
+          "level": 3,
+          "text": "The first two entries after Ar belong to the 4s block."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "accept unchanged because total is 20",
+          "diagnosis": "Electron count and ground-state filling are independent checks."
+        }
+      ],
+      "metacognitive_question": "Which second check is needed after the count works?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "configuration_audit",
+      "mode": "electron_configuration",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.02",
+      "transfer_activity_ids": [
+        "pwb.act.013"
+      ]
+    },
+    {
+      "id": "pwb.act.021",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Na has 11 protons and loses one electron from a neutral atom. Give electrons remaining and the ion symbol.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Neutral Na starts with 11 electrons."
+        },
+        {
+          "level": 2,
+          "text": "Remove one negative particle."
+        },
+        {
+          "level": 3,
+          "text": "Subtract electrons from protons."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Na⁻",
+          "diagnosis": "Losing a negative charge was assigned the wrong sign."
+        }
+      ],
+      "metacognitive_question": "Which particle count did you hold fixed?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_ledger",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.024"
+      ]
+    },
+    {
+      "id": "pwb.act.022",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Neutral Cl gains one electron. Give its proton count, new electron count, and charge.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use Cl atomic number."
+        },
+        {
+          "level": 2,
+          "text": "Gain increases the electron count."
+        },
+        {
+          "level": 3,
+          "text": "Compute 17 − 18."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Ar",
+          "diagnosis": "Electron-count equality does not change proton-defined identity."
+        }
+      ],
+      "metacognitive_question": "Why is this not a neutral argon atom?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_ledger",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.025"
+      ]
+    },
+    {
+      "id": "pwb.act.023",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "An ion has 12 protons and 10 electrons. Identify it and show the charge calculation.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find Z = 12."
+        },
+        {
+          "level": 2,
+          "text": "Use charge = protons − electrons."
+        },
+        {
+          "level": 3,
+          "text": "Write the charge as a superscript, not an atom subscript."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Mg₂",
+          "diagnosis": "That subscript counts atoms, not charge."
+        }
+      ],
+      "metacognitive_question": "What would Mg₂ tell a reader that Mg²⁺ does not?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_ledger",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.026"
+      ]
+    },
+    {
+      "id": "pwb.act.024",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Contrast Fe₂, Fe²⁺, and 2 Fe. Explain what the 2 means in each notation. This is a notation task, not a claim about stable bulk iron molecules.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the number relative to Fe."
+        },
+        {
+          "level": 2,
+          "text": "Look for an explicit plus sign."
+        },
+        {
+          "level": 3,
+          "text": "Read a coefficient as multiplying the entire following species."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "all mean iron(II)",
+          "diagnosis": "Roman numerals and charge cannot be inferred from an atom-count 2."
+        }
+      ],
+      "metacognitive_question": "Which typographic distinction changes the chemistry most?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "notation_sort",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.027"
+      ]
+    },
+    {
+      "id": "pwb.act.025",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Classify N₂ as an element, ion, ionic compound, or covalent compound. Then describe its bonding.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count distinct element symbols."
+        },
+        {
+          "level": 2,
+          "text": "A compound requires at least two different elements."
+        },
+        {
+          "level": 3,
+          "text": "Separate composition category from bond type."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "covalent compound",
+          "diagnosis": "Bond type was used as a substitute for composition."
+        }
+      ],
+      "metacognitive_question": "Can a molecule consist of an element rather than a compound?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "species_sort",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.028"
+      ]
+    },
+    {
+      "id": "pwb.act.026",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Classify NH₄⁺ and neutral (NH₄)₂CO₃ separately. Explain how covalent bonds can occur inside an ionic compound.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Check the explicit overall charge first."
+        },
+        {
+          "level": 2,
+          "text": "Keep NH₄⁺ intact as a unit."
+        },
+        {
+          "level": 3,
+          "text": "The compound combines 2(+1) and one −2 ion."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "NH₄⁺ is a neutral covalent compound",
+          "diagnosis": "The displayed overall charge was ignored."
+        },
+        {
+          "response": "(NH₄)₂CO₃ is covalent because it has no metal",
+          "diagnosis": "Ammonium salts defeat the metal/nonmetal shortcut."
+        }
+      ],
+      "metacognitive_question": "Which shortcut failed and what evidence replaced it?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "species_sort",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.029"
+      ]
+    },
+    {
+      "id": "pwb.act.027",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Neutral O becomes O²⁻. How many electrons changed, in which direction, and how many electrons are present now?",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Negative charge means excess electrons."
+        },
+        {
+          "level": 2,
+          "text": "The magnitude states how many more electrons than protons."
+        },
+        {
+          "level": 3,
+          "text": "Begin with eight electrons, then add two."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "loses two",
+          "diagnosis": "Negative charge was interpreted as electron removal."
+        }
+      ],
+      "metacognitive_question": "How can the charge equation confirm your story?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_ledger",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.030"
+      ]
+    },
+    {
+      "id": "pwb.act.028",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Na⁺ and Ne each have 10 electrons. Do they represent the same element? Give their proton counts.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Element identity follows Z."
+        },
+        {
+          "level": 2,
+          "text": "Ion formation leaves the nucleus unchanged."
+        },
+        {
+          "level": 3,
+          "text": "Compare the two atomic numbers."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "both neon",
+          "diagnosis": "The electron count was used to rename an ion."
+        }
+      ],
+      "metacognitive_question": "Which count is the identity anchor?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "compare_elements",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.021"
+      ]
+    },
+    {
+      "id": "pwb.act.029",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Use the usual introductory monatomic-ion pattern for Na, Mg, Al, and Cl. Assign each charge; label these as common patterns rather than every possible chemical state.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find their main-group columns."
+        },
+        {
+          "level": 2,
+          "text": "Metals here form positive ions; chlorine forms a negative ion."
+        },
+        {
+          "level": 3,
+          "text": "Check the electron change toward a filled-shell configuration."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Al⁻³",
+          "diagnosis": "The direction of electron change was reversed."
+        }
+      ],
+      "metacognitive_question": "Why should a pattern for these atoms not be a universal rule for all elements?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "ion_tray",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.022"
+      ]
+    },
+    {
+      "id": "pwb.act.030",
+      "namespace": "pwb",
+      "topic": "charge_and_identity",
+      "prompt": "Fe may be Fe²⁺ or Fe³⁺ in common introductory compounds. Can its table position alone select one charge for an unspecified iron compound?",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look for information beyond the element tile."
+        },
+        {
+          "level": 2,
+          "text": "Two common charges have been offered."
+        },
+        {
+          "level": 3,
+          "text": "Ask what counterion and ratio, or what Roman numeral, is specified."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "always +2",
+          "diagnosis": "One frequent charge was treated as universal."
+        }
+      ],
+      "metacognitive_question": "What missing information would make the task answerable?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "ion_tray",
+      "mode": "ion_ledger",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.03",
+      "transfer_activity_ids": [
+        "pwb.act.023"
+      ]
+    },
+    {
+      "id": "pwb.act.031",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build the simplest neutral formula from Na⁺ and Cl⁻. Explain transfer versus attraction versus sharing.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Add the ion charges."
+        },
+        {
+          "level": 2,
+          "text": "Use the smallest positive whole-number ratio that sums to zero."
+        },
+        {
+          "level": 3,
+          "text": "Keep the ion-formation story separate from the bond holding ions together."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "NaCl shares one electron pair",
+          "diagnosis": "A covalent model was substituted for ionic attraction."
+        }
+      ],
+      "metacognitive_question": "What does the formula count in an ionic solid?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.034"
+      ]
+    },
+    {
+      "id": "pwb.act.032",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build a neutral formula from Mg²⁺ and Cl⁻; show the charge sum.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "One chloride cancels only one positive unit."
+        },
+        {
+          "level": 2,
+          "text": "Try one Mg with two Cl."
+        },
+        {
+          "level": 3,
+          "text": "Use a subscript for the number of chloride ions."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Mg₂Cl",
+          "diagnosis": "The charge numbers were attached to the wrong species."
+        }
+      ],
+      "metacognitive_question": "Can your charge sum check the ratio without a crisscross rule?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.035"
+      ]
+    },
+    {
+      "id": "pwb.act.033",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build the simplest neutral formula from Ca²⁺ and O²⁻. Explain why Ca₂O₂ is not the simplest ionic formula.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Compare magnitudes."
+        },
+        {
+          "level": 2,
+          "text": "One of each gives zero."
+        },
+        {
+          "level": 3,
+          "text": "Reduce a 2:2 ratio to 1:1."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Ca₂O₂",
+          "diagnosis": "A crisscross result was not reduced."
+        }
+      ],
+      "metacognitive_question": "When does a charge number not become a visible subscript?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.036"
+      ]
+    },
+    {
+      "id": "pwb.act.034",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build aluminum oxide using Al³⁺ and O²⁻; show both total positive and negative charge.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find a common multiple of 3 and 2."
+        },
+        {
+          "level": 2,
+          "text": "Six can be built from two threes or three twos."
+        },
+        {
+          "level": 3,
+          "text": "Assign the count to the corresponding ion."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Al₃O₂",
+          "diagnosis": "Charges were copied to their own ions rather than balanced."
+        }
+      ],
+      "metacognitive_question": "How do you know your whole-number ratio is the smallest?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-6-molecular-and-ionic-compounds"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.037"
+      ]
+    },
+    {
+      "id": "pwb.act.035",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build calcium nitrate from Ca²⁺ and NO₃⁻. Keep nitrate intact.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Treat NO₃⁻ as one tray tile."
+        },
+        {
+          "level": 2,
+          "text": "You need two of that tile."
+        },
+        {
+          "level": 3,
+          "text": "Parenthesize a repeated polyatomic ion."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "CaNO₃₂",
+          "diagnosis": "The repeated unit is no longer unambiguously nitrate."
+        },
+        {
+          "response": "Ca₂NO₃",
+          "diagnosis": "The proposed charges do not sum to zero."
+        }
+      ],
+      "metacognitive_question": "What exactly does the outside 2 multiply?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.038"
+      ]
+    },
+    {
+      "id": "pwb.act.036",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build ammonium carbonate from NH₄⁺ and CO₃²⁻; count N, H, C, and O afterward.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Balance +1 against −2."
+        },
+        {
+          "level": 2,
+          "text": "Repeat ammonium twice."
+        },
+        {
+          "level": 3,
+          "text": "Distribute the external subscript only through its parentheses."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "NH₄CO₃",
+          "diagnosis": "The ion charges would total −1."
+        },
+        {
+          "response": "N₂H₄CO₃",
+          "diagnosis": "The H count did not scale with the entire ammonium group."
+        }
+      ],
+      "metacognitive_question": "Which internal subscripts must stay unchanged while balancing ions?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.039"
+      ]
+    },
+    {
+      "id": "pwb.act.037",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build iron(III) chloride from Fe³⁺ and Cl⁻. State how many iron atoms occur per formula unit.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Translate the Roman numeral into a charge first."
+        },
+        {
+          "level": 2,
+          "text": "Balance one +3 with three −1 ions."
+        },
+        {
+          "level": 3,
+          "text": "Read the completed formula to count iron."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "Fe₃Cl",
+          "diagnosis": "The Roman numeral was read as an atom count."
+        }
+      ],
+      "metacognitive_question": "Where did the Roman numeral go during formula construction?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.040"
+      ]
+    },
+    {
+      "id": "pwb.act.038",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build iron(II) oxide and iron(III) oxide side by side using O²⁻.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write both cation charges explicitly."
+        },
+        {
+          "level": 2,
+          "text": "Balance each compound independently."
+        },
+        {
+          "level": 3,
+          "text": "Use total charge zero, then reduce the ratio."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "both FeO",
+          "diagnosis": "The change in metal charge was ignored."
+        }
+      ],
+      "metacognitive_question": "What changes when the atom identity stays fixed but charge changes?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.031"
+      ]
+    },
+    {
+      "id": "pwb.act.039",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "Build zinc chloride from Zn²⁺ and Cl⁻, then silver oxide from Ag⁺ and O²⁻. The charges are explicitly supplied.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Solve one pair at a time."
+        },
+        {
+          "level": 2,
+          "text": "Match total positive and negative magnitude."
+        },
+        {
+          "level": 3,
+          "text": "Keep the metal first in each neutral formula."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "ZnCl and AgO",
+          "diagnosis": "A 1:1 ratio was assumed without a charge check."
+        }
+      ],
+      "metacognitive_question": "Does knowing the names remove the need to check neutrality?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.032"
+      ]
+    },
+    {
+      "id": "pwb.act.040",
+      "namespace": "pwb",
+      "topic": "formula_assembly",
+      "prompt": "A learner writes Ca₂(CO₃)₂ for Ca²⁺ with CO₃²⁻. Give the simplest formula without changing carbonate’s internal composition.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "The charges have equal magnitude."
+        },
+        {
+          "level": 2,
+          "text": "Reduce the ratio of whole ion units."
+        },
+        {
+          "level": 3,
+          "text": "Do not reduce inside CO₃."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "CaCO",
+          "diagnosis": "The reduction was incorrectly applied inside a polyatomic ion."
+        }
+      ],
+      "metacognitive_question": "Which numbers are ion counts and which define ion identity?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_audit",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.04",
+      "transfer_activity_ids": [
+        "pwb.act.033"
+      ]
+    },
+    {
+      "id": "pwb.act.041",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name NaCl using the introductory ionic naming system.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Recognize the ionic components."
+        },
+        {
+          "level": 2,
+          "text": "Na keeps its element name."
+        },
+        {
+          "level": 3,
+          "text": "Cl becomes chloride."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "sodium monochloride",
+          "diagnosis": "A molecular prefix was imported into ordinary ionic naming."
+        }
+      ],
+      "metacognitive_question": "What choice of naming system did you make first?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.044"
+      ]
+    },
+    {
+      "id": "pwb.act.042",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name FeCl₂; show how the chloride charges determine the Roman numeral.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Each chloride is −1."
+        },
+        {
+          "level": 2,
+          "text": "The whole formula is neutral."
+        },
+        {
+          "level": 3,
+          "text": "Use the required iron charge in the Roman numeral."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "iron(I) dichloride",
+          "diagnosis": "Atom count and molecular prefixes replaced ionic charge logic."
+        }
+      ],
+      "metacognitive_question": "What evidence fixes the numeral without guessing from the table?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.045"
+      ]
+    },
+    {
+      "id": "pwb.act.043",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name Fe₂O₃ and explain why the Roman numeral is not II.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find total oxide charge."
+        },
+        {
+          "level": 2,
+          "text": "Divide the required positive charge between two Fe ions."
+        },
+        {
+          "level": 3,
+          "text": "Name the charge on one metal ion."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "iron(II) oxide",
+          "diagnosis": "The Fe subscript was mistaken for the charge of each iron."
+        }
+      ],
+      "metacognitive_question": "Are you naming total positive charge or charge per ion?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.046"
+      ]
+    },
+    {
+      "id": "pwb.act.044",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name CuCl and CuCl₂ side by side.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Assign chloride −1 in each formula."
+        },
+        {
+          "level": 2,
+          "text": "Balance each neutral unit."
+        },
+        {
+          "level": 3,
+          "text": "Convert the copper charge into a Roman numeral."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "copper chloride for both",
+          "diagnosis": "The variable metal charge was left unspecified."
+        }
+      ],
+      "metacognitive_question": "Why does copper need information that sodium ordinarily does not?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.047"
+      ]
+    },
+    {
+      "id": "pwb.act.045",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name ZnCl₂ and Ag₂O in the common introductory fixed-charge convention (Zn²⁺ and Ag⁺).",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use the charges provided in the prompt."
+        },
+        {
+          "level": 2,
+          "text": "Do not use prefixes to count ionic formula subscripts."
+        },
+        {
+          "level": 3,
+          "text": "Name the cation and then the anion."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "disilver monoxide",
+          "diagnosis": "Molecular prefixes were used for an ionic salt."
+        }
+      ],
+      "metacognitive_question": "Which part is a convention and which part is charge chemistry?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.048"
+      ]
+    },
+    {
+      "id": "pwb.act.046",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name neutral CO₂ with the binary molecular system, and explain the 2.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Both elements are nonmetals."
+        },
+        {
+          "level": 2,
+          "text": "Two gives the prefix di-."
+        },
+        {
+          "level": 3,
+          "text": "Oxygen becomes oxide in the second name."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "carbon(II) oxide",
+          "diagnosis": "An ionic metal-charge numeral was substituted for the molecular count."
+        }
+      ],
+      "metacognitive_question": "How does this 2 differ from the 2+ in Ca²⁺?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.049"
+      ]
+    },
+    {
+      "id": "pwb.act.047",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name N₂O₄ using standard binary molecular spelling.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Use a prefix on the first element because there are two."
+        },
+        {
+          "level": 2,
+          "text": "Four gives tetra-."
+        },
+        {
+          "level": 3,
+          "text": "The conventional spelling is tetroxide."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "nitrogen(II) oxide",
+          "diagnosis": "A molecular subscript was converted to an ionic Roman numeral."
+        }
+      ],
+      "metacognitive_question": "Which prefix tells you the nitrogen count?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.050"
+      ]
+    },
+    {
+      "id": "pwb.act.048",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Write the formula for sulfur dioxide. Do not infer sulfur’s charge from di-.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "No first-element prefix here means one sulfur."
+        },
+        {
+          "level": 2,
+          "text": "Di- modifies oxygen’s atom count."
+        },
+        {
+          "level": 3,
+          "text": "Translate counts into subscripts."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "S₂O",
+          "diagnosis": "The prefix was attached to the wrong element."
+        }
+      ],
+      "metacognitive_question": "Which word does each prefix modify?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "formula_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.041"
+      ]
+    },
+    {
+      "id": "pwb.act.049",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Choose the introductory naming route for MgCl₂, PCl₃, and (NH₄)₂SO₄. Name all three.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Identify familiar ions before counting prefixes."
+        },
+        {
+          "level": 2,
+          "text": "NH₄⁺ remains an ion although it contains no metal."
+        },
+        {
+          "level": 3,
+          "text": "Use prefixes only for the listed binary molecular compound."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "diammonium sulfate",
+          "diagnosis": "The count of ionic units was turned into a molecular prefix."
+        }
+      ],
+      "metacognitive_question": "Which example defeats “no metal means molecular compound”?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "naming_system_sort",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.042"
+      ]
+    },
+    {
+      "id": "pwb.act.050",
+      "namespace": "pwb",
+      "topic": "naming",
+      "prompt": "Name Ca(NO₃)₂ and then explain why its name does not contain dinitrate in this convention.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Treat nitrate as a named ion."
+        },
+        {
+          "level": 2,
+          "text": "Calcium has the supplied/common +2 charge."
+        },
+        {
+          "level": 3,
+          "text": "The charge balance already fixes the ratio."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "calcium dinitrate",
+          "diagnosis": "A molecular counting prefix was added to an ionic anion name."
+        }
+      ],
+      "metacognitive_question": "How could you reconstruct the missing visible count from the name?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "name_builder",
+      "mode": "build_formula",
+      "release_phase": "core",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.05",
+      "transfer_activity_ids": [
+        "pwb.act.043"
+      ]
+    },
+    {
+      "id": "pwb.act.051",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "Use table valence counts to find total valence electrons for H₂O before drawing bonds.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count atoms of each element."
+        },
+        {
+          "level": 2,
+          "text": "Use valence counts, not atomic numbers."
+        },
+        {
+          "level": 3,
+          "text": "Multiply then add."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "10",
+          "diagnosis": "O atomic number was used instead of its valence count."
+        }
+      ],
+      "metacognitive_question": "Which table field belongs in a Lewis electron budget?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_budget",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.054"
+      ]
+    },
+    {
+      "id": "pwb.act.052",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "Count total valence electrons for NH₄⁺; explain the charge adjustment.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Sum N and four H contributions first."
+        },
+        {
+          "level": 2,
+          "text": "Positive means an electron deficit."
+        },
+        {
+          "level": 3,
+          "text": "Subtract one from nine."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "10",
+          "diagnosis": "A positive charge was treated as an added electron."
+        }
+      ],
+      "metacognitive_question": "Does a plus sign add protons in this Lewis bookkeeping step?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_budget",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.055"
+      ]
+    },
+    {
+      "id": "pwb.act.053",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "Count total valence electrons for CO₃²⁻ without choosing a resonance drawing yet.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Carbon contributes four."
+        },
+        {
+          "level": 2,
+          "text": "Three oxygens contribute eighteen."
+        },
+        {
+          "level": 3,
+          "text": "Add two for the negative charge."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "20",
+          "diagnosis": "The ion’s negative charge was subtracted rather than added."
+        }
+      ],
+      "metacognitive_question": "How does your charge adjustment compare with NH₄⁺?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "electron_budget",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.056"
+      ]
+    },
+    {
+      "id": "pwb.act.054",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "Build a Lewis structure for CH₄. Report central-atom bonds and lone pairs; check H’s duet.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Carbon is central; H is terminal."
+        },
+        {
+          "level": 2,
+          "text": "A single bond accounts for two electrons."
+        },
+        {
+          "level": 3,
+          "text": "Four bonds use the whole budget."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "lone pairs added to carbon",
+          "diagnosis": "The eight-electron total was exceeded."
+        }
+      ],
+      "metacognitive_question": "How can you check both budget and local shell counts?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "lewis_canvas",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.057"
+      ]
+    },
+    {
+      "id": "pwb.act.055",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "For H₂O, use two O–H bonds and two lone pairs on O. Give domains, electron geometry, and molecular shape.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count each bond region once."
+        },
+        {
+          "level": 2,
+          "text": "Count each lone pair as one region."
+        },
+        {
+          "level": 3,
+          "text": "Distinguish all regions from positions of atoms."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "linear because two bonds",
+          "diagnosis": "The lone-pair domains were ignored."
+        },
+        {
+          "response": "tetrahedral molecular shape",
+          "diagnosis": "Electron geometry was substituted for atom-only shape."
+        }
+      ],
+      "metacognitive_question": "Which objects disappear when you name molecular shape?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "domain_counter",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.058"
+      ]
+    },
+    {
+      "id": "pwb.act.056",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "For NH₃, draw three N–H single bonds and one N lone pair. Give domains, electron geometry, and molecular shape.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Add bonds and lone pairs around N."
+        },
+        {
+          "level": 2,
+          "text": "Four regions set the electron geometry."
+        },
+        {
+          "level": 3,
+          "text": "One of those regions is not an attached atom."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "trigonal planar",
+          "diagnosis": "Only the three bonds were counted."
+        }
+      ],
+      "metacognitive_question": "Why do NH₃ and CH₄ share electron geometry but differ in shape?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "domain_counter",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.059"
+      ]
+    },
+    {
+      "id": "pwb.act.057",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "Use O=C=O for CO₂. How many electron domains surround C? Give electron geometry and molecular shape.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Count directions from the central atom."
+        },
+        {
+          "level": 2,
+          "text": "A multiple bond occupies one domain."
+        },
+        {
+          "level": 3,
+          "text": "There are two oxygen directions."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "4 domains",
+          "diagnosis": "Bond pairs were counted instead of bonding regions."
+        }
+      ],
+      "metacognitive_question": "What changes when counting pairs versus counting domains?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "domain_counter",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.060"
+      ]
+    },
+    {
+      "id": "pwb.act.058",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "Build HCl. State total valence electrons, the bond count, lone pairs on Cl, and the molecular shape.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "H contributes one and Cl seven."
+        },
+        {
+          "level": 2,
+          "text": "Use one pair for H–Cl."
+        },
+        {
+          "level": 3,
+          "text": "Place the remaining six electrons on Cl."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "H must have an octet",
+          "diagnosis": "Hydrogen follows a duet in this structure."
+        }
+      ],
+      "metacognitive_question": "Why is searching for a central atom unnecessary here?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "lewis_canvas",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.051"
+      ]
+    },
+    {
+      "id": "pwb.act.059",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "For the carbonate ion, use one C=O and two C–O⁻ bonds in any one of its three equivalent resonance contributors. Count domains at C and name the geometry.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Choose any one contributor for bookkeeping."
+        },
+        {
+          "level": 2,
+          "text": "A double bond is still one domain."
+        },
+        {
+          "level": 3,
+          "text": "Three oxygen directions surround C."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "4 domains",
+          "diagnosis": "The double bond was counted twice."
+        },
+        {
+          "response": "one oxygen is always double-bonded",
+          "diagnosis": "A single resonance drawing was mistaken for a fixed localized structure."
+        }
+      ],
+      "metacognitive_question": "What stays unchanged across the resonance drawings?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-6-molecular-structure-and-polarity"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "domain_counter",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.052"
+      ]
+    },
+    {
+      "id": "pwb.act.060",
+      "namespace": "pwb",
+      "topic": "lewis_and_domains",
+      "prompt": "A learner says every stable molecule must give every atom eight electrons. Correct this using H₂ and neutral monomeric BF₃ as the specified introductory Lewis examples.",
+      "scope": {
+        "elements": "H–Ca unless explicitly named",
+        "species": "as stated"
+      },
+      "answer_policy": {
+        "kind": "semantic_equivalence",
+        "normalization": "Normalize whitespace and Unicode superscripts/subscripts. Accept explicit ASCII charge via caret, for example Fe^2+, NH4^+, or SO4^2-. Ask to clarify ambiguous Fe2+; preserve Fe2 as an atom-count expression and never infer a missing sign. Formula case is chemically meaningful (Co is not CO).",
+        "grading": "Use corresponding answer_keys entry. Score scientific components separately; explain a rejected component. Accept correct equivalent reasoning rather than keyword matching."
+      },
+      "hints": [
+        {
+          "level": 1,
+          "text": "Check the first-shell capacity of H."
+        },
+        {
+          "level": 2,
+          "text": "Count three B–F bonds around boron."
+        },
+        {
+          "level": 3,
+          "text": "Three bonding pairs place six electrons around B."
+        }
+      ],
+      "distractor_reasoning": [
+        {
+          "response": "add a fourth B bond with no added atom/electron accounting",
+          "diagnosis": "The drawing was changed merely to force an octet."
+        }
+      ],
+      "metacognitive_question": "When should you question a heuristic instead of forcing the data to fit?",
+      "source_refs": [
+        "https://openstax.org/books/chemistry-2e/pages/7-3-lewis-symbols-and-structures"
+      ],
+      "timing": "untimed",
+      "reveal_policy": "prediction → optional hints → revision → reveal on request; never advance automatically",
+      "interaction_capability": "model_boundary",
+      "mode": "lewis_structure",
+      "release_phase": "extension_gated",
+      "entry_state": "reference_aided_practice by default; learner may opt into recall with answer-bearing overlays hidden",
+      "journey_id": "pwb.journey.06",
+      "transfer_activity_ids": [
+        "pwb.act.053"
+      ]
+    }
+  ],
+  "grading_contract": "Semantic rubrics are desired judgments, not an implemented free-text or AI grader. The integration owner maps supported deterministic component checks and uses a transparent learner self-check otherwise; do not use keyword matching as a substitute for reasoning.",
+  "delivery_contract": "This authoring file contains prompt and three hint stages. Runtime must project only prompt metadata initially; load or display hint levels only on learner request. Answer keys are separate and available only for reveal/self-check. This is pedagogical separation, not a security guarantee."
+}

@@ -1,0 +1,69 @@
+{
+  "packet_title": "Ms Luminara Periodic Table Workbench",
+  "packet_version": "2026-10-06.1",
+  "delivery_kind": "design_and_content_only",
+  "native_api_claim": false,
+  "coverage_file": "coverage_manifest.json",
+  "integrity_file": "SHA256SUMS.txt",
+  "entry_point": "00_START_HERE.md",
+  "files": [
+    {
+      "path": "00_START_HERE.md",
+      "bytes": 7622
+    },
+    {
+      "path": "01_WORKBENCH_UX.md",
+      "bytes": 35708
+    },
+    {
+      "path": "02_LEARNING_PATHS.md",
+      "bytes": 22367
+    },
+    {
+      "path": "03_CHEMISTRY_DATA_AND_VALIDATION.md",
+      "bytes": 16184
+    },
+    {
+      "path": "04_CODEX_INTEGRATION_HANDOFF.md",
+      "bytes": 10529
+    },
+    {
+      "path": "05_ACCEPTANCE_TESTS.md",
+      "bytes": 10755
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 3882
+    },
+    {
+      "path": "QA_STATUS.md",
+      "bytes": 2967
+    },
+    {
+      "path": "activities.json",
+      "bytes": 129989
+    },
+    {
+      "path": "answer_keys.json",
+      "bytes": 43312
+    },
+    {
+      "path": "coverage_manifest.json",
+      "bytes": 5572
+    },
+    {
+      "path": "interaction_contract.json",
+      "bytes": 32493
+    },
+    {
+      "path": "packet_structural_checks.json",
+      "bytes": 4167
+    },
+    {
+      "path": "reference_data.json",
+      "bytes": 63813
+    }
+  ],
+  "independent_review_status": "passed_design_and_content_2026-10-06",
+  "native_runtime_status": "not_inspected_or_tested"
+}

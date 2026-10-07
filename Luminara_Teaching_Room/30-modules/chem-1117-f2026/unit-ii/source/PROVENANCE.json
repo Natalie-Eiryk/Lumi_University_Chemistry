@@ -1,0 +1,108 @@
+{
+  "purpose": "Unit II editorial source custody; native compiler independently validates admitted content",
+  "imported": "2026-10-06",
+  "sourceFolder": "C:/Users/hauge/OneDrive/Documents/ChatGPT - School & Legal/nursing school/Chem_1117_F2026/Lumi_Unit_II_Teaching_Content_Handoff",
+  "publicPdf": false,
+  "originalPdf": {
+    "path": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\sources\\1117 Unit II Review Sheet F25.pdf",
+    "sha256": "eb55cf0d0aa171b3e749808de67e36de9b9c6f87ccab5a2b9f6fa9e3e425d7b8"
+  },
+  "records": [
+    {
+      "file": "00_START_HERE.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\00_START_HERE.md",
+      "sha256": "092125e7c3f60b7ad422b28269e71d68136c90006c8b4fc914dab05f1fb2bca8",
+      "bytes": 6326
+    },
+    {
+      "file": "01_ions_formulas_naming.answer_key.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\01_ions_formulas_naming.answer_key.md",
+      "sha256": "96f6ccf1eeff46accea986062a894f73c7b6f9683dfc83d0c928f128ea314b6d",
+      "bytes": 17750
+    },
+    {
+      "file": "01_ions_formulas_naming.items.json",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\01_ions_formulas_naming.items.json",
+      "sha256": "8359276632e6258d0cfda5c6be83f831a5be7456e2db990b8e8de163d4ac91ef",
+      "bytes": 148855
+    },
+    {
+      "file": "01_ions_formulas_naming.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\01_ions_formulas_naming.md",
+      "sha256": "a751b89a007644a8427ad1d6aa47a62105027d19cc66fb86fae11e625c652b66",
+      "bytes": 59662
+    },
+    {
+      "file": "02_lewis_geometry_answers.json",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\02_lewis_geometry_answers.json",
+      "sha256": "7fc3834ff60c722ab95eae6376289017d1724fd00eb50820c731b07bf500b4b2",
+      "bytes": 13338
+    },
+    {
+      "file": "02_lewis_geometry_answers.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\02_lewis_geometry_answers.md",
+      "sha256": "02f49f54bde6358e5ec126a1b5ec8d1493a6d2abd6889cea5a9b327dae312409",
+      "bytes": 10090
+    },
+    {
+      "file": "02_lewis_geometry_items.json",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\02_lewis_geometry_items.json",
+      "sha256": "0e216d46cb6a3668819accb583c999f5e9d017429fa1cd5fe2081eb050d73414",
+      "bytes": 23053
+    },
+    {
+      "file": "02_lewis_geometry.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\02_lewis_geometry.md",
+      "sha256": "bad3c7d2a7d5d11441b92b6c65037ff0fac3a3c79e4b70f2008ed6c9b256bb69",
+      "bytes": 19805
+    },
+    {
+      "file": "03_SESSION_AND_FEEDBACK.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\03_SESSION_AND_FEEDBACK.md",
+      "sha256": "1479092008f6ee0a13e0be84465421f26389ba226a4813573ea8136c9145879a",
+      "bytes": 9049
+    },
+    {
+      "file": "04_CODEX_HANDOFF.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\04_CODEX_HANDOFF.md",
+      "sha256": "13fa9bed45fa2aa7429b631bd4d48fc23424f994a6a117441d2b9675b5a108be",
+      "bytes": 9472
+    },
+    {
+      "file": "coverage_manifest.json",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\coverage_manifest.json",
+      "sha256": "1f6145e4a94dd4331f5e9483fe4a5c38c6a8788a724e9e5ffcfc55c71f1c8b86",
+      "bytes": 8640
+    },
+    {
+      "file": "PROVENANCE.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\PROVENANCE.md",
+      "sha256": "8bc61fd10e4fb3805dd2506921dd81f01e2b98be7f16a25688d64d570efcfe8c",
+      "bytes": 5319
+    },
+    {
+      "file": "QA_STATUS.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\QA_STATUS.md",
+      "sha256": "9847a6785dfef55f174d9cf34607a4c97d4af24db717816fd8bea8094b4c0a22",
+      "bytes": 1761
+    },
+    {
+      "file": "SHA256SUMS.txt",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\SHA256SUMS.txt",
+      "sha256": "5fda86086a52dc6c312fb5cbcc2bcef993122619985e7a678ca5ebefc6fc6e76",
+      "bytes": 1478
+    },
+    {
+      "file": "sources/content_blueprint.md",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\sources\\content_blueprint.md",
+      "sha256": "0d33524b0fe0ff448d7ed3ded19251f5cd353a741bf1ff50bcf7623ebbe0e550",
+      "bytes": 17533
+    },
+    {
+      "file": "sources/worksheet_text.txt",
+      "source": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_Unit_II_Teaching_Content_Handoff\\sources\\worksheet_text.txt",
+      "sha256": "be9d53fe9ef129ca8c24c5ed6a1b3df61cc15c59e3763210fc86a7cfdd064da6",
+      "bytes": 4952
+    }
+  ]
+}

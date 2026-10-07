@@ -1,0 +1,88 @@
+{
+  "sourceFolder": "C:/Users/hauge/OneDrive/Documents/ChatGPT - School & Legal/nursing school/Chem_1117_F2026/Lumi_University_Q13_Targeted_Scaffolds_v0.1.0/Lumi_University_Q13_Targeted_Scaffolds_v0.1.0",
+  "publicDeployment": false,
+  "inputs": [
+    {
+      "name": "00_START_HERE.md",
+      "sha256": "bcd8d7dde89316a5d33d0ec66000ebab733a000735852083fc046abb9aef654f",
+      "bytes": 4774
+    },
+    {
+      "name": "01_CODEX_HANDOFF.md",
+      "sha256": "ac379308d21ca518e856ad619d834f5c04acbb1fa2f936dce2b65103135172a2",
+      "bytes": 7394
+    },
+    {
+      "name": "03_SESSION_AND_BRANCHING.md",
+      "sha256": "0690764d24b84143e539922b8abc8d2111c67c1673618e42fdd9776545f30cd3",
+      "bytes": 4942
+    },
+    {
+      "name": "04_FADING_AND_TRANSFER.md",
+      "sha256": "c561fe4964a38a4b198bd339b815613dd51d511d625508554fa749b727accdf2",
+      "bytes": 4855
+    },
+    {
+      "name": "05_FEEDBACK_AND_UI_CONTRACT.md",
+      "sha256": "fe9858a3b59d66c465d209a852e9f289cc0460f468b043320cec712970b62d3f",
+      "bytes": 7247
+    },
+    {
+      "name": "06_EXISTING_ID_BINDINGS.md",
+      "sha256": "fff178a4fdd98131856577c06dc29d07f325dc476ed5c8e89692609437730f0a",
+      "bytes": 9796
+    },
+    {
+      "name": "07_ACCEPTANCE_TESTS.md",
+      "sha256": "63a029675965dfac19045b24262f31d10acc396663e144f589801d69696f20d5",
+      "bytes": 8297
+    },
+    {
+      "name": "08_CARRY_CARD.md",
+      "sha256": "3abeed4eb5423aeb86b744a85edf37d4c9d3aee1d5307f6cb14a31c51279567f",
+      "bytes": 2477
+    },
+    {
+      "name": "09_SOURCES_DECISIONS_AND_QA.md",
+      "sha256": "7750ace837a9cbeb0c693ec5328a1da7f0a5a7678373fa42cf57211fb737cbca",
+      "bytes": 11731
+    },
+    {
+      "name": "scaffolds/Q13-SCF-01_TWO_CHECKS.md",
+      "sha256": "95e39dc03a76c05e70c2dca00f719a8d6046459bbb789fd7c1aadd500033bb8e",
+      "bytes": 5491
+    },
+    {
+      "name": "scaffolds/Q13-SCF-02_SYMBOLS.md",
+      "sha256": "31e97999bb4b0e5a05f488632cdece1fca65c641f71d40a284c52026bf54b075",
+      "bytes": 4611
+    },
+    {
+      "name": "scaffolds/Q13-SCF-03_WHOLE_IONS.md",
+      "sha256": "e1549982cda5eae37ca02afd0c7c90703b2d7887a74800c7fbb2c2182e825fd5",
+      "bytes": 6745
+    },
+    {
+      "name": "scaffolds/Q13-SCF-04_ROMAN_NUMERALS.md",
+      "sha256": "d357736cfb5d427340b1fbe2eb399b32d4c08a7a0d259e17b8169f9262690040",
+      "bytes": 4431
+    },
+    {
+      "name": "scaffolds/Q13-SCF-05_PREFIXES.md",
+      "sha256": "3d3c3ad43c8f01340685031f117cf907f946b8a68ad1c7fab47ad4f618079368",
+      "bytes": 5439
+    },
+    {
+      "name": "scaffolds/Q13-SCF-06_BOUNDARIES.md",
+      "sha256": "b54ba35e20ed9aa00adb021a897c6b6be87587b9f16873fbc5d3548efa018c47",
+      "bytes": 7026
+    }
+  ],
+  "packageId": "LU-CHEM-Q13-SCAFFOLDS",
+  "canonPromotion": false,
+  "excluded": [
+    "private/02_EVIDENCE_MAP.md"
+  ],
+  "version": "0.1.0",
+  "status": "editorial_draft"
+}

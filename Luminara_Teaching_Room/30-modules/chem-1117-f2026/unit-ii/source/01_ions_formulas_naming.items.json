@@ -1,0 +1,3869 @@
+{
+  "metadata": {
+    "title": "Ions formulas and chemical names",
+    "schema_version": "1.0",
+    "id_policy": "LUMI-U2-Qnn-X anchors source subitems; LUMI-U2-NEW-Sn-nn are supplemental and must never be relabeled as worksheet questions.",
+    "source": "Chem. 1117 Review Unit II Chapters 4-5; 1117 Unit II Review Sheet F25.pdf",
+    "coverage": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q5",
+      "Q6",
+      "Q7",
+      "Q8",
+      "Q9",
+      "Q15",
+      "Q16"
+    ],
+    "stations": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "source_authority": "Worksheet fixes prompts, not an instructor answer key. Supplemental hints, explanations, diagnostics, and transfers are newly authored.",
+    "normalization": [
+      "Accept Unicode subscripts/superscripts and unambiguous plain text.",
+      "Never normalize case blindly in formulas: CO and Co differ.",
+      "Accept harmless spacing/case variations in names and Roman numerals.",
+      "Distinguish wrong charge, wrong atom counts, and only notation problems.",
+      "Valid alternate names receive recognition; course-preferred convention may need confirmation."
+    ],
+    "references": [
+      {
+        "title": "Original worksheet",
+        "location": "sources/1117 Unit II Review Sheet F25.pdf",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8
+        ]
+      },
+      {
+        "title": "Chemical nomenclature reference",
+        "url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      },
+      {
+        "title": "Osmium tetroxide identity",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/30318"
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "LUMI-U2-NEW-S0-01",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify N as E, I, IC, or CC. First state whether an overall charge is shown; then count the kinds of elements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at superscripts separately from subscripts."
+        },
+        {
+          "level": 2,
+          "text": "A written overall charge identifies an ion. If neutral, ask whether there is one element or more."
+        },
+        {
+          "level": 3,
+          "text": "The missing subscript means one atom."
+        }
+      ],
+      "answer": "E",
+      "explanation": "A neutral nitrogen atom has only one element.",
+      "diagnostic_feedback": {
+        "species_type": "Read the category as a statement about the whole written species, not one bond inside it."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S0-02",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify N³− as E, I, IC, or CC. First state whether an overall charge is shown; then count the kinds of elements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at superscripts separately from subscripts."
+        },
+        {
+          "level": 2,
+          "text": "A written overall charge identifies an ion. If neutral, ask whether there is one element or more."
+        },
+        {
+          "level": 3,
+          "text": "Charge takes priority over atom count in this classification."
+        }
+      ],
+      "answer": "I",
+      "explanation": "The superscript shows a net −3 charge; this is a nitride ion.",
+      "diagnostic_feedback": {
+        "species_type": "Read the category as a statement about the whole written species, not one bond inside it."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S0-03",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify NH₄+ as E, I, IC, or CC. First state whether an overall charge is shown; then count the kinds of elements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at superscripts separately from subscripts."
+        },
+        {
+          "level": 2,
+          "text": "A written overall charge identifies an ion. If neutral, ask whether there is one element or more."
+        },
+        {
+          "level": 3,
+          "text": "Several elements do not automatically mean a neutral compound."
+        }
+      ],
+      "answer": "I",
+      "explanation": "Ammonium is a group of covalently bonded atoms with a net +1 charge.",
+      "diagnostic_feedback": {
+        "species_type": "Read the category as a statement about the whole written species, not one bond inside it."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S0-04",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify (NH₄)₂CO₃ as E, I, IC, or CC. First state whether an overall charge is shown; then count the kinds of elements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at superscripts separately from subscripts."
+        },
+        {
+          "level": 2,
+          "text": "A written overall charge identifies an ion. If neutral, ask whether there is one element or more."
+        },
+        {
+          "level": 3,
+          "text": "No metal is required when the cation is ammonium."
+        }
+      ],
+      "answer": "IC",
+      "explanation": "Ammonium cations and carbonate anions form an overall neutral ionic compound.",
+      "diagnostic_feedback": {
+        "species_type": "Read the category as a statement about the whole written species, not one bond inside it."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S0-05",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify CO₂ as E, I, IC, or CC. First state whether an overall charge is shown; then count the kinds of elements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at superscripts separately from subscripts."
+        },
+        {
+          "level": 2,
+          "text": "A written overall charge identifies an ion. If neutral, ask whether there is one element or more."
+        },
+        {
+          "level": 3,
+          "text": "The 2 counts oxygen atoms, not charge."
+        }
+      ],
+      "answer": "CC",
+      "explanation": "Carbon dioxide is a neutral compound of covalently bonded nonmetals.",
+      "diagnostic_feedback": {
+        "species_type": "Read the category as a statement about the whole written species, not one bond inside it."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S0-06",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify N₂ as E, I, IC, or CC. First state whether an overall charge is shown; then count the kinds of elements.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Look at superscripts separately from subscripts."
+        },
+        {
+          "level": 2,
+          "text": "A written overall charge identifies an ion. If neutral, ask whether there is one element or more."
+        },
+        {
+          "level": 3,
+          "text": "Covalent bonds do not by themselves make something a covalent compound."
+        }
+      ],
+      "answer": "E",
+      "explanation": "Two nitrogen atoms form a molecule of an element. It is not a compound because there is only one element.",
+      "diagnostic_feedback": {
+        "species_type": "Read the category as a statement about the whole written species, not one bond inside it."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S0-07",
+      "station": 0,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Classify O₂, O²−, and MgO. Explain why the two 2s have different jobs.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate each 2 relative to the symbol."
+        },
+        {
+          "level": 2,
+          "text": "Subscript counts atoms; superscript reports charge."
+        },
+        {
+          "level": 3,
+          "text": "Mg is a metal and O a nonmetal; the introductory ionic model fits MgO."
+        }
+      ],
+      "answer": "O₂: E; O²−: I; MgO: IC",
+      "explanation": "O₂ has two O atoms and no net charge; O²− is one oxide ion; MgO combines Mg²+ and O²− in a neutral ratio.",
+      "diagnostic_feedback": {
+        "charge_subscript": "Try reading the notation aloud: two oxygen atoms versus oxygen with charge minus two."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q01-A",
+      "station": 1,
+      "original_anchor": "Q1a",
+      "kind": "source",
+      "prompt": "Define ion in your own words. Include the feature that distinguishes it.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is this naming a particle, a charge sign, an interaction, or a substance?"
+        },
+        {
+          "level": 2,
+          "text": "Use net charge for particles, attraction for the bond, and balance for the compound."
+        },
+        {
+          "level": 3,
+          "text": "The definition must include charged groups as well as single atoms."
+        }
+      ],
+      "answer": "An atom or bonded group of atoms with a net electric charge.",
+      "explanation": "Unequal total positive and negative charge makes the species an ion.",
+      "diagnostic_feedback": {
+        "definition": "Check the distinguishing feature instead of matching wording; a correct paraphrase is enough."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "grading": "concept checklist, not exact text"
+    },
+    {
+      "id": "LUMI-U2-Q01-B",
+      "station": 1,
+      "original_anchor": "Q1b",
+      "kind": "source",
+      "prompt": "Define anion in your own words. Include the feature that distinguishes it.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is this naming a particle, a charge sign, an interaction, or a substance?"
+        },
+        {
+          "level": 2,
+          "text": "Use net charge for particles, attraction for the bond, and balance for the compound."
+        },
+        {
+          "level": 3,
+          "text": "Electrons carry negative charge."
+        }
+      ],
+      "answer": "A negatively charged ion.",
+      "explanation": "For a monatomic ion formed from a neutral atom, gaining electrons produces the negative charge.",
+      "diagnostic_feedback": {
+        "definition": "Check the distinguishing feature instead of matching wording; a correct paraphrase is enough."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "grading": "concept checklist, not exact text"
+    },
+    {
+      "id": "LUMI-U2-Q01-C",
+      "station": 1,
+      "original_anchor": "Q1c",
+      "kind": "source",
+      "prompt": "Define cation in your own words. Include the feature that distinguishes it.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is this naming a particle, a charge sign, an interaction, or a substance?"
+        },
+        {
+          "level": 2,
+          "text": "Use net charge for particles, attraction for the bond, and balance for the compound."
+        },
+        {
+          "level": 3,
+          "text": "Removing negative charge leaves positive net charge."
+        }
+      ],
+      "answer": "A positively charged ion.",
+      "explanation": "For a monatomic ion formed from a neutral atom, losing electrons produces the positive charge.",
+      "diagnostic_feedback": {
+        "definition": "Check the distinguishing feature instead of matching wording; a correct paraphrase is enough."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "grading": "concept checklist, not exact text"
+    },
+    {
+      "id": "LUMI-U2-Q01-D",
+      "station": 1,
+      "original_anchor": "Q1d",
+      "kind": "source",
+      "prompt": "Define ionic bond in your own words. Include the feature that distinguishes it.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is this naming a particle, a charge sign, an interaction, or a substance?"
+        },
+        {
+          "level": 2,
+          "text": "Use net charge for particles, attraction for the bond, and balance for the compound."
+        },
+        {
+          "level": 3,
+          "text": "What electrostatic force exists after the ions form?"
+        }
+      ],
+      "answer": "Electrostatic attraction between oppositely charged ions.",
+      "explanation": "Electron transfer may form ions; the attractive interaction is the bond.",
+      "diagnostic_feedback": {
+        "definition": "Check the distinguishing feature instead of matching wording; a correct paraphrase is enough."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "grading": "concept checklist, not exact text"
+    },
+    {
+      "id": "LUMI-U2-Q01-E",
+      "station": 1,
+      "original_anchor": "Q1e",
+      "kind": "source",
+      "prompt": "Define ionic compound in your own words. Include the feature that distinguishes it.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Is this naming a particle, a charge sign, an interaction, or a substance?"
+        },
+        {
+          "level": 2,
+          "text": "Use net charge for particles, attraction for the bond, and balance for the compound."
+        },
+        {
+          "level": 3,
+          "text": "Can a substance contain charged pieces yet have zero total charge?"
+        }
+      ],
+      "answer": "An electrically neutral compound composed of cations and anions.",
+      "explanation": "The charges balance across the ion ratio; this does not require the individual ions to be neutral.",
+      "diagnostic_feedback": {
+        "definition": "Check the distinguishing feature instead of matching wording; a correct paraphrase is enough."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "grading": "concept checklist, not exact text"
+    },
+    {
+      "id": "LUMI-U2-Q02-A",
+      "station": 1,
+      "original_anchor": "Q2a",
+      "kind": "source",
+      "prompt": "Write the ion formed when N gains 3 electron(s), and a charge-balanced formation equation.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Keep the element symbol fixed; ordinary ion formation changes electrons."
+        },
+        {
+          "level": 2,
+          "text": "Gaining electrons makes charge more negative; losing them makes it more positive."
+        },
+        {
+          "level": 3,
+          "text": "Put the 3 electron(s) on the left side, then check charge on both sides."
+        }
+      ],
+      "answer": "N + 3e− → N³−",
+      "explanation": "The atom starts neutral. Adding 3 negative charge(s) gives charge 3−; the proton count is unchanged.",
+      "diagnostic_feedback": {
+        "charge_sign": "Count negative charges gained or removed. Do not change the nucleus or put the charge in a subscript."
+      },
+      "accepted_variants": [
+        "N³−"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "source_note": "Worksheet asks symbols; ion alone earns source-task credit. Equation is a companion extension."
+    },
+    {
+      "id": "LUMI-U2-Q02-B",
+      "station": 1,
+      "original_anchor": "Q2b",
+      "kind": "source",
+      "prompt": "Write the ion formed when Li loses 1 electron(s), and a charge-balanced formation equation.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Keep the element symbol fixed; ordinary ion formation changes electrons."
+        },
+        {
+          "level": 2,
+          "text": "Gaining electrons makes charge more negative; losing them makes it more positive."
+        },
+        {
+          "level": 3,
+          "text": "Put the 1 electron(s) on the right side, then check charge on both sides."
+        }
+      ],
+      "answer": "Li → Li+ + e−",
+      "explanation": "The atom starts neutral. Removing 1 negative charge(s) gives charge +; the proton count is unchanged.",
+      "diagnostic_feedback": {
+        "charge_sign": "Count negative charges gained or removed. Do not change the nucleus or put the charge in a subscript."
+      },
+      "accepted_variants": [
+        "Li+"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "source_note": "Worksheet asks symbols; ion alone earns source-task credit. Equation is a companion extension."
+    },
+    {
+      "id": "LUMI-U2-Q02-C",
+      "station": 1,
+      "original_anchor": "Q2c",
+      "kind": "source",
+      "prompt": "Write the ion formed when Ti loses 2 electron(s), and a charge-balanced formation equation.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Keep the element symbol fixed; ordinary ion formation changes electrons."
+        },
+        {
+          "level": 2,
+          "text": "Gaining electrons makes charge more negative; losing them makes it more positive."
+        },
+        {
+          "level": 3,
+          "text": "Put the 2 electron(s) on the right side, then check charge on both sides."
+        }
+      ],
+      "answer": "Ti → Ti²+ + 2e−",
+      "explanation": "The atom starts neutral. Removing 2 negative charge(s) gives charge 2+; the proton count is unchanged.",
+      "diagnostic_feedback": {
+        "charge_sign": "Count negative charges gained or removed. Do not change the nucleus or put the charge in a subscript."
+      },
+      "accepted_variants": [
+        "Ti²+"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "source_note": "Worksheet asks symbols; ion alone earns source-task credit. Equation is a companion extension."
+    },
+    {
+      "id": "LUMI-U2-Q02-D",
+      "station": 1,
+      "original_anchor": "Q2d",
+      "kind": "source",
+      "prompt": "Write the ion formed when Br gains 1 electron(s), and a charge-balanced formation equation.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Keep the element symbol fixed; ordinary ion formation changes electrons."
+        },
+        {
+          "level": 2,
+          "text": "Gaining electrons makes charge more negative; losing them makes it more positive."
+        },
+        {
+          "level": 3,
+          "text": "Put the 1 electron(s) on the left side, then check charge on both sides."
+        }
+      ],
+      "answer": "Br + e− → Br−",
+      "explanation": "The atom starts neutral. Adding 1 negative charge(s) gives charge −; the proton count is unchanged.",
+      "diagnostic_feedback": {
+        "charge_sign": "Count negative charges gained or removed. Do not change the nucleus or put the charge in a subscript."
+      },
+      "accepted_variants": [
+        "Br−"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "source_note": "Worksheet asks symbols; ion alone earns source-task credit. Equation is a companion extension."
+    },
+    {
+      "id": "LUMI-U2-Q03-A",
+      "station": 1,
+      "original_anchor": "Q3a",
+      "kind": "source",
+      "prompt": "Find the charge of an ion with 34 protons and 36 electrons. Show the signed subtraction.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Each proton contributes +1; each electron contributes −1."
+        },
+        {
+          "level": 2,
+          "text": "Net charge in elementary-charge units is protons minus electrons."
+        },
+        {
+          "level": 3,
+          "text": "Write 34 − 36, keeping the sign."
+        }
+      ],
+      "answer": "-2",
+      "explanation": "q/e = 34 − 36 = -2. Neutrons do not contribute electric charge.",
+      "diagnostic_feedback": {
+        "charge_sign": "An electron excess is negative; an electron deficit is positive."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q03-B",
+      "station": 1,
+      "original_anchor": "Q3b",
+      "kind": "source",
+      "prompt": "Find the charge of an ion with 11 protons and 10 electrons. Show the signed subtraction.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Each proton contributes +1; each electron contributes −1."
+        },
+        {
+          "level": 2,
+          "text": "Net charge in elementary-charge units is protons minus electrons."
+        },
+        {
+          "level": 3,
+          "text": "Write 11 − 10, keeping the sign."
+        }
+      ],
+      "answer": "+1",
+      "explanation": "q/e = 11 − 10 = +1. Neutrons do not contribute electric charge.",
+      "diagnostic_feedback": {
+        "charge_sign": "An electron excess is negative; an electron deficit is positive."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q04-A",
+      "station": 1,
+      "original_anchor": "Q4a",
+      "kind": "source",
+      "prompt": "Write the common monatomic ion of aluminum in the introductory ionic model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the element in the main-group pattern."
+        },
+        {
+          "level": 2,
+          "text": "Metals here lose electrons; the listed nonmetals gain electrons."
+        },
+        {
+          "level": 3,
+          "text": "Group 13 aluminum commonly loses three valence electrons."
+        }
+      ],
+      "answer": "Al³+",
+      "explanation": "Group 13 aluminum commonly loses three valence electrons.",
+      "diagnostic_feedback": {
+        "ion_recall": "Use the common monatomic-ion pattern here; do not treat it as a claim about every compound or oxidation state."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q04-B",
+      "station": 1,
+      "original_anchor": "Q4b",
+      "kind": "source",
+      "prompt": "Write the common monatomic ion of sodium in the introductory ionic model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the element in the main-group pattern."
+        },
+        {
+          "level": 2,
+          "text": "Metals here lose electrons; the listed nonmetals gain electrons."
+        },
+        {
+          "level": 3,
+          "text": "Group 1 commonly loses one electron."
+        }
+      ],
+      "answer": "Na+",
+      "explanation": "Group 1 commonly loses one electron.",
+      "diagnostic_feedback": {
+        "ion_recall": "Use the common monatomic-ion pattern here; do not treat it as a claim about every compound or oxidation state."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q04-C",
+      "station": 1,
+      "original_anchor": "Q4c",
+      "kind": "source",
+      "prompt": "Write the common monatomic ion of calcium in the introductory ionic model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the element in the main-group pattern."
+        },
+        {
+          "level": 2,
+          "text": "Metals here lose electrons; the listed nonmetals gain electrons."
+        },
+        {
+          "level": 3,
+          "text": "Group 2 commonly loses two electrons."
+        }
+      ],
+      "answer": "Ca²+",
+      "explanation": "Group 2 commonly loses two electrons.",
+      "diagnostic_feedback": {
+        "ion_recall": "Use the common monatomic-ion pattern here; do not treat it as a claim about every compound or oxidation state."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q04-D",
+      "station": 1,
+      "original_anchor": "Q4d",
+      "kind": "source",
+      "prompt": "Write the common monatomic ion of sulfur in the introductory ionic model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the element in the main-group pattern."
+        },
+        {
+          "level": 2,
+          "text": "Metals here lose electrons; the listed nonmetals gain electrons."
+        },
+        {
+          "level": 3,
+          "text": "Group 16 commonly gains two electrons."
+        }
+      ],
+      "answer": "S²−",
+      "explanation": "Group 16 commonly gains two electrons.",
+      "diagnostic_feedback": {
+        "ion_recall": "Use the common monatomic-ion pattern here; do not treat it as a claim about every compound or oxidation state."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q04-E",
+      "station": 1,
+      "original_anchor": "Q4e",
+      "kind": "source",
+      "prompt": "Write the common monatomic ion of iodine in the introductory ionic model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the element in the main-group pattern."
+        },
+        {
+          "level": 2,
+          "text": "Metals here lose electrons; the listed nonmetals gain electrons."
+        },
+        {
+          "level": 3,
+          "text": "Group 17 commonly gains one electron."
+        }
+      ],
+      "answer": "I−",
+      "explanation": "Group 17 commonly gains one electron.",
+      "diagnostic_feedback": {
+        "ion_recall": "Use the common monatomic-ion pattern here; do not treat it as a claim about every compound or oxidation state."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q04-F",
+      "station": 1,
+      "original_anchor": "Q4f",
+      "kind": "source",
+      "prompt": "Write the common monatomic ion of nitrogen in the introductory ionic model.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the element in the main-group pattern."
+        },
+        {
+          "level": 2,
+          "text": "Metals here lose electrons; the listed nonmetals gain electrons."
+        },
+        {
+          "level": 3,
+          "text": "Group 15 commonly gains three electrons."
+        }
+      ],
+      "answer": "N³−",
+      "explanation": "Group 15 commonly gains three electrons.",
+      "diagnostic_feedback": {
+        "ion_recall": "Use the common monatomic-ion pattern here; do not treat it as a claim about every compound or oxidation state."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S1-01",
+      "station": 1,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "An atom has 12 protons and 12 electrons. It loses two electrons. State the new electron count, charge, and what stayed unchanged.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Start with the count rather than the sign."
+        },
+        {
+          "level": 2,
+          "text": "Loss means subtract from electrons, not from protons."
+        },
+        {
+          "level": 3,
+          "text": "Evaluate 12 − 10."
+        }
+      ],
+      "answer": "10 electrons; charge +2; 12 protons remain",
+      "explanation": "The electron ledger changes from 12−12 = 0 to 12−10 = +2.",
+      "diagnostic_feedback": {
+        "charge_sign": "Removing two negative charges makes the net charge more positive."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S1-02",
+      "station": 1,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "A learner writes Ti²− for Q2c because titanium lost two electrons. Diagnose the sign error without changing the number two.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What sign belongs to an electron?"
+        },
+        {
+          "level": 2,
+          "text": "What happens when you subtract a negative quantity?"
+        },
+        {
+          "level": 3,
+          "text": "The nucleus now exceeds the electron count by two positive charges."
+        }
+      ],
+      "answer": "Ti²+; loss of two electrons removes two negative charges",
+      "explanation": "The magnitude is right; the direction of the charge change is reversed.",
+      "diagnostic_feedback": {
+        "charge_sign": "Keep the successful electron count and correct only the sign reasoning."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-A",
+      "station": 2,
+      "original_anchor": "Q5a",
+      "kind": "source",
+      "prompt": "Name the ion S²−.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the nonmetal stem with -ide."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is sulfide ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "sulfide ion",
+      "explanation": "Use the nonmetal stem with -ide.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "sulfide"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-B",
+      "station": 2,
+      "original_anchor": "Q5b",
+      "kind": "source",
+      "prompt": "Name the ion Sr²+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the fixed-charge metal name."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is strontium ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "strontium ion",
+      "explanation": "Use the fixed-charge metal name.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "strontium"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-C",
+      "station": 2,
+      "original_anchor": "Q5c",
+      "kind": "source",
+      "prompt": "Name the ion Au+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the metal name and its charge as a Roman numeral."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is gold(I) ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "gold(I) ion",
+      "explanation": "Use the metal name and its charge as a Roman numeral.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "gold(I)"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-D",
+      "station": 2,
+      "original_anchor": "Q5d",
+      "kind": "source",
+      "prompt": "Name the ion Fe³+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the metal name and its charge as a Roman numeral."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is iron(III) ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "iron(III) ion",
+      "explanation": "Use the metal name and its charge as a Roman numeral.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "iron(III)"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-E",
+      "station": 2,
+      "original_anchor": "Q5e",
+      "kind": "source",
+      "prompt": "Name the ion NH₄+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Recall the name of the whole polyatomic unit."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is ammonium ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "ammonium ion",
+      "explanation": "Recall the name of the whole polyatomic unit.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "ammonium"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-F",
+      "station": 2,
+      "original_anchor": "Q5f",
+      "kind": "source",
+      "prompt": "Name the ion CO₃²−.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Recall the name of the whole polyatomic unit."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is carbonate ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "carbonate ion",
+      "explanation": "Recall the name of the whole polyatomic unit.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "carbonate"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-G",
+      "station": 2,
+      "original_anchor": "Q5g",
+      "kind": "source",
+      "prompt": "Name the ion Sn²+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the metal name and its charge as a Roman numeral."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is tin(II) ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "tin(II) ion",
+      "explanation": "Use the metal name and its charge as a Roman numeral.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "tin(II)"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-H",
+      "station": 2,
+      "original_anchor": "Q5h",
+      "kind": "source",
+      "prompt": "Name the ion Mg²+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the fixed-charge metal name."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is magnesium ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "magnesium ion",
+      "explanation": "Use the fixed-charge metal name.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "magnesium"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-I",
+      "station": 2,
+      "original_anchor": "Q5i",
+      "kind": "source",
+      "prompt": "Name the ion Cu+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the metal name and its charge as a Roman numeral."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is copper(I) ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "copper(I) ion",
+      "explanation": "Use the metal name and its charge as a Roman numeral.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "copper(I)"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-J",
+      "station": 2,
+      "original_anchor": "Q5j",
+      "kind": "source",
+      "prompt": "Name the ion Hg²+.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Use the metal name and its charge as a Roman numeral."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is mercury(II) ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "mercury(II) ion",
+      "explanation": "Use the metal name and its charge as a Roman numeral.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "mercury(II)"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-K",
+      "station": 2,
+      "original_anchor": "Q5k",
+      "kind": "source",
+      "prompt": "Name the ion CN−.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Recall the name of the whole polyatomic unit."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is cyanide ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "cyanide ion",
+      "explanation": "Recall the name of the whole polyatomic unit.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "cyanide"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q05-L",
+      "station": 2,
+      "original_anchor": "Q5l",
+      "kind": "source",
+      "prompt": "Name the ion SO₄²−.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether this is one atom or a named group."
+        },
+        {
+          "level": 2,
+          "text": "Recall the name of the whole polyatomic unit."
+        },
+        {
+          "level": 3,
+          "text": "The complete ion name you are aiming to retrieve is sulfate ion. Explain whether its ending or Roman numeral carries any charge information."
+        }
+      ],
+      "answer": "sulfate ion",
+      "explanation": "Recall the name of the whole polyatomic unit.",
+      "diagnostic_feedback": {
+        "ion_naming": "A charge label and an atom-count prefix do different jobs. For a polyatomic ion, retrieve the whole name."
+      },
+      "accepted_variants": [
+        "sulfate"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-A",
+      "station": 2,
+      "original_anchor": "Q6a",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the selenide ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "Selenium is in group 16."
+        }
+      ],
+      "answer": "Se²−",
+      "explanation": "Selenium is in group 16.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-B",
+      "station": 2,
+      "original_anchor": "Q6b",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the silver ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "Silver uses +1 in this introductory convention."
+        }
+      ],
+      "answer": "Ag+",
+      "explanation": "Silver uses +1 in this introductory convention.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-C",
+      "station": 2,
+      "original_anchor": "Q6c",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the hydroxide ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "One oxygen and one hydrogen form a group with charge −1."
+        }
+      ],
+      "answer": "OH−",
+      "explanation": "One oxygen and one hydrogen form a group with charge −1.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-D",
+      "station": 2,
+      "original_anchor": "Q6d",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the acetate ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "Two carbons, three hydrogens, and two oxygens; overall charge −1."
+        }
+      ],
+      "answer": "C₂H₃O₂−",
+      "explanation": "Two carbons, three hydrogens, and two oxygens; overall charge −1.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [
+        "CH₃COO−"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-E",
+      "station": 2,
+      "original_anchor": "Q6e",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the hypochlorite ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "One chlorine, one oxygen, charge −1."
+        }
+      ],
+      "answer": "ClO−",
+      "explanation": "One chlorine, one oxygen, charge −1.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-F",
+      "station": 2,
+      "original_anchor": "Q6f",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the bicarbonate ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "Hydrogen carbonate has one H, one C, and three O; charge −1."
+        }
+      ],
+      "answer": "HCO₃−",
+      "explanation": "Hydrogen carbonate has one H, one C, and three O; charge −1.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-G",
+      "station": 2,
+      "original_anchor": "Q6g",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the oxide ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "Oxygen commonly gains two electrons."
+        }
+      ],
+      "answer": "O²−",
+      "explanation": "Oxygen commonly gains two electrons.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-H",
+      "station": 2,
+      "original_anchor": "Q6h",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the cobalt(II) ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "II means a +2 charge on cobalt."
+        }
+      ],
+      "answer": "Co²+",
+      "explanation": "II means a +2 charge on cobalt.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-I",
+      "station": 2,
+      "original_anchor": "Q6i",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the sulfite ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "One fewer oxygen than sulfate; the same −2 charge."
+        }
+      ],
+      "answer": "SO₃²−",
+      "explanation": "One fewer oxygen than sulfate; the same −2 charge.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-J",
+      "station": 2,
+      "original_anchor": "Q6j",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the permanganate ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "One Mn and four O; charge −1."
+        }
+      ],
+      "answer": "MnO₄−",
+      "explanation": "One Mn and four O; charge −1.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-K",
+      "station": 2,
+      "original_anchor": "Q6k",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the nitrate ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "One N and three O; charge −1."
+        }
+      ],
+      "answer": "NO₃−",
+      "explanation": "One N and three O; charge −1.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q06-L",
+      "station": 2,
+      "original_anchor": "Q6l",
+      "kind": "source",
+      "prompt": "Write the symbol or formula, including charge, for the phosphate ion.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Decide whether you need an element symbol or a whole group."
+        },
+        {
+          "level": 2,
+          "text": "Record the internal atom counts separately from the net charge."
+        },
+        {
+          "level": 3,
+          "text": "One P and four O; charge −3."
+        }
+      ],
+      "answer": "PO₄³−",
+      "explanation": "One P and four O; charge −3.",
+      "diagnostic_feedback": {
+        "ion_recall": "Check element identity, internal subscripts, and overall charge independently. A correct atom list with a missing charge is not yet an ion symbol."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S2-01",
+      "station": 2,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Compare sulfate and sulfite. Write both ion formulas and state exactly what changes.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "These are both sulfur oxyanions."
+        },
+        {
+          "level": 2,
+          "text": "Separate the oxygen count from the overall charge."
+        },
+        {
+          "level": 3,
+          "text": "Sulfate has four oxygens and sulfite has three; both have charge −2."
+        }
+      ],
+      "answer": "Sulfate SO₄²−; sulfite SO₃²−; one oxygen changes, charge remains −2",
+      "explanation": "The -ate/-ite pair helps with this known pair; it does not determine every unfamiliar ion charge.",
+      "diagnostic_feedback": {
+        "ion_recall": "Changing oxygen count does not automatically change the written ion charge."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S2-02",
+      "station": 2,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Why is Cu+ named copper(I), rather than copper monocation or copper(II)?",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What information is in the superscript?"
+        },
+        {
+          "level": 2,
+          "text": "Roman numerals in these names report the metal charge."
+        },
+        {
+          "level": 3,
+          "text": "Read + as +1, then express 1 as I."
+        }
+      ],
+      "answer": "The Roman numeral I gives the +1 charge on this copper ion",
+      "explanation": "One atom is implicit in Cu; the numeral selects the charge state.",
+      "diagnostic_feedback": {
+        "roman_numeral": "Use the stated charge instead of recalling a different common charge for copper."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q07-A",
+      "station": 3,
+      "original_anchor": "Q7a",
+      "kind": "source",
+      "prompt": "Combine Cu²+ and S²−. Give the lowest whole-number ion ratio and neutral formula. The worksheet supplies CuS; explain why it works.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 2 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "CuS",
+      "explanation": "1(+2) + 1(−2) = 0. The smallest cation:anion ratio is 1:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Cu²+",
+      "anion": "S²−",
+      "cation_count": 1,
+      "anion_count": 1,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-A"
+    },
+    {
+      "id": "LUMI-U2-Q08-A",
+      "station": 3,
+      "original_anchor": "Q8a",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7a. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is copper(II); the anion is sulfide."
+        }
+      ],
+      "answer": "copper(II) sulfide",
+      "explanation": "CuS contains copper(II) and sulfide. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-A"
+    },
+    {
+      "id": "LUMI-U2-Q07-B",
+      "station": 3,
+      "original_anchor": "Q7b",
+      "kind": "source",
+      "prompt": "Combine Cu²+ and Cl−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 1 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 2 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "CuCl₂",
+      "explanation": "1(+2) + 2(−1) = 0. The smallest cation:anion ratio is 1:2; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−1) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Cu²+",
+      "anion": "Cl−",
+      "cation_count": 1,
+      "anion_count": 2,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-B"
+    },
+    {
+      "id": "LUMI-U2-Q08-B",
+      "station": 3,
+      "original_anchor": "Q8b",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7b. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is copper(II); the anion is chloride."
+        }
+      ],
+      "answer": "copper(II) chloride",
+      "explanation": "CuCl₂ contains copper(II) and chloride. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-B"
+    },
+    {
+      "id": "LUMI-U2-Q07-C",
+      "station": 3,
+      "original_anchor": "Q7c",
+      "kind": "source",
+      "prompt": "Combine Cu²+ and PO₄³−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 3 is 6."
+        },
+        {
+          "level": 3,
+          "text": "Use 3 cation(s) and 2 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "Cu₃(PO₄)₂",
+      "explanation": "3(+2) + 2(−3) = 0. The smallest cation:anion ratio is 3:2; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−3) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Cu²+",
+      "anion": "PO₄³−",
+      "cation_count": 3,
+      "anion_count": 2,
+      "balance_charge_magnitude": 6,
+      "linked_name_item": "LUMI-U2-Q08-C"
+    },
+    {
+      "id": "LUMI-U2-Q08-C",
+      "station": 3,
+      "original_anchor": "Q8c",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7c. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is copper(II); the anion is phosphate."
+        }
+      ],
+      "answer": "copper(II) phosphate",
+      "explanation": "Cu₃(PO₄)₂ contains copper(II) and phosphate. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-C"
+    },
+    {
+      "id": "LUMI-U2-Q07-D",
+      "station": 3,
+      "original_anchor": "Q7d",
+      "kind": "source",
+      "prompt": "Combine Cu²+ and CO₃²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 2 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "CuCO₃",
+      "explanation": "1(+2) + 1(−2) = 0. The smallest cation:anion ratio is 1:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Cu²+",
+      "anion": "CO₃²−",
+      "cation_count": 1,
+      "anion_count": 1,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-D"
+    },
+    {
+      "id": "LUMI-U2-Q08-D",
+      "station": 3,
+      "original_anchor": "Q8d",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7d. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is copper(II); the anion is carbonate."
+        }
+      ],
+      "answer": "copper(II) carbonate",
+      "explanation": "CuCO₃ contains copper(II) and carbonate. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-D"
+    },
+    {
+      "id": "LUMI-U2-Q07-E",
+      "station": 3,
+      "original_anchor": "Q7e",
+      "kind": "source",
+      "prompt": "Combine Ca²+ and S²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 2 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "CaS",
+      "explanation": "1(+2) + 1(−2) = 0. The smallest cation:anion ratio is 1:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Ca²+",
+      "anion": "S²−",
+      "cation_count": 1,
+      "anion_count": 1,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-E"
+    },
+    {
+      "id": "LUMI-U2-Q08-E",
+      "station": 3,
+      "original_anchor": "Q8e",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7e. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is calcium; the anion is sulfide."
+        }
+      ],
+      "answer": "calcium sulfide",
+      "explanation": "CaS contains calcium and sulfide. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-E"
+    },
+    {
+      "id": "LUMI-U2-Q07-F",
+      "station": 3,
+      "original_anchor": "Q7f",
+      "kind": "source",
+      "prompt": "Combine Ca²+ and Cl−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 1 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 2 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "CaCl₂",
+      "explanation": "1(+2) + 2(−1) = 0. The smallest cation:anion ratio is 1:2; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−1) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Ca²+",
+      "anion": "Cl−",
+      "cation_count": 1,
+      "anion_count": 2,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-F"
+    },
+    {
+      "id": "LUMI-U2-Q08-F",
+      "station": 3,
+      "original_anchor": "Q8f",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7f. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is calcium; the anion is chloride."
+        }
+      ],
+      "answer": "calcium chloride",
+      "explanation": "CaCl₂ contains calcium and chloride. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-F"
+    },
+    {
+      "id": "LUMI-U2-Q07-G",
+      "station": 3,
+      "original_anchor": "Q7g",
+      "kind": "source",
+      "prompt": "Combine Ca²+ and PO₄³−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 3 is 6."
+        },
+        {
+          "level": 3,
+          "text": "Use 3 cation(s) and 2 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "Ca₃(PO₄)₂",
+      "explanation": "3(+2) + 2(−3) = 0. The smallest cation:anion ratio is 3:2; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−3) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Ca²+",
+      "anion": "PO₄³−",
+      "cation_count": 3,
+      "anion_count": 2,
+      "balance_charge_magnitude": 6,
+      "linked_name_item": "LUMI-U2-Q08-G"
+    },
+    {
+      "id": "LUMI-U2-Q08-G",
+      "station": 3,
+      "original_anchor": "Q8g",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7g. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is calcium; the anion is phosphate."
+        }
+      ],
+      "answer": "calcium phosphate",
+      "explanation": "Ca₃(PO₄)₂ contains calcium and phosphate. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-G"
+    },
+    {
+      "id": "LUMI-U2-Q07-H",
+      "station": 3,
+      "original_anchor": "Q7h",
+      "kind": "source",
+      "prompt": "Combine Ca²+ and CO₃²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 2 and 2 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "CaCO₃",
+      "explanation": "1(+2) + 1(−2) = 0. The smallest cation:anion ratio is 1:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+2) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Ca²+",
+      "anion": "CO₃²−",
+      "cation_count": 1,
+      "anion_count": 1,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-H"
+    },
+    {
+      "id": "LUMI-U2-Q08-H",
+      "station": 3,
+      "original_anchor": "Q8h",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7h. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is calcium; the anion is carbonate."
+        }
+      ],
+      "answer": "calcium carbonate",
+      "explanation": "CaCO₃ contains calcium and carbonate. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-H"
+    },
+    {
+      "id": "LUMI-U2-Q07-I",
+      "station": 3,
+      "original_anchor": "Q7i",
+      "kind": "source",
+      "prompt": "Combine NH₄+ and S²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 1 and 2 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 2 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "(NH₄)₂S",
+      "explanation": "2(+1) + 1(−2) = 0. The smallest cation:anion ratio is 2:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+1) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "NH₄+",
+      "anion": "S²−",
+      "cation_count": 2,
+      "anion_count": 1,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-I"
+    },
+    {
+      "id": "LUMI-U2-Q08-I",
+      "station": 3,
+      "original_anchor": "Q8i",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7i. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is ammonium; the anion is sulfide."
+        }
+      ],
+      "answer": "ammonium sulfide",
+      "explanation": "(NH₄)₂S contains ammonium and sulfide. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-I"
+    },
+    {
+      "id": "LUMI-U2-Q07-J",
+      "station": 3,
+      "original_anchor": "Q7j",
+      "kind": "source",
+      "prompt": "Combine NH₄+ and Cl−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 1 and 1 is 1."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "NH₄Cl",
+      "explanation": "1(+1) + 1(−1) = 0. The smallest cation:anion ratio is 1:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+1) + m(−1) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "NH₄+",
+      "anion": "Cl−",
+      "cation_count": 1,
+      "anion_count": 1,
+      "balance_charge_magnitude": 1,
+      "linked_name_item": "LUMI-U2-Q08-J"
+    },
+    {
+      "id": "LUMI-U2-Q08-J",
+      "station": 3,
+      "original_anchor": "Q8j",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7j. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is ammonium; the anion is chloride."
+        }
+      ],
+      "answer": "ammonium chloride",
+      "explanation": "NH₄Cl contains ammonium and chloride. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-J"
+    },
+    {
+      "id": "LUMI-U2-Q07-K",
+      "station": 3,
+      "original_anchor": "Q7k",
+      "kind": "source",
+      "prompt": "Combine NH₄+ and PO₄³−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 1 and 3 is 3."
+        },
+        {
+          "level": 3,
+          "text": "Use 3 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "(NH₄)₃PO₄",
+      "explanation": "3(+1) + 1(−3) = 0. The smallest cation:anion ratio is 3:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+1) + m(−3) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "NH₄+",
+      "anion": "PO₄³−",
+      "cation_count": 3,
+      "anion_count": 1,
+      "balance_charge_magnitude": 3,
+      "linked_name_item": "LUMI-U2-Q08-K"
+    },
+    {
+      "id": "LUMI-U2-Q08-K",
+      "station": 3,
+      "original_anchor": "Q8k",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7k. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is ammonium; the anion is phosphate."
+        }
+      ],
+      "answer": "ammonium phosphate",
+      "explanation": "(NH₄)₃PO₄ contains ammonium and phosphate. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-K"
+    },
+    {
+      "id": "LUMI-U2-Q07-L",
+      "station": 3,
+      "original_anchor": "Q7l",
+      "kind": "source",
+      "prompt": "Combine NH₄+ and CO₃²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 1 and 2 is 2."
+        },
+        {
+          "level": 3,
+          "text": "Use 2 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "(NH₄)₂CO₃",
+      "explanation": "2(+1) + 1(−2) = 0. The smallest cation:anion ratio is 2:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+1) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "NH₄+",
+      "anion": "CO₃²−",
+      "cation_count": 2,
+      "anion_count": 1,
+      "balance_charge_magnitude": 2,
+      "linked_name_item": "LUMI-U2-Q08-L"
+    },
+    {
+      "id": "LUMI-U2-Q08-L",
+      "station": 3,
+      "original_anchor": "Q8l",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7l. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is ammonium; the anion is carbonate."
+        }
+      ],
+      "answer": "ammonium carbonate",
+      "explanation": "(NH₄)₂CO₃ contains ammonium and carbonate. These cation names need no Roman numeral in the introductory convention.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-L"
+    },
+    {
+      "id": "LUMI-U2-Q07-M",
+      "station": 3,
+      "original_anchor": "Q7m",
+      "kind": "source",
+      "prompt": "Combine Fe³+ and S²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 3 and 2 is 6."
+        },
+        {
+          "level": 3,
+          "text": "Use 2 cation(s) and 3 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "Fe₂S₃",
+      "explanation": "2(+3) + 3(−2) = 0. The smallest cation:anion ratio is 2:3; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+3) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Fe³+",
+      "anion": "S²−",
+      "cation_count": 2,
+      "anion_count": 3,
+      "balance_charge_magnitude": 6,
+      "linked_name_item": "LUMI-U2-Q08-M"
+    },
+    {
+      "id": "LUMI-U2-Q08-M",
+      "station": 3,
+      "original_anchor": "Q8m",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7m. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is iron(III); the anion is sulfide."
+        }
+      ],
+      "answer": "iron(III) sulfide",
+      "explanation": "Fe₂S₃ contains iron(III) and sulfide. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-M"
+    },
+    {
+      "id": "LUMI-U2-Q07-N",
+      "station": 3,
+      "original_anchor": "Q7n",
+      "kind": "source",
+      "prompt": "Combine Fe³+ and Cl−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 3 and 1 is 3."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 3 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "FeCl₃",
+      "explanation": "1(+3) + 3(−1) = 0. The smallest cation:anion ratio is 1:3; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+3) + m(−1) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Fe³+",
+      "anion": "Cl−",
+      "cation_count": 1,
+      "anion_count": 3,
+      "balance_charge_magnitude": 3,
+      "linked_name_item": "LUMI-U2-Q08-N"
+    },
+    {
+      "id": "LUMI-U2-Q08-N",
+      "station": 3,
+      "original_anchor": "Q8n",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7n. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is iron(III); the anion is chloride."
+        }
+      ],
+      "answer": "iron(III) chloride",
+      "explanation": "FeCl₃ contains iron(III) and chloride. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-N"
+    },
+    {
+      "id": "LUMI-U2-Q07-O",
+      "station": 3,
+      "original_anchor": "Q7o",
+      "kind": "source",
+      "prompt": "Combine Fe³+ and PO₄³−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 3 and 3 is 3."
+        },
+        {
+          "level": 3,
+          "text": "Use 1 cation(s) and 1 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "FePO₄",
+      "explanation": "1(+3) + 1(−3) = 0. The smallest cation:anion ratio is 1:1; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+3) + m(−3) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Fe³+",
+      "anion": "PO₄³−",
+      "cation_count": 1,
+      "anion_count": 1,
+      "balance_charge_magnitude": 3,
+      "linked_name_item": "LUMI-U2-Q08-O"
+    },
+    {
+      "id": "LUMI-U2-Q08-O",
+      "station": 3,
+      "original_anchor": "Q8o",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7o. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is iron(III); the anion is phosphate."
+        }
+      ],
+      "answer": "iron(III) phosphate",
+      "explanation": "FePO₄ contains iron(III) and phosphate. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-O"
+    },
+    {
+      "id": "LUMI-U2-Q07-P",
+      "station": 3,
+      "original_anchor": "Q7p",
+      "kind": "source",
+      "prompt": "Combine Fe³+ and CO₃²−. Give the lowest whole-number ion ratio and neutral formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Write the charge on one whole cation and one whole anion."
+        },
+        {
+          "level": 2,
+          "text": "The smallest common charge magnitude for 3 and 2 is 6."
+        },
+        {
+          "level": 3,
+          "text": "Use 2 cation(s) and 3 anion(s). Put parentheses around a polyatomic group only when more than one is required."
+        }
+      ],
+      "answer": "Fe₂(CO₃)₃",
+      "explanation": "2(+3) + 3(−2) = 0. The smallest cation:anion ratio is 2:3; keep each polyatomic ion intact.",
+      "diagnostic_feedback": {
+        "charge_balance": "Test your ion counts against n(+3) + m(−2) = 0.",
+        "unreduced_ratio": "Reduce the ratio of whole ions to smallest integers; do not reduce numbers inside an ion.",
+        "parentheses": "An outside subscript repeats the whole enclosed group. Without parentheses it repeats only the preceding element.",
+        "ion_identity": "Keep NH₄, PO₄, and CO₃ unchanged wherever they occur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "cation": "Fe³+",
+      "anion": "CO₃²−",
+      "cation_count": 2,
+      "anion_count": 3,
+      "balance_charge_magnitude": 6,
+      "linked_name_item": "LUMI-U2-Q08-P"
+    },
+    {
+      "id": "LUMI-U2-Q08-P",
+      "station": 3,
+      "original_anchor": "Q8p",
+      "kind": "source",
+      "prompt": "Name the compound you built in Q7p. Identify the naming rule before writing the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Name the cation first and the anion second."
+        },
+        {
+          "level": 2,
+          "text": "Keep a polyatomic anion’s established name; use -ide for a monatomic anion."
+        },
+        {
+          "level": 3,
+          "text": "The cation is iron(III); the anion is carbonate."
+        }
+      ],
+      "answer": "iron(III) carbonate",
+      "explanation": "Fe₂(CO₃)₃ contains iron(III) and carbonate. The Roman numeral describes the charge of each metal ion, not its subscript.",
+      "diagnostic_feedback": {
+        "naming_system": "These are ionic compounds. Do not attach molecular count prefixes.",
+        "roman_numeral": "Use the metal’s charge from the row, not the number of metal atoms in the formula."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "linked_formula_item": "LUMI-U2-Q07-P"
+    },
+    {
+      "id": "LUMI-U2-NEW-S3-01",
+      "station": 3,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Build and name the neutral compound from Al³+ and SO₄²−. Explain every subscript.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Find a common multiple of the charge magnitudes."
+        },
+        {
+          "level": 2,
+          "text": "Use total charges +6 and −6."
+        },
+        {
+          "level": 3,
+          "text": "Two Al ions and three sulfate groups preserve both neutrality and sulfate identity."
+        }
+      ],
+      "answer": "Al₂(SO₄)₃; aluminum sulfate",
+      "explanation": "Two aluminum ions give +6; three sulfate ions give −6. The 4 belongs to sulfate; the 3 repeats the entire sulfate group.",
+      "diagnostic_feedback": {
+        "parentheses": "Al₂SO₄₃ would not express three intact sulfate groups.",
+        "unreduced_ratio": "Reduce whole-ion counts only."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S3-02",
+      "station": 3,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "A learner writes Ca₂(CO₃)₂. Does it balance? Is it the conventional simplest formula? Repair it and explain.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Check neutrality before deciding whether the formula is fully correct."
+        },
+        {
+          "level": 2,
+          "text": "A neutral ionic formula also needs the smallest whole-ion ratio."
+        },
+        {
+          "level": 3,
+          "text": "Divide the counts of Ca and CO₃ groups by two; leave the 3 inside carbonate alone."
+        }
+      ],
+      "answer": "It balances, but the whole-ion ratio reduces to CaCO₃",
+      "explanation": "Two +2 ions and two −2 ions cancel. The ratio 2:2 reduces to 1:1; carbonate remains CO₃.",
+      "diagnostic_feedback": {
+        "unreduced_ratio": "A charge check is necessary but not sufficient."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S3-03",
+      "station": 3,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "A learner names Cu₃(PO₄)₂ copper(III) phosphate. Identify the successful part and fix the error.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "The subscript 3 counts copper ions."
+        },
+        {
+          "level": 2,
+          "text": "Calculate the total anion charge, then divide the opposite charge among the coppers."
+        },
+        {
+          "level": 3,
+          "text": "+6 divided among three Cu ions gives +2 per Cu."
+        }
+      ],
+      "answer": "Phosphate is correct; the full name is copper(II) phosphate",
+      "explanation": "Two phosphates contribute −6, so three coppers together contribute +6; each Cu is +2.",
+      "diagnostic_feedback": {
+        "roman_numeral": "Charge per ion and number of ions are separate quantities."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q09-A",
+      "station": 4,
+      "original_anchor": "Q9a",
+      "kind": "source",
+      "prompt": "Without electronegativity values, would you expect calcium and fluorine to form covalent bonds? Give the introductory prediction and reason.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the elements as metals, nonmetals, or metalloids."
+        },
+        {
+          "level": 2,
+          "text": "Metal with nonmetal is a useful introductory ionic prediction; nonmetal pairs commonly share electrons."
+        },
+        {
+          "level": 3,
+          "text": "Calcium is a metal and fluorine a nonmetal."
+        }
+      ],
+      "answer": "No; ionic expected",
+      "explanation": "Calcium is a metal and fluorine a nonmetal.",
+      "diagnostic_feedback": {
+        "species_type": "This is a prediction from composition, not a universal proof of bonding type. Metalloids need context."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q09-B",
+      "station": 4,
+      "original_anchor": "Q9b",
+      "kind": "source",
+      "prompt": "Without electronegativity values, would you expect carbon and fluorine to form covalent bonds? Give the introductory prediction and reason.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the elements as metals, nonmetals, or metalloids."
+        },
+        {
+          "level": 2,
+          "text": "Metal with nonmetal is a useful introductory ionic prediction; nonmetal pairs commonly share electrons."
+        },
+        {
+          "level": 3,
+          "text": "Both are nonmetals."
+        }
+      ],
+      "answer": "Yes; covalent expected",
+      "explanation": "Both are nonmetals.",
+      "diagnostic_feedback": {
+        "species_type": "This is a prediction from composition, not a universal proof of bonding type. Metalloids need context."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q09-C",
+      "station": 4,
+      "original_anchor": "Q9c",
+      "kind": "source",
+      "prompt": "Without electronegativity values, would you expect magnesium and fluorine to form covalent bonds? Give the introductory prediction and reason.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the elements as metals, nonmetals, or metalloids."
+        },
+        {
+          "level": 2,
+          "text": "Metal with nonmetal is a useful introductory ionic prediction; nonmetal pairs commonly share electrons."
+        },
+        {
+          "level": 3,
+          "text": "Magnesium is a metal and fluorine a nonmetal."
+        }
+      ],
+      "answer": "No; ionic expected",
+      "explanation": "Magnesium is a metal and fluorine a nonmetal.",
+      "diagnostic_feedback": {
+        "species_type": "This is a prediction from composition, not a universal proof of bonding type. Metalloids need context."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q09-D",
+      "station": 4,
+      "original_anchor": "Q9d",
+      "kind": "source",
+      "prompt": "Without electronegativity values, would you expect silicon and fluorine to form covalent bonds? Give the introductory prediction and reason.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the elements as metals, nonmetals, or metalloids."
+        },
+        {
+          "level": 2,
+          "text": "Metal with nonmetal is a useful introductory ionic prediction; nonmetal pairs commonly share electrons."
+        },
+        {
+          "level": 3,
+          "text": "Silicon with fluorine is treated as covalent here."
+        }
+      ],
+      "answer": "Yes; covalent expected",
+      "explanation": "Silicon forms molecular covalent fluorides such as SiF₄; this is the intended introductory prediction.",
+      "diagnostic_feedback": {
+        "species_type": "This is a prediction from composition, not a universal proof of bonding type. Metalloids need context."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q09-E",
+      "station": 4,
+      "original_anchor": "Q9e",
+      "kind": "source",
+      "prompt": "Without electronegativity values, would you expect lithium and fluorine to form covalent bonds? Give the introductory prediction and reason.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Locate the elements as metals, nonmetals, or metalloids."
+        },
+        {
+          "level": 2,
+          "text": "Metal with nonmetal is a useful introductory ionic prediction; nonmetal pairs commonly share electrons."
+        },
+        {
+          "level": 3,
+          "text": "Lithium is a metal and fluorine a nonmetal."
+        }
+      ],
+      "answer": "No; ionic expected",
+      "explanation": "Lithium is a metal and fluorine a nonmetal.",
+      "diagnostic_feedback": {
+        "species_type": "This is a prediction from composition, not a universal proof of bonding type. Metalloids need context."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-Q15-A",
+      "station": 4,
+      "original_anchor": "Q15a",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name PI₃.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in PI₃; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "phosphorus triiodide",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q15-B",
+      "station": 4,
+      "original_anchor": "Q15b",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name P₄S₃.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in P₄S₃; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "tetraphosphorus trisulfide",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q15-C",
+      "station": 4,
+      "original_anchor": "Q15c",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name NI₃.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in NI₃; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "nitrogen triiodide",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q15-D",
+      "station": 4,
+      "original_anchor": "Q15d",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name NaH.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Keep the ion names; the formula’s ratio already follows charge balance."
+        }
+      ],
+      "answer": "sodium hydride",
+      "explanation": "Use cation then anion; no molecular prefixes. Hydrogen is hydride, H−, in NaH.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "ionic"
+    },
+    {
+      "id": "LUMI-U2-Q15-E",
+      "station": 4,
+      "original_anchor": "Q15e",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name OsO₄.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "A metal/nonmetal shortcut has an exception here; see the OsO₄ note."
+        },
+        {
+          "level": 3,
+          "text": "Four oxide oxidation states of −2 require osmium at +8; the count prefix for four is tetra-."
+        }
+      ],
+      "answer": "osmium tetroxide",
+      "explanation": "OsO₄ is a molecular oxide despite containing a metal. Osmium tetroxide and osmium(VIII) oxide are both recognized names; the worksheet does not specify a preferred convention.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [
+        "osmium(VIII) oxide"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": true,
+      "naming_route": "exception"
+    },
+    {
+      "id": "LUMI-U2-Q15-F",
+      "station": 4,
+      "original_anchor": "Q15f",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name AsCl₃.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in AsCl₃; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "arsenic trichloride",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q15-G",
+      "station": 4,
+      "original_anchor": "Q15g",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name AlF₃.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Keep the ion names; the formula’s ratio already follows charge balance."
+        }
+      ],
+      "answer": "aluminum fluoride",
+      "explanation": "Use cation then anion; no molecular prefixes. Aluminum is +3 and fluoride −1.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "ionic"
+    },
+    {
+      "id": "LUMI-U2-Q15-H",
+      "station": 4,
+      "original_anchor": "Q15h",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name SiCl₄.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in SiCl₄; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "silicon tetrachloride",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q15-I",
+      "station": 4,
+      "original_anchor": "Q15i",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name SbF₅.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in SbF₅; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "antimony pentafluoride",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q15-J",
+      "station": 4,
+      "original_anchor": "Q15j",
+      "kind": "source",
+      "prompt": "Choose a naming approach and name NO.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Do not choose a naming route from the chapter heading alone."
+        },
+        {
+          "level": 2,
+          "text": "Look for a familiar cation–anion combination before using molecular prefixes."
+        },
+        {
+          "level": 3,
+          "text": "Read the exact atom counts in NO; the second element takes an -ide ending."
+        }
+      ],
+      "answer": "nitrogen monoxide",
+      "explanation": "Use atom-count prefixes, omit mono- on the first element, and end the second element with -ide.",
+      "diagnostic_feedback": {
+        "naming_system": "Choose the family first; do not mix Roman charge numerals with molecular count prefixes.",
+        "prefix": "A missing subscript means one. Omit mono- on the first element, but retain it on the second when needed."
+      },
+      "accepted_variants": [
+        "nitric oxide"
+      ],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "course_alignment_required": false,
+      "naming_route": "molecular"
+    },
+    {
+      "id": "LUMI-U2-Q16-A",
+      "station": 4,
+      "original_anchor": "Q16a",
+      "kind": "source",
+      "prompt": "Write the molecular formula for nitrogen dioxide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are one N and two O. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "NO₂",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-B",
+      "station": 4,
+      "original_anchor": "Q16b",
+      "kind": "source",
+      "prompt": "Write the molecular formula for bromine pentaiodide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are one Br and five I. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "BrI₅",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-C",
+      "station": 4,
+      "original_anchor": "Q16c",
+      "kind": "source",
+      "prompt": "Write the molecular formula for dinitrogen tetroxide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are two N and four O. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "N₂O₄",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-D",
+      "station": 4,
+      "original_anchor": "Q16d",
+      "kind": "source",
+      "prompt": "Write the molecular formula for selenium dioxide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are one Se and two O. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "SeO₂",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-E",
+      "station": 4,
+      "original_anchor": "Q16e",
+      "kind": "source",
+      "prompt": "Write the molecular formula for dinitrogen pentasulfide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are two N and five S. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "N₂S₅",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-F",
+      "station": 4,
+      "original_anchor": "Q16f",
+      "kind": "source",
+      "prompt": "Write the molecular formula for sulfur hexafluoride. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are one S and six F. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "SF₆",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-G",
+      "station": 4,
+      "original_anchor": "Q16g",
+      "kind": "source",
+      "prompt": "Write the molecular formula for dinitrogen trioxide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are two N and three O. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "N₂O₃",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-H",
+      "station": 4,
+      "original_anchor": "Q16h",
+      "kind": "source",
+      "prompt": "Write the molecular formula for arsenic pentachloride. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are one As and five Cl. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "AsCl₅",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-I",
+      "station": 4,
+      "original_anchor": "Q16i",
+      "kind": "source",
+      "prompt": "Write the molecular formula for xenon tetroxide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are one Xe and four O. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "XeO₄",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-Q16-J",
+      "station": 4,
+      "original_anchor": "Q16j",
+      "kind": "source",
+      "prompt": "Write the molecular formula for triphosphorus tetraselenide. Explain how each count comes from the name.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Split the name into its two element names."
+        },
+        {
+          "level": 2,
+          "text": "Translate mono 1, di 2, tri 3, tetra 4, penta 5, or hexa 6. No prefix on the first element means one here."
+        },
+        {
+          "level": 3,
+          "text": "The named counts are three P and four Se. Write them in that order; omit subscript 1 and do not reduce."
+        }
+      ],
+      "answer": "P₃Se₄",
+      "explanation": "Prefixes specify actual atom counts for this naming exercise. Preserve those counts instead of reducing the molecular formula.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Molecular formulas report atom counts; N₂O₄ must not be reduced to NO₂.",
+        "element_symbol": "Preserve capitalization: Br and I are separate element symbols; Si is silicon and S is sulfur."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision",
+      "scope_note": "Translate the stated name; this task does not assert stability or ease of preparation of the named compound."
+    },
+    {
+      "id": "LUMI-U2-NEW-S4-01",
+      "station": 4,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "Name FeCl₃ and PCl₃. Explain why the same subscript produces different naming choices.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "Identify the naming family before interpreting the 3."
+        },
+        {
+          "level": 2,
+          "text": "Fe is a variable-charge metal; phosphorus and chlorine form a molecular compound."
+        },
+        {
+          "level": 3,
+          "text": "For Fe find charge per cation; for P use atom-count prefixes."
+        }
+      ],
+      "answer": "FeCl₃: iron(III) chloride; PCl₃: phosphorus trichloride",
+      "explanation": "Three Cl− ions require Fe³+ in the ionic naming model. In the molecular compound, tri- counts three Cl atoms.",
+      "diagnostic_feedback": {
+        "naming_system": "One visible subscript can participate in two different naming rules."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    },
+    {
+      "id": "LUMI-U2-NEW-S4-02",
+      "station": 4,
+      "original_anchor": null,
+      "kind": "supplemental",
+      "prompt": "A learner reduces dinitrogen tetroxide to NO₂. Explain the error and repair the formula.",
+      "hints": [
+        {
+          "level": 1,
+          "text": "What does di- count? What does tetra- count?"
+        },
+        {
+          "level": 2,
+          "text": "Was the task asking for a molecular formula or an empirical ratio?"
+        },
+        {
+          "level": 3,
+          "text": "Keep both named atom counts, even though they have a common factor."
+        }
+      ],
+      "answer": "N₂O₄",
+      "explanation": "The name specifies a molecule containing two nitrogen and four oxygen atoms; NO₂ identifies a different composition per molecule.",
+      "diagnostic_feedback": {
+        "molecular_reduction": "Do not transfer the simplest-ion-ratio rule into molecular naming."
+      },
+      "accepted_variants": [],
+      "initially_visible": [
+        "prompt"
+      ],
+      "reveal_policy": "Attempt first; reveal one hint at a time; answer and explanation only on request or after revision"
+    }
+  ]
+}

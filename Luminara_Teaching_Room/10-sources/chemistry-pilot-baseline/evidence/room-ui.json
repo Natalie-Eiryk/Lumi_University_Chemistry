@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "groups": [
+    "Actual portal renders with default panel and all seven study spaces available through signposted lab links",
+    "Four room panels switch by real click events and expose selected state without replacing source content",
+    "Retained kernel text opens beside labeled authored guidance; no course definitions are replaced",
+    "Arrow keys, Home and End navigate tab controls with focus retained",
+    "Four panels fit 320, 390, 820 and 1440 pixel viewports without horizontal overflow",
+    "No automatic network requests or runtime JS errors in tested hub states; hub has no storage operations"
+  ],
+  "count": 6,
+  "errors": [],
+  "automaticRequests": [],
+  "roomSha256": "bfa9855975a7c924de4bdc275a61ed78003b47c2dfc0a190d5dcf26fba9d6caf"
+}

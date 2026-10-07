@@ -1,0 +1,1257 @@
+{
+  "format": "luminara-ion-seed/1",
+  "moduleId": "LU-CHEM-IONS-001",
+  "version": "1.0.0",
+  "sourceStatus": "design_candidate",
+  "courseSourceVerified": false,
+  "ions": [
+    {
+      "id": "ION-H-PLUS",
+      "formulaAscii": "H",
+      "charge": 1,
+      "preferredName": "hydrogen ion",
+      "familyId": "special",
+      "tier": 3,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-LI",
+      "formulaAscii": "Li",
+      "charge": 1,
+      "preferredName": "lithium",
+      "familyId": "group-1",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-NA",
+      "formulaAscii": "Na",
+      "charge": 1,
+      "preferredName": "sodium",
+      "familyId": "group-1",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-K",
+      "formulaAscii": "K",
+      "charge": 1,
+      "preferredName": "potassium",
+      "familyId": "group-1",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-RB",
+      "formulaAscii": "Rb",
+      "charge": 1,
+      "preferredName": "rubidium",
+      "familyId": "group-1",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CS",
+      "formulaAscii": "Cs",
+      "charge": 1,
+      "preferredName": "cesium",
+      "familyId": "group-1",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-AMMONIUM",
+      "formulaAscii": "NH4",
+      "charge": 1,
+      "preferredName": "ammonium",
+      "familyId": "polyatomic-cation",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-HYDRONIUM",
+      "formulaAscii": "H3O",
+      "charge": 1,
+      "preferredName": "hydronium",
+      "familyId": "polyatomic-cation",
+      "tier": 3,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-AG",
+      "formulaAscii": "Ag",
+      "charge": 1,
+      "preferredName": "silver",
+      "familyId": "fixed-course",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-BE",
+      "formulaAscii": "Be",
+      "charge": 2,
+      "preferredName": "beryllium",
+      "familyId": "group-2",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-MG",
+      "formulaAscii": "Mg",
+      "charge": 2,
+      "preferredName": "magnesium",
+      "familyId": "group-2",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CA",
+      "formulaAscii": "Ca",
+      "charge": 2,
+      "preferredName": "calcium",
+      "familyId": "group-2",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SR",
+      "formulaAscii": "Sr",
+      "charge": 2,
+      "preferredName": "strontium",
+      "familyId": "group-2",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-BA",
+      "formulaAscii": "Ba",
+      "charge": 2,
+      "preferredName": "barium",
+      "familyId": "group-2",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-ZN",
+      "formulaAscii": "Zn",
+      "charge": 2,
+      "preferredName": "zinc",
+      "familyId": "fixed-course",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CD",
+      "formulaAscii": "Cd",
+      "charge": 2,
+      "preferredName": "cadmium",
+      "familyId": "fixed-course",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-AL",
+      "formulaAscii": "Al",
+      "charge": 3,
+      "preferredName": "aluminum",
+      "familyId": "fixed-course",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-GA",
+      "formulaAscii": "Ga",
+      "charge": 3,
+      "preferredName": "gallium",
+      "familyId": "fixed-course",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CU-I",
+      "formulaAscii": "Cu",
+      "charge": 1,
+      "preferredName": "copper(I)",
+      "familyId": "variable-metal",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CU-II",
+      "formulaAscii": "Cu",
+      "charge": 2,
+      "preferredName": "copper(II)",
+      "familyId": "variable-metal",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-AU-I",
+      "formulaAscii": "Au",
+      "charge": 1,
+      "preferredName": "gold(I)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-AU-III",
+      "formulaAscii": "Au",
+      "charge": 3,
+      "preferredName": "gold(III)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CR-II",
+      "formulaAscii": "Cr",
+      "charge": 2,
+      "preferredName": "chromium(II)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CR-III",
+      "formulaAscii": "Cr",
+      "charge": 3,
+      "preferredName": "chromium(III)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-FE-II",
+      "formulaAscii": "Fe",
+      "charge": 2,
+      "preferredName": "iron(II)",
+      "familyId": "variable-metal",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-FE-III",
+      "formulaAscii": "Fe",
+      "charge": 3,
+      "preferredName": "iron(III)",
+      "familyId": "variable-metal",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CO-II",
+      "formulaAscii": "Co",
+      "charge": 2,
+      "preferredName": "cobalt(II)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CO-III",
+      "formulaAscii": "Co",
+      "charge": 3,
+      "preferredName": "cobalt(III)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SN-II",
+      "formulaAscii": "Sn",
+      "charge": 2,
+      "preferredName": "tin(II)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SN-IV",
+      "formulaAscii": "Sn",
+      "charge": 4,
+      "preferredName": "tin(IV)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PB-II",
+      "formulaAscii": "Pb",
+      "charge": 2,
+      "preferredName": "lead(II)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PB-IV",
+      "formulaAscii": "Pb",
+      "charge": 4,
+      "preferredName": "lead(IV)",
+      "familyId": "variable-metal",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-FLUORIDE",
+      "formulaAscii": "F",
+      "charge": -1,
+      "preferredName": "fluoride",
+      "familyId": "monatomic",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CHLORIDE",
+      "formulaAscii": "Cl",
+      "charge": -1,
+      "preferredName": "chloride",
+      "familyId": "monatomic",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-BROMIDE",
+      "formulaAscii": "Br",
+      "charge": -1,
+      "preferredName": "bromide",
+      "familyId": "monatomic",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-IODIDE",
+      "formulaAscii": "I",
+      "charge": -1,
+      "preferredName": "iodide",
+      "familyId": "monatomic",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-NITRATE",
+      "formulaAscii": "NO3",
+      "charge": -1,
+      "preferredName": "nitrate",
+      "familyId": "nitrogen-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-NITRITE",
+      "formulaAscii": "NO2",
+      "charge": -1,
+      "preferredName": "nitrite",
+      "familyId": "nitrogen-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-HYDROXIDE",
+      "formulaAscii": "OH",
+      "charge": -1,
+      "preferredName": "hydroxide",
+      "familyId": "polyatomic-anchor",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PERMANGANATE",
+      "formulaAscii": "MnO4",
+      "charge": -1,
+      "preferredName": "permanganate",
+      "familyId": "polyatomic-anchor",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-ACETATE",
+      "formulaAscii": "C2H3O2",
+      "charge": -1,
+      "preferredName": "acetate",
+      "familyId": "polyatomic-anchor",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-HYDRIDE",
+      "formulaAscii": "H",
+      "charge": -1,
+      "preferredName": "hydride",
+      "familyId": "monatomic",
+      "tier": 3,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PERCHLORATE",
+      "formulaAscii": "ClO4",
+      "charge": -1,
+      "preferredName": "perchlorate",
+      "familyId": "chlorine-oxyanion",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CHLORATE",
+      "formulaAscii": "ClO3",
+      "charge": -1,
+      "preferredName": "chlorate",
+      "familyId": "chlorine-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CHLORITE",
+      "formulaAscii": "ClO2",
+      "charge": -1,
+      "preferredName": "chlorite",
+      "familyId": "chlorine-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-HYPOCHLORITE",
+      "formulaAscii": "ClO",
+      "charge": -1,
+      "preferredName": "hypochlorite",
+      "familyId": "chlorine-oxyanion",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CYANIDE",
+      "formulaAscii": "CN",
+      "charge": -1,
+      "preferredName": "cyanide",
+      "familyId": "polyatomic-anchor",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-HYDROGEN-CARBONATE",
+      "formulaAscii": "HCO3",
+      "charge": -1,
+      "preferredName": "bicarbonate",
+      "familyId": "carbonate-family",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-OXIDE",
+      "formulaAscii": "O",
+      "charge": -2,
+      "preferredName": "oxide",
+      "familyId": "monatomic",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PEROXIDE",
+      "formulaAscii": "O2",
+      "charge": -2,
+      "preferredName": "peroxide",
+      "familyId": "special-polyatomic",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SULFIDE",
+      "formulaAscii": "S",
+      "charge": -2,
+      "preferredName": "sulfide",
+      "familyId": "monatomic",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SULFATE",
+      "formulaAscii": "SO4",
+      "charge": -2,
+      "preferredName": "sulfate",
+      "familyId": "sulfur-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SULFITE",
+      "formulaAscii": "SO3",
+      "charge": -2,
+      "preferredName": "sulfite",
+      "familyId": "sulfur-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CARBONATE",
+      "formulaAscii": "CO3",
+      "charge": -2,
+      "preferredName": "carbonate",
+      "familyId": "carbonate-family",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CHROMATE",
+      "formulaAscii": "CrO4",
+      "charge": -2,
+      "preferredName": "chromate",
+      "familyId": "chromium-oxyanion",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-DICHROMATE",
+      "formulaAscii": "Cr2O7",
+      "charge": -2,
+      "preferredName": "dichromate",
+      "familyId": "chromium-oxyanion",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PHOSPHIDE",
+      "formulaAscii": "P",
+      "charge": -3,
+      "preferredName": "phosphide",
+      "familyId": "monatomic",
+      "tier": 2,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-NITRIDE",
+      "formulaAscii": "N",
+      "charge": -3,
+      "preferredName": "nitride",
+      "familyId": "monatomic",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PHOSPHATE",
+      "formulaAscii": "PO4",
+      "charge": -3,
+      "preferredName": "phosphate",
+      "familyId": "phosphorus-oxyanion",
+      "tier": 1,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-PHOSPHITE",
+      "formulaAscii": "PO3",
+      "charge": -3,
+      "preferredName": "phosphite",
+      "familyId": "course-specific",
+      "tier": 3,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-CARBIDE",
+      "formulaAscii": "C",
+      "charge": -4,
+      "preferredName": "carbide",
+      "familyId": "course-specific",
+      "tier": 3,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    },
+    {
+      "id": "ION-SILICATE",
+      "formulaAscii": "SiO4",
+      "charge": -4,
+      "preferredName": "silicate",
+      "familyId": "course-specific",
+      "tier": 3,
+      "courseSourceVerified": false,
+      "sourceRefs": [
+        "SRC-COURSE-IONS",
+        "SRC-IONIC"
+      ]
+    }
+  ],
+  "compounds": [
+    {
+      "id": "PR-17",
+      "direction": "name_to_formula",
+      "formulaAscii": "NaCl",
+      "preferredName": "sodium chloride",
+      "cationId": "ION-NA",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-18",
+      "direction": "name_to_formula",
+      "formulaAscii": "CaCl2",
+      "preferredName": "calcium chloride",
+      "cationId": "ION-CA",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-19",
+      "direction": "name_to_formula",
+      "formulaAscii": "MgO",
+      "preferredName": "magnesium oxide",
+      "cationId": "ION-MG",
+      "anionId": "ION-OXIDE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-20",
+      "direction": "name_to_formula",
+      "formulaAscii": "Al2O3",
+      "preferredName": "aluminum oxide",
+      "cationId": "ION-AL",
+      "anionId": "ION-OXIDE",
+      "cationCount": 2,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-21",
+      "direction": "name_to_formula",
+      "formulaAscii": "K2S",
+      "preferredName": "potassium sulfide",
+      "cationId": "ION-K",
+      "anionId": "ION-SULFIDE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-22",
+      "direction": "name_to_formula",
+      "formulaAscii": "Mg3N2",
+      "preferredName": "magnesium nitride",
+      "cationId": "ION-MG",
+      "anionId": "ION-NITRIDE",
+      "cationCount": 3,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-23",
+      "direction": "name_to_formula",
+      "formulaAscii": "Ca(NO3)2",
+      "preferredName": "calcium nitrate",
+      "cationId": "ION-CA",
+      "anionId": "ION-NITRATE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-24",
+      "direction": "name_to_formula",
+      "formulaAscii": "Al2(SO4)3",
+      "preferredName": "aluminum sulfate",
+      "cationId": "ION-AL",
+      "anionId": "ION-SULFATE",
+      "cationCount": 2,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-25",
+      "direction": "name_to_formula",
+      "formulaAscii": "AlPO4",
+      "preferredName": "aluminum phosphate",
+      "cationId": "ION-AL",
+      "anionId": "ION-PHOSPHATE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-26",
+      "direction": "name_to_formula",
+      "formulaAscii": "NH4Cl",
+      "preferredName": "ammonium chloride",
+      "cationId": "ION-AMMONIUM",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-27",
+      "direction": "name_to_formula",
+      "formulaAscii": "(NH4)2SO4",
+      "preferredName": "ammonium sulfate",
+      "cationId": "ION-AMMONIUM",
+      "anionId": "ION-SULFATE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-28",
+      "direction": "name_to_formula",
+      "formulaAscii": "Mg(OH)2",
+      "preferredName": "magnesium hydroxide",
+      "cationId": "ION-MG",
+      "anionId": "ION-HYDROXIDE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-29",
+      "direction": "name_to_formula",
+      "formulaAscii": "Cu2O",
+      "preferredName": "copper(I) oxide",
+      "cationId": "ION-CU-I",
+      "anionId": "ION-OXIDE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-30",
+      "direction": "name_to_formula",
+      "formulaAscii": "Cu(NO3)2",
+      "preferredName": "copper(II) nitrate",
+      "cationId": "ION-CU-II",
+      "anionId": "ION-NITRATE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-31",
+      "direction": "name_to_formula",
+      "formulaAscii": "Fe3(PO4)2",
+      "preferredName": "iron(II) phosphate",
+      "cationId": "ION-FE-II",
+      "anionId": "ION-PHOSPHATE",
+      "cationCount": 3,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-32",
+      "direction": "name_to_formula",
+      "formulaAscii": "Fe2(SO4)3",
+      "preferredName": "iron(III) sulfate",
+      "cationId": "ION-FE-III",
+      "anionId": "ION-SULFATE",
+      "cationCount": 2,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-33",
+      "direction": "name_to_formula",
+      "formulaAscii": "Ca(HCO3)2",
+      "preferredName": "calcium bicarbonate",
+      "cationId": "ION-CA",
+      "anionId": "ION-HYDROGEN-CARBONATE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-34",
+      "direction": "name_to_formula",
+      "formulaAscii": "KClO2",
+      "preferredName": "potassium chlorite",
+      "cationId": "ION-K",
+      "anionId": "ION-CHLORITE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-35",
+      "direction": "name_to_formula",
+      "formulaAscii": "NaClO3",
+      "preferredName": "sodium chlorate",
+      "cationId": "ION-NA",
+      "anionId": "ION-CHLORATE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-36",
+      "direction": "name_to_formula",
+      "formulaAscii": "NaClO",
+      "preferredName": "sodium hypochlorite",
+      "cationId": "ION-NA",
+      "anionId": "ION-HYPOCHLORITE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-37",
+      "direction": "name_to_formula",
+      "formulaAscii": "KClO4",
+      "preferredName": "potassium perchlorate",
+      "cationId": "ION-K",
+      "anionId": "ION-PERCHLORATE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-38",
+      "direction": "name_to_formula",
+      "formulaAscii": "Na2O2",
+      "preferredName": "sodium peroxide",
+      "cationId": "ION-NA",
+      "anionId": "ION-PEROXIDE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-39",
+      "direction": "name_to_formula",
+      "formulaAscii": "Zn(C2H3O2)2",
+      "preferredName": "zinc acetate",
+      "cationId": "ION-ZN",
+      "anionId": "ION-ACETATE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-40",
+      "direction": "name_to_formula",
+      "formulaAscii": "Ag2CO3",
+      "preferredName": "silver carbonate",
+      "cationId": "ION-AG",
+      "anionId": "ION-CARBONATE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-41",
+      "direction": "formula_to_name",
+      "formulaAscii": "Na2S",
+      "preferredName": "sodium sulfide",
+      "cationId": "ION-NA",
+      "anionId": "ION-SULFIDE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-42",
+      "direction": "formula_to_name",
+      "formulaAscii": "MgBr2",
+      "preferredName": "magnesium bromide",
+      "cationId": "ION-MG",
+      "anionId": "ION-BROMIDE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-43",
+      "direction": "formula_to_name",
+      "formulaAscii": "FeCl2",
+      "preferredName": "iron(II) chloride",
+      "cationId": "ION-FE-II",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-44",
+      "direction": "formula_to_name",
+      "formulaAscii": "FeCl3",
+      "preferredName": "iron(III) chloride",
+      "cationId": "ION-FE-III",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-45",
+      "direction": "formula_to_name",
+      "formulaAscii": "Fe2O3",
+      "preferredName": "iron(III) oxide",
+      "cationId": "ION-FE-III",
+      "anionId": "ION-OXIDE",
+      "cationCount": 2,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-46",
+      "direction": "formula_to_name",
+      "formulaAscii": "Cu2O",
+      "preferredName": "copper(I) oxide",
+      "cationId": "ION-CU-I",
+      "anionId": "ION-OXIDE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-47",
+      "direction": "formula_to_name",
+      "formulaAscii": "CuO",
+      "preferredName": "copper(II) oxide",
+      "cationId": "ION-CU-II",
+      "anionId": "ION-OXIDE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-48",
+      "direction": "formula_to_name",
+      "formulaAscii": "CuSO4",
+      "preferredName": "copper(II) sulfate",
+      "cationId": "ION-CU-II",
+      "anionId": "ION-SULFATE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-49",
+      "direction": "formula_to_name",
+      "formulaAscii": "Cu(NO3)2",
+      "preferredName": "copper(II) nitrate",
+      "cationId": "ION-CU-II",
+      "anionId": "ION-NITRATE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-50",
+      "direction": "formula_to_name",
+      "formulaAscii": "Fe3(PO4)2",
+      "preferredName": "iron(II) phosphate",
+      "cationId": "ION-FE-II",
+      "anionId": "ION-PHOSPHATE",
+      "cationCount": 3,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-51",
+      "direction": "formula_to_name",
+      "formulaAscii": "SnCl4",
+      "preferredName": "tin(IV) chloride",
+      "cationId": "ION-SN-IV",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 4
+    },
+    {
+      "id": "PR-52",
+      "direction": "formula_to_name",
+      "formulaAscii": "PbO2",
+      "preferredName": "lead(IV) oxide",
+      "cationId": "ION-PB-IV",
+      "anionId": "ION-OXIDE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-53",
+      "direction": "formula_to_name",
+      "formulaAscii": "Co2O3",
+      "preferredName": "cobalt(III) oxide",
+      "cationId": "ION-CO-III",
+      "anionId": "ION-OXIDE",
+      "cationCount": 2,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-54",
+      "direction": "formula_to_name",
+      "formulaAscii": "CrCl3",
+      "preferredName": "chromium(III) chloride",
+      "cationId": "ION-CR-III",
+      "anionId": "ION-CHLORIDE",
+      "cationCount": 1,
+      "anionCount": 3
+    },
+    {
+      "id": "PR-55",
+      "direction": "formula_to_name",
+      "formulaAscii": "(NH4)2CO3",
+      "preferredName": "ammonium carbonate",
+      "cationId": "ION-AMMONIUM",
+      "anionId": "ION-CARBONATE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-56",
+      "direction": "formula_to_name",
+      "formulaAscii": "K2CrO4",
+      "preferredName": "potassium chromate",
+      "cationId": "ION-K",
+      "anionId": "ION-CHROMATE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-57",
+      "direction": "formula_to_name",
+      "formulaAscii": "K2Cr2O7",
+      "preferredName": "potassium dichromate",
+      "cationId": "ION-K",
+      "anionId": "ION-DICHROMATE",
+      "cationCount": 2,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-58",
+      "direction": "formula_to_name",
+      "formulaAscii": "KMnO4",
+      "preferredName": "potassium permanganate",
+      "cationId": "ION-K",
+      "anionId": "ION-PERMANGANATE",
+      "cationCount": 1,
+      "anionCount": 1
+    },
+    {
+      "id": "PR-59",
+      "direction": "formula_to_name",
+      "formulaAscii": "Ca(HCO3)2",
+      "preferredName": "calcium bicarbonate",
+      "cationId": "ION-CA",
+      "anionId": "ION-HYDROGEN-CARBONATE",
+      "cationCount": 1,
+      "anionCount": 2
+    },
+    {
+      "id": "PR-60",
+      "direction": "formula_to_name",
+      "formulaAscii": "Cd(NO3)2",
+      "preferredName": "cadmium nitrate",
+      "cationId": "ION-CD",
+      "anionId": "ION-NITRATE",
+      "cationCount": 1,
+      "anionCount": 2
+    }
+  ]
+}

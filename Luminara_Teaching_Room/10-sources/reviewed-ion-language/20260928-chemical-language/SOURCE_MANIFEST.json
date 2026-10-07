@@ -1,0 +1,50 @@
+{
+  "actualFileCount": 7,
+  "files": [
+    {
+      "bytes": 5025,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\00_START_HERE.md",
+      "name": "00_START_HERE.md",
+      "sha256": "26bd1537e9b0c203a9122b4afabd1df340e2605e2b43ea585e8f857a1c439777"
+    },
+    {
+      "bytes": 5624,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\01_CODEX_IMPLEMENTATION_BRIEF.md",
+      "name": "01_CODEX_IMPLEMENTATION_BRIEF.md",
+      "sha256": "48120f0e8e8d9ce67ab9327fd39073fb755e68cfcb0c7bfb6f7fdcfa95499d56"
+    },
+    {
+      "bytes": 7409,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\16_FILE_MANIFEST_AND_QA.md",
+      "name": "16_FILE_MANIFEST_AND_QA.md",
+      "sha256": "1fb82ee2e299c3d90a719f2706d6babf4c49e3aed339478c347854646b12f139"
+    },
+    {
+      "bytes": 5693,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\17_IONIC_VS_COVALENT_CONCEPT_MODEL.md",
+      "name": "17_IONIC_VS_COVALENT_CONCEPT_MODEL.md",
+      "sha256": "5732f3c713b70e288997e6f3ad0082de9d13c309bf124a1e9ec38f63223d7a00"
+    },
+    {
+      "bytes": 4702,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\18_NAMING_ROUTER_AND_DECISION_TREES.md",
+      "name": "18_NAMING_ROUTER_AND_DECISION_TREES.md",
+      "sha256": "a24c5d933ff7e9d7058a9457678f308b8ec9fb7d7dbd4e5b460b9b0449dc823d"
+    },
+    {
+      "bytes": 4471,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\19_SPECIAL_CASES_AND_BOUNDARY_OBJECTS.md",
+      "name": "19_SPECIAL_CASES_AND_BOUNDARY_OBJECTS.md",
+      "sha256": "60169efdb926ea714a5b0be032d4f1673ce690726478e2f11c4fbd8ab064ed1c"
+    },
+    {
+      "bytes": 2841,
+      "original": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\ionic and covalent\\28_CODEX_HANDOFF_PROMPT.md",
+      "name": "28_CODEX_HANDOFF_PROMPT.md",
+      "sha256": "ed7a86376ec4d3ac3806dcadfbdd002fbc4743e089e62fb4793793bf6440f88b"
+    }
+  ],
+  "served": false,
+  "declaredFileCount": 39,
+  "sourceUntouched": true
+}

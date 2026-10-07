@@ -1,0 +1,14 @@
+{
+  "moduleId": "chem1117-f2026",
+  "version": "0.1.0",
+  "status": "source-limited-study-pilot",
+  "route": "/chemistry/",
+  "stateKey": "luminara-chem1117-workbook-pilot-v1",
+  "courseOrderKnown": false,
+  "sourceRegistry": "source/content.json",
+  "sourceFolderInspected": false,
+  "rawPDFIncluded": false,
+  "activeLessons": 6,
+  "publicReleaseApproved": false,
+  "nativeLumiIntegrated": false
+}

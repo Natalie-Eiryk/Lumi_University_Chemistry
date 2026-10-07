@@ -1,0 +1,1545 @@
+{
+  "format": "lumi-university-subject-content/1",
+  "subject": "chemistry",
+  "repository": "https://github.com/Natalie-Eiryk/Lumi_University_Chemistry.git",
+  "originRepository": "https://github.com/Natalie-Eiryk/Lumi_University.git",
+  "originCommit": "2d13569f993c5206e833a97b5cb5c90ad003aa60",
+  "atlasHistory": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/references/history.json",
+  "files": [
+    {
+      "path": "Chemistry/periodic_workbench_packet/00_START_HERE.md",
+      "bytes": 7622,
+      "sha256": "0a4f082b3cf3dfaecd41c0a503ffec67f536e5432ffcf2fd42d9df3ea57b55a5"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/01_WORKBENCH_UX.md",
+      "bytes": 35708,
+      "sha256": "79ce81d7e6c1d1e2ee1cee7f7a32a53434de470f7b8a554c5b63cb7370e4eb1e"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/02_LEARNING_PATHS.md",
+      "bytes": 22367,
+      "sha256": "4af8bd2101c444fb671892c12739e80cfafc6fcfd4a3b3801f77535f28a0e4f7"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/03_CHEMISTRY_DATA_AND_VALIDATION.md",
+      "bytes": 16184,
+      "sha256": "26c4de0ccbe6875039733ac5c9bae5bf0313e1710f72df2644d2bd89e23142c9"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/04_CODEX_INTEGRATION_HANDOFF.md",
+      "bytes": 10529,
+      "sha256": "e7a4680b6a4faebcb374652f618c147475c5b1e9f14888749615fa7cb7fd0534"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/05_ACCEPTANCE_TESTS.md",
+      "bytes": 10755,
+      "sha256": "0d9ee25810463651885b39741ea1979d8d25fc2a772ee7491f8b709c9ae14ca2"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/PROVENANCE.md",
+      "bytes": 3882,
+      "sha256": "8ff239a5cca568a26cb1a359357f20d4dcba73fa3f1edaffea0354798cfe5e28"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/QA_STATUS.md",
+      "bytes": 2967,
+      "sha256": "83fcda0c6a0fcfef8ebfa81a7182fe847d677954a2c899c4a44dd0d33149b4f1"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/SHA256SUMS.txt",
+      "bytes": 1318,
+      "sha256": "43f6ef9070090edad0cd2ca5ced71da22da0a28e3cbf40c3fb7916a53d6038cf"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/activities.json",
+      "bytes": 129989,
+      "sha256": "bc499fa402ac133714d6327c58865179cc3da81420ef120d83fc8183e9fc5d1f"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/answer_keys.json",
+      "bytes": 43312,
+      "sha256": "49c78a7c066a69c83781ccd26b108fc744301c801af485bd3cf795c01b87c84e"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/coverage_manifest.json",
+      "bytes": 5572,
+      "sha256": "fa6f56875806000fded18f3ff9b798dacb91e4880ca064bf9e2462db356bbe26"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/interaction_contract.json",
+      "bytes": 32493,
+      "sha256": "c14c963ebd2c19f8cc23815e0cca0367595e126a1cf7e60c849e0ff78648a3a9"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/packet_manifest.json",
+      "bytes": 1451,
+      "sha256": "c8d65027f432de8abebd9681284401ad6ec3999de207d77945099a096ba3eb78"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/packet_structural_checks.json",
+      "bytes": 4167,
+      "sha256": "0adf8f0a41481e8cdb8fcecb15fc9c1cdbff6e5b729d8e53c57dd326033e41f1"
+    },
+    {
+      "path": "Chemistry/periodic_workbench_packet/reference_data.json",
+      "bytes": 63813,
+      "sha256": "b5d4e01c1f4cbb796b672c5ee843c868669206de850589a3f203915a998d3a9b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/30-modules/chem-1117-f2026/module.manifest.json",
+      "bytes": 400,
+      "sha256": "63176293ea2019305b57786f6ac012478bf8ed663fef271aeaba6735f727c62f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/30-modules/chem-1117-f2026/source/app.js",
+      "bytes": 28166,
+      "sha256": "0274c5576b0b686226dcb439271929ae16439c6c0fe7688e221761f55f751225"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/30-modules/chem-1117-f2026/source/build-info.json",
+      "bytes": 244,
+      "sha256": "677cbdc998e3b94d884867d68e1156b5fd68bc1c419b9a55cef505beb4fd46e3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/30-modules/chem-1117-f2026/source/template.html",
+      "bytes": 3494,
+      "sha256": "0de2f0cc9b870d3956d100ccc53df1e69a042ad454d2133d2007f325b41b151e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/CHEMISTRY_START_HERE.md",
+      "bytes": 5349,
+      "sha256": "3330ed7d85bae35916269e07fa61baabea9929c32831805e1d7c62c9d043d8ed"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/PACKAGE_INFO.json",
+      "bytes": 711,
+      "sha256": "81f64fbfe3e0edf8c82e608fbe6da6f38832831434d9525d71f464266f997171"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/PACKAGE_MANIFEST.json",
+      "bytes": 52417,
+      "sha256": "eb3c6cf952e4e5577c62b3993165c5ae283f1c2362bf481f607e0ee250f23d54"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/README.md",
+      "bytes": 1138,
+      "sha256": "cce09af0b93f3b1d51cd7959df312518476d51643cfb1f2827805498e3714558"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/START_HERE.md",
+      "bytes": 364,
+      "sha256": "41058a9979df63a79c5bdd9217d46b351dc44e6a7940229aa3087d01c6a97a63"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/VERIFICATION.json",
+      "bytes": 958,
+      "sha256": "7358a64d81c3b136549acbb9e6be1b351401b6c012f81cb819f3d1a49c89ab5f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/Verify-Room.cmd",
+      "bytes": 516,
+      "sha256": "1a7ca4df27e68abdda028a1dad1ff5273e9a955b8b3608df30b459e8561e867c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/chemistry/chemistry-desktop.png",
+      "bytes": 188036,
+      "sha256": "1183632a6e461526cb48282186f5c38f06fdfe12918803ffef151cc27628a0de"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/chemistry/chemistry-mobile-writing.png",
+      "bytes": 76195,
+      "sha256": "c3abd45265048098bde7816a97837b784f1f67ebd005dc99f59f34cda8c29183"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/chemistry/chemistry-mobile.png",
+      "bytes": 85020,
+      "sha256": "dd869ea3406ae58e5767b350959925d44554bdfe0f762c5fb95ecbb0cd823af2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/chemistry/focus-results.json",
+      "bytes": 214,
+      "sha256": "57c46eadeaecab556bf692c41a7983421cfa5f396a94a98f3c3cd1df7db96a6c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/chemistry/native-browser.json",
+      "bytes": 216,
+      "sha256": "d854cf3df83df7ff0ddd7a28998ddcc1010a4c156a6bee9a504ee9cda3d28144"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/chemistry/ui-results.json",
+      "bytes": 1845,
+      "sha256": "ddec42658dd2f8a7cdc981e3c8d5d88eb9d3f93759cca5c6583695aa61f13367"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/room-desktop.png",
+      "bytes": 170066,
+      "sha256": "45017ba6a862164cb5d46103d283d1438c9240a4cd76ead1d4fcb7bf1eb07f95"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/room-mobile.png",
+      "bytes": 345547,
+      "sha256": "228897efe8c9dc951347b675a6357e9b306bed0fe93f0f80272b7d2d0fe67eb7"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/evidence/room-ui.json",
+      "bytes": 782,
+      "sha256": "a243cacb92fc7b0450e83bfbd1d27b15c82fc4768565c95c4a0f54607c436328"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/scripts/build_chemistry.py",
+      "bytes": 1685,
+      "sha256": "5ae76f4751747e8dfb9021a601ef99861b56d9c5dd63cf17ad85d3ba6bbd5a46"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/scripts/build_room.py",
+      "bytes": 24555,
+      "sha256": "be96d3bbef2b1420cdea69605ba64a69e8d67dfc3b406a55a0363c562d0a3cfb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/serve_lab.py",
+      "bytes": 12343,
+      "sha256": "a3c501559c0e88884ec098d09ad0906726370134bb98dd5c0a2cf23d29461c79"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/tests/check_chemistry_focus.py",
+      "bytes": 1365,
+      "sha256": "660fdec595e7b0eb56d26d76d3e2de8d6adc4fbd920ab89206cbf5a3e3021132"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/tests/test_chemistry.py",
+      "bytes": 12666,
+      "sha256": "b0730e8bf7e4964ded38bc3aa71f05cf6e17f28f7b6035b583bcde098678855c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/web/chemistry.html",
+      "bytes": 60635,
+      "sha256": "8b68f8e228409fdc67b6a929be003b8092fae2b25e4920bd820db98c751981b6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/chemistry-pilot-baseline/web/room.html",
+      "bytes": 33316,
+      "sha256": "bfa9855975a7c924de4bdc275a61ed78003b47c2dfc0a190d5dcf26fba9d6caf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/course-working-copies/20260927-ion-naming/Ions and compound naming.pdf",
+      "bytes": 2414569,
+      "sha256": "28ac7962a7009e9d84836d881f1d237a2d418a979b0de6ad8f70ba7a1bd2d3fc"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/originals/Chem_1117_F2026.zip",
+      "bytes": 8235955,
+      "sha256": "984ee412c7bae079071ab79dc8980a3ae675da6cf6570cdf85860d9f791a6af6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/ADOPTION.json",
+      "bytes": 3953,
+      "sha256": "4fb913055408ef71de7f46145e7dbae556c8627ebadfc5171005559c02c7828b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/README.md",
+      "bytes": 1240,
+      "sha256": "317746304ab4d2a47ea1adc1020135140ba0e6cbb73939343721155773912b43"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/VALIDATION_STATUS.md",
+      "bytes": 4702,
+      "sha256": "fc32f0b6d0e1b3fb2e9f445eb16ee27096d4dc4ce56f1888e42f5680c180695d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/ciaaw-weights.html",
+      "bytes": 21501,
+      "sha256": "b48282594b1fb01eee3cbc9d469ce5e3483b628157ea1b09ede33e3476895cf2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/elements_data.cpp",
+      "bytes": 38508,
+      "sha256": "e8e10cae05a37abee2671da67e2bb4f7667c5d624cf850dd6a39688855744c38"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/elements_database.hpp",
+      "bytes": 8377,
+      "sha256": "c9f2e5fe2537ff378db359a031123df7e6d94d08d3c52dddbfa1cbbc9cceb95a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/nist-isotopes.html",
+      "bytes": 30341,
+      "sha256": "f653b195fcb9bf01db4e3972abbc27bac811b4a90c90a3e71d8b01d5d63df836"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/nist-neutral.csv",
+      "bytes": 12237,
+      "sha256": "4d55288f0fcb0b52333b0ce9bcac753e23f465e286cf4128052e4374d1342ae8"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/pubchem-periodic.json",
+      "bytes": 44488,
+      "sha256": "ff0f75976583b8a6493b18d0b42e83e1b68bd6e112b45d33578d98494ed5d321"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc-index.json",
+      "bytes": 26103,
+      "sha256": "893ba92bb8d58b2c7f4ba041bd43aff73651c8587f5ec12af12901161c201e72"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/001.html",
+      "bytes": 170206,
+      "sha256": "66c3f9ece8838c5a927c0359cbf0c6046e93259340dda7dcc2ec62248c65c78f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/002.html",
+      "bytes": 157272,
+      "sha256": "76f33e3503e4cadc253fc7f69ac1cb233c41c9d046fa0782fb1647951f520373"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/003.html",
+      "bytes": 156198,
+      "sha256": "e069d791afeb475fb17dc93ea21dc80e0ca5c87f1e79f2325e3ded76d81df397"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/004.html",
+      "bytes": 154267,
+      "sha256": "e3e0e012f2671b5e554247acca0904f9598e1308790f17a67d1cdd4dbabb7cfc"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/005.html",
+      "bytes": 156176,
+      "sha256": "ab1eca7f8ca4b9e21b2ab125d28d20b49a792d630933897658c595ae4dea3e9e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/006.html",
+      "bytes": 202858,
+      "sha256": "071aa6b65854c447b8fbf99c94558abc90dd4845ddb008f67ec970e07e4c3ad9"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/007.html",
+      "bytes": 163925,
+      "sha256": "e27b062d5b1acbb77b4c54e66d5e2a5395a989f00e5667f7617a2180e2cd9331"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/008.html",
+      "bytes": 166598,
+      "sha256": "5af63e04775f93b84238d6f59246f662cc344607aaa3cc7b71739f2b3e3618f5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/009.html",
+      "bytes": 162613,
+      "sha256": "11b1bfe394e728606669926d96159344a63427b7f4964332c83800005c1627a4"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/010.html",
+      "bytes": 155785,
+      "sha256": "97a1e248a76928860e11609eb24dfb179ffddbb4b1560aa6842db77e30996d8c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/011.html",
+      "bytes": 155612,
+      "sha256": "1a846de0d1f12cf8790c0560293af73ec3e26f671e820210479e6059468b3837"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/012.html",
+      "bytes": 157285,
+      "sha256": "53280a1bd8658a213e8ed816098432a3b49ed6354d359e7f1ce2ca9e3ae7d715"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/013.html",
+      "bytes": 157936,
+      "sha256": "13d747b558a7377b9cbf26148d7da1b88758aad5b3539c969ba1cfb8a5a70eba"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/014.html",
+      "bytes": 165149,
+      "sha256": "f696622ccb571c1650b7159f49847d57b408ed60f5646670d14f5a29f1d565ec"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/015.html",
+      "bytes": 161714,
+      "sha256": "fdfaaf04f8d4d2cef9a0b2d880c48dfc4b14b7294eb8e8aaaec445af8d3aec43"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/016.html",
+      "bytes": 164687,
+      "sha256": "95c0f9074b8394f350fa7421a2a3ce39b9834f49e42eab08b3713d1f78d4c1f9"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/017.html",
+      "bytes": 162748,
+      "sha256": "874b1a999d041cdfae79c9c451844245028ca9ede45506965679aee52246fd09"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/018.html",
+      "bytes": 155488,
+      "sha256": "b64ab1b96e368ab6f7f9339a65d6a5f7a62e68ebe66cc6c8f7ad184dcc27ef75"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/019.html",
+      "bytes": 157086,
+      "sha256": "89f217abed78ac5360bdba467ab93f0c9b15f7f2bf0b46e33b32dcf450b597a2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/020.html",
+      "bytes": 160741,
+      "sha256": "51d862b1c870ba9381f25e4c63d69766bae1741d49afdfe5a7851d664fbcdfe6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/021.html",
+      "bytes": 154896,
+      "sha256": "80ecf1cee8c8af46cb62494b10425e63de18afbee487cdb2fd8fa27bcfba4928"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/022.html",
+      "bytes": 158441,
+      "sha256": "f589cde9359f4cc83bfc5d6aad97397d513f1337462c14afd0dbe2d5288976a7"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/023.html",
+      "bytes": 156595,
+      "sha256": "e07892f6176fff68abbac63f662a301418347f314338cebf2676585cf7727b9b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/024.html",
+      "bytes": 159060,
+      "sha256": "dd729846aea0cc0355e6ad79413613ffdd65f8495dad7166e466536b54a1146e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/025.html",
+      "bytes": 156209,
+      "sha256": "68351d3c5998e52aaefe641fda6d7f191842e082fbbe9bbcc69687a236ea464d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/026.html",
+      "bytes": 158349,
+      "sha256": "51d2d12fd58c037e223113b5b537510e164e4d22bf607ff1d2ed9cf89de7ffbb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/027.html",
+      "bytes": 156721,
+      "sha256": "241439f3d33188161b5f7ba21d84736b029038c3343de06cd16c2768f26d1614"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/028.html",
+      "bytes": 160508,
+      "sha256": "1237efb03c85c1f076e8b98058ab9005630b1ba07cd3f24b1867f8dfc65bbe54"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/029.html",
+      "bytes": 155125,
+      "sha256": "503c99821f78ef9202e050d39080529f41eed04034304870485cb747236831aa"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/030.html",
+      "bytes": 159475,
+      "sha256": "a9388ae16a7e28f0cdd2d51f5ef6e977a014fd58cc34732b6d0ace7d929b8609"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/031.html",
+      "bytes": 155689,
+      "sha256": "3a5fc05e5919eee5375ffb1b6ae6d7d703def3f64d8d1358f7fbaf417c195e3b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/032.html",
+      "bytes": 158926,
+      "sha256": "6945bd729e7915b54869a932267deda7b8467a08266360140dbfc8763409709e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/033.html",
+      "bytes": 159020,
+      "sha256": "4281632b505452fc500ed4eb3baf8b0585112f5f346c98517e36b8fe5fefaa23"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/034.html",
+      "bytes": 163346,
+      "sha256": "5aff7a25f1123eb704585ff9d2de36dc5e60addaaa9cd4629082aae0fcb852a1"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/035.html",
+      "bytes": 161199,
+      "sha256": "686a07f0a26c263f1f87f72132a84cb08052478e43704f9ca13639ec42762e22"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/036.html",
+      "bytes": 158244,
+      "sha256": "b20f1b2d5a838be7b45ce4fb32b3ecfd9b15c985e2a6c67c5eb3f184a0b733cc"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/037.html",
+      "bytes": 156326,
+      "sha256": "17c360988fa8cdc8b0b1fc00c57a4e474849385f6f09520d7bf78279468dee73"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/038.html",
+      "bytes": 156053,
+      "sha256": "4632d22b4ebc62a65bc478b799f4ebadb6b60bb4ea774c7866560080dbb53120"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/039.html",
+      "bytes": 154970,
+      "sha256": "d42678f31cdc3dbe20e8daea7d828074eb38ac32dfddb6a198b3f4aa84a273fe"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/040.html",
+      "bytes": 159692,
+      "sha256": "3820c9eda08df346b995eae854a0e94229f01a580df50d93d6c96d8206fbc946"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/041.html",
+      "bytes": 156644,
+      "sha256": "72bbbaceda55526b78a1286d044133349260cd46d8c2113814794838d64259e9"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/042.html",
+      "bytes": 158137,
+      "sha256": "a4cc3825d23b4f1ec5e01b633d45585595502124dea32fe93246aa87ceeeba74"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/043.html",
+      "bytes": 145215,
+      "sha256": "387e70351ae5e6fb31b953cfc19f1c89833eec7b0e08c71c811e6fde0fe31f65"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/044.html",
+      "bytes": 161325,
+      "sha256": "96c5409eb3002177072308f16401bc189f5c4e0bb999de745d4030aa2336859e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/045.html",
+      "bytes": 154927,
+      "sha256": "1e4daae715e44426ab74231037fca4646235d6f77f3d691e24d859a1f3aa0baf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/046.html",
+      "bytes": 158159,
+      "sha256": "732eea212905032d9aa0bab04f8a475510f60feabf8b015beb994be2e3fab1e7"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/047.html",
+      "bytes": 153819,
+      "sha256": "bffc7ecaa4b1e5a83654d602f881e2b955bf10929d72119108e04a962db81c21"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/048.html",
+      "bytes": 160085,
+      "sha256": "935b40306d55f427c7470a85b9889ed67a0dde63a67fb6323c85d10047e6b223"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/049.html",
+      "bytes": 154346,
+      "sha256": "b16cf0891e102803b2f5310b786bc66c91137c5cd35aabb59a6e0d9e9cd5469f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/050.html",
+      "bytes": 161384,
+      "sha256": "4a9d9040aa7ad7e1206b4cc01742cbbac57458a68efdf063cbcd96a75e5d5a20"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/051.html",
+      "bytes": 154901,
+      "sha256": "79e84dba1c1d48a499465e3aa8d249ae2d30da270eb50eac2914e1eeb03112a3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/052.html",
+      "bytes": 160245,
+      "sha256": "a4aa5c342ef776af0c1cc618449fb0809c9391524d61622ea783477034a7e62c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/053.html",
+      "bytes": 161745,
+      "sha256": "ca3f66a0ad08b381310e6434c42625e1701150eebcfb2cf3a2e5902a443eed65"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/054.html",
+      "bytes": 162819,
+      "sha256": "25f7a28f07f7c255ee65afeddc62bd6c80b75cdbd77184439b658b450f2ecaca"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/055.html",
+      "bytes": 154715,
+      "sha256": "44aa63ab69e0044ef19e6141a163ea4581296dfd047fd9934898d99d44d8a2b1"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/056.html",
+      "bytes": 158763,
+      "sha256": "75f4a427b7662d6eea219c28cc2f72e12575625da22c4c14a4dca41dedcaee79"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/057.html",
+      "bytes": 157079,
+      "sha256": "09360972be82fdbe132791079a72ed49e1b1da3d5b64f81a34c78eff80aee905"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/058.html",
+      "bytes": 158883,
+      "sha256": "ed7c537c8af2d0431b508fb1eb6a5187cf980dfcdf68db3045422fcf86ea6d95"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/059.html",
+      "bytes": 155161,
+      "sha256": "6af630a7d22adcf530de145310610eb5fa80d7940cda569b7ea3049709202c53"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/060.html",
+      "bytes": 160179,
+      "sha256": "34643edf9e01ef3b8bd00a92c5f9716f9aace3c30b352b4696ae5e2c71df5e6c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/061.html",
+      "bytes": 146237,
+      "sha256": "94a699181de28a222ff8f5b90c6e9b8aa2ae475bf863c1e5d5b8d25962930131"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/062.html",
+      "bytes": 159854,
+      "sha256": "98bfae02926a70f611de306e5694537e581320aca9a47d9559aefbcde66259fb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/063.html",
+      "bytes": 156029,
+      "sha256": "958dd4e91ca2b50beffa26a2d3218f69c2d5bbf59ddb26096b495ac54bc911cf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/064.html",
+      "bytes": 159701,
+      "sha256": "ea411e3fdcdea9369dce7afb92de8a787d6110c1c72fc57de362f3d0c63f0975"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/065.html",
+      "bytes": 154791,
+      "sha256": "0706701bc9df64b7bfd86d7f57b241bccd77f76dfe68c38748c4f0eef51d8652"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/066.html",
+      "bytes": 158945,
+      "sha256": "0c56fc983819197358bf7f3597069c92bd802b22304ce45829653383991ee345"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/067.html",
+      "bytes": 153962,
+      "sha256": "02e6c1cb7c62be1a27eb237dc08ef63d2aaa6318147e0a2ec1274cad591789da"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/068.html",
+      "bytes": 159176,
+      "sha256": "3ae3885466be795ccccddadcd0358dd7e64fb9a958c5b0395fb6ef904943397f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/069.html",
+      "bytes": 154305,
+      "sha256": "131b86b367db09a1dae91eefe6521dc5c6480e516050a3cf67fbd8c70ef6a6a6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/070.html",
+      "bytes": 159945,
+      "sha256": "3b6098298f76294ecb3bbd7aba9f69e9ac0fa8e0565f56e7aa02a59985bae66a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/071.html",
+      "bytes": 156456,
+      "sha256": "74afefa6e4ef89565afcfb170dd87f0e85e2c32834e0b2659c2f838282f785d6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/072.html",
+      "bytes": 158117,
+      "sha256": "96898eb8097b0e3e9e823dcd78d69d4aa36b3ed00cb11a6d5590f6f815324729"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/073.html",
+      "bytes": 158086,
+      "sha256": "2f99c249462fd75776e744a6b8f077e2af56e8e6ce91df54fb5651bb335a7950"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/074.html",
+      "bytes": 157606,
+      "sha256": "971f0e8ce2fcfc63fdf32ddc386e10ca90d5c1916936a1fbd087a93e2f515528"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/075.html",
+      "bytes": 155800,
+      "sha256": "806a7bd80db47866bba5d8021ac036fb2de34ffd43191f59a8107288f5a54dd0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/076.html",
+      "bytes": 158361,
+      "sha256": "c2d5553b8922a735bbe18879f3d87310e02beb2620a65e1560bb003b0ade9c93"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/077.html",
+      "bytes": 156339,
+      "sha256": "0d93e3357e2f97c407e4fffa3f59673d0739c80423a958154829caaf8683b309"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/078.html",
+      "bytes": 160842,
+      "sha256": "d2e0e9829212015d21c8dc0fb6d814b83e93fadaebc8e527d87cebb8b45d9531"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/079.html",
+      "bytes": 155359,
+      "sha256": "6db0169689b2cbc392ed85e2cff3eee0162a306e13c7a94334e3555e68f811cf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/080.html",
+      "bytes": 159507,
+      "sha256": "6078e536509dc0ea54d5092a4a453a7ebb89c04aec1099aa88acee6e45ed49dc"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/081.html",
+      "bytes": 155900,
+      "sha256": "b343551323addac1727ecddf1cba1b6d2c28a39b94396bbebc0a58b7c9da821d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/082.html",
+      "bytes": 156466,
+      "sha256": "275560abb37bd4bf61989d9b79e7106fef8da5d6c0bd45ae0b925c42eb5767e8"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/083.html",
+      "bytes": 154706,
+      "sha256": "f04b2c2fe8c4c3a8d5bb7d76dc7f0ba9d2d54c1a3f9ddf2fc1ac20ed32fef7c7"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/084.html",
+      "bytes": 154386,
+      "sha256": "50ca46e45ad2db24960e973b00b305390c08d87a4e4f38f2456d16bb2198c9ae"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/085.html",
+      "bytes": 145819,
+      "sha256": "023bec9eefad2a0e31f41da041307ed091d2fede12fa1087bb1e5cdd88be26a0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/086.html",
+      "bytes": 155717,
+      "sha256": "a4ed82bb70473a316e6eb2a95021e1658d042209e11fb8892c2d3f12edbc796a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/087.html",
+      "bytes": 144871,
+      "sha256": "42f0a51e477e869332bab7a6ec2e5afd512f7342d3c945d08f0246fcd3621b62"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/088.html",
+      "bytes": 158773,
+      "sha256": "571831a22c9c7ce254c2e7964e87a6918ee93c7fd1785e7b3925e5240e19b8f2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/089.html",
+      "bytes": 155332,
+      "sha256": "8a7c7c8b1330fc5bab4ba7bb806d81babf4d0a11dad7d920fbf1e63cfadde2d3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/090.html",
+      "bytes": 158246,
+      "sha256": "dcd75940f3277a4111f26a934efd388ba03d3f294f0d94032a5858f002e6e704"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/091.html",
+      "bytes": 154157,
+      "sha256": "9732e979cf5f45fb4869b325432e30f5abe9663ebb986e3a908807dc2acfcd36"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/092.html",
+      "bytes": 163840,
+      "sha256": "399702aa8b93b0130f857e7fcd7b14c5f112235c3b70f8eb644549c0d4bca94e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/093.html",
+      "bytes": 146315,
+      "sha256": "7a76603f9f68e3928e75dd21e122f23a49590624a5ad56d569667536fadf1d67"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/094.html",
+      "bytes": 154337,
+      "sha256": "31447ccd81e72a68aef0c863bb78f085af83a30c34bc4648d1b0adbf88169a00"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/095.html",
+      "bytes": 147422,
+      "sha256": "921bb7a81d385de6025b1be6426277ba75a632c2f5e06a34e192600891fd5642"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/096.html",
+      "bytes": 150177,
+      "sha256": "8031a43a03c8216eb47ed6a3a291bf5e6f605aad5023cd0ae4c2359a84ff6645"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/097.html",
+      "bytes": 146010,
+      "sha256": "2b331fa12d2630af547337a4ee94d8d84507607a91e24790096fb91aa8a5b75f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/098.html",
+      "bytes": 149061,
+      "sha256": "eedcccfec97ee5d56cc0330a7fe0f9e07facc7e088a3a62acaf380e57665e61e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/099.html",
+      "bytes": 145233,
+      "sha256": "b5ecc56487e717572b463f32a25294267a7c63327dee5bab0ab08f9d7cdb1afe"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/100.html",
+      "bytes": 144835,
+      "sha256": "b8ca470161d447e2adadeac934941729cd6ffac5625d92c0f747fa3453ee7ae6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/101.html",
+      "bytes": 135025,
+      "sha256": "337d412403792f08e3a84a1f1983f1576af52d53055995d4a0868c81834e35e5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/102.html",
+      "bytes": 145994,
+      "sha256": "0bdf06ba06ac4c85771117fccf9df35d51c65e19080a2dec71cf24c76fe5d757"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/103.html",
+      "bytes": 143394,
+      "sha256": "c1a919ff35b2a4f9480017cec62e75e0ac90224d64125274e755e3903f78c9ea"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/104.html",
+      "bytes": 143902,
+      "sha256": "139c986a64d113f86a3163b47e7842e7d5a15b9882ef0888396e6ea7eface3c5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/105.html",
+      "bytes": 142489,
+      "sha256": "15b1938afd4c794e8b483e7c22bc757420d93b5ae9385240bff98a79cafc2c5b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/106.html",
+      "bytes": 143388,
+      "sha256": "4bd7b9323e1744d1bc1927e78fb1311188afbb5506fb08443de511bb02bc85e0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/107.html",
+      "bytes": 142736,
+      "sha256": "8ad1ed26ff6119381b89e36aca4f39575c39ec5bdd007bdaa0628700a597b340"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/108.html",
+      "bytes": 143348,
+      "sha256": "8589d93126e58c4f6a40634dee84c5947c8abc8044fe8f8d8278b8e21dcbea67"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/109.html",
+      "bytes": 143485,
+      "sha256": "078ff903c372190f30e04da3f0a64975428cf8a32a192ca8562d68db8ae5b038"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/110.html",
+      "bytes": 144017,
+      "sha256": "fdc58fabccf3903170a2c7cd94706b9035477942ad830c15ded75d73b01619d5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/111.html",
+      "bytes": 141774,
+      "sha256": "3d1bc84ba0d64bd32311e2ddbbab82d2d6f1a797d1af3a37965f0b0f5bcd54ff"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/112.html",
+      "bytes": 142988,
+      "sha256": "b51e3a239b3f98d5f1b5e57988c8e27189884dbba0881492472f9441150714ff"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/113.html",
+      "bytes": 133764,
+      "sha256": "f1735c5a5cf80b58bdb6afd9bae867bca5c025f0a754d1a99fcdac3ae0068e50"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/114.html",
+      "bytes": 144716,
+      "sha256": "60cc28ce49fa5a812bc8de20fa720a77921873538cbb9b82308e0905f4caa221"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/115.html",
+      "bytes": 133993,
+      "sha256": "95123c96c183397d6d8a45e93b0dc89d96dc71f515628ed27126047d48038be3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/116.html",
+      "bytes": 145162,
+      "sha256": "332d4ed7f0238783c165cceaaf6cc50ff3c7ea82a1a449ba5f15c7fa9f297e39"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/117.html",
+      "bytes": 133967,
+      "sha256": "4af128e2d05525e82823f6d894dcc29aa5cd0db201a334434abb18822592ffdc"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-element-reference/20260928/rsc/118.html",
+      "bytes": 143967,
+      "sha256": "88fcfbdec7684e657f2c2a81f1335f35af2b1d433585cf8d2e795f1081d2b329"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/README.md",
+      "bytes": 724,
+      "sha256": "91ea56ff07c734369aa43ce533c089d38d6e43bf651fc978b6f787d6f3689ce7"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/SOURCE_MANIFEST.json",
+      "bytes": 4351,
+      "sha256": "81e8b26c3f8649aa6897e450f38b133298e608ef0eef14f80c65e5b74312a9bb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/00_START_HERE.md",
+      "bytes": 5656,
+      "sha256": "ced61fe0615f24fd4c12cbf3ecef0e11981ecdb0bcfaaf06397a7cf28d432f08"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/01_CODEX_IMPLEMENTATION_BRIEF.md",
+      "bytes": 8370,
+      "sha256": "709beb85ccfb3bcc1c866886caee7b491a1fc14a60482b5d15e5cc0323bb8f1a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/02_LEARNER_AND_TEACHING_CONTRACT.md",
+      "bytes": 4923,
+      "sha256": "4becb5df56ae1aa8bca5bedc381b72d4da9f17fe37ee05f08ecc8e53658c23d0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/03_CHEMISTRY_RULES_AND_BOUNDARIES.md",
+      "bytes": 7637,
+      "sha256": "95fe4e94c1daca016134f99d1657728adf9af6178badbecb9f801952875029f1"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/04_ION_BANK_AND_FAMILIES.md",
+      "bytes": 8192,
+      "sha256": "fa1b13d7c0cdc0320440dff34df9fd5549427ea24f2e7047c67843669dcd7faa"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/05_SESSION_AND_SKILL_GRAPH.md",
+      "bytes": 5043,
+      "sha256": "5daa847995e0de1e07dcc7ac820bbc5c76fff79588151b980f95781229c06f0b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/06_MODALITIES_AND_INTERACTIONS.md",
+      "bytes": 6994,
+      "sha256": "898acc0af28ae6295b228c52c4a9bf3e44cffbd5a137797cd8706330cf8f5a77"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/07_WORKED_EXAMPLES.md",
+      "bytes": 13910,
+      "sha256": "81580a4c875b42eb71e712bb4648143d8a1463868560f0ba817a9346984e4357"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/08_PRACTICE_BANK.md",
+      "bytes": 8686,
+      "sha256": "afb369bfd9e3cb5ab32602ced5582bf585a65ee4226dfc7f73b8ad2edcd279d9"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/09_ANSWER_KEY.md",
+      "bytes": 40705,
+      "sha256": "2eca0837a1ab6b47eb949c18d6f2fe40f627bc4986bbfc24c3b77f0e95e1aa68"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/10_FEEDBACK_AND_SPACED_REVIEW.md",
+      "bytes": 6854,
+      "sha256": "739421a38b58cd057158019f0ad1e57e756a36694bbfad35e9cab784f9092be2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/11_DATA_AND_ENGINE_CONTRACTS.md",
+      "bytes": 8579,
+      "sha256": "d699b76a6cac0afcf0096cf3b1def384feedc2611824897a6fe402299002c14d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/12_INTERFACE_ACCESSIBILITY_AND_PRIVACY.md",
+      "bytes": 5584,
+      "sha256": "46cab279e3ee4dc231fa724279cbb109f0b214bc9f4b864ff3944270ec969292"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/13_TESTS_AND_ACCEPTANCE.md",
+      "bytes": 7890,
+      "sha256": "13dba1e5ae65bd4143f81631ffb4643ea9137c9e31bd355ce732099a411b46c0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/14_EXAM_CARD_AND_REVIEW.md",
+      "bytes": 3904,
+      "sha256": "52ff0d47b1a55f3c677f88fd0945be384168a9bf46de75243b08155dc4c2d838"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/15_SOURCES_AND_DECISIONS.md",
+      "bytes": 10890,
+      "sha256": "1bccc8816cafb4246c4109025183499d6f169a989ab00e131d1962327e8c5f58"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/16_FILE_MANIFEST_AND_QA.md",
+      "bytes": 7809,
+      "sha256": "c876087086f15b46dc4c1ef1c18bee31cdb5460331e467c86d1f23aac5962639"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/lessons/L01_CHARGE_AND_REPRESENTATION.md",
+      "bytes": 3913,
+      "sha256": "4706fb6239022a6ac16ab35a86caf94053a3961c29865a4581d45d62331c194a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/lessons/L02_NAMES_ROOTS_AND_CHARGES.md",
+      "bytes": 3875,
+      "sha256": "d44369ded0885ec721ab9a5bc6f24ebcc0a0dce80efaf883b1bc6a8093037c28"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/lessons/L03_BUILD_FORMULAS.md",
+      "bytes": 3823,
+      "sha256": "3156ebff59f518a95c8d9ae9a0a6e18b3276efd17fa8d604f9a3188454882df0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/lessons/L04_READ_FORMULAS_AND_ROMAN_NUMERALS.md",
+      "bytes": 3593,
+      "sha256": "195ec017fb21c82f3fa7fc8264fbae7749d5dcc4420071037f7b53135a97c4b4"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/lessons/L05_OXYANION_FAMILIES.md",
+      "bytes": 4166,
+      "sha256": "7ff90bc053f869bd9db124531df678fbd2b86ab8722524571318348f6d3fb255"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260922/content/lessons/L06_TRANSFER_AND_REFLECTION.md",
+      "bytes": 3713,
+      "sha256": "e04a2d0e511d2cc3bde2dd65cfab0083a24637548fabe6f594b143c65da6b5ca"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/00_START_HERE.md",
+      "bytes": 5025,
+      "sha256": "26bd1537e9b0c203a9122b4afabd1df340e2605e2b43ea585e8f857a1c439777"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/01_CODEX_IMPLEMENTATION_BRIEF.md",
+      "bytes": 5624,
+      "sha256": "48120f0e8e8d9ce67ab9327fd39073fb755e68cfcb0c7bfb6f7fdcfa95499d56"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/16_FILE_MANIFEST_AND_QA.md",
+      "bytes": 7409,
+      "sha256": "1fb82ee2e299c3d90a719f2706d6babf4c49e3aed339478c347854646b12f139"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/17_IONIC_VS_COVALENT_CONCEPT_MODEL.md",
+      "bytes": 5693,
+      "sha256": "5732f3c713b70e288997e6f3ad0082de9d13c309bf124a1e9ec38f63223d7a00"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/18_NAMING_ROUTER_AND_DECISION_TREES.md",
+      "bytes": 4702,
+      "sha256": "a24c5d933ff7e9d7058a9457678f308b8ec9fb7d7dbd4e5b460b9b0449dc823d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/19_SPECIAL_CASES_AND_BOUNDARY_OBJECTS.md",
+      "bytes": 4471,
+      "sha256": "60169efdb926ea714a5b0be032d4f1673ce690726478e2f11c4fbd8ab064ed1c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/28_CODEX_HANDOFF_PROMPT.md",
+      "bytes": 2841,
+      "sha256": "ed7a86376ec4d3ac3806dcadfbdd002fbc4743e089e62fb4793793bf6440f88b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/10-sources/reviewed-ion-language/20260928-chemical-language/SOURCE_MANIFEST.json",
+      "bytes": 2522,
+      "sha256": "ea21ffbb9b444e054764872da9e74d4995376152f84fbd53b8ce04f7f52735cb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/source/01_THE_ADVENTURE.md",
+      "bytes": 68540,
+      "sha256": "c502934d7a89e40c42ab8f4bc1a47f2f941fb1e99fbee61bafca6b0dbcf27b4e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/source/02_SOURCE_AND_ACTIVITY_MAP.md",
+      "bytes": 16136,
+      "sha256": "69a7169d73749b7a4d500dc2a9150a0f1f2d4cd3c73a37698b24dc685957c7e8"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/source/03_CODEX_INTEGRATION_HANDOFF.md",
+      "bytes": 7567,
+      "sha256": "d4c7fe48407f5528242ea0ca4564be686da634120a0533a810039df1efc83d49"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/source/05_CARRY_HOME_REFERENCE.md",
+      "bytes": 5013,
+      "sha256": "09cd7edc8e341b69a87f1f13dc91c1c6a4a7de1f4dea9a5c2f9816f2d9a93d72"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/source/PROVENANCE.json",
+      "bytes": 1304,
+      "sha256": "333a2430cf2098b3aa4593bde7adaefee896050f25e3fe25a6c88906e836d79c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/source/READER.html",
+      "bytes": 141991,
+      "sha256": "eb6a9758b4c771e990ae2d9749277f73969f0c0f8271a6d50a09c8a759056906"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/module.manifest.json",
+      "bytes": 1985,
+      "sha256": "f48ea64139adfe3ef7d6edd49e9e1aab67f07632b0f968a0ff047cc44c1adfdb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/course-edition.json",
+      "bytes": 282476,
+      "sha256": "45bf177dab4ec927f037245aae34f95084128f601b1ce8c5c9d5286fafd8fd27"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/curriculum-seed.json",
+      "bytes": 111517,
+      "sha256": "2fc67fb3a3695a4ef279b978553b5cef0758519aad57b052ad2c7dd06bb0b9a0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/ion-seed.json",
+      "bytes": 30596,
+      "sha256": "7351f34f302ed072a9a7d460e73aeb6596a6b0f9aa086782bc521a7a94aec3dc"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/references/backup-db762593f6629e9016e161fa463c77c7c534cf2b306fbcab827b7f87f8dc20ab.json",
+      "bytes": 5750,
+      "sha256": "db762593f6629e9016e161fa463c77c7c534cf2b306fbcab827b7f87f8dc20ab"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/references/history.json",
+      "bytes": 13562,
+      "sha256": "3212fc2ae42b36b3a053209e84899e3cd50d008c150707221105f78722abca1d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/module.manifest.json",
+      "bytes": 783,
+      "sha256": "f7a31720c100edeaab10879cecc8a02907b99c93c761a17876d4674e2a8ac885"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/00_START_HERE.md",
+      "bytes": 4774,
+      "sha256": "bcd8d7dde89316a5d33d0ec66000ebab733a000735852083fc046abb9aef654f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/01_CODEX_HANDOFF.md",
+      "bytes": 7394,
+      "sha256": "ac379308d21ca518e856ad619d834f5c04acbb1fa2f936dce2b65103135172a2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/03_SESSION_AND_BRANCHING.md",
+      "bytes": 4942,
+      "sha256": "0690764d24b84143e539922b8abc8d2111c67c1673618e42fdd9776545f30cd3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/04_FADING_AND_TRANSFER.md",
+      "bytes": 4855,
+      "sha256": "c561fe4964a38a4b198bd339b815613dd51d511d625508554fa749b727accdf2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/05_FEEDBACK_AND_UI_CONTRACT.md",
+      "bytes": 7247,
+      "sha256": "fe9858a3b59d66c465d209a852e9f289cc0460f468b043320cec712970b62d3f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/06_EXISTING_ID_BINDINGS.md",
+      "bytes": 9796,
+      "sha256": "fff178a4fdd98131856577c06dc29d07f325dc476ed5c8e89692609437730f0a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/07_ACCEPTANCE_TESTS.md",
+      "bytes": 8297,
+      "sha256": "63a029675965dfac19045b24262f31d10acc396663e144f589801d69696f20d5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/08_CARRY_CARD.md",
+      "bytes": 2477,
+      "sha256": "3abeed4eb5423aeb86b744a85edf37d4c9d3aee1d5307f6cb14a31c51279567f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/09_SOURCES_DECISIONS_AND_QA.md",
+      "bytes": 11731,
+      "sha256": "7750ace837a9cbeb0c693ec5328a1da7f0a5a7678373fa42cf57211fb737cbca"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/PROVENANCE.json",
+      "bytes": 2955,
+      "sha256": "654858398a13b34d0bdd7b6d33e9b340d61d15f6f362e772fbe6b391494cf5e8"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/scaffolds/Q13-SCF-01_TWO_CHECKS.md",
+      "bytes": 5491,
+      "sha256": "95e39dc03a76c05e70c2dca00f719a8d6046459bbb789fd7c1aadd500033bb8e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/scaffolds/Q13-SCF-02_SYMBOLS.md",
+      "bytes": 4611,
+      "sha256": "31e97999bb4b0e5a05f488632cdece1fca65c641f71d40a284c52026bf54b075"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/scaffolds/Q13-SCF-03_WHOLE_IONS.md",
+      "bytes": 6745,
+      "sha256": "e1549982cda5eae37ca02afd0c7c90703b2d7887a74800c7fbb2c2182e825fd5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/scaffolds/Q13-SCF-04_ROMAN_NUMERALS.md",
+      "bytes": 4431,
+      "sha256": "d357736cfb5d427340b1fbe2eb399b32d4c08a7a0d259e17b8169f9262690040"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/scaffolds/Q13-SCF-05_PREFIXES.md",
+      "bytes": 5439,
+      "sha256": "3d3c3ad43c8f01340685031f117cf907f946b8a68ad1c7fab47ad4f618079368"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/source/scaffolds/Q13-SCF-06_BOUNDARIES.md",
+      "bytes": 7026,
+      "sha256": "b54ba35e20ed9aa00adb021a897c6b6be87587b9f16873fbc5d3548efa018c47"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/Q3_FEEDBACK_REVIEW.md",
+      "bytes": 4135,
+      "sha256": "9e8d870bfc4884858c4a505ce490c4e52513b41bdbdb255686d3018f008a3bcf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/Q4_FACTOR_REVIEW.md",
+      "bytes": 5607,
+      "sha256": "2b3fc2462e25f70d43e81937edb4565fd3b157211978ed5f7796e83979ac0a3b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/content.json",
+      "bytes": 24506,
+      "sha256": "93e600a67c85566de0d7a3f377543177f9b3989f5081e435c56e2af289364d04"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/folder-content.json",
+      "bytes": 58133,
+      "sha256": "4cd95ab28bda59b62a8ce893d6b6ac2358286c6cf5f2ff96c6fb43cdf34b110d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-01-p01.jpg",
+      "bytes": 259193,
+      "sha256": "0823bd41f6d7d712728a2e8acafe1af2b7103126b4213b3956354702156679b5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-01-p02.jpg",
+      "bytes": 404219,
+      "sha256": "58a40d90cf47240434272f8df2452b2116e7ec457746ea3eebc1ce6a417b8cf2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-01-p03.jpg",
+      "bytes": 403282,
+      "sha256": "3a1ab92516bfcc59b175647bc3fece39d2db616b1afbf2ed7622d5025f29c0dd"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-01-p04.jpg",
+      "bytes": 173508,
+      "sha256": "bf0353e9b0a561c967840f71e9c18385693828ac398625f6bdb466daf1eae0d0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-02-p01.jpg",
+      "bytes": 259193,
+      "sha256": "0823bd41f6d7d712728a2e8acafe1af2b7103126b4213b3956354702156679b5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-02-p02.jpg",
+      "bytes": 331410,
+      "sha256": "8bdc8dd14695fff225b2763470044ff2f6529abcec6d4930e9fd13bc6cb2ae92"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-02-p03.jpg",
+      "bytes": 341714,
+      "sha256": "659779fecf892b86b12da8af03616397ac50c3e401009ebc9d857ba2a7219dea"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-02-p04.jpg",
+      "bytes": 162802,
+      "sha256": "e7faadf2027b258678da7bd1761a69712386c8d416b88e17acef9c87274a0b67"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-03-p01.jpg",
+      "bytes": 319764,
+      "sha256": "339d2c177d41c8dbd9b5429200922914f76f127cef1ae23b5529641235677ac5"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-03-p02.jpg",
+      "bytes": 246641,
+      "sha256": "04cc30f8af1fd1f1c5ad139a7d05e0b3a88f418ee02710a9bd8fe98a569e12ee"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-03-p03.jpg",
+      "bytes": 155690,
+      "sha256": "4b75d781b84d6c366b70054bb76c4087130d797ca6e0544b60d4d1d7501d6a2b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-03-p04.jpg",
+      "bytes": 79938,
+      "sha256": "9755c108691aabd589e181c0d4a71d1bf689d1cf3e73814cd70bbdbf7c479d28"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-04-p01.jpg",
+      "bytes": 135650,
+      "sha256": "256aa1f7899d67d512c9644de55db3dc24171a56b1d8eb6fd1a2e2317468dbec"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-05-p01.jpg",
+      "bytes": 95633,
+      "sha256": "08ea45511264f2830c5e4ef4ab162bd5c5c044c62cb99efc39e2d9e232a4986b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-06-p01.jpg",
+      "bytes": 144137,
+      "sha256": "0700601b0c5cfe7add538ad77270d6b9ec228aed1614e9d1fa04b50200ac224d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-07-p01.jpg",
+      "bytes": 301138,
+      "sha256": "79a131ffdd8f31ddfa74b31054020c45bf8cce381c4ffb2645855b95ced9594f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-07-p02.jpg",
+      "bytes": 374688,
+      "sha256": "0ce3791d908ac992d2aa27dc7ef2bc635a7f457964f0c5f278b3bb1366a14b41"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-07-p03.jpg",
+      "bytes": 621577,
+      "sha256": "c07b612bd797a93dcd9fe67964e00197a72060fc0d21f2babc4970f456c4e360"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-07-p04.jpg",
+      "bytes": 573157,
+      "sha256": "f824efd3b948f29a302cf333c599ccae94e112e87ac83eac523c22fc3ecdbc3c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-08-p01.jpg",
+      "bytes": 389464,
+      "sha256": "15b2581193d14a9e0e311121c86e7022b666697777eb60c2dc9efcafb8ddf768"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-08-p02.jpg",
+      "bytes": 354428,
+      "sha256": "d8f62acf4db7f3044058acc43739ad55255c911fe9b78e94d5b91e89d51a13a9"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-08-p03.jpg",
+      "bytes": 362445,
+      "sha256": "30970c955d9f4dea8d38b264086fbdf9ee458baf6681e54a9eed12dab8ae0f8b"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-08-p04.jpg",
+      "bytes": 312306,
+      "sha256": "182be47aa8d539385b5c568072ccaf3432e140a57e467a7c9e22cf54b7de86bf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-09-p01.jpg",
+      "bytes": 260172,
+      "sha256": "55c7968ee09e384204f011de68957c07f5d52d18105a87209bcadb8f1333dbb7"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-09-p02.jpg",
+      "bytes": 303957,
+      "sha256": "35b4f83ccadea7df8709ab0fe9f7bc57fecd0bc656840fd8de9256f6954375ca"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-10-p01.jpg",
+      "bytes": 304328,
+      "sha256": "ba8e67407e59dcfc30a81a9ecc20ef9f69b9bd0b1074fa18dd4d16914daefd83"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-11-p01.jpg",
+      "bytes": 316078,
+      "sha256": "ba9ce0d229d76f898a33e90d0b15c0c57a7bbadb1aa31140ac8288a4d19c55d3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-12-p01.jpg",
+      "bytes": 262102,
+      "sha256": "389562925df420b73e729d213f9a8ba062d95a8d6f393e0018b5ba59f57a41bd"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-12-p02.jpg",
+      "bytes": 230750,
+      "sha256": "335470a3aa94037de722ea4c810348277a555941fb129b6a8594fed0d1a5901c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-13-p01.jpg",
+      "bytes": 245595,
+      "sha256": "862b12e3797877f7c06ccb2504c8c313ad8b6bd3c08f7f81603a26926c909a66"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-14-p01.jpg",
+      "bytes": 498447,
+      "sha256": "d830ed9ab7813c8a7a8a6fdc13253c198fa0288b114582f73f2d135012c223e2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-14-p02.jpg",
+      "bytes": 444508,
+      "sha256": "0cc04a3f41fc49b3b6999419bd42320697a54947f84e980d5d834fc5ae077eed"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-14-p03.jpg",
+      "bytes": 360773,
+      "sha256": "95a5a6cae5786ebd13473ac37e09aebb31848060cd2e0333f9975b3aac700472"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-15-p01.jpg",
+      "bytes": 170281,
+      "sha256": "fbe47332fec77ca91ee6a4daa29966a1747fa9224b80e45d75f8e99f1a91dcaf"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-15-p02.jpg",
+      "bytes": 158914,
+      "sha256": "6f9b4b500b0090df80224aee4babe18375b6a3bc04561da2dfaf4bf85bfc981f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-16-p01.jpg",
+      "bytes": 287990,
+      "sha256": "4b7ac5b22a28dd240ba3e84e4b740e6cc6d5224124f6a1dd47e2a288c1052518"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-17-p01.jpg",
+      "bytes": 162822,
+      "sha256": "9f7a9a44cec1d19e37e0efc3c211f375576c2a7c22f0fd08f9b0b8a5a3fb6f96"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-18-p01.jpg",
+      "bytes": 216952,
+      "sha256": "64be409ba6aec6654d6df4ed94d32318519d554d69f2b64e8dd38da1115482a0"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/page-images/source-19-p01.jpg",
+      "bytes": 210213,
+      "sha256": "4e5877be2b2c1b938b469e83a8b0cc7ce54f7a8aa7e8ea851f247c84d6089c78"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/questions.json",
+      "bytes": 176342,
+      "sha256": "17cfc4d2d610ed80ca1c34ee7b9119275792c5cef59ed21dc41af9c9db1bc24e"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/00_START_HERE.md",
+      "bytes": 6326,
+      "sha256": "092125e7c3f60b7ad422b28269e71d68136c90006c8b4fc914dab05f1fb2bca8"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/01_ions_formulas_naming.answer_key.md",
+      "bytes": 17750,
+      "sha256": "96f6ccf1eeff46accea986062a894f73c7b6f9683dfc83d0c928f128ea314b6d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/01_ions_formulas_naming.items.json",
+      "bytes": 148855,
+      "sha256": "8359276632e6258d0cfda5c6be83f831a5be7456e2db990b8e8de163d4ac91ef"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/01_ions_formulas_naming.md",
+      "bytes": 59662,
+      "sha256": "a751b89a007644a8427ad1d6aa47a62105027d19cc66fb86fae11e625c652b66"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/02_lewis_geometry.md",
+      "bytes": 19805,
+      "sha256": "bad3c7d2a7d5d11441b92b6c65037ff0fac3a3c79e4b70f2008ed6c9b256bb69"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/02_lewis_geometry_answers.json",
+      "bytes": 13338,
+      "sha256": "7fc3834ff60c722ab95eae6376289017d1724fd00eb50820c731b07bf500b4b2"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/02_lewis_geometry_answers.md",
+      "bytes": 10090,
+      "sha256": "02f49f54bde6358e5ec126a1b5ec8d1493a6d2abd6889cea5a9b327dae312409"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/02_lewis_geometry_items.json",
+      "bytes": 23053,
+      "sha256": "0e216d46cb6a3668819accb583c999f5e9d017429fa1cd5fe2081eb050d73414"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/03_SESSION_AND_FEEDBACK.md",
+      "bytes": 9049,
+      "sha256": "1479092008f6ee0a13e0be84465421f26389ba226a4813573ea8136c9145879a"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/04_CODEX_HANDOFF.md",
+      "bytes": 9472,
+      "sha256": "13fa9bed45fa2aa7429b631bd4d48fc23424f994a6a117441d2b9675b5a108be"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/PROVENANCE.json",
+      "bytes": 6177,
+      "sha256": "208ab682ef78cdaab57dc2d607d8ec2f621ff50786f9689410d3dd364ff7fb7d"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/PROVENANCE.md",
+      "bytes": 5319,
+      "sha256": "8bc61fd10e4fb3805dd2506921dd81f01e2b98be7f16a25688d64d570efcfe8c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/QA_STATUS.md",
+      "bytes": 1761,
+      "sha256": "9847a6785dfef55f174d9cf34607a4c97d4af24db717816fd8bea8094b4c0a22"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/SHA256SUMS.txt",
+      "bytes": 1478,
+      "sha256": "5fda86086a52dc6c312fb5cbcc2bcef993122619985e7a678ca5ebefc6fc6e76"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/coverage_manifest.json",
+      "bytes": 8640,
+      "sha256": "1f6145e4a94dd4331f5e9483fe4a5c38c6a8788a724e9e5ffcfc55c71f1c8b86"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/sources/content_blueprint.md",
+      "bytes": 17533,
+      "sha256": "0d33524b0fe0ff448d7ed3ded19251f5cd353a741bf1ff50bcf7623ebbe0e550"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/sources/worksheet_text.txt",
+      "bytes": 4952,
+      "sha256": "be9d53fe9ef129ca8c24c5ed6a1b3df61cc15c59e3763210fc86a7cfdd064da6"
+    },
+    {
+      "path": "Luminara_Teaching_Room/60-integration/teaching-materials/CHEMISTRY_QUESTION_AND_REFERENCE_INDEX_2026-09-28.md",
+      "bytes": 106365,
+      "sha256": "29af7eaaaab608e85a8eae9c64fd00e8ba06f3522b20bc6c6c2b8a1916f24350"
+    },
+    {
+      "path": "Luminara_Teaching_Room/60-integration/teaching-materials/CHEMISTRY_STUDY_MATERIALS_2026-09-28.md",
+      "bytes": 25723,
+      "sha256": "5fe9fea466dcf0b7798bc0a0475ae00af5b4f12297a7763f81d2139e59ffa36c"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_PASS_REPORT.md",
+      "bytes": 7639,
+      "sha256": "3b8deb9c2e445c4c058d1d6bc09f160b7e76109c83b6896442dd5ef42cceb836"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_PRIOR_ASSEMBLY_PRESERVATION.json",
+      "bytes": 84023,
+      "sha256": "4414febc21f338751445914c35ddca7e97056b1da6194da2f714ebab7510b181"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_SOURCE_WORKSHOP_REPORT.md",
+      "bytes": 19439,
+      "sha256": "8a61647ecb11d6c062581c30e45e1a5cc6d7371549333878157430d830d487fe"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_START_HERE.md",
+      "bytes": 4690,
+      "sha256": "3def6d81cc3ad5801abe3d0ce5638d9f6959377dbeebedf0df9f3ac717caa8d3"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_STUDY_REPORT.md",
+      "bytes": 4961,
+      "sha256": "c3ab5fd9d11cdddb449814a6aa0d167b5f66c4649606d05f0410d041870fcec8"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_UPLOAD_MANIFEST.json",
+      "bytes": 14069,
+      "sha256": "722a5c23365f4f7a92b65c46908b23b48a517e8f7649e20dc1a6fd7c410bc5cb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/CHEMISTRY_WORKSHEETS_REPORT.md",
+      "bytes": 6586,
+      "sha256": "19becd049a9c4b105cfdb7e0ae449ae6f2daa2d02980fc1cae653c6670b514fb"
+    },
+    {
+      "path": "Luminara_Teaching_Room/ION_LANGUAGE_INTEGRATION_MAP.md",
+      "bytes": 3872,
+      "sha256": "d4583883a981a963e7d411b7dfc5788176ea10a063be186b08af2ea8b416da4f"
+    },
+    {
+      "path": "Luminara_Teaching_Room/ION_LANGUAGE_REPORT.md",
+      "bytes": 6502,
+      "sha256": "1ea6697761613284c82924d63d8cfa2d37de9e6924d71b4a88c74d8303d97b7a"
+    }
+  ]
+}

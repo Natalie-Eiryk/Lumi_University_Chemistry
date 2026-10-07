@@ -1,0 +1,126 @@
+{
+  "format": "luminara-reviewed-source/1",
+  "moduleId": "LU-CHEM-IONS-001",
+  "packetVersion": "1.0.0",
+  "sourceRoot": "C:\\Users\\hauge\\OneDrive\\Documents\\ChatGPT - School & Legal\\nursing school\\Chem_1117_F2026\\Lumi_University_Ion_Language_Design_v1.0.0\\Lumi_University_Ion_Language_Design_v1.0.0",
+  "sourceStatus": "design_candidate",
+  "courseSourceVerified": false,
+  "copiedFiles": 23,
+  "files": [
+    {
+      "path": "00_START_HERE.md",
+      "bytes": 5656,
+      "sha256": "ced61fe0615f24fd4c12cbf3ecef0e11981ecdb0bcfaaf06397a7cf28d432f08"
+    },
+    {
+      "path": "01_CODEX_IMPLEMENTATION_BRIEF.md",
+      "bytes": 8370,
+      "sha256": "709beb85ccfb3bcc1c866886caee7b491a1fc14a60482b5d15e5cc0323bb8f1a"
+    },
+    {
+      "path": "02_LEARNER_AND_TEACHING_CONTRACT.md",
+      "bytes": 4923,
+      "sha256": "4becb5df56ae1aa8bca5bedc381b72d4da9f17fe37ee05f08ecc8e53658c23d0"
+    },
+    {
+      "path": "03_CHEMISTRY_RULES_AND_BOUNDARIES.md",
+      "bytes": 7637,
+      "sha256": "95fe4e94c1daca016134f99d1657728adf9af6178badbecb9f801952875029f1"
+    },
+    {
+      "path": "04_ION_BANK_AND_FAMILIES.md",
+      "bytes": 8192,
+      "sha256": "fa1b13d7c0cdc0320440dff34df9fd5549427ea24f2e7047c67843669dcd7faa"
+    },
+    {
+      "path": "05_SESSION_AND_SKILL_GRAPH.md",
+      "bytes": 5043,
+      "sha256": "5daa847995e0de1e07dcc7ac820bbc5c76fff79588151b980f95781229c06f0b"
+    },
+    {
+      "path": "06_MODALITIES_AND_INTERACTIONS.md",
+      "bytes": 6994,
+      "sha256": "898acc0af28ae6295b228c52c4a9bf3e44cffbd5a137797cd8706330cf8f5a77"
+    },
+    {
+      "path": "07_WORKED_EXAMPLES.md",
+      "bytes": 13910,
+      "sha256": "81580a4c875b42eb71e712bb4648143d8a1463868560f0ba817a9346984e4357"
+    },
+    {
+      "path": "08_PRACTICE_BANK.md",
+      "bytes": 8686,
+      "sha256": "afb369bfd9e3cb5ab32602ced5582bf585a65ee4226dfc7f73b8ad2edcd279d9"
+    },
+    {
+      "path": "09_ANSWER_KEY.md",
+      "bytes": 40705,
+      "sha256": "2eca0837a1ab6b47eb949c18d6f2fe40f627bc4986bbfc24c3b77f0e95e1aa68"
+    },
+    {
+      "path": "10_FEEDBACK_AND_SPACED_REVIEW.md",
+      "bytes": 6854,
+      "sha256": "739421a38b58cd057158019f0ad1e57e756a36694bbfad35e9cab784f9092be2"
+    },
+    {
+      "path": "11_DATA_AND_ENGINE_CONTRACTS.md",
+      "bytes": 8579,
+      "sha256": "d699b76a6cac0afcf0096cf3b1def384feedc2611824897a6fe402299002c14d"
+    },
+    {
+      "path": "12_INTERFACE_ACCESSIBILITY_AND_PRIVACY.md",
+      "bytes": 5584,
+      "sha256": "46cab279e3ee4dc231fa724279cbb109f0b214bc9f4b864ff3944270ec969292"
+    },
+    {
+      "path": "13_TESTS_AND_ACCEPTANCE.md",
+      "bytes": 7890,
+      "sha256": "13dba1e5ae65bd4143f81631ffb4643ea9137c9e31bd355ce732099a411b46c0"
+    },
+    {
+      "path": "14_EXAM_CARD_AND_REVIEW.md",
+      "bytes": 3904,
+      "sha256": "52ff0d47b1a55f3c677f88fd0945be384168a9bf46de75243b08155dc4c2d838"
+    },
+    {
+      "path": "15_SOURCES_AND_DECISIONS.md",
+      "bytes": 10890,
+      "sha256": "1bccc8816cafb4246c4109025183499d6f169a989ab00e131d1962327e8c5f58"
+    },
+    {
+      "path": "16_FILE_MANIFEST_AND_QA.md",
+      "bytes": 7809,
+      "sha256": "c876087086f15b46dc4c1ef1c18bee31cdb5460331e467c86d1f23aac5962639"
+    },
+    {
+      "path": "lessons/L01_CHARGE_AND_REPRESENTATION.md",
+      "bytes": 3913,
+      "sha256": "4706fb6239022a6ac16ab35a86caf94053a3961c29865a4581d45d62331c194a"
+    },
+    {
+      "path": "lessons/L02_NAMES_ROOTS_AND_CHARGES.md",
+      "bytes": 3875,
+      "sha256": "d44369ded0885ec721ab9a5bc6f24ebcc0a0dce80efaf883b1bc6a8093037c28"
+    },
+    {
+      "path": "lessons/L03_BUILD_FORMULAS.md",
+      "bytes": 3823,
+      "sha256": "3156ebff59f518a95c8d9ae9a0a6e18b3276efd17fa8d604f9a3188454882df0"
+    },
+    {
+      "path": "lessons/L04_READ_FORMULAS_AND_ROMAN_NUMERALS.md",
+      "bytes": 3593,
+      "sha256": "195ec017fb21c82f3fa7fc8264fbae7749d5dcc4420071037f7b53135a97c4b4"
+    },
+    {
+      "path": "lessons/L05_OXYANION_FAMILIES.md",
+      "bytes": 4166,
+      "sha256": "7ff90bc053f869bd9db124531df678fbd2b86ab8722524571318348f6d3fb255"
+    },
+    {
+      "path": "lessons/L06_TRANSFER_AND_REFLECTION.md",
+      "bytes": 3713,
+      "sha256": "e04a2d0e511d2cc3bde2dd65cfab0083a24637548fabe6f594b143c65da6b5ca"
+    }
+  ]
+}

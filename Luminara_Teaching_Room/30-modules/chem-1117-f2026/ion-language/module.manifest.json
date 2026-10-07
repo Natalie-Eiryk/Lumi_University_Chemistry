@@ -1,0 +1,59 @@
+{
+  "id": "LU-CHEM-IONS-001",
+  "title": "Ion Language: Name ↔ Formula",
+  "version": "1.0.0-local.2",
+  "route": "/websites/chemistry/ion-language/",
+  "deweyPath": "540/ion-language",
+  "audience": "CHEM 1117 local study candidate",
+  "sourceRefs": [
+    "SRC-COURSE-IONS",
+    "SRC-IONIC",
+    "LU-IONS-DESIGN-03",
+    "LU-IONS-DESIGN-04",
+    "LU-IONS-DESIGN-07",
+    "LU-IONS-DESIGN-08",
+    "LU-IONS-DESIGN-09",
+    "LU-IONS-L01",
+    "LU-IONS-L02",
+    "LU-IONS-L03",
+    "LU-IONS-L04",
+    "LU-IONS-L05",
+    "LU-IONS-L06"
+  ],
+  "provenance": {
+    "sourceManifest": "10-sources/reviewed-ion-language/20260922/SOURCE_MANIFEST.json",
+    "referenceLedger": "10-sources/reviewed-ion-language/20260922/content/15_SOURCES_AND_DECISIONS.md",
+    "sourceReview": "Packet integrity and local integration reviewed; incoming claims of external checks retained as provenance, not independently recertified."
+  },
+  "itemCollections": [
+    {
+      "kind": "scaffold",
+      "count": 58
+    },
+    {
+      "kind": "station",
+      "count": 12
+    },
+    {
+      "kind": "vocabulary",
+      "count": 2
+    }
+  ],
+  "diagnostics": {
+    "enabled": false,
+    "reason": "Local fixture evidence only; no learner telemetry."
+  },
+  "lumiSync": {
+    "enabled": false,
+    "reason": "No Lumi_OS integration or learner synchronization authorized."
+  },
+  "courseSourceVerified": false,
+  "sourceStatus": "design_candidate",
+  "implementationScope": "Six lessons, 18 worked examples, 72 explicit keys, native formula/ion evaluation, families, review, and browser-local versioned import/export; source and human review gates remain open.",
+  "storage": {
+    "key": "luminara-ion-language-v1",
+    "authority": "browser-local-only; reviewed versioned upgrade/merge and explicit export",
+    "nativeAdapterConnected": false,
+    "legacyProgressProjection": "deferred; optional confidence remains null rather than fabricated zero"
+  }
+}

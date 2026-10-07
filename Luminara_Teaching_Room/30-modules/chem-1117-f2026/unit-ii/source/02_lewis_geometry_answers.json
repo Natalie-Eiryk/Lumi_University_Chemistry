@@ -1,0 +1,573 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Separate reveal-only chemistry content; not app code",
+  "source": "Chem. 1117 Review Unit II Chapters 4-5, printed pages 5-6",
+  "species": {
+    "NCl3": {
+      "expression": "5 + 3(7)",
+      "electrons": 26,
+      "shared_pairs": 3,
+      "central": "N",
+      "bonds": [
+        [
+          "N",
+          "Cl1",
+          1
+        ],
+        [
+          "N",
+          "Cl2",
+          1
+        ],
+        [
+          "N",
+          "Cl3",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "N": 1,
+        "Cl1": 3,
+        "Cl2": 3,
+        "Cl3": 3
+      },
+      "domains": 4,
+      "bonding_domains": 3,
+      "central_lone_pairs": 1,
+      "electron_geometry": "tetrahedral",
+      "molecular_geometry": "trigonal pyramidal",
+      "charge": 0,
+      "formal_charges": {
+        "N": 0,
+        "Cl1": 0,
+        "Cl2": 0,
+        "Cl3": 0
+      }
+    },
+    "HI": {
+      "expression": "1 + 7",
+      "electrons": 8,
+      "shared_pairs": 1,
+      "central": null,
+      "bonds": [
+        [
+          "H",
+          "I",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "H": 0,
+        "I": 3
+      },
+      "charge": 0,
+      "formal_charges": {
+        "H": 0,
+        "I": 0
+      }
+    },
+    "CHCl3": {
+      "expression": "4 + 1 + 3(7)",
+      "electrons": 26,
+      "shared_pairs": 4,
+      "central": "C",
+      "bonds": [
+        [
+          "C",
+          "H",
+          1
+        ],
+        [
+          "C",
+          "Cl1",
+          1
+        ],
+        [
+          "C",
+          "Cl2",
+          1
+        ],
+        [
+          "C",
+          "Cl3",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "C": 0,
+        "H": 0,
+        "Cl1": 3,
+        "Cl2": 3,
+        "Cl3": 3
+      },
+      "domains": 4,
+      "bonding_domains": 4,
+      "central_lone_pairs": 0,
+      "electron_geometry": "tetrahedral",
+      "molecular_geometry": "tetrahedral",
+      "charge": 0,
+      "formal_charges": {
+        "C": 0,
+        "H": 0,
+        "Cl1": 0,
+        "Cl2": 0,
+        "Cl3": 0
+      }
+    },
+    "PBr3": {
+      "expression": "5 + 3(7)",
+      "electrons": 26,
+      "shared_pairs": 3,
+      "central": "P",
+      "bonds": [
+        [
+          "P",
+          "Br1",
+          1
+        ],
+        [
+          "P",
+          "Br2",
+          1
+        ],
+        [
+          "P",
+          "Br3",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "P": 1,
+        "Br1": 3,
+        "Br2": 3,
+        "Br3": 3
+      },
+      "domains": 4,
+      "bonding_domains": 3,
+      "central_lone_pairs": 1,
+      "electron_geometry": "tetrahedral",
+      "molecular_geometry": "trigonal pyramidal",
+      "charge": 0,
+      "formal_charges": {
+        "P": 0,
+        "Br1": 0,
+        "Br2": 0,
+        "Br3": 0
+      }
+    },
+    "SiF4": {
+      "expression": "4 + 4(7)",
+      "electrons": 32,
+      "shared_pairs": 4,
+      "central": "Si",
+      "bonds": [
+        [
+          "Si",
+          "F1",
+          1
+        ],
+        [
+          "Si",
+          "F2",
+          1
+        ],
+        [
+          "Si",
+          "F3",
+          1
+        ],
+        [
+          "Si",
+          "F4",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "Si": 0,
+        "F1": 3,
+        "F2": 3,
+        "F3": 3,
+        "F4": 3
+      },
+      "domains": 4,
+      "bonding_domains": 4,
+      "central_lone_pairs": 0,
+      "electron_geometry": "tetrahedral",
+      "molecular_geometry": "tetrahedral",
+      "angle": "ideal 109.5 degrees",
+      "charge": 0,
+      "formal_charges": {
+        "Si": 0,
+        "F1": 0,
+        "F2": 0,
+        "F3": 0,
+        "F4": 0
+      }
+    },
+    "AlCl3": {
+      "expression": "3 + 3(7)",
+      "electrons": 24,
+      "shared_pairs": 3,
+      "central": "Al",
+      "bonds": [
+        [
+          "Al",
+          "Cl1",
+          1
+        ],
+        [
+          "Al",
+          "Cl2",
+          1
+        ],
+        [
+          "Al",
+          "Cl3",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "Al": 0,
+        "Cl1": 3,
+        "Cl2": 3,
+        "Cl3": 3
+      },
+      "domains": 3,
+      "bonding_domains": 3,
+      "central_lone_pairs": 0,
+      "electron_geometry": "trigonal planar",
+      "molecular_geometry": "trigonal planar",
+      "angle": "120 degrees in the ideal monomer model",
+      "charge": 0,
+      "convention": "Monomer model only; Al has six surrounding electrons; real species can associate.",
+      "formal_charges": {
+        "Al": 0,
+        "Cl1": 0,
+        "Cl2": 0,
+        "Cl3": 0
+      }
+    },
+    "CO2": {
+      "expression": "4 + 2(6)",
+      "electrons": 16,
+      "shared_pairs": 4,
+      "central": "C",
+      "bonds": [
+        [
+          "C",
+          "O1",
+          2
+        ],
+        [
+          "C",
+          "O2",
+          2
+        ]
+      ],
+      "lone_pairs": {
+        "C": 0,
+        "O1": 2,
+        "O2": 2
+      },
+      "domains": 2,
+      "bonding_domains": 2,
+      "central_lone_pairs": 0,
+      "electron_geometry": "linear",
+      "molecular_geometry": "linear",
+      "angle": "180 degrees",
+      "charge": 0,
+      "formal_charges": {
+        "C": 0,
+        "O1": 0,
+        "O2": 0
+      }
+    },
+    "SO3": {
+      "expression": "6 + 3(6)",
+      "electrons": 24,
+      "central": "S",
+      "domains": 3,
+      "bonding_domains": 3,
+      "central_lone_pairs": 0,
+      "electron_geometry": "trigonal planar",
+      "molecular_geometry": "trigonal planar",
+      "angle": "120 degrees",
+      "charge": 0,
+      "convention": "Instructor alignment required; accept correct octet-preserving resonance or expanded-valence convention pending class preference.",
+      "variants": [
+        {
+          "label": "octet contributor 1",
+          "bonds": [
+            [
+              "S",
+              "O1",
+              2
+            ],
+            [
+              "S",
+              "O2",
+              1
+            ],
+            [
+              "S",
+              "O3",
+              1
+            ]
+          ],
+          "lone_pairs": {
+            "S": 0,
+            "O1": 2,
+            "O2": 3,
+            "O3": 3
+          },
+          "formal_charges": {
+            "S": 2,
+            "O1": 0,
+            "O2": -1,
+            "O3": -1
+          },
+          "shared_pairs": 4
+        },
+        {
+          "label": "octet contributor 2",
+          "bonds": [
+            [
+              "S",
+              "O1",
+              1
+            ],
+            [
+              "S",
+              "O2",
+              2
+            ],
+            [
+              "S",
+              "O3",
+              1
+            ]
+          ],
+          "lone_pairs": {
+            "S": 0,
+            "O1": 3,
+            "O2": 2,
+            "O3": 3
+          },
+          "formal_charges": {
+            "S": 2,
+            "O1": -1,
+            "O2": 0,
+            "O3": -1
+          },
+          "shared_pairs": 4
+        },
+        {
+          "label": "octet contributor 3",
+          "bonds": [
+            [
+              "S",
+              "O1",
+              1
+            ],
+            [
+              "S",
+              "O2",
+              1
+            ],
+            [
+              "S",
+              "O3",
+              2
+            ]
+          ],
+          "lone_pairs": {
+            "S": 0,
+            "O1": 3,
+            "O2": 3,
+            "O3": 2
+          },
+          "formal_charges": {
+            "S": 2,
+            "O1": -1,
+            "O2": -1,
+            "O3": 0
+          },
+          "shared_pairs": 4
+        },
+        {
+          "label": "expanded-valence convention",
+          "bonds": [
+            [
+              "S",
+              "O1",
+              2
+            ],
+            [
+              "S",
+              "O2",
+              2
+            ],
+            [
+              "S",
+              "O3",
+              2
+            ]
+          ],
+          "lone_pairs": {
+            "S": 0,
+            "O1": 2,
+            "O2": 2,
+            "O3": 2
+          },
+          "formal_charges": {
+            "S": 0,
+            "O1": 0,
+            "O2": 0,
+            "O3": 0
+          },
+          "shared_pairs": 6
+        }
+      ]
+    },
+    "CF2Cl2": {
+      "expression": "4 + 2(7) + 2(7)",
+      "electrons": 32,
+      "shared_pairs": 4,
+      "central": "C",
+      "bonds": [
+        [
+          "C",
+          "F1",
+          1
+        ],
+        [
+          "C",
+          "F2",
+          1
+        ],
+        [
+          "C",
+          "Cl1",
+          1
+        ],
+        [
+          "C",
+          "Cl2",
+          1
+        ]
+      ],
+      "lone_pairs": {
+        "C": 0,
+        "F1": 3,
+        "F2": 3,
+        "Cl1": 3,
+        "Cl2": 3
+      },
+      "domains": 4,
+      "bonding_domains": 4,
+      "central_lone_pairs": 0,
+      "electron_geometry": "tetrahedral",
+      "molecular_geometry": "tetrahedral",
+      "angle": "ideal tetrahedral reference about 109.5 degrees; actual angles need not all be equal",
+      "charge": 0,
+      "formal_charges": {
+        "C": 0,
+        "F1": 0,
+        "F2": 0,
+        "Cl1": 0,
+        "Cl2": 0
+      }
+    },
+    "NO2-": {
+      "expression": "5 + 2(6) + 1",
+      "electrons": 18,
+      "shared_pairs": 3,
+      "central": "N",
+      "domains": 3,
+      "bonding_domains": 2,
+      "central_lone_pairs": 1,
+      "electron_geometry": "trigonal planar",
+      "molecular_geometry": "bent",
+      "angle": "predicted less than 120 degrees",
+      "charge": -1,
+      "brackets_required": true,
+      "variants": [
+        {
+          "label": "resonance contributor 1",
+          "bonds": [
+            [
+              "N",
+              "O1",
+              2
+            ],
+            [
+              "N",
+              "O2",
+              1
+            ]
+          ],
+          "lone_pairs": {
+            "N": 1,
+            "O1": 2,
+            "O2": 3
+          },
+          "formal_charges": {
+            "N": 0,
+            "O1": 0,
+            "O2": -1
+          }
+        },
+        {
+          "label": "resonance contributor 2",
+          "bonds": [
+            [
+              "N",
+              "O1",
+              1
+            ],
+            [
+              "N",
+              "O2",
+              2
+            ]
+          ],
+          "lone_pairs": {
+            "N": 1,
+            "O1": 3,
+            "O2": 2
+          },
+          "formal_charges": {
+            "N": 0,
+            "O1": -1,
+            "O2": 0
+          }
+        }
+      ]
+    }
+  },
+  "companion_answers": {
+    "LG01": "CHCl3: the 3 counts Cl atoms; 4 + 1 + 3(7) = 26 electrons. NO2-: the 2 counts O atoms, the overall -1 adds one electron; 5 + 2(6) + 1 = 18.",
+    "LG02": "See NCl3 record and staged worked example. Three N-Cl bonds, one N lone pair, three lone pairs on each Cl; 26 electrons and 3 shared pairs.",
+    "LG03": "NH3: 8 valence electrons, three N-H single bonds, 3 shared pairs, one N lone pair, no H lone pairs. H has a duet. Cl contributes seven electrons rather than one and keeps three lone pairs; N retains its same three-bond plus lone-pair arrangement.",
+    "LG04": "The correct monomer budget is 24, all spent on 3 bonds (6 electrons) and 9 Cl lone pairs (18 electrons). An added Al lone pair gives 26 electrons and an invalid charge ledger; it is not neutral AlCl3. The monomer allows six electrons around Al. Moving an existing pair changes allocation without changing the total.",
+    "LG05": "CO2 has 4 shared pairs in two double bonds, 2 bonding domains around C, and zero C lone pairs. Shared pairs count electron pairs; domains count regions pointing to neighbors.",
+    "LG06": "See NO2- record and staged worked example. Budget 18; two equivalent contributors; N has one lone pair, two bonded neighbors, three domains, trigonal planar electron geometry and bent molecular shape.",
+    "LG07": "CO2: 16 electrons; no C lone pairs, 2 domains, linear electron geometry and molecular shape. NO2-: 18 electrons; one N lone pair, 3 domains, trigonal planar electron geometry, bent molecular shape. Equal neighbor counts do not imply equal domain counts.",
+    "LG08": "NH4+ is a polyatomic cation. Budget 5 + 4(1) - 1 = 8; four N-H single bonds; 4 shared pairs; no N lone pair; four domains; tetrahedral electron geometry and shape. N formal charge +1; all H 0; draw brackets and +. Positive charge subtracts one electron; negative charge adds one.",
+    "LG09": "NCl3 has 26 valence electrons but 3 shared pairs; CO2 has 2 central domains; NO2- has trigonal planar electron geometry and bent shape; 109.5 degrees is the ideal reference for CF2Cl2, not a promise of identical actual angles; PBr3 gives P an octet whereas PCl5 is commonly drawn with an expanded valence shell."
+  },
+  "Q10": {
+    "mode": "instructor_alignment_no_exact_four_autograde",
+    "example_set": [
+      "H in HCl: duet, 2 electrons around H",
+      "Be in a simple BeCl2 model: 4 electrons around Be",
+      "B in BF3: 6 electrons around B",
+      "Al in monomeric AlCl3: 6 electrons around Al"
+    ],
+    "alternatives": [
+      "P in PCl5: expanded-valence drawing, 10 electrons around P",
+      "S in SF6: expanded-valence drawing, 12 electrons around S"
+    ],
+    "caution": "Scientifically defensible examples, not verified instructor-required four."
+  }
+}

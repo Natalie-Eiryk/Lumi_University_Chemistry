@@ -1,0 +1,89 @@
+{
+  "format": "luminara-source-adoption-plan/1",
+  "status": "pending-governed-integration",
+  "metadataOnly": true,
+  "runtimeConsumed": false,
+  "automaticDeletionAuthorized": false,
+  "scope": "10-sources/reviewed-element-reference/20260928",
+  "pathConvention": "sourceGroups.files and memberIndex members are relative to scope; other relative paths are relative to the installed campus root",
+  "handoff": "60-integration/LUMI_TEACHING_HANDOFF.md",
+  "observedOwner": {
+    "repositoryRelativePath": "Library/api/900XX/924.00-element_primitives",
+    "observedCheckout": "F:/Lumi_OS",
+    "isRuntimeDependency": false,
+    "receivingOwnerVerification": "required-at-integration",
+    "acceptedRevision": null,
+    "acceptedExport": null,
+    "acceptanceReceipt": null
+  },
+  "sourceGroups": [
+    {
+      "files": ["elements_data.cpp"],
+      "role": "temporary-standalone-import",
+      "canonical": false,
+      "consumer": "20-shared-kernel/native/src/element_reference_sources.cpp",
+      "identityEvidence": "evidence/element-reference-20260928/lumi-source-review.json",
+      "onIntegration": "replace-local-reader-with-canonical-owner-export",
+      "retirementStatus": "blocked-current-build-dependency"
+    },
+    {
+      "files": ["elements_database.hpp", "VALIDATION_STATUS.md"],
+      "role": "copied-source-context",
+      "canonical": false,
+      "identityEvidence": "evidence/element-reference-20260928/lumi-source-review.json",
+      "onIntegration": "retain-identity-and-review-references-retire-redundant-payload",
+      "retirementStatus": "pending-recoverable-owner-custody"
+    },
+    {
+      "files": ["ciaaw-weights.html", "nist-isotopes.html", "nist-neutral.csv", "pubchem-periodic.json"],
+      "role": "supplemental-scientific-source-input",
+      "canonicalLumiAdoption": "not-established",
+      "consumer": "20-shared-kernel/native/src/element_reference_sources.cpp",
+      "identityEvidence": "20-shared-kernel/native/src/element_reference_sources.cpp",
+      "onIntegration": "reconcile-and-admit-at-scientific-owner-once",
+      "retirementStatus": "blocked-current-build-dependency"
+    },
+    {
+      "files": ["rsc-index.json"],
+      "memberIndex": "rsc-index.json",
+      "memberCount": 118,
+      "role": "supplemental-scientific-source-input",
+      "canonicalLumiAdoption": "not-established",
+      "consumer": "20-shared-kernel/native/src/element_reference_sources.cpp",
+      "identityEvidence": "20-shared-kernel/native/src/element_reference_sources.cpp",
+      "onIntegration": "reconcile-and-admit-at-scientific-owner-once",
+      "retirementStatus": "blocked-current-build-dependency"
+    }
+  ],
+  "implementationDisposition": [
+    {
+      "files": [
+        "20-shared-kernel/native/src/element_reference.hpp",
+        "20-shared-kernel/native/src/element_reference.cpp",
+        "20-shared-kernel/native/src/element_reference_sources.cpp",
+        "20-shared-kernel/native/src/element_reference_rsc.cpp"
+      ],
+      "onIntegration": "reconcile-at-scientific-owner-keep-only-required-consumer-adapter"
+    },
+    {
+      "files": ["30-modules/teaching-campus/source/element-reference.js"],
+      "onIntegration": "retain-one-shared-learner-presenter"
+    },
+    {
+      "files": ["40-projections/chemistry/ion-language/ion-board.js"],
+      "role": "generated-runtime-projection",
+      "canonical": false,
+      "onIntegration": "regenerate-from-canonical-export-use-existing-release-retirement"
+    }
+  ],
+  "requiredAcceptance": [
+    "receiving-owner-revision-export-and-custody-recorded",
+    "scientific-additions-and-conflicts-reconciled",
+    "all-118-element-identities-properties-units-and-qualifications-checked",
+    "clean-build-without-local-snapshot-inputs-passed",
+    "offline-runtime-and-study-save-parity-passed",
+    "remaining-standalone-rebuild-and-rollback-dependencies-resolved",
+    "compact-lineage-retained-in-existing-atlas-custody"
+  ],
+  "retirementReceipt": null
+}

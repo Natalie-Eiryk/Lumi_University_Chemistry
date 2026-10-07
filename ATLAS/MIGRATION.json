@@ -1,0 +1,15 @@
+{
+  "format": "lumi-content-custody-transfer/1",
+  "date": "2026-10-06",
+  "originRepository": "https://github.com/Natalie-Eiryk/Lumi_University.git",
+  "originCommit": "2d13569f993c5206e833a97b5cb5c90ad003aa60",
+  "files": 307,
+  "bytes": 43788408,
+  "atlasHistorySha256": "3212fc2ae42b36b3a053209e84899e3cd50d008c150707221105f78722abca1d",
+  "existingRevisionsPreserved": 2,
+  "gradingOwner": "Lumi_University",
+  "generationOwner": "Lumi_University",
+  "allCopiedHashesVerified": true,
+  "sourcePathsPreserved": true,
+  "lumiOsIntegration": false
+}

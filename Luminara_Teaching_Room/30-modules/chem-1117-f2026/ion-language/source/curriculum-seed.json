@@ -1,0 +1,1755 @@
+{
+  "format": "luminara-ion-curriculum/2",
+  "moduleId": "LU-CHEM-IONS-001",
+  "version": "1.1.0",
+  "lessons": [
+    {
+      "id": "L01",
+      "title": "The charge ledger: three different numbers",
+      "body": "**Lesson ID:** L01  \n**Skills:** SK-01, SK-09  \n**Planning duration:** 7 minutes  \n**Prerequisites:** None; a periodic table and ion card may remain visible.\n\n## Model change\n\nBefore: A superscript, a subscript, and a coefficient all feel like numbers attached to symbols.\n\nAfter: Each number has a different referent: atoms inside a group, charge of a group, or number of groups.\n\n\n## Situated opening\n\n> **Ms. Luminara:** “One nitrate ion has arrived. The three is its oxygen inventory. The minus sign is its net charge. They have been filling out different forms.”\n>\n> **the learner:** “So I cannot read the three as three charges.”\n>\n> **a peer:** “And putting three nitrates on the ledger means three complete copies.”\n\nShow NO₃⁻, then three identical nitrate tiles. Under the tiles show N = 3, O = 9, total charge = −3. The tiles represent complete ions; a negative icon does not belong separately to each oxygen.\n\n## Teaching sequence\n\n1. Label the subscript 3 and superscript −1 with words before colors. Ask what each describes.\n2. Add a second nitrate tile. Keep the individual tile formula unchanged; update group count to 2 and total charge to −2.\n3. Place Ca²⁺ beside one Cl⁻. Show `+2 + (−1) = +1` immediately as a ledger, not as a failed experiment.\n4. Add the second chloride. Show `+2 + 2(−1) = 0`, then CaCl₂.\n5. Return to one NO₃⁻ tile. Explain why that ion is permitted to have nonzero charge even though a neutral compound formula is not.\n\n## Representation links\n\nSpoken: “two chloride ions for one calcium ion.” Written: CaCl₂. Algebra: `1(+2)+2(−1)=0`. Tiles: one +2 card and two −1 cards. Tap each representation and highlight the corresponding whole group in the others, without making color the only cue.\n\n## Fading practice\n\nWorked: CaCl₂. Completion: Na⁺ with O²⁻, where one sodium is already on the ledger. Independent: Mg²⁺ with Cl⁻. Do not reveal final subscripts while asking the learner to retrieve them.\n\n## Misconception catch\n\nIf the learner says “everything has to add to zero,” show NO₃⁻ alone next to neutral NaNO₃. Ask which object the neutrality condition describes. Repair the scope, not the arithmetic. Use `D-SCOPE-NEUTRALITY`.\n\n## Under the Floorboards\n\nShow `q/e = Z − N_e` only for a monatomic ion. Polyatomic net charge is the charge on the group, not simply a count of visible oxygen atoms. No bond-formation energy claim is needed yet.\n\n## Slow Turn\n\nPrompt: “What stayed fixed when we added another nitrate tile?” Expected idea: its internal formula and charge; only the number of copies changed. Save an optional notebook sentence locally, without grading its prose.\n\n## Optional aside: charge patterns and energy\n\nFor selected main-group monatomic ions, group position predicts useful charges: group 1 +1, group 2 +2, Al/Ga +3, halides −1, oxide/sulfide −2, and nitride/phosphide −3. This restricted pattern does not determine every transition-metal charge or any polyatomic ion formula.\n\nRemoving an electron from an isolated gaseous atom costs energy. Noble-gas-like occupancy alone does not explain compound formation; lattice interactions and the rest of the process matter. This is the scoped clarification in RULE-08 of the supplied chemistry rules."
+    },
+    {
+      "id": "L02",
+      "title": "Name badges: what you can predict and what you must recall",
+      "body": "**Lesson ID:** L02  \n**Skills:** SK-02, SK-03, SK-09  \n**Planning duration:** 8 minutes  \n**Prerequisites:** SK-01 helps; reference cards remain available.\n\n## Model change\n\nBefore: The end of a word is expected to reveal everything about an ion.\n\nAfter: Names are parsed into recognized identities; selected periodic patterns help with charges but do not replace the ion bank.\n\n\n## Opening contrast\n\nShow “chlorine,” “chloride,” and “chlorate.” Do not initially ask for all three formulas. Ask which part of each word seems informative. Then reveal: element name; monatomic anion Cl⁻; known oxyanion ClO₃⁻.\n\n> **the learner:** “I was hoping the ending would be a complete decoder.”\n>\n> **Ms. Luminara:** “It is a clue to the family, not the full address.”\n\n## Teaching sequence\n\n1. Cations first: Na⁺ sodium, Ca²⁺ calcium, Al³⁺ aluminum. Then the nonmetal exception to the metal cue: NH₄⁺ ammonium.\n2. Common monatomic anions: Cl⁻ chloride, O²⁻ oxide, N³⁻ nitride. Store names as dictionary entries, not string surgery.\n3. Show hydroxide OH⁻ and cyanide CN⁻. Both end in -ide; both contain two elements. Ask what failed in “-ide always means one atom.”\n4. Preview only two polyatomic anchors needed next: nitrate NO₃⁻ and sulfate SO₄²⁻. Keep them visible through L03.\n5. Contrast fixed-course charges with variable-metal entries Fe²⁺/Fe³⁺. A blank “iron” card cannot choose its charge without context.\n\n## Periodic mini-map\n\nUse clickable group labels, not a complete periodic-table app rebuild. Group 1’s selected entries show +1; group 2 +2. Show Al/Ga specifically rather than asserting every group-13 ion is always +3. Halides −1, oxide/sulfide −2, nitride/phosphide −3 are a scoped introductory set. Transition-metal area displays “use supplied charge or infer from the compound.”\n\n## Memory actions\n\nSee Cl⁻, say chloride, cover it, write it back. Repeat later in reverse. Offer the spoken cue “single-atom negative: recognized root plus -ide,” immediately followed by the caveat that the converse is false. Do not let the mnemonic erase hydroxide or peroxide.\n\n## Fading and transfer\n\nWorked: sodium sulfide is made from Na⁺ and S²⁻. Completion: supply the ion cards for magnesium oxide. Independent: identify the two cards in ammonium chloride. The objective here is identity selection, not yet independent ratio derivation.\n\n## Slow Turn\n\nCreate two notebook columns, “derived from a pattern” and “retrieved from an anchor.” Place calcium’s +2 in the first, nitrate’s NO₃⁻ identity in the second. Ask: “Which uncertainty do you actually have right now?”"
+    },
+    {
+      "id": "L03",
+      "title": "Build the formula without changing the passengers",
+      "body": "**Lesson ID:** L03  \n**Skills:** SK-05, SK-06, SK-10  \n**Planning duration:** 10 minutes  \n**Prerequisites:** Identify or look up the ion cards. Ion recall is not a prerequisite for practicing charge balance.\n\n## Model change\n\nBefore: Crossing numbers feels like a magic rule, and every subscript looks reducible.\n\nAfter: Counts are the smallest whole-number solution; polyatomic internal subscripts stay part of ion identity.\n\n\n## Core example\n\nGive Al³⁺ and SO₄²⁻. Start at one of each. The ledger reads +1. Allow any attempted counts; show what they imply without rejecting the physical manipulation.\n\n> **a peer:** “Two aluminums make +6. Three sulfate cards make −6. I will try that.”\n>\n> **Ms. Luminara:** “The ledger balances. Now let the notation report exactly what you built.”\n\nReveal Al₂(SO₄)₃ only after counts are confirmed. Preserve the sulfate card as a whole while adding an outer multiplier.\n\n## The derivation the learner can inspect\n\n`3a − 2b = 0`. The smallest positive integers are a = 2 and b = 3. A table of trial totals, least common multiple, algebra, or a justified crossing shortcut are all valid ways to get there. Do not grade the presentation of multiplication as if it were the chemistry itself.\n\n## Three contrast pairs\n\n- Mg²⁺ + O²⁻ → MgO. Equal charge magnitudes require one of each.\n- Al³⁺ + PO₄³⁻ → AlPO₄. Do not write Al₃(PO₄)₃ as the simplest formula.\n- Na⁺ + O₂²⁻ → Na₂O₂. Its two sodium ions and one peroxide ion are already the minimum group ratio. Do not simplify the internal O₂ to O.\n\n## Parentheses lens\n\nFor Ca(NO₃)₂ reveal nested counts: one calcium; two nitrate groups; each group contains one N and three O. Show Ca = 1, N = 2, O = 6. Then compare:\n\n- Ca(NO₃)₂: conventional grouped result.\n- CaN₂O₆: same atom counts, grouping not expressed as requested.\n- CaNO₆: wrong atom counts and no correct nitrate decomposition.\n- Ca(NO₃)₃: recognizable groups but the charge ledger is −1.\n\nUse different messages for these different situations.\n\n## Fading practice\n\nFully work calcium nitrate. Leave the sulfate count blank for aluminum sulfate. Then ask for magnesium phosphate with the ions supplied. A subsequent example changes both charges to +3/−3 to test minimum ratio rather than rote crossing.\n\n## Slow Turn\n\nAsk the learner to complete: “The subscript inside nitrate stayed ___; the subscript outside the parentheses tells me ___.” Expected: three oxygens per nitrate; number of complete nitrate groups. Follow with the peroxide non-reduction test."
+    },
+    {
+      "id": "L04",
+      "title": "Read backward: let the known ion constrain the unknown",
+      "body": "**Lesson ID:** L04  \n**Skills:** SK-07, SK-08  \n**Planning duration:** 8 minutes  \n**Prerequisites:** SK-01 and known anion charge; the anion card may be shown.\n\n## Model change\n\nBefore: The Roman numeral seems to count metal atoms or to be another fact to memorize.\n\nAfter: For these salts it states charge per metal ion, derived from the total anion charge and number of metal ions.\n\n\n## The discriminating example\n\nShow Fe₂O₃ beside FeCl₂. Both contain a written 2 somewhere, but their iron charges differ.\n\nFor Fe₂O₃: three O²⁻ total −6; two Fe ions must total +6; each Fe is +3; the name is iron(III) oxide. For FeCl₂: two Cl⁻ total −2; one Fe is +2; iron(II) chloride.\n\n> **a peer:** “The three in iron(III) belongs to each iron, not to the number of irons.”\n>\n> **the learner:** “Then I need to divide the total positive charge by the count of metal ions.”\n\n## Repeatable reverse-translation trace\n\n1. Confirm this is an in-scope ionic-formula exercise.\n2. Identify the anion as a whole; retrieve its charge.\n3. Read the number of anion units and calculate their total charge.\n4. Use neutrality to find the total cation charge.\n5. Divide by cation count; compare with allowed charge states.\n6. Name the cation, including the numeral where needed, followed by the anion.\n\nUse Cu(NO₃)₂ as the polyatomic follow-up. Do not infer the metal numeral from the oxygen count; infer it from the two nitrate charges.\n\n## Productive ambiguity\n\n“Copper sulfate” lacks the copper state in a name-to-formula item. It is reasonable to ask for clarification. By contrast CuSO₄ provides enough information to infer copper(II). This is a lesson in information available, not a speed test.\n\nFe₃O₄ yields an average +8/3 if every iron is assumed identical. That is a useful boundary marker: the simple single-charge algorithm is insufficient. Show “mixed-valence extension, outside this lesson,” not iron(VIII/III) oxide or an invented integer.\n\n## Fading\n\nWorked: FeCl₃. Completion: Fe₂O₃ with the total −6 supplied. Independent: Cu₂O. Then transfer to Fe₃(PO₄)₂, where two −3 phosphate groups require three +2 irons.\n\n## Slow Turn\n\nAsk: “When did the formula tell us something the bare metal name did not?” Expected idea: the known partner’s charge and the ratio constrained the metal state. Allow a sentence or a completed charge ledger as the response."
+    },
+    {
+      "id": "L05",
+      "title": "The oxygen family wall: a few anchors, carefully bounded rules",
+      "body": "**Lesson ID:** L05  \n**Skills:** SK-02, SK-04, SK-09  \n**Planning duration:** 12 minutes  \n**Prerequisites:** Basic ion notation. This lesson can be opened before L03 if vocabulary is the main obstacle.\n\n## Model change\n\nBefore: -ate, -ite, per-, hypo-, and -ide feel like unrelated syllables or universal atom counters.\n\nAfter: Families have remembered anchors and local relationships; suffixes do not encode universal oxygen counts or charges.\n\n\n## Work one family at a time\n\nStart with nitrate NO₃⁻ and nitrite NO₂⁻. Ask what changed and what stayed: one oxygen changes; nitrogen and net −1 remain. The learner may use “ATE ate more oxygen,” but must finish “within this family.”\n\nNext show sulfate SO₄²⁻ and sulfite SO₃²⁻. Compare nitrate and sulfite: both have three oxygens, yet one is -ate and the other -ite. This is the counterexample that prevents the mnemonic becoming a false rule.\n\n## Chlorine staircase\n\nKeep chlorate ClO₃⁻ as the anchor. Reveal the four positions in order:\n\n```text\nClO⁻   hypochlorite\nClO₂⁻  chlorite\nClO₃⁻  chlorate\nClO₄⁻  perchlorate\n```\n\nThe charge badge stays −1. Moving the interface slider selects a different known ion card; it does not perform a chemical reaction. A “show electrons/oxidation states” extension must explicitly distinguish formal oxidation-state accounting from actual localized charges.\n\n## Other contrast stations\n\nCarbonate CO₃²⁻ versus bicarbonate HCO₃⁻: adding H⁺ to the charge inventory gives −2+1=−1. The H belongs inside the ion; Ca(HCO₃)₂ repeats the whole group.\n\nOxide O²⁻ versus peroxide O₂²⁻: same net charge; different group identities. Replay the sodium peroxide exception to naive subscript reduction.\n\nChromate CrO₄²⁻ versus dichromate Cr₂O₇²⁻: recall this pair. Two chromate copies would have different atom totals and total charge. The name is not a command to duplicate the ion card.\n\nAmmonium NH₄⁺ and hydronium H₃O⁺: two useful positive groups. Hydroxide OH⁻ and cyanide CN⁻ demonstrate that -ide is not proof of a monatomic ion.\n\n## Memory micro-cycle\n\nLook → say the name → cover the card → write formula AND charge → reverse the cue later. A drawing or spoken response may replace typing, but a handwritten interpretation requires confirmation before automated feedback. Do not recite the complete 62-ion bank in a single presentation.\n\n## Slow Turn\n\n> **Ástríðr:** “So a pattern can reduce the remembering, but only after we know what family it belongs to.”\n>\n> **Ms. Luminara:** “Exactly. We keep the anchor and the rule. Throwing away either one sends the bus to the wrong address.”\n\nHave the learner sort statements into “calculate,” “family pattern,” and “remember.” Sulfate’s −2 charge belongs under remember; the number of sulfate groups with Al³⁺ belongs under calculate."
+    },
+    {
+      "id": "L06",
+      "title": "Translate both ways, explain a seam, and carry it forward",
+      "body": "**Lesson ID:** L06  \n**Skills:** SK-08, SK-09, SK-10  \n**Planning duration:** 9 plus 3-minute exit minutes  \n**Prerequisites:** Any earlier lesson; use the reference if desired.\n\n## Model change\n\nBefore: Success on a familiar example may depend on recognizing the displayed answer.\n\nAfter: The learner can construct and inspect a translation on a new example, identify missing information, and know which anchor needs review.\n\n\n## The transfer round\n\nChoose six items: two name→formula, two formula→name, one identity contrast, and one scope/ambiguity item. Avoid simply reversing the item shown a moment ago and counting it as fresh evidence. Change the cation or family while preserving the target skill.\n\nSuggested round: PR-23, PR-34, PR-45, PR-50, PR-62, PR-66. The bank defines prompts; the key defines approved interpretations.\n\n## What the learner does\n\nFor each item, permit a final answer immediately. Offer optional expandable steps: identify ions → show charges → choose counts → write conventional form → name. Do not force an expert through every intermediate box. When an answer is wrong, expose the earliest supported mismatch rather than requiring the learner to restart a correct section.\n\nAfter a correct but uncertain response, show a brief contrasting example and ask what is different. After a high-confidence error, show the charge or atom inventory as evidence, not a chastising message.\n\n## Narrative integration without a penalty mechanism\n\n> **Carlos:** “Can I call Fe₂O₃ iron(II) oxide? There are two irons.”\n>\n> **the learner:** “That counts the passengers. The numeral labels each passenger’s charge. Three oxides need +6 in total.”\n>\n> **a peer:** “Two irons sharing +6: +3 each. The ledger settles it.”\n>\n> **Ms. Luminara:** “There is the translation. No one needed to appeal to the driver’s authority.”\n\nThe story demonstration is unscored. Independent retrieval is a separate chosen mode. No student or learner is punished, trapped, or humiliated for a wrong answer.\n\n## Exit artifact\n\nCreate a private three-line field note:\n\n- A rule I can rebuild: ______.\n- An identity I still need to retrieve: ______.\n- A distinction that helped: ______.\n\nOffer a review queue based on actual attempts, not guessed learner traits. Export the field note only with explicit selection; the public lesson does not contain the learner’s private responses."
+    }
+  ],
+  "examples": [
+    {
+      "id": "WE-01",
+      "title": "sodium chloride",
+      "body": "**Target:** NaCl ⇄ sodium chloride. Related seed: PR-17.\n\n1. Recognize Na⁺ as sodium and Cl⁻ as chloride.\n2. Build charge totals: 1 × (+1) = +1; 1 × (−1) = −1.\n3. Confirm the minimum ion-count ratio 1:1. The total is zero.\n4. Write NaCl; name the cation first and preserve the anion name.\n\n**Atom inventory:** Na = 1, Cl = 1. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-02",
+      "title": "calcium chloride",
+      "body": "**Target:** CaCl₂ ⇄ calcium chloride. Related seed: PR-18.\n\n1. Recognize Ca²⁺ as calcium and Cl⁻ as chloride.\n2. Build charge totals: 1 × (+2) = +2; 2 × (−1) = −2.\n3. Confirm the minimum ion-count ratio 1:2. The total is zero.\n4. Write CaCl₂; name the cation first and preserve the anion name.\n\n**Atom inventory:** Ca = 1, Cl = 2. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-03",
+      "title": "magnesium oxide",
+      "body": "**Target:** MgO ⇄ magnesium oxide. Related seed: PR-19.\n\n1. Recognize Mg²⁺ as magnesium and O²⁻ as oxide.\n2. Build charge totals: 1 × (+2) = +2; 1 × (−2) = −2.\n3. Confirm the minimum ion-count ratio 1:1. The total is zero.\n4. Write MgO; name the cation first and preserve the anion name.\n\n**Atom inventory:** Mg = 1, O = 1. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-04",
+      "title": "aluminum oxide",
+      "body": "**Target:** Al₂O₃ ⇄ aluminum oxide. Related seed: PR-20.\n\n1. Recognize Al³⁺ as aluminum and O²⁻ as oxide.\n2. Build charge totals: 2 × (+3) = +6; 3 × (−2) = −6.\n3. Confirm the minimum ion-count ratio 2:3. The total is zero.\n4. Write Al₂O₃; name the cation first and preserve the anion name.\n\n**Atom inventory:** Al = 2, O = 3. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-05",
+      "title": "magnesium nitride",
+      "body": "**Target:** Mg₃N₂ ⇄ magnesium nitride. Related seed: PR-22.\n\n1. Recognize Mg²⁺ as magnesium and N³⁻ as nitride.\n2. Build charge totals: 3 × (+2) = +6; 2 × (−3) = −6.\n3. Confirm the minimum ion-count ratio 3:2. The total is zero.\n4. Write Mg₃N₂; name the cation first and preserve the anion name.\n\n**Atom inventory:** Mg = 3, N = 2. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-06",
+      "title": "calcium nitrate",
+      "body": "**Target:** Ca(NO₃)₂ ⇄ calcium nitrate. Related seed: PR-23.\n\n1. Recognize Ca²⁺ as calcium and NO₃⁻ as nitrate.\n2. Build charge totals: 1 × (+2) = +2; 2 × (−1) = −2.\n3. Confirm the minimum ion-count ratio 1:2. The total is zero.\n4. Write Ca(NO₃)₂; name the cation first and preserve the anion name.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** Ca = 1, N = 2, O = 6. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-07",
+      "title": "aluminum sulfate",
+      "body": "**Target:** Al₂(SO₄)₃ ⇄ aluminum sulfate. Related seed: PR-24.\n\n1. Recognize Al³⁺ as aluminum and SO₄²⁻ as sulfate.\n2. Build charge totals: 2 × (+3) = +6; 3 × (−2) = −6.\n3. Confirm the minimum ion-count ratio 2:3. The total is zero.\n4. Write Al₂(SO₄)₃; name the cation first and preserve the anion name.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** Al = 2, S = 3, O = 12. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-08",
+      "title": "aluminum phosphate",
+      "body": "**Target:** AlPO₄ ⇄ aluminum phosphate. Related seed: PR-25.\n\n1. Recognize Al³⁺ as aluminum and PO₄³⁻ as phosphate.\n2. Build charge totals: 1 × (+3) = +3; 1 × (−3) = −3.\n3. Confirm the minimum ion-count ratio 1:1. The total is zero.\n4. Write AlPO₄; name the cation first and preserve the anion name.\n\n**Do not blindly cross:** both charge magnitudes are 3. One of each is enough; no visible subscript 1 or unnecessary parentheses are needed.\n\n**Atom inventory:** Al = 1, P = 1, O = 4. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-09",
+      "title": "ammonium sulfate",
+      "body": "**Target:** (NH₄)₂SO₄ ⇄ ammonium sulfate. Related seed: PR-27.\n\n1. Recognize NH₄⁺ as ammonium and SO₄²⁻ as sulfate.\n2. Build charge totals: 2 × (+1) = +2; 1 × (−2) = −2.\n3. Confirm the minimum ion-count ratio 2:1. The total is zero.\n4. Write (NH₄)₂SO₄; name the cation first and preserve the anion name.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** N = 2, H = 8, S = 1, O = 4. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-10",
+      "title": "copper(II) nitrate",
+      "body": "**Target:** Cu(NO₃)₂ ⇄ copper(II) nitrate. Related seed: PR-30.\n\n1. Recognize Cu²⁺ as copper(II) and NO₃⁻ as nitrate.\n2. Build charge totals: 1 × (+2) = +2; 2 × (−1) = −2.\n3. Confirm the minimum ion-count ratio 1:2. The total is zero.\n4. Write Cu(NO₃)₂; name the cation first and preserve the anion name.\n\n**Reverse check:** the anions total −2; distribute +2 across 1 metal ion(s). Each is +2, which supplies the Roman numeral.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** Cu = 1, N = 2, O = 6. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-11",
+      "title": "iron(II) phosphate",
+      "body": "**Target:** Fe₃(PO₄)₂ ⇄ iron(II) phosphate. Related seed: PR-31.\n\n1. Recognize Fe²⁺ as iron(II) and PO₄³⁻ as phosphate.\n2. Build charge totals: 3 × (+2) = +6; 2 × (−3) = −6.\n3. Confirm the minimum ion-count ratio 3:2. The total is zero.\n4. Write Fe₃(PO₄)₂; name the cation first and preserve the anion name.\n\n**Reverse check:** the anions total −6; distribute +6 across 3 metal ion(s). Each is +2, which supplies the Roman numeral.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** Fe = 3, P = 2, O = 8. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-12",
+      "title": "iron(III) sulfate",
+      "body": "**Target:** Fe₂(SO₄)₃ ⇄ iron(III) sulfate. Related seed: PR-32.\n\n1. Recognize Fe³⁺ as iron(III) and SO₄²⁻ as sulfate.\n2. Build charge totals: 2 × (+3) = +6; 3 × (−2) = −6.\n3. Confirm the minimum ion-count ratio 2:3. The total is zero.\n4. Write Fe₂(SO₄)₃; name the cation first and preserve the anion name.\n\n**Reverse check:** the anions total −6; distribute +6 across 2 metal ion(s). Each is +3, which supplies the Roman numeral.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** Fe = 2, S = 3, O = 12. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-13",
+      "title": "calcium bicarbonate",
+      "body": "**Target:** Ca(HCO₃)₂ ⇄ calcium bicarbonate. Related seed: PR-33.\n\n1. Recognize Ca²⁺ as calcium and HCO₃⁻ as bicarbonate.\n2. Build charge totals: 1 × (+2) = +2; 2 × (−1) = −2.\n3. Confirm the minimum ion-count ratio 1:2. The total is zero.\n4. Write Ca(HCO₃)₂; name the cation first and preserve the anion name.\n\n**Group check:** the multiplier outside each parenthesis counts complete copies of that polyatomic ion, not only the final element.\n\n**Atom inventory:** Ca = 1, H = 2, C = 2, O = 6. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-14",
+      "title": "potassium chlorite",
+      "body": "**Target:** KClO₂ ⇄ potassium chlorite. Related seed: PR-34.\n\n1. Recognize K⁺ as potassium and ClO₂⁻ as chlorite.\n2. Build charge totals: 1 × (+1) = +1; 1 × (−1) = −1.\n3. Confirm the minimum ion-count ratio 1:1. The total is zero.\n4. Write KClO₂; name the cation first and preserve the anion name.\n\n**Atom inventory:** K = 1, Cl = 1, O = 2. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-15",
+      "title": "sodium peroxide",
+      "body": "**Target:** Na₂O₂ ⇄ sodium peroxide. Related seed: PR-38.\n\n1. Recognize Na⁺ as sodium and O₂²⁻ as peroxide.\n2. Build charge totals: 2 × (+1) = +2; 1 × (−2) = −2.\n3. Confirm the minimum ion-count ratio 2:1. The total is zero.\n4. Write Na₂O₂; name the cation first and preserve the anion name.\n\n**Do not reduce:** the peroxide group is O₂²⁻. The minimum ion ratio is 2 sodium : 1 peroxide; NaO is not the desired representation.\n\n**Atom inventory:** Na = 2, O = 2. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-16",
+      "title": "iron(III) oxide",
+      "body": "**Target:** Fe₂O₃ ⇄ iron(III) oxide. Related seed: PR-45.\n\n1. Recognize Fe³⁺ as iron(III) and O²⁻ as oxide.\n2. Build charge totals: 2 × (+3) = +6; 3 × (−2) = −6.\n3. Confirm the minimum ion-count ratio 2:3. The total is zero.\n4. Write Fe₂O₃; name the cation first and preserve the anion name.\n\n**Reverse check:** the anions total −6; distribute +6 across 2 metal ion(s). Each is +3, which supplies the Roman numeral.\n\n**Atom inventory:** Fe = 2, O = 3. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-17",
+      "title": "copper(I) oxide",
+      "body": "**Target:** Cu₂O ⇄ copper(I) oxide. Related seed: PR-46.\n\n1. Recognize Cu⁺ as copper(I) and O²⁻ as oxide.\n2. Build charge totals: 2 × (+1) = +2; 1 × (−2) = −2.\n3. Confirm the minimum ion-count ratio 2:1. The total is zero.\n4. Write Cu₂O; name the cation first and preserve the anion name.\n\n**Reverse check:** the anions total −2; distribute +2 across 2 metal ion(s). Each is +1, which supplies the Roman numeral.\n\n**Atom inventory:** Cu = 2, O = 1. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    },
+    {
+      "id": "WE-18",
+      "title": "potassium dichromate",
+      "body": "**Target:** K₂Cr₂O₇ ⇄ potassium dichromate. Related seed: PR-57.\n\n1. Recognize K⁺ as potassium and Cr₂O₇²⁻ as dichromate.\n2. Build charge totals: 2 × (+1) = +2; 1 × (−2) = −2.\n3. Confirm the minimum ion-count ratio 2:1. The total is zero.\n4. Write K₂Cr₂O₇; name the cation first and preserve the anion name.\n\n**Atom inventory:** K = 2, Cr = 2, O = 7. This is a second representation check, not a replacement for charge balance.\n\n**Reflection:** Which information came from an ion anchor, and which part did charge balance determine?"
+    }
+  ],
+  "practice": [
+    {
+      "id": "PR-01",
+      "prompt": "In NO₃⁻, what does the 3 count and what does the − sign describe?",
+      "kind": "concept",
+      "skills": [
+        "SK-01"
+      ],
+      "answer": "Three oxygen atoms in one nitrate ion; net charge −1 on the complete ion.",
+      "explanation": "Atom inventory and group charge are different quantities.",
+      "hints": [
+        "Which number counts atoms, which counts groups, and which describes charge?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Three oxygen atoms in one nitrate ion; net charge −1 on the complete ion.\n\nAtom inventory and group charge are different quantities."
+      ],
+      "mode": "concept",
+      "targetId": "PR-01"
+    },
+    {
+      "id": "PR-02",
+      "prompt": "For two nitrate ions, give total N atoms, total O atoms, and total charge.",
+      "kind": "concept",
+      "skills": [
+        "SK-01"
+      ],
+      "answer": "N = 2; O = 6; charge = −2.",
+      "explanation": "Multiply the complete ion inventory and its charge by two.",
+      "hints": [
+        "Count whole copies of the ion before counting the atoms inside each copy.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "N = 2; O = 6; charge = −2.\n\nMultiply the complete ion inventory and its charge by two."
+      ],
+      "mode": "concept",
+      "targetId": "PR-02"
+    },
+    {
+      "id": "PR-03",
+      "prompt": "Which name belongs to Cl⁻: chlorine or chloride?",
+      "kind": "concept",
+      "skills": [
+        "SK-02"
+      ],
+      "answer": "chloride",
+      "explanation": "The element name chlorine is not the name of its monatomic negative ion.",
+      "hints": [
+        "Which complete ion does the name or symbol identify?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "chloride\n\nThe element name chlorine is not the name of its monatomic negative ion."
+      ],
+      "mode": "concept",
+      "targetId": "PR-03"
+    },
+    {
+      "id": "PR-04",
+      "prompt": "Write the formula and charge of ammonium.",
+      "kind": "ion_recall",
+      "skills": [
+        "SK-02"
+      ],
+      "answer": "NH₄⁺",
+      "explanation": "Ammonium is a remembered polyatomic cation. It is not neutral ammonia NH₃.",
+      "hints": [
+        "Which complete ion does the name or symbol identify?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "NH₄⁺\n\nAmmonium is a remembered polyatomic cation. It is not neutral ammonia NH₃."
+      ],
+      "mode": "ion",
+      "targetId": "ION-AMMONIUM"
+    },
+    {
+      "id": "PR-05",
+      "prompt": "One Ca²⁺ and one Cl⁻ have what net charge? What addition balances them?",
+      "kind": "concept",
+      "skills": [
+        "SK-01",
+        "SK-05"
+      ],
+      "answer": "Net +1; add one more Cl⁻.",
+      "explanation": "One +2 cation needs two −1 anions for a neutral formula.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Net +1; add one more Cl⁻.\n\nOne +2 cation needs two −1 anions for a neutral formula."
+      ],
+      "mode": "concept",
+      "targetId": "PR-05"
+    },
+    {
+      "id": "PR-06",
+      "prompt": "Must the formula NO₃⁻ itself have net charge zero? Explain.",
+      "kind": "concept",
+      "skills": [
+        "SK-09"
+      ],
+      "answer": "No. It represents an ion with charge −1; neutrality is required for the neutral compound task.",
+      "explanation": "Do not generalize a neutral-salt rule to isolated ions.",
+      "hints": [
+        "Separate what you can calculate from the ion identity or rule you need to recall.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. It represents an ion with charge −1; neutrality is required for the neutral compound task.\n\nDo not generalize a neutral-salt rule to isolated ions."
+      ],
+      "mode": "concept",
+      "targetId": "PR-06"
+    },
+    {
+      "id": "PR-07",
+      "prompt": "What common charge does calcium have in this module, and what pattern supports it?",
+      "kind": "concept",
+      "skills": [
+        "SK-03"
+      ],
+      "answer": "+2; calcium is a group-2 element.",
+      "explanation": "Use the scoped main-group pattern, not a universal noble-gas rule.",
+      "hints": [
+        "Retrieve the charge of the whole ion separately from its internal atom counts.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "+2; calcium is a group-2 element.\n\nUse the scoped main-group pattern, not a universal noble-gas rule."
+      ],
+      "mode": "concept",
+      "targetId": "PR-07"
+    },
+    {
+      "id": "PR-08",
+      "prompt": "Give the names and charges of SO₄²⁻ and SO₃²⁻.",
+      "kind": "concept",
+      "skills": [
+        "SK-02",
+        "SK-04"
+      ],
+      "answer": "sulfate, −2; sulfite, −2",
+      "explanation": "The oxygen count changes by one within the sulfur pair; the group charge does not.",
+      "hints": [
+        "Separate what you can calculate from the ion identity or rule you need to recall.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "sulfate, −2; sulfite, −2\n\nThe oxygen count changes by one within the sulfur pair; the group charge does not."
+      ],
+      "mode": "concept",
+      "targetId": "PR-08"
+    },
+    {
+      "id": "PR-09",
+      "prompt": "Starting from nitrate NO₃⁻, write nitrite including its charge.",
+      "kind": "ion_recall",
+      "skills": [
+        "SK-04"
+      ],
+      "answer": "NO₂⁻",
+      "explanation": "Use the known nitrogen family; one fewer oxygen retains its family charge of −1.",
+      "hints": [
+        "Separate what you can calculate from the ion identity or rule you need to recall.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "NO₂⁻\n\nUse the known nitrogen family; one fewer oxygen retains its family charge of −1."
+      ],
+      "mode": "ion",
+      "targetId": "ION-NITRITE"
+    },
+    {
+      "id": "PR-10",
+      "prompt": "Does the ending -ate alone tell you the exact oxygen count and charge?",
+      "kind": "concept",
+      "skills": [
+        "SK-04",
+        "SK-09"
+      ],
+      "answer": "No. You need a known family anchor or an ion reference.",
+      "explanation": "Nitrate and sulfate already show that -ate does not specify one universal oxygen count or charge.",
+      "hints": [
+        "Does the rule apply within this named family, or are you extending it to another family?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. You need a known family anchor or an ion reference.\n\nNitrate and sulfate already show that -ate does not specify one universal oxygen count or charge."
+      ],
+      "mode": "concept",
+      "targetId": "PR-10"
+    },
+    {
+      "id": "PR-11",
+      "prompt": "Order these from least to most oxygen: perchlorate, chlorite, hypochlorite, chlorate.",
+      "kind": "concept",
+      "skills": [
+        "SK-04"
+      ],
+      "answer": "hypochlorite → chlorite → chlorate → perchlorate",
+      "explanation": "This is the known chlorine series: ClO⁻, ClO₂⁻, ClO₃⁻, ClO₄⁻.",
+      "hints": [
+        "Separate what you can calculate from the ion identity or rule you need to recall.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "hypochlorite → chlorite → chlorate → perchlorate\n\nThis is the known chlorine series: ClO⁻, ClO₂⁻, ClO₃⁻, ClO₄⁻."
+      ],
+      "mode": "concept",
+      "targetId": "PR-11"
+    },
+    {
+      "id": "PR-12",
+      "prompt": "Are hydroxide OH⁻ and cyanide CN⁻ monatomic because their names end in -ide?",
+      "kind": "concept",
+      "skills": [
+        "SK-09"
+      ],
+      "answer": "No. Both are polyatomic ions.",
+      "explanation": "The -ide rule for monatomic anions does not work as a reversible definition.",
+      "hints": [
+        "Does the rule apply within this named family, or are you extending it to another family?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Both are polyatomic ions.\n\nThe -ide rule for monatomic anions does not work as a reversible definition."
+      ],
+      "mode": "concept",
+      "targetId": "PR-12"
+    },
+    {
+      "id": "PR-13",
+      "prompt": "In iron(III) chloride, what does III specify?",
+      "kind": "concept",
+      "skills": [
+        "SK-07"
+      ],
+      "answer": "The +3 charge of each iron ion in this simple ionic model.",
+      "explanation": "It is not the number of iron atoms or the chloride charge.",
+      "hints": [
+        "Does the Roman numeral describe the number of metal atoms or the charge of each metal ion?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "The +3 charge of each iron ion in this simple ionic model.\n\nIt is not the number of iron atoms or the chloride charge."
+      ],
+      "mode": "concept",
+      "targetId": "PR-13"
+    },
+    {
+      "id": "PR-14",
+      "prompt": "Can you decide the charge of iron from its name alone?",
+      "kind": "concept",
+      "skills": [
+        "SK-07",
+        "SK-09"
+      ],
+      "answer": "No. Use a supplied Roman numeral, formula context, or other explicit information.",
+      "explanation": "Iron has more than one allowed charge in the bank.",
+      "hints": [
+        "Is there enough information to choose a charge for this variable-charge metal?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Use a supplied Roman numeral, formula context, or other explicit information.\n\nIron has more than one allowed charge in the bank."
+      ],
+      "mode": "concept",
+      "targetId": "PR-14"
+    },
+    {
+      "id": "PR-15",
+      "prompt": "Write carbonate and hydrogen carbonate/bicarbonate, including charges.",
+      "kind": "concept",
+      "skills": [
+        "SK-02",
+        "SK-04"
+      ],
+      "answer": "CO₃²⁻ and HCO₃⁻",
+      "explanation": "A hydrogen cation added to the bookkeeping changes the charge from −2 to −1. Bi- does not mean two carbonate ions.",
+      "hints": [
+        "Which complete ion does the name or symbol identify?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "CO₃²⁻ and HCO₃⁻\n\nA hydrogen cation added to the bookkeeping changes the charge from −2 to −1. Bi- does not mean two carbonate ions."
+      ],
+      "mode": "concept",
+      "targetId": "PR-15"
+    },
+    {
+      "id": "PR-16",
+      "prompt": "What are the required three pieces on an ion flashcard?",
+      "kind": "concept",
+      "skills": [
+        "SK-02"
+      ],
+      "answer": "Name, formula, and net charge.",
+      "explanation": "Recognizing a name is insufficient for formula construction if the charge is missing.",
+      "hints": [
+        "Retrieve the charge of the whole ion separately from its internal atom counts.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Name, formula, and net charge.\n\nRecognizing a name is insufficient for formula construction if the charge is missing."
+      ],
+      "mode": "concept",
+      "targetId": "PR-16"
+    },
+    {
+      "id": "PR-17",
+      "prompt": "Write the formula for sodium chloride.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08"
+      ],
+      "answer": "NaCl",
+      "explanation": "Use Na⁺ and Cl⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: sodium = Na (charge +1); chloride = Cl (charge -1).",
+        "Use a × (+1) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "NaCl\n\nUse Na⁺ and Cl⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-17"
+    },
+    {
+      "id": "PR-18",
+      "prompt": "Write the formula for calcium chloride.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08"
+      ],
+      "answer": "CaCl₂",
+      "explanation": "Use Ca²⁺ and Cl⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: calcium = Ca (charge +2); chloride = Cl (charge -1).",
+        "Use a × (+2) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "CaCl₂\n\nUse Ca²⁺ and Cl⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-18"
+    },
+    {
+      "id": "PR-19",
+      "prompt": "Write the formula for magnesium oxide.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08"
+      ],
+      "answer": "MgO",
+      "explanation": "Use Mg²⁺ and O²⁻. The ion-count ratio is 1:1; 1(+2) + 1(−2) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: magnesium = Mg (charge +2); oxide = O (charge -2).",
+        "Use a × (+2) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "MgO\n\nUse Mg²⁺ and O²⁻. The ion-count ratio is 1:1; 1(+2) + 1(−2) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-19"
+    },
+    {
+      "id": "PR-20",
+      "prompt": "Write the formula for aluminum oxide.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08"
+      ],
+      "answer": "Al₂O₃",
+      "explanation": "Use Al³⁺ and O²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: aluminum = Al (charge +3); oxide = O (charge -2).",
+        "Use a × (+3) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Al₂O₃\n\nUse Al³⁺ and O²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-20"
+    },
+    {
+      "id": "PR-21",
+      "prompt": "Write the formula for potassium sulfide.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08"
+      ],
+      "answer": "K₂S",
+      "explanation": "Use K⁺ and S²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: potassium = K (charge +1); sulfide = S (charge -2).",
+        "Use a × (+1) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "K₂S\n\nUse K⁺ and S²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-21"
+    },
+    {
+      "id": "PR-22",
+      "prompt": "Write the formula for magnesium nitride.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08"
+      ],
+      "answer": "Mg₃N₂",
+      "explanation": "Use Mg²⁺ and N³⁻. The ion-count ratio is 3:2; 3(+2) + 2(−3) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: magnesium = Mg (charge +2); nitride = N (charge -3).",
+        "Use a × (+2) + b × (-3) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Mg₃N₂\n\nUse Mg²⁺ and N³⁻. The ion-count ratio is 3:2; 3(+2) + 2(−3) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-22"
+    },
+    {
+      "id": "PR-23",
+      "prompt": "Write the formula for calcium nitrate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "Ca(NO₃)₂",
+      "explanation": "Use Ca²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: calcium = Ca (charge +2); nitrate = NO3 (charge -1).",
+        "Use a × (+2) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Ca(NO₃)₂\n\nUse Ca²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-23"
+    },
+    {
+      "id": "PR-24",
+      "prompt": "Write the formula for aluminum sulfate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "Al₂(SO₄)₃",
+      "explanation": "Use Al³⁺ and SO₄²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: aluminum = Al (charge +3); sulfate = SO4 (charge -2).",
+        "Use a × (+3) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Al₂(SO₄)₃\n\nUse Al³⁺ and SO₄²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-24"
+    },
+    {
+      "id": "PR-25",
+      "prompt": "Write the formula for aluminum phosphate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "AlPO₄",
+      "explanation": "Use Al³⁺ and PO₄³⁻. The ion-count ratio is 1:1; 1(+3) + 1(−3) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: aluminum = Al (charge +3); phosphate = PO4 (charge -3).",
+        "Use a × (+3) + b × (-3) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "AlPO₄\n\nUse Al³⁺ and PO₄³⁻. The ion-count ratio is 1:1; 1(+3) + 1(−3) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-25"
+    },
+    {
+      "id": "PR-26",
+      "prompt": "Write the formula for ammonium chloride.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "NH₄Cl",
+      "explanation": "Use NH₄⁺ and Cl⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: ammonium = NH4 (charge +1); chloride = Cl (charge -1).",
+        "Use a × (+1) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "NH₄Cl\n\nUse NH₄⁺ and Cl⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-26"
+    },
+    {
+      "id": "PR-27",
+      "prompt": "Write the formula for ammonium sulfate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "(NH₄)₂SO₄",
+      "explanation": "Use NH₄⁺ and SO₄²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: ammonium = NH4 (charge +1); sulfate = SO4 (charge -2).",
+        "Use a × (+1) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "(NH₄)₂SO₄\n\nUse NH₄⁺ and SO₄²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-27"
+    },
+    {
+      "id": "PR-28",
+      "prompt": "Write the formula for magnesium hydroxide.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "Mg(OH)₂",
+      "explanation": "Use Mg²⁺ and OH⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: magnesium = Mg (charge +2); hydroxide = OH (charge -1).",
+        "Use a × (+2) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Mg(OH)₂\n\nUse Mg²⁺ and OH⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-28"
+    },
+    {
+      "id": "PR-29",
+      "prompt": "Write the formula for copper(I) oxide.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "Cu₂O",
+      "explanation": "Use Cu⁺ and O²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 2 gives +1 per metal ion.",
+      "hints": [
+        "Does the Roman numeral describe the number of metal atoms or the charge of each metal ion?",
+        "Ion reference: copper(I) = Cu (charge +1); oxide = O (charge -2).",
+        "Use a × (+1) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Cu₂O\n\nUse Cu⁺ and O²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 2 gives +1 per metal ion."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-29"
+    },
+    {
+      "id": "PR-30",
+      "prompt": "Write the formula for copper(II) nitrate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-07",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "Cu(NO₃)₂",
+      "explanation": "Use Cu²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion.",
+      "hints": [
+        "Does the Roman numeral describe the number of metal atoms or the charge of each metal ion?",
+        "Ion reference: copper(II) = Cu (charge +2); nitrate = NO3 (charge -1).",
+        "Use a × (+2) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Cu(NO₃)₂\n\nUse Cu²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-30"
+    },
+    {
+      "id": "PR-31",
+      "prompt": "Write the formula for iron(II) phosphate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-07",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "Fe₃(PO₄)₂",
+      "explanation": "Use Fe²⁺ and PO₄³⁻. The ion-count ratio is 3:2; 3(+2) + 2(−3) = 0. The total negative charge has magnitude 6; dividing the required positive total by 3 gives +2 per metal ion.",
+      "hints": [
+        "Does the Roman numeral describe the number of metal atoms or the charge of each metal ion?",
+        "Ion reference: iron(II) = Fe (charge +2); phosphate = PO4 (charge -3).",
+        "Use a × (+2) + b × (-3) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Fe₃(PO₄)₂\n\nUse Fe²⁺ and PO₄³⁻. The ion-count ratio is 3:2; 3(+2) + 2(−3) = 0. The total negative charge has magnitude 6; dividing the required positive total by 3 gives +2 per metal ion."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-31"
+    },
+    {
+      "id": "PR-32",
+      "prompt": "Write the formula for iron(III) sulfate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-07",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "Fe₂(SO₄)₃",
+      "explanation": "Use Fe³⁺ and SO₄²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0. The total negative charge has magnitude 6; dividing the required positive total by 2 gives +3 per metal ion.",
+      "hints": [
+        "Does the Roman numeral describe the number of metal atoms or the charge of each metal ion?",
+        "Ion reference: iron(III) = Fe (charge +3); sulfate = SO4 (charge -2).",
+        "Use a × (+3) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Fe₂(SO₄)₃\n\nUse Fe³⁺ and SO₄²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0. The total negative charge has magnitude 6; dividing the required positive total by 2 gives +3 per metal ion."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-32"
+    },
+    {
+      "id": "PR-33",
+      "prompt": "Write the formula for calcium bicarbonate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "Ca(HCO₃)₂",
+      "explanation": "Use Ca²⁺ and HCO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. Also accept calcium hydrogen carbonate.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: calcium = Ca (charge +2); bicarbonate = HCO3 (charge -1).",
+        "Use a × (+2) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Ca(HCO₃)₂\n\nUse Ca²⁺ and HCO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. Also accept calcium hydrogen carbonate."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-33"
+    },
+    {
+      "id": "PR-34",
+      "prompt": "Write the formula for potassium chlorite.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "KClO₂",
+      "explanation": "Use K⁺ and ClO₂⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: potassium = K (charge +1); chlorite = ClO2 (charge -1).",
+        "Use a × (+1) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "KClO₂\n\nUse K⁺ and ClO₂⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-34"
+    },
+    {
+      "id": "PR-35",
+      "prompt": "Write the formula for sodium chlorate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "NaClO₃",
+      "explanation": "Use Na⁺ and ClO₃⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: sodium = Na (charge +1); chlorate = ClO3 (charge -1).",
+        "Use a × (+1) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "NaClO₃\n\nUse Na⁺ and ClO₃⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-35"
+    },
+    {
+      "id": "PR-36",
+      "prompt": "Write the formula for sodium hypochlorite.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "NaClO",
+      "explanation": "Use Na⁺ and ClO⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: sodium = Na (charge +1); hypochlorite = ClO (charge -1).",
+        "Use a × (+1) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "NaClO\n\nUse Na⁺ and ClO⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-36"
+    },
+    {
+      "id": "PR-37",
+      "prompt": "Write the formula for potassium perchlorate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "KClO₄",
+      "explanation": "Use K⁺ and ClO₄⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: potassium = K (charge +1); perchlorate = ClO4 (charge -1).",
+        "Use a × (+1) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "KClO₄\n\nUse K⁺ and ClO₄⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-37"
+    },
+    {
+      "id": "PR-38",
+      "prompt": "Write the formula for sodium peroxide.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "Na₂O₂",
+      "explanation": "Use Na⁺ and O₂²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0. Keep the O₂ peroxide group; do not reduce to NaO.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: sodium = Na (charge +1); peroxide = O2 (charge -2).",
+        "Use a × (+1) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Na₂O₂\n\nUse Na⁺ and O₂²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0. Keep the O₂ peroxide group; do not reduce to NaO."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-38"
+    },
+    {
+      "id": "PR-39",
+      "prompt": "Write the formula for zinc acetate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "Zn(C₂H₃O₂)₂",
+      "explanation": "Use Zn²⁺ and C₂H₃O₂⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: zinc = Zn (charge +2); acetate = C2H3O2 (charge -1).",
+        "Use a × (+2) + b × (-1) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Zn(C₂H₃O₂)₂\n\nUse Zn²⁺ and C₂H₃O₂⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-39"
+    },
+    {
+      "id": "PR-40",
+      "prompt": "Write the formula for silver carbonate.",
+      "kind": "name_to_formula",
+      "skills": [
+        "SK-02",
+        "SK-05",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "Ag₂CO₃",
+      "explanation": "Use Ag⁺ and CO₃²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Ion reference: silver = Ag (charge +1); carbonate = CO3 (charge -2).",
+        "Use a × (+1) + b × (-2) = 0 with whole ion groups. For naming, infer each metal ion's charge from the total anion charge.",
+        "Ag₂CO₃\n\nUse Ag⁺ and CO₃²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "name_to_formula",
+      "targetId": "PR-40"
+    },
+    {
+      "id": "PR-41",
+      "prompt": "Name Na₂S.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08"
+      ],
+      "answer": "sodium sulfide",
+      "explanation": "Use Na⁺ and S²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Na2S, count 2 Na cation center(s) and 1 sulfide group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "sodium sulfide\n\nUse Na⁺ and S²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-41"
+    },
+    {
+      "id": "PR-42",
+      "prompt": "Name MgBr₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08"
+      ],
+      "answer": "magnesium bromide",
+      "explanation": "Use Mg²⁺ and Br⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In MgBr2, count 1 Mg cation center(s) and 2 bromide group(s). Each anion has charge -1.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "magnesium bromide\n\nUse Mg²⁺ and Br⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-42"
+    },
+    {
+      "id": "PR-43",
+      "prompt": "Name FeCl₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "iron(II) chloride",
+      "explanation": "Use Fe²⁺ and Cl⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In FeCl2, count 1 Fe cation center(s) and 2 chloride group(s). Each anion has charge -1.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "iron(II) chloride\n\nUse Fe²⁺ and Cl⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-43"
+    },
+    {
+      "id": "PR-44",
+      "prompt": "Name FeCl₃.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "iron(III) chloride",
+      "explanation": "Use Fe³⁺ and Cl⁻. The ion-count ratio is 1:3; 1(+3) + 3(−1) = 0. The total negative charge has magnitude 3; dividing the required positive total by 1 gives +3 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In FeCl3, count 1 Fe cation center(s) and 3 chloride group(s). Each anion has charge -1.",
+        "The anion subtotal is -3. Divide the required +3 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "iron(III) chloride\n\nUse Fe³⁺ and Cl⁻. The ion-count ratio is 1:3; 1(+3) + 3(−1) = 0. The total negative charge has magnitude 3; dividing the required positive total by 1 gives +3 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-44"
+    },
+    {
+      "id": "PR-45",
+      "prompt": "Name Fe₂O₃.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "iron(III) oxide",
+      "explanation": "Use Fe³⁺ and O²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0. The total negative charge has magnitude 6; dividing the required positive total by 2 gives +3 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Fe2O3, count 2 Fe cation center(s) and 3 oxide group(s). Each anion has charge -2.",
+        "The anion subtotal is -6. Divide the required +6 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "iron(III) oxide\n\nUse Fe³⁺ and O²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0. The total negative charge has magnitude 6; dividing the required positive total by 2 gives +3 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-45"
+    },
+    {
+      "id": "PR-46",
+      "prompt": "Name Cu₂O.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "copper(I) oxide",
+      "explanation": "Use Cu⁺ and O²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 2 gives +1 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Cu2O, count 2 Cu cation center(s) and 1 oxide group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "copper(I) oxide\n\nUse Cu⁺ and O²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 2 gives +1 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-46"
+    },
+    {
+      "id": "PR-47",
+      "prompt": "Name CuO.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "copper(II) oxide",
+      "explanation": "Use Cu²⁺ and O²⁻. The ion-count ratio is 1:1; 1(+2) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In CuO, count 1 Cu cation center(s) and 1 oxide group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "copper(II) oxide\n\nUse Cu²⁺ and O²⁻. The ion-count ratio is 1:1; 1(+2) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-47"
+    },
+    {
+      "id": "PR-48",
+      "prompt": "Name CuSO₄.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "copper(II) sulfate",
+      "explanation": "Use Cu²⁺ and SO₄²⁻. The ion-count ratio is 1:1; 1(+2) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In CuSO4, count 1 Cu cation center(s) and 1 sulfate group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "copper(II) sulfate\n\nUse Cu²⁺ and SO₄²⁻. The ion-count ratio is 1:1; 1(+2) + 1(−2) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-48"
+    },
+    {
+      "id": "PR-49",
+      "prompt": "Name Cu(NO₃)₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "copper(II) nitrate",
+      "explanation": "Use Cu²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Cu(NO3)2, count 1 Cu cation center(s) and 2 nitrate group(s). Each anion has charge -1.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "copper(II) nitrate\n\nUse Cu²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. The total negative charge has magnitude 2; dividing the required positive total by 1 gives +2 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-49"
+    },
+    {
+      "id": "PR-50",
+      "prompt": "Name Fe₃(PO₄)₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "iron(II) phosphate",
+      "explanation": "Use Fe²⁺ and PO₄³⁻. The ion-count ratio is 3:2; 3(+2) + 2(−3) = 0. The total negative charge has magnitude 6; dividing the required positive total by 3 gives +2 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Fe3(PO4)2, count 3 Fe cation center(s) and 2 phosphate group(s). Each anion has charge -3.",
+        "The anion subtotal is -6. Divide the required +6 positive charge among 3 cation center(s). What charge does each center need? Then name both ions.",
+        "iron(II) phosphate\n\nUse Fe²⁺ and PO₄³⁻. The ion-count ratio is 3:2; 3(+2) + 2(−3) = 0. The total negative charge has magnitude 6; dividing the required positive total by 3 gives +2 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-50"
+    },
+    {
+      "id": "PR-51",
+      "prompt": "Name SnCl₄.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "tin(IV) chloride",
+      "explanation": "Use Sn⁴⁺ and Cl⁻. The ion-count ratio is 1:4; 1(+4) + 4(−1) = 0. The total negative charge has magnitude 4; dividing the required positive total by 1 gives +4 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In SnCl4, count 1 Sn cation center(s) and 4 chloride group(s). Each anion has charge -1.",
+        "The anion subtotal is -4. Divide the required +4 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "tin(IV) chloride\n\nUse Sn⁴⁺ and Cl⁻. The ion-count ratio is 1:4; 1(+4) + 4(−1) = 0. The total negative charge has magnitude 4; dividing the required positive total by 1 gives +4 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-51"
+    },
+    {
+      "id": "PR-52",
+      "prompt": "Name PbO₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "lead(IV) oxide",
+      "explanation": "Use Pb⁴⁺ and O²⁻. The ion-count ratio is 1:2; 1(+4) + 2(−2) = 0. The total negative charge has magnitude 4; dividing the required positive total by 1 gives +4 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In PbO2, count 1 Pb cation center(s) and 2 oxide group(s). Each anion has charge -2.",
+        "The anion subtotal is -4. Divide the required +4 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "lead(IV) oxide\n\nUse Pb⁴⁺ and O²⁻. The ion-count ratio is 1:2; 1(+4) + 2(−2) = 0. The total negative charge has magnitude 4; dividing the required positive total by 1 gives +4 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-52"
+    },
+    {
+      "id": "PR-53",
+      "prompt": "Name Co₂O₃.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "cobalt(III) oxide",
+      "explanation": "Use Co³⁺ and O²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0. The total negative charge has magnitude 6; dividing the required positive total by 2 gives +3 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Co2O3, count 2 Co cation center(s) and 3 oxide group(s). Each anion has charge -2.",
+        "The anion subtotal is -6. Divide the required +6 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "cobalt(III) oxide\n\nUse Co³⁺ and O²⁻. The ion-count ratio is 2:3; 2(+3) + 3(−2) = 0. The total negative charge has magnitude 6; dividing the required positive total by 2 gives +3 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-53"
+    },
+    {
+      "id": "PR-54",
+      "prompt": "Name CrCl₃.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-07"
+      ],
+      "answer": "chromium(III) chloride",
+      "explanation": "Use Cr³⁺ and Cl⁻. The ion-count ratio is 1:3; 1(+3) + 3(−1) = 0. The total negative charge has magnitude 3; dividing the required positive total by 1 gives +3 per metal ion.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In CrCl3, count 1 Cr cation center(s) and 3 chloride group(s). Each anion has charge -1.",
+        "The anion subtotal is -3. Divide the required +3 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "chromium(III) chloride\n\nUse Cr³⁺ and Cl⁻. The ion-count ratio is 1:3; 1(+3) + 3(−1) = 0. The total negative charge has magnitude 3; dividing the required positive total by 1 gives +3 per metal ion."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-54"
+    },
+    {
+      "id": "PR-55",
+      "prompt": "Name (NH₄)₂CO₃.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "ammonium carbonate",
+      "explanation": "Use NH₄⁺ and CO₃²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In (NH4)2CO3, count 2 NH4 cation center(s) and 1 carbonate group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "ammonium carbonate\n\nUse NH₄⁺ and CO₃²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-55"
+    },
+    {
+      "id": "PR-56",
+      "prompt": "Name K₂CrO₄.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "potassium chromate",
+      "explanation": "Use K⁺ and CrO₄²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In K2CrO4, count 2 K cation center(s) and 1 chromate group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "potassium chromate\n\nUse K⁺ and CrO₄²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-56"
+    },
+    {
+      "id": "PR-57",
+      "prompt": "Name K₂Cr₂O₇.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "potassium dichromate",
+      "explanation": "Use K⁺ and Cr₂O₇²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In K2Cr2O7, count 2 K cation center(s) and 1 dichromate group(s). Each anion has charge -2.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 2 cation center(s). What charge does each center need? Then name both ions.",
+        "potassium dichromate\n\nUse K⁺ and Cr₂O₇²⁻. The ion-count ratio is 2:1; 2(+1) + 1(−2) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-57"
+    },
+    {
+      "id": "PR-58",
+      "prompt": "Name KMnO₄.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "potassium permanganate",
+      "explanation": "Use K⁺ and MnO₄⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In KMnO4, count 1 K cation center(s) and 1 permanganate group(s). Each anion has charge -1.",
+        "The anion subtotal is -1. Divide the required +1 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "potassium permanganate\n\nUse K⁺ and MnO₄⁻. The ion-count ratio is 1:1; 1(+1) + 1(−1) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-58"
+    },
+    {
+      "id": "PR-59",
+      "prompt": "Name Ca(HCO₃)₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-06"
+      ],
+      "answer": "calcium bicarbonate",
+      "explanation": "Use Ca²⁺ and HCO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. Also accept calcium hydrogen carbonate.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Ca(HCO3)2, count 1 Ca cation center(s) and 2 bicarbonate group(s). Each anion has charge -1.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "calcium bicarbonate\n\nUse Ca²⁺ and HCO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0. Also accept calcium hydrogen carbonate."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-59"
+    },
+    {
+      "id": "PR-60",
+      "prompt": "Name Cd(NO₃)₂.",
+      "kind": "formula_to_name",
+      "skills": [
+        "SK-02",
+        "SK-08",
+        "SK-06",
+        "SK-04"
+      ],
+      "answer": "cadmium nitrate",
+      "explanation": "Use Cd²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0.",
+      "hints": [
+        "Identify the cation and anion. If the metal can have different charges, infer its charge before choosing a Roman numeral.",
+        "In Cd(NO3)2, count 1 Cd cation center(s) and 2 nitrate group(s). Each anion has charge -1.",
+        "The anion subtotal is -2. Divide the required +2 positive charge among 1 cation center(s). What charge does each center need? Then name both ions.",
+        "cadmium nitrate\n\nUse Cd²⁺ and NO₃⁻. The ion-count ratio is 1:2; 1(+2) + 2(−1) = 0."
+      ],
+      "mode": "formula_to_name",
+      "targetId": "PR-60"
+    },
+    {
+      "id": "PR-61",
+      "prompt": "A learner wrote AlSO₄ for aluminum sulfate. Preserve the ions and repair the formula.",
+      "kind": "repair",
+      "skills": [
+        "SK-05",
+        "SK-06",
+        "SK-10"
+      ],
+      "answer": "Al₂(SO₄)₃",
+      "explanation": "Al³⁺ + SO₄²⁻ totals +1. Two aluminums and three sulfate groups give +6 and −6.",
+      "hints": [
+        "What are the positive and negative charge subtotals for the proposed groups?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Al₂(SO₄)₃\n\nAl³⁺ + SO₄²⁻ totals +1. Two aluminums and three sulfate groups give +6 and −6."
+      ],
+      "mode": "concept",
+      "targetId": "PR-61"
+    },
+    {
+      "id": "PR-62",
+      "prompt": "May Na₂O₂ be reduced to NaO when the target is sodium peroxide?",
+      "kind": "repair",
+      "skills": [
+        "SK-05",
+        "SK-06",
+        "SK-10"
+      ],
+      "answer": "No. Na₂O₂ has two sodium ions and one peroxide ion; that ion ratio is already minimal.",
+      "explanation": "Reducing all atom subscripts would replace the O₂²⁻ ion with a different assumed constituent.",
+      "hints": [
+        "Keep the supplied ion intact. Which count may change without changing its identity?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Na₂O₂ has two sodium ions and one peroxide ion; that ion ratio is already minimal.\n\nReducing all atom subscripts would replace the O₂²⁻ ion with a different assumed constituent."
+      ],
+      "mode": "concept",
+      "targetId": "PR-62"
+    },
+    {
+      "id": "PR-63",
+      "prompt": "For calcium nitrate, compare Ca(NO₃)₂, CaN₂O₆, and CaNO₆. Which has correct conventional grouping?",
+      "kind": "repair",
+      "skills": [
+        "SK-06",
+        "SK-10"
+      ],
+      "answer": "Ca(NO₃)₂. CaN₂O₆ has the same atom totals but omits the conventional grouping; CaNO₆ has the wrong N count.",
+      "explanation": "Recognize composition equivalence without pretending all representations communicate the ion grouping equally well.",
+      "hints": [
+        "Can the notation show each complete polyatomic group without changing the atom totals?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Ca(NO₃)₂. CaN₂O₆ has the same atom totals but omits the conventional grouping; CaNO₆ has the wrong N count.\n\nRecognize composition equivalence without pretending all representations communicate the ion grouping equally well."
+      ],
+      "mode": "concept",
+      "targetId": "PR-63"
+    },
+    {
+      "id": "PR-64",
+      "prompt": "Should CO₂ be processed by this neutral-ionic-salt translator?",
+      "kind": "scope",
+      "skills": [
+        "SK-09"
+      ],
+      "answer": "No. Route to molecular naming.",
+      "explanation": "The nonmetal/nonmetal compound in this curated boundary item does not supply the two ion cards used by this module.",
+      "hints": [
+        "Is this a simple ionic formula, or does its context require a different naming rule?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Route to molecular naming.\n\nThe nonmetal/nonmetal compound in this curated boundary item does not supply the two ion cards used by this module."
+      ],
+      "mode": "concept",
+      "targetId": "PR-64"
+    },
+    {
+      "id": "PR-65",
+      "prompt": "Should HCl(aq) receive the ordinary neutral-salt naming pathway here?",
+      "kind": "scope",
+      "skills": [
+        "SK-09"
+      ],
+      "answer": "No. Route to the acid-context extension.",
+      "explanation": "The state/context matters; do not pretend this module covers all hydrogen-containing formulas.",
+      "hints": [
+        "Is this a simple ionic formula, or does its context require a different naming rule?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Route to the acid-context extension.\n\nThe state/context matters; do not pretend this module covers all hydrogen-containing formulas."
+      ],
+      "mode": "concept",
+      "targetId": "PR-65"
+    },
+    {
+      "id": "PR-66",
+      "prompt": "Write a formula for “copper chloride” with no other information. What should you do?",
+      "kind": "scope",
+      "skills": [
+        "SK-07",
+        "SK-09"
+      ],
+      "answer": "Request the copper oxidation state; CuCl and CuCl₂ correspond to different choices.",
+      "explanation": "Do not guess a missing Roman numeral from familiarity.",
+      "hints": [
+        "Is there enough information to choose a charge for this variable-charge metal?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Request the copper oxidation state; CuCl and CuCl₂ correspond to different choices.\n\nDo not guess a missing Roman numeral from familiarity."
+      ],
+      "mode": "concept",
+      "targetId": "PR-66"
+    },
+    {
+      "id": "PR-67",
+      "prompt": "The single-metal-charge calculation for Fe₃O₄ gives +8/3. Should the app round it to +3?",
+      "kind": "scope",
+      "skills": [
+        "SK-07",
+        "SK-09"
+      ],
+      "answer": "No. Mark the single-charge model insufficient; route to a mixed-valence extension.",
+      "explanation": "A noninteger average is not a valid integer charge to round or invent in this introductory translator.",
+      "hints": [
+        "Could one fixed integer cation charge explain this formula? Do not round a mixed-charge average.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Mark the single-charge model insufficient; route to a mixed-valence extension.\n\nA noninteger average is not a valid integer charge to round or invent in this introductory translator."
+      ],
+      "mode": "concept",
+      "targetId": "PR-67"
+    },
+    {
+      "id": "PR-68",
+      "prompt": "While making calcium nitrate, a learner changes NO₃⁻ to NO₂⁻ to “fix the charge.” Explain the repair.",
+      "kind": "repair",
+      "skills": [
+        "SK-04",
+        "SK-06",
+        "SK-10"
+      ],
+      "answer": "Keep nitrate NO₃⁻ and use two groups: Ca(NO₃)₂.",
+      "explanation": "Changing the oxygen count changes ion identity and does not change the −1 charge within this nitrate/nitrite pair.",
+      "hints": [
+        "Keep the supplied ion intact. Which count may change without changing its identity?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "Keep nitrate NO₃⁻ and use two groups: Ca(NO₃)₂.\n\nChanging the oxygen count changes ion identity and does not change the −1 charge within this nitrate/nitrite pair."
+      ],
+      "mode": "concept",
+      "targetId": "PR-68"
+    },
+    {
+      "id": "PR-69",
+      "prompt": "Repair this claim: “-ate always means four oxygen atoms.”",
+      "kind": "repair",
+      "skills": [
+        "SK-04",
+        "SK-09"
+      ],
+      "answer": "-ate has more oxygen than -ite within specified families; nitrate has three O, sulfate four.",
+      "explanation": "Oxygen count and charge must come from a known anchor, not from the suffix alone.",
+      "hints": [
+        "Does the rule apply within this named family, or are you extending it to another family?",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "-ate has more oxygen than -ite within specified families; nitrate has three O, sulfate four.\n\nOxygen count and charge must come from a known anchor, not from the suffix alone."
+      ],
+      "mode": "concept",
+      "targetId": "PR-69"
+    },
+    {
+      "id": "PR-70",
+      "prompt": "Compare NH₄SO₄ with (NH₄)₂SO₄ as ammonium sulfate. Give the correct atom inventory.",
+      "kind": "repair",
+      "skills": [
+        "SK-05",
+        "SK-06",
+        "SK-10"
+      ],
+      "answer": "(NH₄)₂SO₄; N = 2, H = 8, S = 1, O = 4.",
+      "explanation": "One ammonium and one sulfate total −1. Two ammonium ions balance one sulfate.",
+      "hints": [
+        "Count whole copies of the ion before counting the atoms inside each copy.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "(NH₄)₂SO₄; N = 2, H = 8, S = 1, O = 4.\n\nOne ammonium and one sulfate total −1. Two ammonium ions balance one sulfate."
+      ],
+      "mode": "concept",
+      "targetId": "PR-70"
+    },
+    {
+      "id": "PR-71",
+      "prompt": "An unfamiliar ion name is not in the allowed bank. Can the app derive its exact formula from the suffix alone?",
+      "kind": "scope",
+      "skills": [
+        "SK-09"
+      ],
+      "answer": "No. Return unknown ion / reference needed, without inventing a species.",
+      "explanation": "A lookup gap is not a learner misconception and is not solved by guessing chemistry.",
+      "hints": [
+        "Can you identify this ion in the supplied reference bank? Missing information calls for a reference.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. Return unknown ion / reference needed, without inventing a species.\n\nA lookup gap is not a learner misconception and is not solved by guessing chemistry."
+      ],
+      "mode": "concept",
+      "targetId": "PR-71"
+    },
+    {
+      "id": "PR-72",
+      "prompt": "Can the formula entry system silently lowercase CO to Co?",
+      "kind": "scope",
+      "skills": [
+        "SK-01",
+        "SK-09"
+      ],
+      "answer": "No. CO and Co mean different things. Show a case-sensitive clarification.",
+      "explanation": "Chemical symbol case is meaningful; typography normalization must not erase element boundaries.",
+      "hints": [
+        "Read each element symbol with its original capital and lowercase letters.",
+        "Use the reference cards or the matching lesson. A reference look is recorded as support, not as a successful recall.",
+        "State the quantity and its scope first, then explain one step. Compare with the full key when ready; your wording is not graded by keyword.",
+        "No. CO and Co mean different things. Show a case-sensitive clarification.\n\nChemical symbol case is meaningful; typography normalization must not erase element boundaries."
+      ],
+      "mode": "concept",
+      "targetId": "PR-72"
+    }
+  ],
+  "examCard": {
+    "title": "Ion Language reference card",
+    "body": "# The small map to carry into practice\n\n## Exam-sheet candidate — verify permitted scope before use\n\nThis is a study reference candidate, not a claim about current exam permission or completeness. The instructor’s current rules control what may be used during an assessment.\n\n### Translation compass\n\n```text\nNAME → known ions + charges → minimum neutral ratio → formula\nFORMULA → recognize ions → infer variable charge → cation name + anion name\n\nNeutral ionic-formula ledger:  n_c q_c + n_a q_a = 0\nRoman numeral: charge per metal ion in these simple salts, NOT atom count.\nSubscript: atom/group count, NOT charge.\nRepeat a polyatomic ion: use parentheses.\nReduce whole-ion counts; never dismantle an ion’s internal formula.\n```\n\n### Pattern or memory?\n\n| Reconstruct | Retrieve as an anchor |\n|---|---|\n| count ratio from known charges | name + formula + charge of each polyatomic ion |\n| metal charge from a known anion and formula ratio | allowed variable-metal states when name/context is absent |\n| nitrate → nitrite within the known family | nitrate is NO₃⁻ in the first place |\n| selected group-1/group-2 monatomic charges | exceptions and source-specific entries |\n\n### Useful anchors\n\n| Name | Ion | Nearby contrast |\n|---|---|---|\n| nitrate | NO₃⁻ | nitrite NO₂⁻ |\n| sulfate | SO₄²⁻ | sulfite SO₃²⁻ |\n| phosphate | PO₄³⁻ | phosphide P³⁻ is a different kind of ion |\n| carbonate | CO₃²⁻ | bicarbonate/hydrogen carbonate HCO₃⁻ |\n| hydroxide | OH⁻ | -ide does not guarantee monatomic |\n| ammonium | NH₄⁺ | ammonia NH₃ is neutral |\n| acetate | C₂H₃O₂⁻ | learn the charge with the name |\n| oxide | O²⁻ | peroxide O₂²⁻ |\n| chromate | CrO₄²⁻ | dichromate Cr₂O₇²⁻ |\n| permanganate | MnO₄⁻ | not a chlorine-ladder operation |\n\nChlorine staircase: **ClO⁻ hypochlorite → ClO₂⁻ chlorite → ClO₃⁻ chlorate → ClO₄⁻ perchlorate**.\n\nWithin a known family, -ate has more O than -ite. The suffix alone does not specify charge or a universal O count. -ine is not an ion suffix rule. Common monatomic negative ions use -ide; hydroxide, cyanide, and peroxide show why the reverse inference fails.\n\n### Two checks worth carrying\n\n```text\nFe₂O₃: 3(−2)=−6; 2 irons share +6 → +3 each → iron(III) oxide.\nAl₂(SO₄)₃: 2(+3)+3(−2)=0; sulfate stays SO₄²⁻.\n```\n\nSodium peroxide is **Na₂O₂**, not NaO. Magnesium oxide is **MgO**, not Mg₂O₂. Compare ion counts, not just the digits on the page.\n\n## Ten-minute paper session\n\nFirst minute: write three anchors from memory, then compare with the reference. Next three minutes: one name→formula and one formula→name example, with charge ledgers. Next three: contrast nitrate/nitrite and oxide/peroxide. Last three: repair one incorrect formula and explain what information the name supplied. Stop there; the module does not need to turn every short session into a full exam.\n\n## Speaking rehearsal\n\nSay the name, identify both ions, say their charges, and state the ratio. Example: “Calcium nitrate. Calcium plus two. Nitrate minus one. One calcium, two nitrates. Ca(NO₃)₂.” Then write it without looking.\n\n## Notebook prompts\n\n“What did I derive, and what did I remember?”  \n“What remains true if I change the cation?”  \n“Which subscript belongs inside the ion?”  \n“What extra information would make this ambiguous name solvable?”\n\n## Later review\n\nChoose a few items for tomorrow and later sessions. Default spacing is specified in 10, but no notifications or automations have been scheduled by this document. The learner decides when the study system should prompt her.\n\nShared comparison notes\n\n## Two derivations of the same ratio\n\nFor aluminum sulfate, use either a common multiple (+6 and −6) or `3a = 2b`. Both establish a = 2 and b = 3 as the smallest positive integers. The app must accept either coherent explanation. “Criss-cross” may be offered after the derivation, but always follow it by a ratio-reduction and group-identity check.\n\n## Contrast worth keeping visible\n\n- FeCl₂ versus FeCl₃: same element names, different iron state.\n- KClO₂ versus KClO₃: same cation charge and same anion charge, different anion identity/name.\n- MgO versus Na₂O₂: least whole-number **ion** ratio is not least whole-number **atom** ratio in every formula.\n- Ca(NO₃)₂ versus CaN₂O₆: distinguish atom-equivalent notation from the preferred grouped representation; teach the improvement without denying what is already correct."
+  },
+  "studyPlan": {
+    "objectives": [
+      {
+        "id": "PILOT-ION-IDENTITY",
+        "skillIds": [
+          "SK-02"
+        ],
+        "lessonIds": [
+          "L01",
+          "L02"
+        ]
+      },
+      {
+        "id": "PILOT-NEUTRAL-FORMULA",
+        "skillIds": [
+          "SK-02",
+          "SK-04",
+          "SK-05",
+          "SK-06",
+          "SK-08",
+          "SK-10"
+        ],
+        "lessonIds": [
+          "L01",
+          "L03",
+          "L06"
+        ]
+      },
+      {
+        "id": "PILOT-STOCK-SCOPE",
+        "skillIds": [
+          "SK-02",
+          "SK-05",
+          "SK-07",
+          "SK-08",
+          "SK-09"
+        ],
+        "lessonIds": [
+          "L04",
+          "L06"
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "id": "ID-D",
+        "objectiveId": "PILOT-ION-IDENTITY",
+        "stage": "diagnostic",
+        "instruction": "One forward and one reverse cue before opening references; allow uncertainty.",
+        "itemRefs": [
+          {
+            "itemId": "PR-04",
+            "direction": "ion",
+            "representation": "name_formula_charge"
+          },
+          {
+            "itemId": "ION-NA",
+            "direction": "name_to_formula",
+            "representation": "name_formula_charge"
+          },
+          {
+            "itemId": "ION-NA",
+            "direction": "formula_to_name",
+            "representation": "name_formula_charge"
+          }
+        ]
+      },
+      {
+        "id": "ID-S",
+        "objectiveId": "PILOT-ION-IDENTITY",
+        "stage": "supported",
+        "instruction": "Use an existing anchor, distinguish charge/subscript, cover it and retrieve.",
+        "itemRefs": [
+          {
+            "itemId": "PR-04",
+            "direction": "ion",
+            "representation": "name_formula_charge"
+          },
+          {
+            "itemId": "ION-NITRITE",
+            "direction": "name_to_formula",
+            "representation": "name_formula_charge"
+          },
+          {
+            "itemId": "ION-NITRITE",
+            "direction": "formula_to_name",
+            "representation": "name_formula_charge"
+          },
+          {
+            "itemId": "ION-SULFITE",
+            "direction": "name_to_formula",
+            "representation": "name_formula_charge"
+          },
+          {
+            "itemId": "ION-SULFITE",
+            "direction": "formula_to_name",
+            "representation": "name_formula_charge"
+          }
+        ]
+      },
+      {
+        "id": "NF-D",
+        "objectiveId": "PILOT-NEUTRAL-FORMULA",
+        "stage": "diagnostic",
+        "instruction": "Write one formula and explain the conventional/composition distinction before feedback.",
+        "itemRefs": [
+          {
+            "itemId": "PR-18",
+            "direction": "name_to_formula",
+            "representation": "neutral_formula"
+          },
+          {
+            "itemId": "PR-63",
+            "direction": "concept",
+            "representation": "atom_inventory"
+          }
+        ]
+      },
+      {
+        "id": "NF-S",
+        "objectiveId": "PILOT-NEUTRAL-FORMULA",
+        "stage": "supported",
+        "instruction": "Use a worked group/charge ledger; fade one step; repair with the existing source example.",
+        "itemRefs": [
+          {
+            "itemId": "PR-23",
+            "direction": "name_to_formula",
+            "representation": "neutral_formula"
+          },
+          {
+            "itemId": "PR-24",
+            "direction": "name_to_formula",
+            "representation": "neutral_formula"
+          },
+          {
+            "itemId": "PR-61",
+            "direction": "concept",
+            "representation": "notation_repair"
+          }
+        ]
+      },
+      {
+        "id": "SS-D",
+        "objectiveId": "PILOT-STOCK-SCOPE",
+        "stage": "diagnostic",
+        "instruction": "Name the source compound and state what missing information prevents a unique name/formula.",
+        "itemRefs": [
+          {
+            "itemId": "PR-43",
+            "direction": "formula_to_name",
+            "representation": "stock_name"
+          },
+          {
+            "itemId": "PR-66",
+            "direction": "concept",
+            "representation": "scope_explanation"
+          }
+        ]
+      },
+      {
+        "id": "SS-S",
+        "objectiveId": "PILOT-STOCK-SCOPE",
+        "stage": "supported",
+        "instruction": "Compare per-metal charge and count, using the existing paired and reverse examples.",
+        "itemRefs": [
+          {
+            "itemId": "PR-44",
+            "direction": "formula_to_name",
+            "representation": "stock_name"
+          },
+          {
+            "itemId": "PR-29",
+            "direction": "name_to_formula",
+            "representation": "neutral_formula"
+          }
+        ]
+      }
+    ]
+  }
+}

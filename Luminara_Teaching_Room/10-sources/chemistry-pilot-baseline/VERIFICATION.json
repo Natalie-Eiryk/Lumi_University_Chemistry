@@ -1,0 +1,25 @@
+{
+  "release": "assembly 1.1.0; chemistry 0.1.0",
+  "freshChecks": {
+    "existingHostTests": 22,
+    "existingPreservationIntakeTests": 26,
+    "existingPortalUIGroups": 6,
+    "chemistryHostTests": 6,
+    "chemistryUIGroups": 19,
+    "chemistryFocusGroups": 1
+  },
+  "freshGroupTotal": 80,
+  "nativeChemistryBrowserNavigation": {
+    "status": "blocked",
+    "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:33489/chemistry/\nCall log:\n  - navigating to \"http://127.0.0.1:33489/chemistry/\", waiting until \"load\"\n"
+  },
+  "bioethicsHTMLUnchanged": true,
+  "bioethics131GroupSuite": "not rerun in this pass; original app bytes unchanged and archived prior receipts retained",
+  "originalAssemblyFilesRetained": 243,
+  "chemistryCourseFilesInspected": 1,
+  "requestedWindowsFolderInspected": false,
+  "originalChemistryPDFIncluded": false,
+  "windowsLaunchersTested": false,
+  "published": false,
+  "lumiOsIntegrated": false
+}

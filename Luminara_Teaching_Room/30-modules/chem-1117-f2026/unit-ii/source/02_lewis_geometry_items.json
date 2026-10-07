@@ -1,0 +1,660 @@
+{
+  "schema_version": "1.0",
+  "lesson_file": "02_lewis_geometry.md",
+  "answers_initially_hidden": true,
+  "companion_prefix": "LG",
+  "delivery_sequence": [
+    "prediction",
+    "reason",
+    "first_attempt",
+    "one_hint_if_needed",
+    "revision",
+    "individual_answer_reveal",
+    "transfer",
+    "original_item_retry"
+  ],
+  "normalization": [
+    "Accept unicode and unambiguous plain-text subscripts/charges.",
+    "Accept bent or angular for NO2- molecular shape.",
+    "Do not require drawing orientation or specific dot placement.",
+    "Do not exact-text grade explanations."
+  ],
+  "drawing_rubric": [
+    "atom_inventory",
+    "connectivity",
+    "electron_budget",
+    "lone_pairs",
+    "duet_octet_or_named_exception",
+    "formal_charge_sum",
+    "ion_brackets",
+    "required_resonance",
+    "central_domains",
+    "separate_geometry_names"
+  ],
+  "items": [
+    {
+      "id": "Q10",
+      "original_anchor": "Q10",
+      "source_page": 5,
+      "kind": "explanation",
+      "prompt": "Identify four elements whose bonding patterns are exceptions to the octet rule and explain.",
+      "hints": [
+        "The octet rule has duet, incomplete-octet, and expanded-valence cases.",
+        "Use a specific compound for each element; its behavior can differ in other compounds.",
+        "Examples to discuss include H, Be, B, Al, P, and S; verify which four class expects."
+      ],
+      "grading": "instructor_alignment",
+      "answer_ref": "02_lewis_geometry_answers.json#/Q10"
+    },
+    {
+      "id": "Q11a",
+      "original_anchor": "Q11a",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Calculate the total valence electrons for NCl3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "N is central with three Cl neighbors; finish Cl octets before N."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/NCl3",
+      "answer_field": "electrons",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q11b",
+      "original_anchor": "Q11b",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Calculate the total valence electrons for HI. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "Use one H-I single bond; H needs a duet."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/HI",
+      "answer_field": "electrons",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q11c",
+      "original_anchor": "Q11c",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Calculate the total valence electrons for CHCl3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "C is central with one H and three Cl neighbors."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/CHCl3",
+      "answer_field": "electrons",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q11d",
+      "original_anchor": "Q11d",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Calculate the total valence electrons for PBr3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "P is central with three Br neighbors; finish Br octets before P."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/PBr3",
+      "answer_field": "electrons",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q12a",
+      "original_anchor": "Q12a",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Count the shared electron pairs in the whole molecule for NCl3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "N is central with three Cl neighbors; finish Cl octets before N."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/NCl3",
+      "answer_field": "shared_pairs",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q12b",
+      "original_anchor": "Q12b",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Count the shared electron pairs in the whole molecule for HI. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "Use one H-I single bond; H needs a duet."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/HI",
+      "answer_field": "shared_pairs",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q12c",
+      "original_anchor": "Q12c",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Count the shared electron pairs in the whole molecule for CHCl3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "C is central with one H and three Cl neighbors."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/CHCl3",
+      "answer_field": "shared_pairs",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q12d",
+      "original_anchor": "Q12d",
+      "source_page": 5,
+      "kind": "numeric_with_reason",
+      "prompt": "Count the shared electron pairs in the whole molecule for PBr3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "P is central with three Br neighbors; finish Br octets before P."
+      ],
+      "grading": "exact_numeric_and_reason_check",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/PBr3",
+      "answer_field": "shared_pairs",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ]
+    },
+    {
+      "id": "Q13a",
+      "original_anchor": "Q13a",
+      "source_page": 6,
+      "kind": "drawing_self_check",
+      "prompt": "Draw the complete Lewis structure for NCl3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "N is central with three Cl neighbors; finish Cl octets before N."
+      ],
+      "grading": "drawing_rubric_no_unverified_autograde",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/NCl3",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ],
+      "answer_fields": [
+        "bonds",
+        "lone_pairs",
+        "formal_charges",
+        "charge"
+      ]
+    },
+    {
+      "id": "Q13b",
+      "original_anchor": "Q13b",
+      "source_page": 6,
+      "kind": "drawing_self_check",
+      "prompt": "Draw the complete Lewis structure for HI. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "Use one H-I single bond; H needs a duet."
+      ],
+      "grading": "drawing_rubric_no_unverified_autograde",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/HI",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ],
+      "answer_fields": [
+        "bonds",
+        "lone_pairs",
+        "formal_charges",
+        "charge"
+      ]
+    },
+    {
+      "id": "Q13c",
+      "original_anchor": "Q13c",
+      "source_page": 6,
+      "kind": "drawing_self_check",
+      "prompt": "Draw the complete Lewis structure for CHCl3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "C is central with one H and three Cl neighbors."
+      ],
+      "grading": "drawing_rubric_no_unverified_autograde",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/CHCl3",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ],
+      "answer_fields": [
+        "bonds",
+        "lone_pairs",
+        "formal_charges",
+        "charge"
+      ]
+    },
+    {
+      "id": "Q13d",
+      "original_anchor": "Q13d",
+      "source_page": 6,
+      "kind": "drawing_self_check",
+      "prompt": "Draw the complete Lewis structure for PBr3. Explain your count.",
+      "hints": [
+        "Separate atom subscripts from any overall charge. These species are neutral.",
+        "H contributes 1; C 4; N/P 5; halogens 7. A single bond holds one shared pair.",
+        "P is central with three Br neighbors; finish Br octets before P."
+      ],
+      "grading": "drawing_rubric_no_unverified_autograde",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/PBr3",
+      "error_tags": [
+        "electron_budget",
+        "shared_pairs_vs_total_pairs",
+        "terminal_lone_pairs",
+        "central_lone_pairs"
+      ],
+      "answer_fields": [
+        "bonds",
+        "lone_pairs",
+        "formal_charges",
+        "charge"
+      ]
+    },
+    {
+      "id": "Q14a",
+      "original_anchor": "Q14a",
+      "source_page": 6,
+      "kind": "drawing_and_geometry",
+      "prompt": "Draw SiF4; identify orbital/electron-domain geometry and molecular shape. Explain the central domain count.",
+      "hints": [
+        "Count four F atoms.",
+        "Four single bonds spend eight electrons.",
+        "After four F octets, Si has no lone pair and four bonding domains."
+      ],
+      "fields": [
+        "budget",
+        "lewis_structure",
+        "bonding_domains",
+        "central_lone_pairs",
+        "total_domains",
+        "electron_geometry",
+        "molecular_geometry"
+      ],
+      "optional_fields": [
+        "ideal_or_predicted_angle"
+      ],
+      "grading": "drawing_rubric_and_separate_geometry_checks",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/SiF4",
+      "scope_note": "Orbital geometry provisionally means electron-domain geometry",
+      "error_tags": [
+        "charge_sign",
+        "electron_budget",
+        "domain_count",
+        "shape_vs_electron_geometry",
+        "angle_precision",
+        "resonance"
+      ]
+    },
+    {
+      "id": "Q14b",
+      "original_anchor": "Q14b",
+      "source_page": 6,
+      "kind": "drawing_and_geometry",
+      "prompt": "Draw AlCl3; identify orbital/electron-domain geometry and molecular shape. Explain the central domain count.",
+      "hints": [
+        "Check known incomplete-octet cases.",
+        "Use 3 + 3(7) electrons.",
+        "Monomer Al has three bonds, no lone pair, and three domains; do not add electrons."
+      ],
+      "fields": [
+        "budget",
+        "lewis_structure",
+        "bonding_domains",
+        "central_lone_pairs",
+        "total_domains",
+        "electron_geometry",
+        "molecular_geometry"
+      ],
+      "optional_fields": [
+        "ideal_or_predicted_angle"
+      ],
+      "grading": "drawing_rubric_and_separate_geometry_checks",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/AlCl3",
+      "scope_note": "Use monomer model",
+      "error_tags": [
+        "charge_sign",
+        "electron_budget",
+        "domain_count",
+        "shape_vs_electron_geometry",
+        "angle_precision",
+        "resonance"
+      ]
+    },
+    {
+      "id": "Q14c",
+      "original_anchor": "Q14c",
+      "source_page": 6,
+      "kind": "drawing_and_geometry",
+      "prompt": "Draw CO2; identify orbital/electron-domain geometry and molecular shape. Explain the central domain count.",
+      "hints": [
+        "Meet C and O octets without extra electrons.",
+        "Move O lone pairs into multiple bonds.",
+        "Two double bonds point in two directions from C."
+      ],
+      "fields": [
+        "budget",
+        "lewis_structure",
+        "bonding_domains",
+        "central_lone_pairs",
+        "total_domains",
+        "electron_geometry",
+        "molecular_geometry"
+      ],
+      "optional_fields": [
+        "ideal_or_predicted_angle"
+      ],
+      "grading": "drawing_rubric_and_separate_geometry_checks",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/CO2",
+      "scope_note": "Orbital geometry provisionally means electron-domain geometry",
+      "error_tags": [
+        "charge_sign",
+        "electron_budget",
+        "domain_count",
+        "shape_vs_electron_geometry",
+        "angle_precision",
+        "resonance"
+      ]
+    },
+    {
+      "id": "Q14d",
+      "original_anchor": "Q14d",
+      "source_page": 6,
+      "kind": "drawing_and_geometry",
+      "prompt": "Draw SO3; identify orbital/electron-domain geometry and molecular shape. Explain the central domain count.",
+      "hints": [
+        "Start with 6 + 3(6) electrons.",
+        "Check the instructor convention for S octets.",
+        "Either discussed convention has three bonding domains and no central lone pair."
+      ],
+      "fields": [
+        "budget",
+        "lewis_structure",
+        "bonding_domains",
+        "central_lone_pairs",
+        "total_domains",
+        "electron_geometry",
+        "molecular_geometry"
+      ],
+      "optional_fields": [
+        "ideal_or_predicted_angle"
+      ],
+      "grading": "instructor_alignment_for_lewis",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/SO3",
+      "scope_note": "Orbital geometry provisionally means electron-domain geometry",
+      "error_tags": [
+        "charge_sign",
+        "electron_budget",
+        "domain_count",
+        "shape_vs_electron_geometry",
+        "angle_precision",
+        "resonance"
+      ]
+    },
+    {
+      "id": "Q14e",
+      "original_anchor": "Q14e",
+      "source_page": 6,
+      "kind": "drawing_and_geometry",
+      "prompt": "Draw CF2Cl2; identify orbital/electron-domain geometry and molecular shape. Explain the central domain count.",
+      "hints": [
+        "C has four halogen neighbors.",
+        "F and Cl each supply seven electrons.",
+        "Four bonds and no central lone pair give four domains."
+      ],
+      "fields": [
+        "budget",
+        "lewis_structure",
+        "bonding_domains",
+        "central_lone_pairs",
+        "total_domains",
+        "electron_geometry",
+        "molecular_geometry"
+      ],
+      "optional_fields": [
+        "ideal_or_predicted_angle"
+      ],
+      "grading": "drawing_rubric_and_separate_geometry_checks",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/CF2Cl2",
+      "scope_note": "Orbital geometry provisionally means electron-domain geometry",
+      "error_tags": [
+        "charge_sign",
+        "electron_budget",
+        "domain_count",
+        "shape_vs_electron_geometry",
+        "angle_precision",
+        "resonance"
+      ]
+    },
+    {
+      "id": "Q14f",
+      "original_anchor": "Q14f",
+      "source_page": 6,
+      "kind": "drawing_and_geometry",
+      "prompt": "Draw NO2-; identify orbital/electron-domain geometry and molecular shape. Explain the central domain count.",
+      "hints": [
+        "Negative charge adds one electron.",
+        "Use one N lone pair and one double bond in each resonance contributor.",
+        "Two bonding regions plus one lone pair give three domains but only two atom positions."
+      ],
+      "fields": [
+        "budget",
+        "lewis_structure",
+        "bonding_domains",
+        "central_lone_pairs",
+        "total_domains",
+        "electron_geometry",
+        "molecular_geometry"
+      ],
+      "optional_fields": [
+        "ideal_or_predicted_angle"
+      ],
+      "grading": "drawing_rubric_and_separate_geometry_checks",
+      "answer_ref": "02_lewis_geometry_answers.json#/species/NO2-",
+      "scope_note": "Orbital geometry provisionally means electron-domain geometry",
+      "error_tags": [
+        "charge_sign",
+        "electron_budget",
+        "domain_count",
+        "shape_vs_electron_geometry",
+        "angle_precision",
+        "resonance"
+      ]
+    },
+    {
+      "id": "LG01",
+      "original_anchor": null,
+      "companion_to": "Q11; Q14f",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Explain number roles and write budget expressions for CHCl3 and NO2-.",
+      "hints": [
+        "Subscripts count atoms; superscript charge affects the whole species.",
+        "Use C 4, H 1, halogen 7, N 5, O 6.",
+        "Use 4 + 1 + 3(7), and 5 + 2(6) + 1."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG01"
+    },
+    {
+      "id": "LG02",
+      "original_anchor": null,
+      "companion_to": "Q13a",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Rebuild NCl3 and show its electron audit.",
+      "hints": [
+        "Spend electrons on bonds first.",
+        "Complete terminal Cl octets.",
+        "Put the remaining pair on N."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG02"
+    },
+    {
+      "id": "LG03",
+      "original_anchor": null,
+      "companion_to": "Q11-Q13",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Build NH3 and compare its budget and N bonding pattern with NCl3.",
+      "hints": [
+        "H contributes 1 and needs a duet.",
+        "Draw three N-H bonds.",
+        "Budget 5 + 3(1); subtract six bond electrons."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG03"
+    },
+    {
+      "id": "LG04",
+      "original_anchor": null,
+      "companion_to": "Q10; Q14b",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Why is adding an Al lone pair to monomer AlCl3 wrong?",
+      "hints": [
+        "Check the budget.",
+        "Three bonds plus Cl octets spend it all.",
+        "The budget is 24; an added pair would draw 26."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG04"
+    },
+    {
+      "id": "LG05",
+      "original_anchor": null,
+      "companion_to": "Q14c",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Count shared pairs, bonding domains, and central lone pairs in O=C=O.",
+      "hints": [
+        "Each double bond has two pairs.",
+        "Each O occupies one direction.",
+        "Two double bonds make four pairs but two bonding domains."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG05"
+    },
+    {
+      "id": "LG06",
+      "original_anchor": null,
+      "companion_to": "Q14f",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Rebuild NO2- with resonance, charge audit, and both geometry names.",
+      "hints": [
+        "Include charge in the budget.",
+        "Keep one N lone pair; count domains, not lines.",
+        "Two O neighbors plus one lone pair give three domains."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG06"
+    },
+    {
+      "id": "LG07",
+      "original_anchor": null,
+      "companion_to": "Q14c; Q14f",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Explain why CO2 and NO2- have different shapes despite two O neighbors each.",
+      "hints": [
+        "Neighbors are not all the domains.",
+        "Count central lone pairs.",
+        "Compare two domains with three domains."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG07"
+    },
+    {
+      "id": "LG08",
+      "original_anchor": null,
+      "companion_to": "Q11; Q14",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Build NH4+ and classify it; contrast charge adjustment with NO2-.",
+      "hints": [
+        "There is a written overall charge.",
+        "Use 5 + 4(1) - 1.",
+        "Four N-H bonds use the entire budget."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG08"
+    },
+    {
+      "id": "LG09",
+      "original_anchor": null,
+      "companion_to": "Q10-Q14",
+      "kind": "transfer_or_worked_reconstruction",
+      "prompt": "Correct the five claims in the learner packet LG09 and identify each first failed check.",
+      "hints": [
+        "Identify units, domains, shape, angle assumptions, or exception overgeneralization.",
+        "Count electrons, shared pairs, and domains separately.",
+        "Return to the matching example or model boundary."
+      ],
+      "grading": "reasoning_rubric",
+      "answer_ref": "02_lewis_geometry_answers.json#/companion_answers/LG09"
+    }
+  ],
+  "worksheet_labels_preserved": true,
+  "candidate_bindings_only": true
+}

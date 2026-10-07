@@ -1,0 +1,6 @@
+# Generated Atlas cache and local lock files; preserve the reference history/anchors.
+**/*.lock
+**/*.tmp
+**/__pycache__/
+**/*.pyc
+/Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/references/projection.json

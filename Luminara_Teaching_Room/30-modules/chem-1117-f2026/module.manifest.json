@@ -1,0 +1,26 @@
+{
+  "moduleId": "chem1117-f2026",
+  "version": "0.2.0",
+  "status": "source-led-private-workshop",
+  "route": "/chemistry/",
+  "stateKey": "luminara-chem1117-workbook-pilot-v1",
+  "courseOrderKnown": false,
+  "sourceRegistry": "source/content.json",
+  "sourceFolderInspected": false,
+  "rawPDFIncluded": true,
+  "activeLessons": 15,
+  "publicReleaseApproved": false,
+  "nativeLumiIntegrated": false,
+  "sourceRegistries": [
+    "source/content.json",
+    "source/folder-content.json"
+  ],
+  "uploadedSnapshotInspected": true,
+  "newWorkshopStops": 45,
+  "uploadedPDFs": 19,
+  "uploadedPages": 40,
+  "facsimilePages": 39,
+  "rawPDFLocation": "10-sources/originals/Chem_1117_F2026.zip (not served)",
+  "earlierWorkbookRawPDFIncluded": false,
+  "courseSequenceSource": "not supplied"
+}

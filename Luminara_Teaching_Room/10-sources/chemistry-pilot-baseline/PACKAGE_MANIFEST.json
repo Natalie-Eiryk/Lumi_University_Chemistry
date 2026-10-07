@@ -1,0 +1,1426 @@
+{
+  "schema": "luminara-private-distribution/1",
+  "excludesSelf": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 210,
+      "sha256": "73676aa7097eb3b10fc39af38e89a75db19114091355937103e56430630125fa"
+    },
+    {
+      "path": "00-governance/MERGE_RULE.md",
+      "bytes": 1658,
+      "sha256": "45bbdc659ba3c7bb042972d5e4e81edf0a40401801f8ba11aa888fefc8d18bc0"
+    },
+    {
+      "path": "00-governance/starter-contracts/BUILD_ROOM_CHARTER.md",
+      "bytes": 2419,
+      "sha256": "a2f5161a6ed027c0f8275e11e6c639fbe7c43ffcfd298c9905e245865f4a8713"
+    },
+    {
+      "path": "00-governance/starter-contracts/RELEASE_GATES.md",
+      "bytes": 1175,
+      "sha256": "e7da8371d2c614e427d133b404553aa4d808f6a1535dc7d628bcfb3962f84413"
+    },
+    {
+      "path": "00-governance/starter-contracts/SOURCE_PROVENANCE_POLICY.md",
+      "bytes": 1143,
+      "sha256": "0616ebb09c43cf3654de29a02072f51c547e33e4f9f9f83a03c2f4afd2a238b7"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/LICENSE_NOTICE.md",
+      "bytes": 1064,
+      "sha256": "0aad77e802e87bc4f4f2f6fbb94467bfee3047843661e32786ec4ad0c7c847a2"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/PACKAGE_INFO.json",
+      "bytes": 526,
+      "sha256": "af5809ef35d0428864177b6be168c3af7b894e51269d602b55a99fe11492c1f1"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/PACKAGE_MANIFEST.json",
+      "bytes": 44693,
+      "sha256": "d43ffa9a46e380b92895c40a0c2f848d3261242dd73c612892701746fe366cc5"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/README.md",
+      "bytes": 278,
+      "sha256": "402a981dbb62a6c687459b4e11d1035b96286992e3b93d387dbef43f68095406"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/START_HERE.md",
+      "bytes": 8060,
+      "sha256": "a17d1f06acce0ba4093b9c79e175e2a64ead5f8848b7c617440717beb3381d4e"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/VERIFICATION.json",
+      "bytes": 632,
+      "sha256": "f240d7a72add1eed1b753f83ba80fac86f59e29241bb2e7d79fa4fa8b3e8052e"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/evidence/room-desktop.png",
+      "bytes": 167493,
+      "sha256": "8cb1651e5ddff36fa958746c6c27208e56a7a20049355fa422a0b042a78194cf"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/evidence/room-mobile.png",
+      "bytes": 308056,
+      "sha256": "a934384ae3150c6daec9176415f03965793f4f0e1bee68b3f7d9990129de33b3"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/evidence/room-ui.json",
+      "bytes": 782,
+      "sha256": "73300e0b1f995d0d8d05f8e33e014f1a9ad1a42fab0f82426db2747dcc3357d3"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/scripts/build_room.py",
+      "bytes": 23776,
+      "sha256": "54b2af7d6b93b984dd0c2b1f3d40975082a85e40178b2bde635c2f03d7aff156"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/serve_lab.py",
+      "bytes": 11018,
+      "sha256": "4ad13a58bdeb9b4b32c4202b716d5a0746b200a8bd7151a6de75d8b12b577438"
+    },
+    {
+      "path": "10-sources/assembly-1-baseline/web/room.html",
+      "bytes": 32714,
+      "sha256": "b1777116cc7a1cfeb947c13a3ce574b3cdbf13f7220652346a6a44bfe924647f"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Lab_Essay1_Source.zip",
+      "bytes": 191064,
+      "sha256": "ac588896dac7da7fe59e00f4a2b71ca5f657f124a65c8357f075389fa44542d1"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Matching_Lab_Source.zip",
+      "bytes": 98169,
+      "sha256": "0ceae876f40869a621ba62564d0d78d339af8d7dba59eac3e04d387d7a15ebf7"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Stable_Local.zip",
+      "bytes": 738227,
+      "sha256": "114cec3e98bc47ecaf6cd169e541a2d42fad80cfc58127c6391c01e1429d32ed"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Study_Lab_v3_Source.zip",
+      "bytes": 1930322,
+      "sha256": "e05cf2f2f1e976a33ad5cbcf13aeb9715062cd1c41dddd9c02ebb58ad477ff6b"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Study_Lab_v4_Source.zip",
+      "bytes": 1655959,
+      "sha256": "4a466892ffe97a20997367bbd9bab4e904cdee3c832d7cde23b77eb3e0b75827"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Study_Lab_v5_Source.zip",
+      "bytes": 7166099,
+      "sha256": "f3aa74c3c86290ccddcb8506a20363f544804233a7117a794cd8d07702c342e0"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Study_Lab_v6_Source.zip",
+      "bytes": 10153708,
+      "sha256": "47f2f35ee3c459d5be766d1d70cf41706e39cb0f229d1712161ba76887d68d49"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Bioethics_Study_Lab_v7_Source.zip",
+      "bytes": 1509542,
+      "sha256": "75bed7acd2d4517e10def4d3b2eaaa974dd9d13dba0b6f58c2989e2af6993ce8"
+    },
+    {
+      "path": "10-sources/originals/Luminara_Build_Room_Starter.zip",
+      "bytes": 31902122,
+      "sha256": "77b944b02aecc6a272161cc67aed9df2c74b72b51ed0920d97c8d604a5aca9e6"
+    },
+    {
+      "path": "20-shared-kernel/governance/200.20-SPOILER_FIREWALL.md",
+      "bytes": 532,
+      "sha256": "49f290bb29bb1898d3bc2352bb4aecb63c97ae9d07be026942f40c23251b636c"
+    },
+    {
+      "path": "20-shared-kernel/governance/200.25-MATTER_AND_NAMING_INTEGRATION.md",
+      "bytes": 1136,
+      "sha256": "9540a77515d42825481c8a52c47ce617d9cbe4781c4cd5ec1bf3f801ba76e460"
+    },
+    {
+      "path": "20-shared-kernel/lumi-bridge/200.30-LUMI_COGNITIVE_EXTENSION.md",
+      "bytes": 806,
+      "sha256": "6c46ef9b495fa0084db1d51accb12bc582cf1c05010b77a69d3289c097c321a4"
+    },
+    {
+      "path": "20-shared-kernel/pedagogy/200.10-FIVE_E_LEARNING_CYCLE.md",
+      "bytes": 621,
+      "sha256": "348802939e3ace155de4fce67f87e1195c6cd8af8304e7e27d8655477afee390"
+    },
+    {
+      "path": "20-shared-kernel/persona/200.00-LUMINARA_LEARNING_KERNEL.md",
+      "bytes": 1550,
+      "sha256": "3149b4ee0bb88937daecff54e66d22a6af9981a7da5be3764e4ca54f2d50b848"
+    },
+    {
+      "path": "20-shared-kernel/schemas/module.schema.json",
+      "bytes": 1161,
+      "sha256": "4963bc2899c43f928e6c79d38c519be3119ec6f8c50ef4faffc5e1de504b251b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/module.manifest.json",
+      "bytes": 844,
+      "sha256": "83324a1fac90b493c028ccb1d01604acbbbacffbe1dfed4f72a975f98b40d6ff"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/CHANGELOG.md",
+      "bytes": 5688,
+      "sha256": "e131b8584be38ac7ffe4807926fb675e7de959dd80dc290d4f3db9f8211cef3d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/CONTENT_PROVENANCE.md",
+      "bytes": 12660,
+      "sha256": "df025786ab52dd91be1859c45b7648d6a67bd232b6a678f0f77ae41a590d82d5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/CONTEXT_COMPANION_v7.md",
+      "bytes": 7840,
+      "sha256": "717082634ad9fe907e059419898e014049453b3d2ffc9ca7ea78264866f10f66"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/CONTEXT_READING_v6.md",
+      "bytes": 9886,
+      "sha256": "21ded69fc99cf968632dfcd7ebf0d147571f63315e5b8025b565c1bfa3de1718"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/LUMI_LATER.md",
+      "bytes": 2124,
+      "sha256": "ca17af6c411016529083c1d9821476b686497a54cc80f8eeae2eac131b94c827"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/PACKAGE_MANIFEST.json",
+      "bytes": 24617,
+      "sha256": "3690ebe032368b51b61b904685e0b5a9469cc3152f09f06143b57c28ca9930fb"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/PEDAGOGY.md",
+      "bytes": 12841,
+      "sha256": "8ac3dd8603141daff4711d0a06a7316d03d5562f3b7bde41711cbb73ac009b91"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/QUALITY_PASS.md",
+      "bytes": 6115,
+      "sha256": "5db5cb13417f376563c4e06b307a5fc894c2c02a81d1d7be36cd42cf0d663452"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/README.md",
+      "bytes": 7454,
+      "sha256": "0101191abb9de17ada2c5ad8ed08b9d3e682295c2dae7e91a5cc8c17e5b4da5f"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/TEACHING_AND_QUALITY_v5.md",
+      "bytes": 17165,
+      "sha256": "10e52786d085676d862f6c0188ce34058d14dbbb1b73624569f6ac54200a6c4b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/TEACHING_AND_QUALITY_v6.md",
+      "bytes": 15553,
+      "sha256": "16837e9a980a166725cdcdda5853fc6eee850411438bb3695ee8457b1c9a3823"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/TEACHING_AND_QUALITY_v7.md",
+      "bytes": 13962,
+      "sha256": "894d33227cc6dad68c8dce82f2807420a7187d75d0eef9df396acf6ce880e130"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/VERIFICATION.json",
+      "bytes": 5391,
+      "sha256": "fdf88e48437cf853e984163e832e9f8f6c08181a3447b855fba54d516142c218"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/app.css",
+      "bytes": 15613,
+      "sha256": "9517fbdc31a5a7de1bb9cbf839b900e7fd258672f07a4f21dd1b3335b7a5a81d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/app.js",
+      "bytes": 42043,
+      "sha256": "c0b7b06577b0c976d9629f110879071adfb48de670b16d2a4bdc6f5feafb3bfc"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/build-info.json",
+      "bytes": 2678,
+      "sha256": "2f637675740d15101a21b09b78c75d8cab387baacd26f2607605997327764f78"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/build.py",
+      "bytes": 4408,
+      "sha256": "8d063a28b7cecab3402168ec71fa780617d8976329bbfd0036990ce209d26445"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/build_cases.py",
+      "bytes": 400,
+      "sha256": "2374d6bc022f4aa2ab43e98ff2634ec648f9b5977d483f9af75fd6152617b08b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/build_companion_data.py",
+      "bytes": 33831,
+      "sha256": "08bb92b8eca7434b9df6b30a6208a5e3b21c712ed6b90a34beb124b6d4638b73"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/build_compass_data.py",
+      "bytes": 15845,
+      "sha256": "d06c97c6b4beee871050d002c51c31949df354acd7e0e074a5a42c91529d6da8"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/build_data.py",
+      "bytes": 43516,
+      "sha256": "aafda4c7f998468d73a07c20f180ca301c0ad41960921b3e7cfb15e89783a54d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/capture_context_v7.py",
+      "bytes": 1915,
+      "sha256": "b818101412eaef0370ef3d6c3b9891722d812c1e7e17db462ebfbad6f2370ebc"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/case-test-results.json",
+      "bytes": 2188,
+      "sha256": "568d2d2963d82c338e9da3b54c81be7e6b5b43dde485f387a839e85e8b597002"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/cases.css",
+      "bytes": 19758,
+      "sha256": "7d224f3ad14e05c9721edd0f8dba1df642574ffb62e31265fe1c2208c4a10a86"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/cases.js",
+      "bytes": 61123,
+      "sha256": "30da68371ff6656f3b61372651026458bc340d5623426761c7bb393958403225"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/cases.json",
+      "bytes": 91136,
+      "sha256": "6fcc00ab5432d7e2c5f8b6d49d97ade4aeaf85b1cebf32933a22f7fa9daff48e"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/companion-test-results.json",
+      "bytes": 2105,
+      "sha256": "98d07d91116cd6c2affa916e69d848029050bff7f3889ad9a979a5456a3bded9"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/companion.css",
+      "bytes": 8837,
+      "sha256": "8035848d21bf24fcae1a90ab8f7354160036fb29891dc94c6c1903b53cd72d01"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/companion.js",
+      "bytes": 16231,
+      "sha256": "d0325242ed45ec24b2473d03e3cda11a498c0fa6e7cc8e61fbc8cde193129b7d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/companion.json",
+      "bytes": 48251,
+      "sha256": "42b8f5da032df0906202343810567cc3e7f4b96ca8e8530cb84e518277d85df1"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/compass-guard-results.json",
+      "bytes": 636,
+      "sha256": "5846f7820dfbc18865850b76c73074d2b47869ab1760f1527bf935a2ac58c790"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/compass-visual-results.json",
+      "bytes": 295,
+      "sha256": "a06d60efd373e89c840ea936ade86679888627c73415fbd34f76d66085eccea4"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/compass.css",
+      "bytes": 10964,
+      "sha256": "83680fbc262d8576ad4728c9797e78ceafc734460a8d6bb4135629eb08e73168"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/compass.js",
+      "bytes": 39648,
+      "sha256": "c2ee710b1b1ff5e4ea5e66ff4bf56b53623ff587ebc21b5f3994b52e3eb10294"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/compass.json",
+      "bytes": 55687,
+      "sha256": "7a090ac12f6c0d6ee7e2c0d5947f460585af14b26814e2981f7e1770d80e8de5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/content.json",
+      "bytes": 75387,
+      "sha256": "0ad6b9d9b7c4583becfa1beb0bbd17193145ff992d01c3c95e8b452eb3fe1cb4"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/create_readings.py",
+      "bytes": 107265,
+      "sha256": "37273fc728659be5697cc453feb7337bd464ad466fd21a54c9e3a459a29ea56d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/deterministic-build-v7.json",
+      "bytes": 237,
+      "sha256": "c2caa81ffdaeb5dca79929cf5ef0dae59f44a21996caf44950dfc2d8e0877a19"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v3/QUALITY_PASS.md",
+      "bytes": 5675,
+      "sha256": "57b061ae32e961d4b802bf625b0e09d2be70728e53892ba7c0b94b1abd3956fb"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v3/README.md",
+      "bytes": 10810,
+      "sha256": "6c5005805f761d2618da9680af990c0775dd7e2a1ac1dd535268e59bb8ea8486"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v3/VERIFICATION.json",
+      "bytes": 1661,
+      "sha256": "4b9a51b62435f8f2d27d9c9344ae400f6bdca1eef2fbdf7540d7c5151c952ab9"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/PEDAGOGY.md",
+      "bytes": 14255,
+      "sha256": "c83e4b20c3fb45a34d31a946f70153f97c5954604c16322734ef7f93546702de"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/QUALITY_PASS.md",
+      "bytes": 4830,
+      "sha256": "24fd90d9a7e931affbafd9ec8d10757964815abea8caf4c30f84d835b7377183"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/README.md",
+      "bytes": 8558,
+      "sha256": "395e9396f77b51d136773e720136fc0dd3d240136335cde8bea86a0811a54be5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/VERIFICATION.json",
+      "bytes": 2569,
+      "sha256": "219c6912ec0f92b08f78980f013f2d50c95f6b8a4e0d0a6879681fd1baad2568"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/build-info.json",
+      "bytes": 2110,
+      "sha256": "10bd87f6b2736e32aadb640e6a854d0e7a9623d4fa3bd8d0eb4bf9f5fa24fcdb"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/case-test-results.json",
+      "bytes": 2188,
+      "sha256": "568d2d2963d82c338e9da3b54c81be7e6b5b43dde485f387a839e85e8b597002"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/edge-test-results.json",
+      "bytes": 634,
+      "sha256": "0ec08b6637e33052acf8208a97c09ea5d1ccf4f51fa6c18a800beb63775d29da"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/file-origin-test-results.json",
+      "bytes": 399,
+      "sha256": "5156c385ff7990615a8b44e05f0737c502be0573e7ffb6a32819600d2a4f069f"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/learning-test-results.json",
+      "bytes": 2139,
+      "sha256": "6544b12054e18cba596be748c312ba56bf2013b7d995a18f4ee7d2c1f0bb97a2"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/quality-test-results.json",
+      "bytes": 1953,
+      "sha256": "f29e8fc05ef8f223a72212b99fc4290ab01761afd0695679437691c10d4d480d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v4/test-results.json",
+      "bytes": 1531,
+      "sha256": "53de44e656f18e1fe2595dccb23a306b4c715de623f46045ec79fdad25ed309c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/QUALITY_PASS.md",
+      "bytes": 5560,
+      "sha256": "52936e9ef8957d5ba721f5ea79a41d1569d441acbf3288af8a10d9a6a7fe10fe"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/README.md",
+      "bytes": 6872,
+      "sha256": "fbe055524adae5df8a2124be9c55728a6f9e895605281776c296f2591e13efac"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/VERIFICATION.json",
+      "bytes": 3186,
+      "sha256": "0faef9339d864c9248a8339f0870d57abfa7189b904fadae39726ac71645fc92"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/build-info.json",
+      "bytes": 2266,
+      "sha256": "5e11e55011d98aff61c2f3570270f3dd8c747003d8fba2627b20ca6d2e7fbe66"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/case-test-results.json",
+      "bytes": 2188,
+      "sha256": "568d2d2963d82c338e9da3b54c81be7e6b5b43dde485f387a839e85e8b597002"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/compass-guard-results.json",
+      "bytes": 636,
+      "sha256": "181c4a19e85190d9b8912a005cd7080dc66512555e8887384c55b3231f0de5e9"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/compass-visual-results.json",
+      "bytes": 295,
+      "sha256": "a06d60efd373e89c840ea936ade86679888627c73415fbd34f76d66085eccea4"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/edge-test-results.json",
+      "bytes": 634,
+      "sha256": "d496f48bee1d16561d80d4aff3cb7194c629a08e4700109eef3d46198e9e1bd8"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/file-origin-test-results.json",
+      "bytes": 427,
+      "sha256": "c2c76dac7391206122cb9dd6dce6e43a1fbb548b54aabc68f611a5cf819ffc4b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/learning-test-results.json",
+      "bytes": 2139,
+      "sha256": "6544b12054e18cba596be748c312ba56bf2013b7d995a18f4ee7d2c1f0bb97a2"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/quality-test-results.json",
+      "bytes": 1953,
+      "sha256": "f29e8fc05ef8f223a72212b99fc4290ab01761afd0695679437691c10d4d480d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/test-results.json",
+      "bytes": 1531,
+      "sha256": "53de44e656f18e1fe2595dccb23a306b4c715de623f46045ec79fdad25ed309c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/tick1-test-results.json",
+      "bytes": 987,
+      "sha256": "d44481c4a632baf701239ac6ee40efc7582dde8e2466fd12c79b65984c76ab36"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v5/tick2-test-results.json",
+      "bytes": 1434,
+      "sha256": "0184043a63d0fc335f391161abb484603788e869a9551a60730cd8f2f845dcb5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/PACKAGE_MANIFEST.json",
+      "bytes": 23369,
+      "sha256": "892c68390946e66934b5e72a68d4ddb20d1e7470a0d5fbf555a11b006d188cb5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/QUALITY_PASS.md",
+      "bytes": 5660,
+      "sha256": "127d4fac63ca371d09776b469e73f346011b85cebade99629cb3a7a1c9c44007"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/README.md",
+      "bytes": 5359,
+      "sha256": "1b157739b09c18318afc270161479bd20727a9a865efb6406b343c47446948c1"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/VERIFICATION.json",
+      "bytes": 4578,
+      "sha256": "db906e4ae8ad3d55aa1293abe11f33de2facf2528652bd43a7fc2f4a9dd2fd50"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/build-info.json",
+      "bytes": 2490,
+      "sha256": "7f4d647b6199fc26b46d5bfe23c05fa2ab889cf7322f542a9b3311310965af17"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/case-test-results.json",
+      "bytes": 2188,
+      "sha256": "568d2d2963d82c338e9da3b54c81be7e6b5b43dde485f387a839e85e8b597002"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/compass-guard-results.json",
+      "bytes": 636,
+      "sha256": "8d5d819afe3db9f0b8ec98e93c997a3877b5713c2b207b696fdf025e77b79400"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/compass-visual-results.json",
+      "bytes": 295,
+      "sha256": "a06d60efd373e89c840ea936ade86679888627c73415fbd34f76d66085eccea4"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/edge-test-results.json",
+      "bytes": 634,
+      "sha256": "3c1604e6b95f0f45f6807c028eb0ee22e4690ae03c92c959f48ef9ae00ff4a17"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/file-origin-test-results.json",
+      "bytes": 511,
+      "sha256": "b6105e67a531bf7815188f7ccd7d1bf9255da99c947c4312eebbd5ac2f8d7ab0"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/learning-test-results.json",
+      "bytes": 2139,
+      "sha256": "6544b12054e18cba596be748c312ba56bf2013b7d995a18f4ee7d2c1f0bb97a2"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/quality-test-results.json",
+      "bytes": 1953,
+      "sha256": "f29e8fc05ef8f223a72212b99fc4290ab01761afd0695679437691c10d4d480d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/reading-quality-results.json",
+      "bytes": 1012,
+      "sha256": "8d3ad096cf8d437c30198f040fc378c12b1749afd8f6d3e84708f2f5f8e93969"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/reading-test-results.json",
+      "bytes": 1808,
+      "sha256": "94aff9ebde623b56bcb70bf296e3ee76bf5d7501722b2151a09ebdd04d4d2c0b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/test-results.json",
+      "bytes": 1531,
+      "sha256": "53de44e656f18e1fe2595dccb23a306b4c715de623f46045ec79fdad25ed309c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/tick1-test-results.json",
+      "bytes": 987,
+      "sha256": "d44481c4a632baf701239ac6ee40efc7582dde8e2466fd12c79b65984c76ab36"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/archive-v6/tick2-test-results.json",
+      "bytes": 1434,
+      "sha256": "0184043a63d0fc335f391161abb484603788e869a9551a60730cd8f2f845dcb5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/cycle1/build-info.json",
+      "bytes": 2277,
+      "sha256": "500f68c0a00752120da8facdc993fc084de4383744d66c3594ac3a6363131558"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/cycle1/snapshot-hashes.json",
+      "bytes": 594,
+      "sha256": "d9a3dcce58948bc76fa79cf9e72cc19b914a54b308ac0b0d0a88d247e05e76a4"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/cycle1/tick1-test-results.json",
+      "bytes": 987,
+      "sha256": "d44481c4a632baf701239ac6ee40efc7582dde8e2466fd12c79b65984c76ab36"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/docs/cycle2/deterministic-build.json",
+      "bytes": 237,
+      "sha256": "a4f3eb025b5d6948c6b0ffe259363054b6317a7e5269b12218d441d365df7bba"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/edge-test-results.json",
+      "bytes": 634,
+      "sha256": "7bd9a712f8c36583113842f3ceee6d7e0f5e8215b97362bbde60cbf847c50bba"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/expand_compass_round2.py",
+      "bytes": 30186,
+      "sha256": "fdf403c2d6f64efa4f755ec7e2bf78a2b17d275b035b7144e96ea7b289f5e85b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/file-origin-test-results.json",
+      "bytes": 511,
+      "sha256": "c53e7772bc5bc77259d635751ffbb3057123bfdc437d2d3cf33d9da9782f1cd2"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/index.html",
+      "bytes": 757463,
+      "sha256": "bb4410480b38bbd05a4ca3816d63f07829ec17f0c3099e8cb3b1a7a8882afbf7"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/learning-test-results.json",
+      "bytes": 2139,
+      "sha256": "6544b12054e18cba596be748c312ba56bf2013b7d995a18f4ee7d2c1f0bb97a2"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/learning.css",
+      "bytes": 8871,
+      "sha256": "11eb05ce63e79130dc1666b51f069ca91efe8fd81baaba064f3be6511e2821eb"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/learning.js",
+      "bytes": 34840,
+      "sha256": "cbab61f3522396be237020550e22f53fc72506c6bddf93cf0930a5e6325cbb95"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/learning.json",
+      "bytes": 46853,
+      "sha256": "cb7a287ebf25b27f68c577cbbc48d9d1e5a2c0a47921f298fb8b22ecc9345495"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/preview-v7-context-1440.png",
+      "bytes": 243382,
+      "sha256": "fe2d423513570b8318ad138cce97e3f59a44802dbfbbde4ee58a164194df6743"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/preview-v7-context-390.png",
+      "bytes": 78944,
+      "sha256": "b981cd042b18155381b8857c1e500cbd5265c030dfe1dc487e8edd9513d8a43c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/preview-v7-plan-context.png",
+      "bytes": 221714,
+      "sha256": "9873d56b88d5ac5b57f64c4d9d5d3766c3c98d77fac6d2f9d766d3fe0e10ccef"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/preview-v7-reading-context.png",
+      "bytes": 219684,
+      "sha256": "db9b2fc3c691a5bff3a0993587f91dc205c6499121c911fc104c80345d11ead2"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/preview-v7-results.json",
+      "bytes": 318,
+      "sha256": "9b928977455ca3e6058192181b6fa086a69d4596b271887d18437a21dfb6e1f0"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/companion-final.log",
+      "bytes": 3902,
+      "sha256": "9eec9d415c27db1a377b864fa26e02266fbd7db33ca5b6baf762cbf44aa20c80"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/file-origin.log",
+      "bytes": 427,
+      "sha256": "529b98aa6d77ccbc5a73267307607eef7be8fa3f3247e24ddd86365c98ee52dd"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/inherited-run.json",
+      "bytes": 690,
+      "sha256": "75f8e7e4d9ef01d66967063f5f2a7ed25080e549de618d3cee0cdc091bf5066f"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/runner-final.log",
+      "bytes": 551,
+      "sha256": "614c4391b5fd597c9a2b6757a0e32fc44f36d01337ac023b7ecb5a50ad59af06"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_cases.py.log",
+      "bytes": 1902,
+      "sha256": "1691e2015c8a05524b8c0c861f9ab76c532384844cc31e422fe1e131afa63028"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_compass_guards.py.log",
+      "bytes": 385,
+      "sha256": "30e99c916ee4540263dbaa3b2ed85748e01e75424d074115726e1ea6b1adf98e"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_compass_tick1.py.log",
+      "bytes": 777,
+      "sha256": "b0db67743f9413a3e5b7bd69cd7e26a7e0da4c1a20571372dcac05ca6de77759"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_compass_tick2.py.log",
+      "bytes": 1218,
+      "sha256": "48b52c85e2811bc3f967512cf44a14f1075b91ac637d67d1dddd301e4452f72c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_compass_visual.py.log",
+      "bytes": 306,
+      "sha256": "5353e3f347704b0606a5b60c5099a406b37cc2e4ca2234d07bb8f6604dfdc9ee"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_edges.py.log",
+      "bytes": 367,
+      "sha256": "cac91682ec818cf01eabcf6450cb3044230640781976d0021ead86732cc53311"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_lab.py.log",
+      "bytes": 1200,
+      "sha256": "8e5beb32312ee3a39790d0284e7178ce39fb40e2603bda9739d0a17e2b6dcd40"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_learning.py.log",
+      "bytes": 1866,
+      "sha256": "c3f443afea566b881dcd8a2b738d8eab2f39d4f0dccb8f0279cbe86c4ec2364d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_quality.py.log",
+      "bytes": 1484,
+      "sha256": "6c563affb43860bcb501d88e168108e9e1b91f08256bde4b6d0f3082643ed932"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_reading_quality.py.log",
+      "bytes": 736,
+      "sha256": "869dbaff9a64abc6fbc587245e48b289deb529123c4cec8a46c2b9be0a131c1e"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/qa-v7/test_readings.py.log",
+      "bytes": 1511,
+      "sha256": "50f0aae224dff93b064643e2bf778df350db97b4449ea3b70fca48b3e6a2356a"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/quality-test-results.json",
+      "bytes": 1953,
+      "sha256": "f29e8fc05ef8f223a72212b99fc4290ab01761afd0695679437691c10d4d480d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/reading-quality-results.json",
+      "bytes": 1012,
+      "sha256": "496ffed85ffc9d6f192f6b924864b35671fb25889ff2edd67cc5d1b5a4b2b751"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/reading-test-results.json",
+      "bytes": 1808,
+      "sha256": "17a8150d08bc468a17d6048194aa515340d933b8661fd96c69e452203756ef73"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/readings.css",
+      "bytes": 6402,
+      "sha256": "117afdca23a6d5219148d9ba6f3d0a854f534d3ff8f18b85045f487ad5c364d6"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/readings.js",
+      "bytes": 21346,
+      "sha256": "085ca6dafedf850d76b99f3297485f51fd57beedcec3ae47cd2fa9ee7ef7a95a"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/readings.json",
+      "bytes": 199990,
+      "sha256": "63f3c3b0bc3e4671e9d9a1cbcce57bc2fd6e9d7e3139fab5d9c7ee5bca09ec16"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/run_inherited_v7.py",
+      "bytes": 880,
+      "sha256": "54d4eb07e414716af0e348d311ba994e4d47dc6943fbc11b015c6c453c6aae41"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/course-key-terms.json",
+      "bytes": 26195,
+      "sha256": "134dedb72e8d94342785b8389f335869a0e7f55074fa56be95c2cff1188be226"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/readings/COURSE_LICENSE.txt",
+      "bytes": 727,
+      "sha256": "d0fe4d8fbbefd17f890ab7495e007f0bc59b3bd6d33af58379aa71ce54b29d0c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/readings/selected-source-excerpts.json",
+      "bytes": 71520,
+      "sha256": "1b5f6b9bf89960793599af71152a271c2c6fcb46aa5fa3f7be89226b85334e39"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/regression-baseline.json",
+      "bytes": 1171,
+      "sha256": "b3b92163033423cd154ac7bf299c60b97bdbc7c9dd872569879cbf21cdd6f62f"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/scope-evidence.json",
+      "bytes": 906,
+      "sha256": "25abb74052fe00b88006333f9ed539e3b2b00ee210b3804eacc2f85cd6db248e"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/v4-input-baseline.json",
+      "bytes": 178,
+      "sha256": "79a10ac554b9fc5b92517a3587237b1bd2c5520fa4868b974322459ba5dbab3f"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/v5-input-baseline.json",
+      "bytes": 591,
+      "sha256": "018eedf1f9a9060df3d1d4148344d108e6532fdc5abe3aabb2c2815a17236ca7"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/v6-input-baseline.json",
+      "bytes": 346,
+      "sha256": "abffa1d047c928eb6e574e9e3a0ca06f42581cffa5da9f5ad4da7a67e8f66e34"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/source/v7-input-baseline.json",
+      "bytes": 552,
+      "sha256": "0581a5129179761d9f2849a8bd3ed762f3d061495a227db9650708831a95690a"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/template.html",
+      "bytes": 4622,
+      "sha256": "040152e07803c52ef1dec95d9f8591247a00a4dd3c59543568db08b20252a2f8"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test-results.json",
+      "bytes": 1531,
+      "sha256": "53de44e656f18e1fe2595dccb23a306b4c715de623f46045ec79fdad25ed309c"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_cases.py",
+      "bytes": 14614,
+      "sha256": "77caef6b8dd3fb7544943406c173d3db09f358e4c2c317f32a8c62ca2ef7f479"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_companion.py",
+      "bytes": 13591,
+      "sha256": "62d06160865c6bb109f80e0de63e2823faaceb98621b8d6ab8fbf5d82aa1a476"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_compass_guards.py",
+      "bytes": 3658,
+      "sha256": "3f2f19e1bf07d230f0b4dcb1307cee7604a78f5a55e38d6bb2ea679119b1576d"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_compass_tick1.py",
+      "bytes": 5721,
+      "sha256": "986dfca87a328f13cb31a0d0b0e44a78b645a68b63315dbf35afd0bbf9099ed6"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_compass_tick2.py",
+      "bytes": 10112,
+      "sha256": "72b3da75e7e09af5e411bc8ed6b97d4c29734fe17ba9d6524bcfb996c7473afc"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_compass_visual.py",
+      "bytes": 3114,
+      "sha256": "77e475e8d7d8be7e15c0d450162f25bae804341c43eab1766265f78f1c26f8bf"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_edges.py",
+      "bytes": 2973,
+      "sha256": "18f40145f8755f95c944790bfd9c55fac8e099500f80f3535e3f13dc0c1ae43b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_file_origin.py",
+      "bytes": 1682,
+      "sha256": "60e81c18cb72604c6ad212489c62069084ea93063ec341db3221e66b31493a25"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_lab.py",
+      "bytes": 12517,
+      "sha256": "44f8505878f7277fa2698ec1ce7d1df354174e5eca874149b1504ac046732c2a"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_learning.py",
+      "bytes": 14049,
+      "sha256": "c993fdbc5482dd587ccb3cbdd58e8adba71bda3235ec75a238ba642dff9a9ff1"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_quality.py",
+      "bytes": 12687,
+      "sha256": "70e06166e6203269fbcd1eb93f8f7a1688a8d4adc6ae2ae77a6259352905ad8b"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_reading_quality.py",
+      "bytes": 6326,
+      "sha256": "bc335272a0cccc2a96ff0b1d2cae68c29d9b404ac5bbc5b738944cdd4d8718b4"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/test_readings.py",
+      "bytes": 11313,
+      "sha256": "9c84f27ae16d17e1cf15f5b38d1ab08b5067968c152f81d161c749ff4c9c5eb3"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/tick1-test-results.json",
+      "bytes": 987,
+      "sha256": "d44481c4a632baf701239ac6ee40efc7582dde8e2466fd12c79b65984c76ab36"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/tick2-test-results.json",
+      "bytes": 1434,
+      "sha256": "0184043a63d0fc335f391161abb484603788e869a9551a60730cd8f2f845dcb5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/validate_companion.py",
+      "bytes": 1779,
+      "sha256": "8ece323c3f2bedd7b2bb5679f5c56db9cd06ae55691232d13e9451432d6d7ca5"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/validate_compass.py",
+      "bytes": 2226,
+      "sha256": "5543e06515747b5cb37b6dbb32453d2f41d14deb951633346d29e83815e236f6"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/validate_content.py",
+      "bytes": 4474,
+      "sha256": "c604447323e7b4efb55e853b83674e0c8f85ef124a8a98682ff31c0aa682e208"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/validate_learning.py",
+      "bytes": 1767,
+      "sha256": "d5bd26543b2195d9dc7182c0d043c0b8805046723275565317d7d13e1f506b35"
+    },
+    {
+      "path": "30-modules/174.2-bioethics/source/validate_readings.py",
+      "bytes": 2972,
+      "sha256": "702695e18dd062b9370ff516dc41ec2e146d66d8d87212b637b67acbb7b9c15e"
+    },
+    {
+      "path": "30-modules/chem-1117-f2026/module.manifest.json",
+      "bytes": 400,
+      "sha256": "63176293ea2019305b57786f6ac012478bf8ed663fef271aeaba6735f727c62f"
+    },
+    {
+      "path": "30-modules/chem-1117-f2026/source/app.js",
+      "bytes": 28166,
+      "sha256": "0274c5576b0b686226dcb439271929ae16439c6c0fe7688e221761f55f751225"
+    },
+    {
+      "path": "30-modules/chem-1117-f2026/source/build-info.json",
+      "bytes": 244,
+      "sha256": "677cbdc998e3b94d884867d68e1156b5fd68bc1c419b9a55cef505beb4fd46e3"
+    },
+    {
+      "path": "30-modules/chem-1117-f2026/source/content.json",
+      "bytes": 24506,
+      "sha256": "93e600a67c85566de0d7a3f377543177f9b3989f5081e435c56e2af289364d04"
+    },
+    {
+      "path": "30-modules/chem-1117-f2026/source/style.css",
+      "bytes": 8410,
+      "sha256": "89fb1553254ae14efbb2e9ffa4b9677e58d97e3f67ac4da077d2ec44e6948790"
+    },
+    {
+      "path": "30-modules/chem-1117-f2026/source/template.html",
+      "bytes": 3494,
+      "sha256": "0de2f0cc9b870d3956d100ccc53df1e69a042ad454d2133d2007f325b41b151e"
+    },
+    {
+      "path": "50-validation/README.md",
+      "bytes": 2015,
+      "sha256": "2c1b7033a7fd63fb02a311347211fa996f593b1c4c396e5687814345251a161c"
+    },
+    {
+      "path": "60-integration/Lumi_OS/README.md",
+      "bytes": 1201,
+      "sha256": "59d47694c2fc48a1dcd6923682b2756ac69046fb300476e2347342c4a7530693"
+    },
+    {
+      "path": "CHEMISTRY_PASS_REPORT.md",
+      "bytes": 7639,
+      "sha256": "3b8deb9c2e445c4c058d1d6bc09f160b7e76109c83b6896442dd5ef42cceb836"
+    },
+    {
+      "path": "CHEMISTRY_START_HERE.md",
+      "bytes": 5349,
+      "sha256": "3330ed7d85bae35916269e07fa61baabea9929c32831805e1d7c62c9d043d8ed"
+    },
+    {
+      "path": "CONSOLIDATION_REPORT.md",
+      "bytes": 10349,
+      "sha256": "a9ae3c5ee845a84e34e5548a785c16c28f2b1cc859436dc810dc4f36e68ef844"
+    },
+    {
+      "path": "Check-Original.cmd",
+      "bytes": 524,
+      "sha256": "4cb42c0fe8d1ab7f00f24f60e44fc6ec8f4a19e6fae1bab1b468c63db75a6b71"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "bytes": 1465,
+      "sha256": "6e124dea6f9955812156b862d54de36f212b614e2e56db19584d2de36c83031f"
+    },
+    {
+      "path": "Launch-Chemistry.cmd",
+      "bytes": 553,
+      "sha256": "fbd4c8e2473e1b4ce78b6bb48603ea7bffab2be72b32dc196383c7e2ea493a31"
+    },
+    {
+      "path": "Launch-Lab.cmd",
+      "bytes": 541,
+      "sha256": "bb0a8ad14b5f4d8beee6ee01c43303da9a37a45c881f318b8b802811970a99ed"
+    },
+    {
+      "path": "Launch-Teaching-Room.cmd",
+      "bytes": 531,
+      "sha256": "ab7ad985f57e5403ca46054a2681ea32f0a831e86aa90ad6c5f5297004ab244b"
+    },
+    {
+      "path": "Open-Save-Check.cmd",
+      "bytes": 555,
+      "sha256": "5b8df45d953ffd564b22af25e207b88363552b1d22d66314807869bec13137f9"
+    },
+    {
+      "path": "PACKAGE_INFO.json",
+      "bytes": 711,
+      "sha256": "81f64fbfe3e0edf8c82e608fbe6da6f38832831434d9525d71f464266f997171"
+    },
+    {
+      "path": "PRESERVATION_MANIFEST.json",
+      "bytes": 175426,
+      "sha256": "10938b7d086ebc31b21fd87a70bfc0c62abc652a098ca587349c34a0dc3b9e3a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1138,
+      "sha256": "cce09af0b93f3b1d51cd7959df312518476d51643cfb1f2827805498e3714558"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 364,
+      "sha256": "41058a9979df63a79c5bdd9217d46b351dc44e6a7940229aa3087d01c6a97a63"
+    },
+    {
+      "path": "Stage-Chemistry.cmd",
+      "bytes": 799,
+      "sha256": "679312ac541f880bcf1f9524ae659e8c62f772090348e20bc7caec0c21d2e88c"
+    },
+    {
+      "path": "Stage-Source.cmd",
+      "bytes": 515,
+      "sha256": "89d8aebb8e4fb4912e785b796a3e94566c5818fc812a2944afbef1dc6f459125"
+    },
+    {
+      "path": "Update-Lab.cmd",
+      "bytes": 545,
+      "sha256": "101a48b970f75f2946c5854f39030eedee525ae3ef0c9499c648b0d8dd1c9503"
+    },
+    {
+      "path": "VERIFICATION.json",
+      "bytes": 958,
+      "sha256": "7358a64d81c3b136549acbb9e6be1b351401b6c012f81cb819f3d1a49c89ab5f"
+    },
+    {
+      "path": "Verify-Room.cmd",
+      "bytes": 516,
+      "sha256": "1a7ca4df27e68abdda028a1dad1ff5273e9a955b8b3608df30b459e8561e867c"
+    },
+    {
+      "path": "evidence/archive-format-check.json",
+      "bytes": 191,
+      "sha256": "e4b80b31a8a9106c02a07a4599495de6fd658ef6683601356be54846a21d4113"
+    },
+    {
+      "path": "evidence/assembly-run.log",
+      "bytes": 2685,
+      "sha256": "2279c1ff9d1bd024eac6a51910732d59ad79cab881ef3526557b56e9221be84f"
+    },
+    {
+      "path": "evidence/chemistry/archive-font-check.json",
+      "bytes": 62,
+      "sha256": "5bb1f5dc604f07b24e717a98e1f5809f5c198f541942150109d24ac15baaf116"
+    },
+    {
+      "path": "evidence/chemistry/assembly-input-preservation.json",
+      "bytes": 65853,
+      "sha256": "4aefde803b650f4fb1117e5a949be4645ad0f4ff4f0569ef74020d283bf0ce8f"
+    },
+    {
+      "path": "evidence/chemistry/chemistry-desktop.png",
+      "bytes": 188036,
+      "sha256": "1183632a6e461526cb48282186f5c38f06fdfe12918803ffef151cc27628a0de"
+    },
+    {
+      "path": "evidence/chemistry/chemistry-host-run.log",
+      "bytes": 622,
+      "sha256": "f14919b3f306d6ce75e760a75183e28f7132437baa2bd1a19f185b614639cb6b"
+    },
+    {
+      "path": "evidence/chemistry/chemistry-mobile-writing.png",
+      "bytes": 76195,
+      "sha256": "c3abd45265048098bde7816a97837b784f1f67ebd005dc99f59f34cda8c29183"
+    },
+    {
+      "path": "evidence/chemistry/chemistry-mobile.png",
+      "bytes": 85020,
+      "sha256": "dd869ea3406ae58e5767b350959925d44554bdfe0f762c5fb95ecbb0cd823af2"
+    },
+    {
+      "path": "evidence/chemistry/deterministic-build.json",
+      "bytes": 289,
+      "sha256": "a4abd228756786947644bf0eee7c072655f7bf6c0971b6189430641158122eb3"
+    },
+    {
+      "path": "evidence/chemistry/existing-host-run.log",
+      "bytes": 1947,
+      "sha256": "a41a7545752bea5a26999ff1f4269f9b8b9b2cdee2f2d39304ae53e616b867c6"
+    },
+    {
+      "path": "evidence/chemistry/existing-room-run.log",
+      "bytes": 2685,
+      "sha256": "340ead902549aa2e6dd01d1a7cb41e10141e2b4ed1b17af7bca0105a71a481ba"
+    },
+    {
+      "path": "evidence/chemistry/focus-results.json",
+      "bytes": 214,
+      "sha256": "57c46eadeaecab556bf692c41a7983421cfa5f396a94a98f3c3cd1df7db96a6c"
+    },
+    {
+      "path": "evidence/chemistry/native-browser.json",
+      "bytes": 216,
+      "sha256": "d854cf3df83df7ff0ddd7a28998ddcc1010a4c156a6bee9a504ee9cda3d28144"
+    },
+    {
+      "path": "evidence/chemistry/portal-run.log",
+      "bytes": 324,
+      "sha256": "ef1c03df947f69550bc2bcbc4ccff41eed409da500c2973e13293553b1f8a0ab"
+    },
+    {
+      "path": "evidence/chemistry/preservation.json",
+      "bytes": 597,
+      "sha256": "8e44eb95b2872ea0066ddbd9b564bb9d050b8142a6ab62ada5e08e75979b1a16"
+    },
+    {
+      "path": "evidence/chemistry/ui-results.json",
+      "bytes": 1845,
+      "sha256": "ddec42658dd2f8a7cdc981e3c8d5d88eb9d3f93759cca5c6583695aa61f13367"
+    },
+    {
+      "path": "evidence/chemistry/ui-run.log",
+      "bytes": 1803,
+      "sha256": "b45a98b3355f003a9017019ef48e4191cf8a323aab6f1ac9bd0d795154680ade"
+    },
+    {
+      "path": "evidence/deterministic-room-build.json",
+      "bytes": 184,
+      "sha256": "581df343e962a28fdf9ca705f2750b24b83ce1fa76be48fb4195457f0f8926cb"
+    },
+    {
+      "path": "evidence/native-room-browser.json",
+      "bytes": 283,
+      "sha256": "9c1763afe6f1220117cf89351b75b35125e54c4a46acc3b4b1adffdf01883274"
+    },
+    {
+      "path": "evidence/preservation-check.json",
+      "bytes": 597,
+      "sha256": "8da0a3ab70bc5ff9ce7e9ad849fb3d46ed06164554c460c5e4ad2210eefb8d2d"
+    },
+    {
+      "path": "evidence/regressions/case-test-results.json",
+      "bytes": 2188,
+      "sha256": "568d2d2963d82c338e9da3b54c81be7e6b5b43dde485f387a839e85e8b597002"
+    },
+    {
+      "path": "evidence/regressions/companion-test-results.json",
+      "bytes": 2105,
+      "sha256": "98d07d91116cd6c2affa916e69d848029050bff7f3889ad9a979a5456a3bded9"
+    },
+    {
+      "path": "evidence/regressions/compass-guard-results.json",
+      "bytes": 636,
+      "sha256": "5846f7820dfbc18865850b76c73074d2b47869ab1760f1527bf935a2ac58c790"
+    },
+    {
+      "path": "evidence/regressions/compass-visual-results.json",
+      "bytes": 295,
+      "sha256": "a06d60efd373e89c840ea936ade86679888627c73415fbd34f76d66085eccea4"
+    },
+    {
+      "path": "evidence/regressions/edge-test-results.json",
+      "bytes": 634,
+      "sha256": "7bd9a712f8c36583113842f3ceee6d7e0f5e8215b97362bbde60cbf847c50bba"
+    },
+    {
+      "path": "evidence/regressions/learning-test-results.json",
+      "bytes": 2139,
+      "sha256": "6544b12054e18cba596be748c312ba56bf2013b7d995a18f4ee7d2c1f0bb97a2"
+    },
+    {
+      "path": "evidence/regressions/quality-test-results.json",
+      "bytes": 1953,
+      "sha256": "f29e8fc05ef8f223a72212b99fc4290ab01761afd0695679437691c10d4d480d"
+    },
+    {
+      "path": "evidence/regressions/reading-quality-results.json",
+      "bytes": 1012,
+      "sha256": "496ffed85ffc9d6f192f6b924864b35671fb25889ff2edd67cc5d1b5a4b2b751"
+    },
+    {
+      "path": "evidence/regressions/reading-test-results.json",
+      "bytes": 1808,
+      "sha256": "17a8150d08bc468a17d6048194aa515340d933b8661fd96c69e452203756ef73"
+    },
+    {
+      "path": "evidence/regressions/run.json",
+      "bytes": 740,
+      "sha256": "4bc0a6e7639c86485fe0a760b6087bf38a0e98eb932ae613d1935b327e621474"
+    },
+    {
+      "path": "evidence/regressions/summary.json",
+      "bytes": 1134,
+      "sha256": "4253260c7b70784237d337ab2b625b7403659a58da41e94d606dd125210c9e34"
+    },
+    {
+      "path": "evidence/regressions/test-results.json",
+      "bytes": 1531,
+      "sha256": "53de44e656f18e1fe2595dccb23a306b4c715de623f46045ec79fdad25ed309c"
+    },
+    {
+      "path": "evidence/regressions/test_cases.py.log",
+      "bytes": 1885,
+      "sha256": "94602d669afcffa3f2dce33c1218409a0304be032ce0af13c4f62f1723bed53a"
+    },
+    {
+      "path": "evidence/regressions/test_companion.py.log",
+      "bytes": 3902,
+      "sha256": "9eec9d415c27db1a377b864fa26e02266fbd7db33ca5b6baf762cbf44aa20c80"
+    },
+    {
+      "path": "evidence/regressions/test_compass_guards.py.log",
+      "bytes": 384,
+      "sha256": "53d7974656940367ad921b02776073c49d0f03fd5aa21c380e34629d1f9521b3"
+    },
+    {
+      "path": "evidence/regressions/test_compass_tick1.py.log",
+      "bytes": 776,
+      "sha256": "d0484d1d713b4e27f3cc9059da2ac03eaff33656545ad29cc4f76aa281f852d7"
+    },
+    {
+      "path": "evidence/regressions/test_compass_tick2.py.log",
+      "bytes": 1217,
+      "sha256": "24766300cf4357a2708eee1e7212bec8c980b6eb0cd9d9e31708f3dc4909ba9d"
+    },
+    {
+      "path": "evidence/regressions/test_compass_visual.py.log",
+      "bytes": 305,
+      "sha256": "68afa342ab9a91d40dfa11010e8626cba23f684ab8da5ad9b18f6fd989d4a0b2"
+    },
+    {
+      "path": "evidence/regressions/test_edges.py.log",
+      "bytes": 366,
+      "sha256": "8b0de4959ced0e4b41d4fd5d449200e9e2e48711afd45d1bd2482f84503009f9"
+    },
+    {
+      "path": "evidence/regressions/test_lab.py.log",
+      "bytes": 1199,
+      "sha256": "25649531783649d60fecaa31df106f0f7d08c948c57a5c30e75519316dab6ad5"
+    },
+    {
+      "path": "evidence/regressions/test_learning.py.log",
+      "bytes": 1865,
+      "sha256": "c28f6d5af34f61740a037347a1b1e02c2e46ed1e781fa786c23a799e17dbc50d"
+    },
+    {
+      "path": "evidence/regressions/test_quality.py.log",
+      "bytes": 1483,
+      "sha256": "0087faf1ee8e7b8d20a4341d73b73b89338182c8d2552c057777be2bfd0f013a"
+    },
+    {
+      "path": "evidence/regressions/test_reading_quality.py.log",
+      "bytes": 735,
+      "sha256": "32b7f91f9057b8bb5124d1db28053c336762f7aef14f2b8f9cc2c0c5631b3b48"
+    },
+    {
+      "path": "evidence/regressions/test_readings.py.log",
+      "bytes": 1510,
+      "sha256": "215f47d170f0444f1e143460671242db1e47d2ea48e677189c8a75729165da59"
+    },
+    {
+      "path": "evidence/regressions/tick1-test-results.json",
+      "bytes": 987,
+      "sha256": "d44481c4a632baf701239ac6ee40efc7582dde8e2466fd12c79b65984c76ab36"
+    },
+    {
+      "path": "evidence/regressions/tick2-test-results.json",
+      "bytes": 1434,
+      "sha256": "0184043a63d0fc335f391161abb484603788e869a9551a60730cd8f2f845dcb5"
+    },
+    {
+      "path": "evidence/room-desktop.png",
+      "bytes": 170066,
+      "sha256": "45017ba6a862164cb5d46103d283d1438c9240a4cd76ead1d4fcb7bf1eb07f95"
+    },
+    {
+      "path": "evidence/room-mobile.png",
+      "bytes": 345547,
+      "sha256": "228897efe8c9dc951347b675a6357e9b306bed0fe93f0f80272b7d2d0fe67eb7"
+    },
+    {
+      "path": "evidence/room-tests.json",
+      "bytes": 149,
+      "sha256": "f459c95b6966c5e8c2779f5366cce89319155ef2c0a217741a953c06d27b7a74"
+    },
+    {
+      "path": "evidence/room-toolkit.png",
+      "bytes": 146381,
+      "sha256": "aa1e5399e5d1ae681bab21fcc141d231cd3f4eea9218a7ad90bb86ef84ab6614"
+    },
+    {
+      "path": "evidence/room-ui.json",
+      "bytes": 782,
+      "sha256": "a243cacb92fc7b0450e83bfbd1d27b15c82fc4768565c95c4a0f54607c436328"
+    },
+    {
+      "path": "evidence/server-tests.json",
+      "bytes": 247,
+      "sha256": "05d4ea0ab05f4cadcd4e6ae6abd26136e50a614ca8e35f6a3e3723c34a9d9a44"
+    },
+    {
+      "path": "evidence/stable-host-run.log",
+      "bytes": 1947,
+      "sha256": "045a763d50dcbab2c3a6ea2f8105c9648cf1fd61fc499450a4ad7c71c74a75b7"
+    },
+    {
+      "path": "room_tools.py",
+      "bytes": 12162,
+      "sha256": "7df717b31e6b1034428842132f37d609d84729742e956bf8229e75bc761defa4"
+    },
+    {
+      "path": "scripts/build_chemistry.py",
+      "bytes": 1685,
+      "sha256": "5ae76f4751747e8dfb9021a601ef99861b56d9c5dd63cf17ad85d3ba6bbd5a46"
+    },
+    {
+      "path": "scripts/build_room.py",
+      "bytes": 24555,
+      "sha256": "be96d3bbef2b1420cdea69605ba64a69e8d67dfc3b406a55a0363c562d0a3cfb"
+    },
+    {
+      "path": "serve_lab.py",
+      "bytes": 12343,
+      "sha256": "a3c501559c0e88884ec098d09ad0906726370134bb98dd5c0a2cf23d29461c79"
+    },
+    {
+      "path": "tests/check_chemistry_focus.py",
+      "bytes": 1365,
+      "sha256": "660fdec595e7b0eb56d26d76d3e2de8d6adc4fbd920ab89206cbf5a3e3021132"
+    },
+    {
+      "path": "tests/check_room_ui.py",
+      "bytes": 5142,
+      "sha256": "a4b4358354db594fa0d8cea7c7e3c44dd7755a98d15d8c13832345a646d23aaf"
+    },
+    {
+      "path": "tests/stable_original/check_diagnostic_ui.py",
+      "bytes": 1831,
+      "sha256": "fb08e1258f91e40aefc5fea76ab24b637a4740caa778cca50225438f55be48b2"
+    },
+    {
+      "path": "tests/stable_original/diagnostics-script.js",
+      "bytes": 5696,
+      "sha256": "780d5d694b0000616fbd0a6c4c90c425a006590838bc0fa52dbc6a40bb024b3d"
+    },
+    {
+      "path": "tests/stable_original/test_local_host.py",
+      "bytes": 6101,
+      "sha256": "d7f90c344f93d01f3b917a07ca81e8e7dcb43673d4a2dbb48e0c0a3d0b34d330"
+    },
+    {
+      "path": "tests/stable_original/verify_native_browser.py",
+      "bytes": 7700,
+      "sha256": "baaa642cf1cd259043839facd2245aec314684375c89ebff7d34120f64933f96"
+    },
+    {
+      "path": "tests/test_chemistry.py",
+      "bytes": 12666,
+      "sha256": "b0730e8bf7e4964ded38bc3aa71f05cf6e17f28f7b6035b583bcde098678855c"
+    },
+    {
+      "path": "tests/test_chemistry_host.py",
+      "bytes": 2143,
+      "sha256": "365a746f8346d3b6e86b41faef9e5b43fb470973eb83943776d2c76ddf92e592"
+    },
+    {
+      "path": "tests/test_local_host.py",
+      "bytes": 6101,
+      "sha256": "d7f90c344f93d01f3b917a07ca81e8e7dcb43673d4a2dbb48e0c0a3d0b34d330"
+    },
+    {
+      "path": "tests/test_room.py",
+      "bytes": 8828,
+      "sha256": "ad9d1330586d850bbc8e1489512209d7f0c0a7326619039cca5ca3a720bf8138"
+    },
+    {
+      "path": "update_lab.py",
+      "bytes": 3683,
+      "sha256": "0483bdcff57ce267be5148f10a7c70061850c46752b21d3b36c3640c0e4a54db"
+    },
+    {
+      "path": "web/chemistry.html",
+      "bytes": 60635,
+      "sha256": "8b68f8e228409fdc67b6a929be003b8092fae2b25e4920bd820db98c751981b6"
+    },
+    {
+      "path": "web/diagnostics.html",
+      "bytes": 12793,
+      "sha256": "2edaa8f474f6a7f747c8136561cab1cdda1ed6b6ce8fa72d4a646950fb7bb4cf"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 757463,
+      "sha256": "bb4410480b38bbd05a4ca3816d63f07829ec17f0c3099e8cb3b1a7a8882afbf7"
+    },
+    {
+      "path": "web/room.html",
+      "bytes": 33316,
+      "sha256": "bfa9855975a7c924de4bdc275a61ed78003b47c2dfc0a190d5dcf26fba9d6caf"
+    }
+  ]
+}

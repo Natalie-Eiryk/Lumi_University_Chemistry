@@ -1,0 +1,42 @@
+{
+  "storyId": "ADV-CHEM-LOOM-001",
+  "version": "0.1.0",
+  "status": "editorial_draft",
+  "sourceFolder": "C:/Users/hauge/OneDrive/Documents/ChatGPT - School & Legal/nursing school/Chem_1117_F2026/ms luminara 1",
+  "canonicalBody": "01_THE_ADVENTURE.md",
+  "renderCache": "READER.html",
+  "inputs": [
+    {
+      "name": "01_THE_ADVENTURE.md",
+      "sha256": "c502934d7a89e40c42ab8f4bc1a47f2f941fb1e99fbee61bafca6b0dbcf27b4e",
+      "bytes": 68540
+    },
+    {
+      "name": "02_SOURCE_AND_ACTIVITY_MAP.md",
+      "sha256": "69a7169d73749b7a4d500dc2a9150a0f1f2d4cd3c73a37698b24dc685957c7e8",
+      "bytes": 16136
+    },
+    {
+      "name": "03_CODEX_INTEGRATION_HANDOFF.md",
+      "sha256": "d4c7fe48407f5528242ea0ca4564be686da634120a0533a810039df1efc83d49",
+      "bytes": 7567
+    },
+    {
+      "name": "05_CARRY_HOME_REFERENCE.md",
+      "sha256": "09cd7edc8e341b69a87f1f13dc91c1c6a4a7de1f4dea9a5c2f9816f2d9a93d72",
+      "bytes": 5013
+    },
+    {
+      "name": "READER.html",
+      "sha256": "eb6a9758b4c771e990ae2d9749277f73969f0c0f8271a6d50a09c8a759056906",
+      "bytes": 141991
+    }
+  ],
+  "missing": [
+    "00_START_HERE.md",
+    "04_SOURCES_LIMITS_AND_REVIEW.md",
+    "QA_REPORT.json"
+  ],
+  "publicDeployment": false,
+  "canonPromotion": false
+}

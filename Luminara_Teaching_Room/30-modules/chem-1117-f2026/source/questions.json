@@ -1,0 +1,3379 @@
+{
+  "schema": "luminara-chemistry-questions/1",
+  "version": 1,
+  "conversions": "Conversions for these practice problems: 1 in = 2.54 cm; 1 ft = 12 in; 1 mi = 5280 ft; 1 lb = 0.45359237 kg; 1 US qt = 0.946352946 L; 1 US gal = 4 US qt; 1 oz (mass) = 1/16 lb. Where used, a practice teaspoon is 5 mL and tablespoon 15 mL. Use 365 days/year and 52 weeks/year when specified. These are authored study problems, not instructions for medication or laboratory work.",
+  "sets": [
+    {
+      "id": "source-01",
+      "title": "Annotated safety lab",
+      "filename": "01 Laboratory Safety 2024 - haugen.pdf",
+      "sha256": "9a763667ab25d6a3d336029a81a18e0a14eca26abc772db0a6604c830c4d8ec8",
+      "kind": "worksheet",
+      "sourceGroups": 17,
+      "note": "Eight safe-practice slots, eight unsafe-practice slots, and one story exercise. New written scenarios replace the cartoon. Name/date and video-completion attestations are excluded.",
+      "questions": [
+        {
+          "id": "source-01-q1",
+          "label": "1",
+          "prompt": "Goggles stay on while a student works with a splash hazard. Explain what the goggles protect.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q2",
+          "label": "2",
+          "prompt": "Long hair is tied back before approaching a burner. Explain the hazard reduced.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q3",
+          "label": "3",
+          "prompt": "A student locates the eyewash before starting. Explain why advance preparation matters.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q4",
+          "label": "4",
+          "prompt": "A broken beaker is reported and the instructor handles cleanup. Explain why the student should not pick up shards by hand.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q5",
+          "label": "5",
+          "prompt": "A student reads the whole procedure before collecting materials. Explain how this changes preparation.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q6",
+          "label": "6",
+          "prompt": "A heated test tube is held with its opening directed away from everyone. Explain the protection this provides.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q7",
+          "label": "7",
+          "prompt": "A spill is reported immediately and the area is kept clear. Explain why reporting matters even for a small spill.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q8",
+          "label": "8",
+          "prompt": "Hands are washed after completing the activity. Explain what this prevents.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q9",
+          "label": "9",
+          "prompt": "A drink sits beside reagents. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q10",
+          "label": "10",
+          "prompt": "A student tastes an unknown liquid. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q11",
+          "label": "11",
+          "prompt": "An open reagent bottle is carried while running. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q12",
+          "label": "12",
+          "prompt": "A student reaches across a flame. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q13",
+          "label": "13",
+          "prompt": "A cracked test tube is used for heating. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q14",
+          "label": "14",
+          "prompt": "Two students startle each other near hot equipment. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q15",
+          "label": "15",
+          "prompt": "A burner is left operating at an unattended station. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q16",
+          "label": "16",
+          "prompt": "An unapproved chemical mixture is made out of curiosity. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-01-q17",
+          "label": "Story",
+          "prompt": "A team skips the instructions and goggles. One person reaches across a flame and points a hot test tube at a partner. Another tastes an unknown liquid, mixes unapproved reagents, leaves bottles open, and walks away from a lit burner. A spill and a cut are not reported. A cracked beaker is reused; paper is left beside the flame. The team leaves without cleaning up or washing hands. Identify the broken rules and explain a correction for each.",
+          "fields": [
+            "Hazards, corrections, and your total count"
+          ],
+          "hint": "Review preparation, eye protection, heating, unknown chemicals, supervision, reporting, glassware, housekeeping and handwashing. Count separately only when you can explain distinct hazards; the count alone is not a grade."
+        }
+      ],
+      "questionCount": 17,
+      "answerFields": 17
+    },
+    {
+      "id": "source-02",
+      "title": "Safety lab · unfilled",
+      "filename": "01 Laboratory Safety 2024.pdf",
+      "sha256": "42dcc57c7e327a94c90cf5dfe84274985a28c163ab6a1bc58d40398a510bd39c",
+      "kind": "worksheet",
+      "sourceGroups": 17,
+      "note": "Same 17 response prompts as the annotated safety version, with a separate practice record. The cartoon is replaced by written scenarios; administrative/video attestations are excluded.",
+      "questions": [
+        {
+          "id": "source-02-q1",
+          "label": "1",
+          "prompt": "Goggles stay on while a student works with a splash hazard. Explain what the goggles protect.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q2",
+          "label": "2",
+          "prompt": "Long hair is tied back before approaching a burner. Explain the hazard reduced.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q3",
+          "label": "3",
+          "prompt": "A student locates the eyewash before starting. Explain why advance preparation matters.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q4",
+          "label": "4",
+          "prompt": "A broken beaker is reported and the instructor handles cleanup. Explain why the student should not pick up shards by hand.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q5",
+          "label": "5",
+          "prompt": "A student reads the whole procedure before collecting materials. Explain how this changes preparation.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q6",
+          "label": "6",
+          "prompt": "A heated test tube is held with its opening directed away from everyone. Explain the protection this provides.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q7",
+          "label": "7",
+          "prompt": "A spill is reported immediately and the area is kept clear. Explain why reporting matters even for a small spill.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q8",
+          "label": "8",
+          "prompt": "Hands are washed after completing the activity. Explain what this prevents.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q9",
+          "label": "9",
+          "prompt": "A drink sits beside reagents. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q10",
+          "label": "10",
+          "prompt": "A student tastes an unknown liquid. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q11",
+          "label": "11",
+          "prompt": "An open reagent bottle is carried while running. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q12",
+          "label": "12",
+          "prompt": "A student reaches across a flame. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q13",
+          "label": "13",
+          "prompt": "A cracked test tube is used for heating. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q14",
+          "label": "14",
+          "prompt": "Two students startle each other near hot equipment. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q15",
+          "label": "15",
+          "prompt": "A burner is left operating at an unattended station. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q16",
+          "label": "16",
+          "prompt": "An unapproved chemical mixture is made out of curiosity. Identify the risk and a correction.",
+          "fields": [
+            "Explanation and safe practice"
+          ],
+          "hint": "Explain the specific hazard and the protective action. Follow your instructor’s procedures; this exercise does not certify lab readiness."
+        },
+        {
+          "id": "source-02-q17",
+          "label": "Story",
+          "prompt": "A team skips the instructions and goggles. One person reaches across a flame and points a hot test tube at a partner. Another tastes an unknown liquid, mixes unapproved reagents, leaves bottles open, and walks away from a lit burner. A spill and a cut are not reported. A cracked beaker is reused; paper is left beside the flame. The team leaves without cleaning up or washing hands. Identify the broken rules and explain a correction for each.",
+          "fields": [
+            "Hazards, corrections, and your total count"
+          ],
+          "hint": "Review preparation, eye protection, heating, unknown chemicals, supervision, reporting, glassware, housekeeping and handwashing. Count separately only when you can explain distinct hazards; the count alone is not a grade."
+        }
+      ],
+      "questionCount": 17,
+      "answerFields": 17
+    },
+    {
+      "id": "source-03",
+      "title": "Fun with Polymers",
+      "filename": "03 Polymer Lab Data Sheet 2024.pdf",
+      "sha256": "dc1f310fee8aa7d74268eaabc051005a154639148b8f5d6d2b19c2ae7c7ee83c",
+      "kind": "observation",
+      "sourceGroups": 3,
+      "note": "The laboratory data table has three ball rows and two columns. Procedures and the photo-submission instruction are not additional worksheet questions. Enter observations only if you made them; otherwise label a prediction.",
+      "questions": [
+        {
+          "id": "source-03-q1",
+          "label": "Ball 1",
+          "prompt": "For polymer ball 1, describe its observable properties and record bounce height with units. If you have not performed the supervised activity, write “prediction” and explain what you would measure.",
+          "fields": [
+            "Physical observations or labeled prediction",
+            "Bounce height with unit, or labeled prediction"
+          ],
+          "hint": "Keep observed data separate from predictions. Record the release height, surface and measurement method in your reasoning so trials can be compared. No measurement is supplied or fabricated."
+        },
+        {
+          "id": "source-03-q2",
+          "label": "Ball 2",
+          "prompt": "For polymer ball 2, describe its observable properties and record bounce height with units. If you have not performed the supervised activity, write “prediction” and explain what you would measure.",
+          "fields": [
+            "Physical observations or labeled prediction",
+            "Bounce height with unit, or labeled prediction"
+          ],
+          "hint": "Keep observed data separate from predictions. Record the release height, surface and measurement method in your reasoning so trials can be compared. No measurement is supplied or fabricated."
+        },
+        {
+          "id": "source-03-q3",
+          "label": "Ball 3",
+          "prompt": "For polymer ball 3, describe its observable properties and record bounce height with units. If you have not performed the supervised activity, write “prediction” and explain what you would measure.",
+          "fields": [
+            "Physical observations or labeled prediction",
+            "Bounce height with unit, or labeled prediction"
+          ],
+          "hint": "Keep observed data separate from predictions. Record the release height, surface and measurement method in your reasoning so trials can be compared. No measurement is supplied or fabricated."
+        }
+      ],
+      "questionCount": 3,
+      "answerFields": 6
+    },
+    {
+      "id": "source-04",
+      "title": "Q3 · scientific notation · blank",
+      "filename": "1117_20Q3_20Scientific_20Notation_202024_20-_20Copy.pdf",
+      "sha256": "2675f93b7cbb322cc39988844d9d95ad9d1f04c34c9a221c5e441d0ff7519a9e",
+      "kind": "worksheet",
+      "sourceGroups": 3,
+      "note": "Three printed sections: 8 notation prompts, 6 decimal prompts, and 6 calculations with two answer blanks each. Twenty prompts and 26 response fields.",
+      "questions": [
+        {
+          "id": "source-04-q1",
+          "label": "I.a",
+          "prompt": "Write 43.75 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q2",
+          "label": "I.b",
+          "prompt": "Write 0.000030 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q3",
+          "label": "I.c",
+          "prompt": "Write 60,230,000 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q4",
+          "label": "I.d",
+          "prompt": "Write 220 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q5",
+          "label": "I.e",
+          "prompt": "Write 4,000,100 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q6",
+          "label": "I.f",
+          "prompt": "Write 3300. in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q7",
+          "label": "I.g",
+          "prompt": "Write 0.000020 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q8",
+          "label": "I.h",
+          "prompt": "Write 0.08205 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-04-q9",
+          "label": "II.a",
+          "prompt": "Write 3.59 × 10^2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-04-q10",
+          "label": "II.b",
+          "prompt": "Write 6.00 × 10^-2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-04-q11",
+          "label": "II.c",
+          "prompt": "Write 4.376 × 10^8 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-04-q12",
+          "label": "II.d",
+          "prompt": "Write 4.32 × 10^-2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-04-q13",
+          "label": "II.e",
+          "prompt": "Write 4.0 × 10^2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-04-q14",
+          "label": "II.f",
+          "prompt": "Write 7.3750 × 10^-5 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-04-q15",
+          "label": "III.a",
+          "prompt": "Calculate (5 × 10^4)(1 × 10^2).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-04-q16",
+          "label": "III.b",
+          "prompt": "Calculate (5.4 × 10^2)(3.2 × 10^-3).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-04-q17",
+          "label": "III.c",
+          "prompt": "Calculate (4 × 10^6)/(1 × 10^2).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-04-q18",
+          "label": "III.d",
+          "prompt": "Calculate [(4.86 × 10^5)(5.24 × 10^-4)]/(2.2 × 10^3).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-04-q19",
+          "label": "III.e",
+          "prompt": "Calculate 13.6075 − 0.90.",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-04-q20",
+          "label": "III.f",
+          "prompt": "Calculate 13.2 + 138 + 0.0465.",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        }
+      ],
+      "questionCount": 20,
+      "answerFields": 26
+    },
+    {
+      "id": "source-05",
+      "title": "Q9 · electron configuration · blank",
+      "filename": "1117_20Q9_20Electron_20Configuration_20II_202024.pdf",
+      "sha256": "77640e17406a78e332ffcfeaa8946cc4a2a3ee89d47a403d8673c01db47cf2fd",
+      "kind": "worksheet",
+      "sourceGroups": 1,
+      "note": "One printed assignment, nine element rows, three representations per row: 27 response fields. Typed orbital boxes and dot positions replace paper drawings.",
+      "questions": [
+        {
+          "id": "source-05-q1",
+          "label": "Rb",
+          "prompt": "For neutral Rb, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q2",
+          "label": "Mg",
+          "prompt": "For neutral Mg, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q3",
+          "label": "Pd",
+          "prompt": "For neutral Pd, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q4",
+          "label": "P",
+          "prompt": "For neutral P, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q5",
+          "label": "Br",
+          "prompt": "For neutral Br, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q6",
+          "label": "Ra",
+          "prompt": "For neutral Ra, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q7",
+          "label": "Al",
+          "prompt": "For neutral Al, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q8",
+          "label": "Rn",
+          "prompt": "For neutral Rn, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-05-q9",
+          "label": "B",
+          "prompt": "For neutral B, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        }
+      ],
+      "questionCount": 9,
+      "answerFields": 27
+    },
+    {
+      "id": "source-06",
+      "title": "Significant digits · number record",
+      "filename": "Adobe Scan Sep 1, 2026.pdf",
+      "sha256": "40396f13bf141a59ea5d4d69e48ee557bf0a67c9da152c4d402478d81ca65915",
+      "kind": "worksheet",
+      "sourceGroups": 10,
+      "note": "Ten recorded numbers become ten significant-figure questions. Precision that is ambiguous in the original notation remains explicitly ambiguous.",
+      "questions": [
+        {
+          "id": "source-06-q1",
+          "label": "1",
+          "prompt": "How many significant figures are indicated by 148? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q2",
+          "label": "2",
+          "prompt": "How many significant figures are indicated by 2001? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q3",
+          "label": "3",
+          "prompt": "How many significant figures are indicated by 22,008? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q4",
+          "label": "4",
+          "prompt": "How many significant figures are indicated by 0.0018? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q5",
+          "label": "5",
+          "prompt": "How many significant figures are indicated by 2700? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q6",
+          "label": "6",
+          "prompt": "How many significant figures are indicated by 2700.0? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q7",
+          "label": "7",
+          "prompt": "How many significant figures are indicated by 4.0800 × 10^23? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q8",
+          "label": "8",
+          "prompt": "How many significant figures are indicated by 128,400? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q9",
+          "label": "9",
+          "prompt": "How many significant figures are indicated by 25.30? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        },
+        {
+          "id": "source-06-q10",
+          "label": "10",
+          "prompt": "How many significant figures are indicated by 0.0002900? If the notation is ambiguous, give the minimum certain count and explain.",
+          "fields": [
+            "Count and explanation"
+          ],
+          "hint": "Leading zeros locate the decimal point. Interior zeros count. Trailing zeros after a decimal point count. A whole number ending in unmarked zeros may need an explicit precision statement."
+        }
+      ],
+      "questionCount": 10,
+      "answerFields": 10
+    },
+    {
+      "id": "source-07",
+      "title": "Chapter 1 · end-of-chapter questions",
+      "filename": "CH01_End_of_Chapter_Qs.pdf",
+      "sha256": "6b9343d869408a94cff0e14ef6023f99b187d9cc0640b35a91a888d28057b230",
+      "kind": "worksheet",
+      "sourceGroups": 72,
+      "note": "All 72 numbered Chapter 1 problems retain their numbers and answerable subparts. New wording and models replace textbook illustrations. Clinical arithmetic is recast as material/sample arithmetic; no treatment decision is requested.",
+      "questions": [
+        {
+          "id": "source-07-q1",
+          "label": "1.1",
+          "prompt": "Classify each particle model as a pure element, pure compound, or mixture. A letter denotes an element; a hyphen denotes a bond.",
+          "fields": [
+            "a. A: A A A A",
+            "b. B: A-B A-B A-B",
+            "c. C: A-A B-B A-A B-B",
+            "d. D: A-B A A-B A"
+          ],
+          "hint": "A pure substance has one particle type; an element contains one kind of atom. Different letters bonded together form a compound."
+        },
+        {
+          "id": "source-07-q2",
+          "label": "1.2",
+          "prompt": "Classify each species in a gas mixture as an element or compound.",
+          "fields": [
+            "a. H-O-H",
+            "b. O-C-O",
+            "c. N-N",
+            "d. O-O"
+          ],
+          "hint": "Classify by kinds of atoms, not by the number of atoms in one molecule."
+        },
+        {
+          "id": "source-07-q3",
+          "label": "1.3",
+          "prompt": "Model A contains only A-B particles; B contains A-B and A-A; C only A-A; D A-A and B-B. Choose the model matching each description.",
+          "fields": [
+            "a. Mixture of two elements",
+            "b. Mixture of a compound and an element"
+          ],
+          "hint": "Compare the kinds of atoms and bonds before and after. Arrangement or spacing alone can change while particle identity remains the same. Give the classification and the evidence for it."
+        },
+        {
+          "id": "source-07-q4",
+          "label": "1.4",
+          "prompt": "Initially, separated A-B molecules fill a container. Classify each change as physical or chemical.",
+          "fields": [
+            "a. Molecules remain A-B but become closely packed",
+            "b. Particles become A-A and B-B",
+            "c. Particles become separate A and B atoms"
+          ],
+          "hint": "Compare the kinds of atoms and bonds before and after. Arrangement or spacing alone can change while particle identity remains the same. Give the classification and the evidence for it."
+        },
+        {
+          "id": "source-07-q5",
+          "label": "1.5",
+          "prompt": "Classify each change as physical or chemical.",
+          "fields": [
+            "a. Salt dissolves in water",
+            "b. Gasoline burns",
+            "c. Wax melts"
+          ],
+          "hint": "Apply the course’s introductory classification convention and explain borderline cases in your reasoning."
+        },
+        {
+          "id": "source-07-q6",
+          "label": "1.6",
+          "prompt": "Classify each change as physical or chemical.",
+          "fields": [
+            "a. Water vapor condenses",
+            "b. Instant coffee dissolves",
+            "c. Cake batter bakes"
+          ],
+          "hint": "Compare the kinds of atoms and bonds before and after. Arrangement or spacing alone can change while particle identity remains the same. Give the classification and the evidence for it."
+        },
+        {
+          "id": "source-07-q7",
+          "label": "1.7",
+          "prompt": "Solid carbon dioxide becomes widely separated carbon dioxide molecules without changing molecular identity. Classify the change and explain.",
+          "fields": [
+            "Classification",
+            "Explanation"
+          ],
+          "hint": "Compare the kinds of atoms and bonds before and after. Arrangement or spacing alone can change while particle identity remains the same. Give the classification and the evidence for it."
+        },
+        {
+          "id": "source-07-q8",
+          "label": "1.8",
+          "prompt": "A model starts with N-N and H-H molecules and ends with molecules containing one N bonded to three H atoms. Classify the change and explain.",
+          "fields": [
+            "Classification",
+            "Explanation"
+          ],
+          "hint": "Compare the kinds of atoms and bonds before and after. Arrangement or spacing alone can change while particle identity remains the same. Give the classification and the evidence for it."
+        },
+        {
+          "id": "source-07-q9",
+          "label": "1.9",
+          "prompt": "Read the authored Fahrenheit scale, then convert the reading.",
+          "fields": [
+            "a. Reading in °F",
+            "b. Significant-figure count",
+            "c. Reading in °C"
+          ],
+          "hint": "Use °C = (°F − 32) × 5/9. Distinguish scale estimation from conversion arithmetic.",
+          "figure": {
+            "kind": "scale",
+            "unit": "°F",
+            "low": 70,
+            "high": 80,
+            "value": 76.5,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-07-q10",
+          "label": "1.10",
+          "prompt": "A rod begins at zero and ends at the marker on this authored ruler.",
+          "fields": [
+            "a. Length in cm",
+            "b. Significant-figure count",
+            "c. Length in m, in scientific notation"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention.",
+          "figure": {
+            "kind": "scale",
+            "unit": "cm",
+            "low": 0,
+            "high": 5,
+            "value": 4.6,
+            "divisions": 50,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-07-q11",
+          "label": "1.11",
+          "prompt": "Identify each quantity as exact (count/definition) or measured.",
+          "fields": [
+            "a. a. 10 cloves",
+            "b. a. 2 tablespoons of oil measured in a kitchen",
+            "c. b. 5 puppies",
+            "d. b. Combined measured mass of 10 lb"
+          ],
+          "hint": "A counted quantity or defined conversion can be exact. A quantity obtained from a measuring instrument has finite precision."
+        },
+        {
+          "id": "source-07-q12",
+          "label": "1.12",
+          "prompt": "Identify each quantity as exact or measured.",
+          "fields": [
+            "a. a. 4 bicycles",
+            "b. a. Distance recorded as 250 miles",
+            "c. b. A cut in fabric measured as 4 cm",
+            "d. b. 12 stitches counted in the fabric"
+          ],
+          "hint": "A counted quantity or defined conversion can be exact. A quantity obtained from a measuring instrument has finite precision."
+        },
+        {
+          "id": "source-07-q13",
+          "label": "1.13",
+          "prompt": "Select the larger quantity in each pair.",
+          "fields": [
+            "a. 5 mL or 5 dL",
+            "b. 10 mg or 10 µg",
+            "c. 5 cm or 5 mm",
+            "d. 10 Ms or 10 ms"
+          ],
+          "hint": "Rewrite both quantities in the same unit before comparing. Prefix case matters: milli (m) and mega (M) differ."
+        },
+        {
+          "id": "source-07-q14",
+          "label": "1.14",
+          "prompt": "Select the larger quantity in each pair.",
+          "fields": [
+            "a. 10 km or 10 m",
+            "b. 10 L or 10 mL",
+            "c. 10 g or 10 µg",
+            "d. 10 cm or 10 mm"
+          ],
+          "hint": "Rewrite both quantities in the same unit before comparing. Prefix case matters: milli (m) and mega (M) differ."
+        },
+        {
+          "id": "source-07-q15",
+          "label": "1.15",
+          "prompt": "State the significant-figure count. If unmarked trailing whole-number zeros are ambiguous, say so and give the minimum certain count.",
+          "fields": [
+            "a. 16.00",
+            "b. 160",
+            "c. 0.00160",
+            "d. 1,600,000",
+            "e. 1.06",
+            "f. 0.1600",
+            "g. 1.061 × 10^10",
+            "h. 1.6 × 10^-6"
+          ],
+          "hint": "Count nonzero digits and interior zeros. Leading zeros do not count. Trailing decimal zeros count. Unmarked trailing whole-number zeros can be ambiguous; state the precision assumption."
+        },
+        {
+          "id": "source-07-q16",
+          "label": "1.16",
+          "prompt": "State the significant-figure count for each value.",
+          "fields": [
+            "a. 160.",
+            "b. 160.0",
+            "c. 0.00016",
+            "d. 1.60",
+            "e. 1600.",
+            "f. 1.060",
+            "g. 1.600 × 10^-10",
+            "h. 1.6 × 10^6"
+          ],
+          "hint": "Count nonzero digits and interior zeros. Leading zeros do not count. Trailing decimal zeros count. Unmarked trailing whole-number zeros can be ambiguous; state the precision assumption."
+        },
+        {
+          "id": "source-07-q17",
+          "label": "1.17",
+          "prompt": "Round each value to three significant figures. Use scientific notation when needed to make the precision clear.",
+          "fields": [
+            "a. 25401",
+            "b. 1248.486",
+            "c. 0.001265982",
+            "d. 0.123456",
+            "e. 195.371",
+            "f. 196.814"
+          ],
+          "hint": "Locate the first nonzero digit and count the requested significant figures from there. Inspect the next digit and round once; use scientific notation to show retained zeros."
+        },
+        {
+          "id": "source-07-q18",
+          "label": "1.18",
+          "prompt": "Round each value to four significant figures. Use scientific notation when needed to make the precision clear.",
+          "fields": [
+            "a. 25401",
+            "b. 1248.486",
+            "c. 0.001265982",
+            "d. 0.123456",
+            "e. 195.371",
+            "f. 196.814"
+          ],
+          "hint": "Locate the first nonzero digit and count the requested significant figures from there. Inspect the next digit and round once; use scientific notation to show retained zeros."
+        },
+        {
+          "id": "source-07-q19",
+          "label": "1.19",
+          "prompt": "Calculate and report the appropriate precision.",
+          "fields": [
+            "a. 53.6 × 0.41",
+            "b. 25.825 − 3.86",
+            "c. 65.2 / 12",
+            "d. 41.0 + 9.135",
+            "e. 694.2 × 0.2",
+            "f. 1045 − 1.26"
+          ],
+          "hint": "Multiplication/division: significant figures. Addition/subtraction: decimal place. Preserve guard digits."
+        },
+        {
+          "id": "source-07-q20",
+          "label": "1.20",
+          "prompt": "Calculate and state your precision assumption when an integer has unmarked trailing zeros.",
+          "fields": [
+            "a. 49682 × 0.80",
+            "b. 66.815 + 2.82",
+            "c. 1000 / 2.34",
+            "d. 21 − 0.88",
+            "e. 25000 / 0.4356",
+            "f. 21.5381 + 26.55"
+          ],
+          "hint": "For multiplication or division, use significant figures; for addition or subtraction, use the least precise decimal place. Explain ambiguous whole-number zeros before rounding."
+        },
+        {
+          "id": "source-07-q21",
+          "label": "1.21",
+          "prompt": "Express each value in scientific notation; retain the unit and state any ambiguous precision.",
+          "fields": [
+            "a. 1234 g",
+            "b. 0.0000162 m",
+            "c. 5244000 L",
+            "d. 0.00562 g",
+            "e. 44000 km"
+          ],
+          "hint": "Normalize the coefficient to a magnitude from 1 up to (but not including) 10. Count the decimal shifts and keep the unit and indicated significant zeros."
+        },
+        {
+          "id": "source-07-q22",
+          "label": "1.22",
+          "prompt": "Express each value in scientific notation.",
+          "fields": [
+            "a. 0.00125 m",
+            "b. 8100000000 lb",
+            "c. 54235.6 m",
+            "d. 0.000001899 L",
+            "e. 4.440 s"
+          ],
+          "hint": "Normalize the coefficient to a magnitude from 1 up to (but not including) 10. Count the decimal shifts and keep the unit and indicated significant zeros."
+        },
+        {
+          "id": "source-07-q23",
+          "label": "1.23",
+          "prompt": "Express each number in ordinary decimal notation.",
+          "fields": [
+            "a. 3.4 × 10^5",
+            "b. 5.822 × 10^-5",
+            "c. 3 × 10^2",
+            "d. 6.86 × 10^-8"
+          ],
+          "hint": "A positive exponent moves the decimal to the right; a negative exponent moves it to the left. Keep the value unchanged."
+        },
+        {
+          "id": "source-07-q24",
+          "label": "1.24",
+          "prompt": "Express each number in ordinary decimal notation.",
+          "fields": [
+            "a. 4.02 × 10^10",
+            "b. 2.46 × 10^-3",
+            "c. 6.86 × 10^9",
+            "d. 1 × 10^-7"
+          ],
+          "hint": "A positive exponent moves the decimal to the right; a negative exponent moves it to the left. Keep the value unchanged."
+        },
+        {
+          "id": "source-07-q25",
+          "label": "1.25",
+          "prompt": "Select the larger number in each pair.",
+          "fields": [
+            "a. 4.44 × 10^3 or 4.8 × 10^2",
+            "b. 5.6 × 10^-6 or 5.6 × 10^-9",
+            "c. 1.3 × 10^8 or 52300000",
+            "d. 9.8 × 10^-4 or 0.000089"
+          ],
+          "hint": "Compare orders of magnitude first, then coefficients when the exponents agree. For negative exponents, an exponent closer to zero represents a larger positive value."
+        },
+        {
+          "id": "source-07-q26",
+          "label": "1.26",
+          "prompt": "Order each group from smallest to largest.",
+          "fields": [
+            "a. 5.06 × 10^6, 7 × 10^4, 2.5 × 10^8",
+            "b. 6.3 × 10^-2, 2.5 × 10^-4, 8.6 × 10^-6"
+          ],
+          "hint": "Compare orders of magnitude first, then coefficients when the exponents agree. For negative exponents, an exponent closer to zero represents a larger positive value."
+        },
+        {
+          "id": "source-07-q27",
+          "label": "1.27",
+          "prompt": "Write these sample-component quantities in scientific notation.",
+          "fields": [
+            "a. 0.000400 g",
+            "b. 0.002 g",
+            "c. 0.000080 g",
+            "d. 3400 mg"
+          ],
+          "hint": "Normalize the coefficient to a magnitude from 1 up to (but not including) 10. Count the decimal shifts and keep the unit and indicated significant zeros."
+        },
+        {
+          "id": "source-07-q28",
+          "label": "1.28",
+          "prompt": "A model particle has diameter 0.40 µm. Convert the diameter, using scientific notation.",
+          "fields": [
+            "a. Meters",
+            "b. Inches"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q29",
+          "label": "1.29",
+          "prompt": "Convert a 0.30 mL sample into µL.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q30",
+          "label": "1.30",
+          "prompt": "A suspension contains 7000 counted particles per µL. How many particles are in 5 L? State your precision assumption.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q31",
+          "label": "1.31",
+          "prompt": "Read the modeled balance display in pounds and convert it to kilograms.",
+          "fields": [
+            "Mass in kg"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention.",
+          "figure": {
+            "kind": "digital",
+            "unit": "lb",
+            "low": 0,
+            "high": 0,
+            "value": 154.0,
+            "display": "154.0",
+            "divisions": 1,
+            "direction": "up"
+          }
+        },
+        {
+          "id": "source-07-q32",
+          "label": "1.32",
+          "prompt": "Read this authored pipette scale and convert the volume.",
+          "fields": [
+            "a. Volume in mL",
+            "b. Volume in L"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 0,
+            "high": 5,
+            "value": 3.4,
+            "divisions": 50,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-07-q33",
+          "label": "1.33",
+          "prompt": "Convert the measured quantities.",
+          "fields": [
+            "a. 60.6 kg into lb",
+            "b. 67 in into cm"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q34",
+          "label": "1.34",
+          "prompt": "A dye process uses 3.5 tablespoons per batch. Use 15 mL/tablespoon and 4 batches/day for 7 days.",
+          "fields": [
+            "a. mL per batch",
+            "b. Total mL over 7 days",
+            "c. Total L over 7 days"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q35",
+          "label": "1.35",
+          "prompt": "A solid sample contains 354 mg of marker per 1,000,000 g. How many mg of marker are in 6.0 oz of sample?",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q36",
+          "label": "1.36",
+          "prompt": "A process consumes 875 mg of reagent per day for 7 days. Find the total in grams.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q37",
+          "label": "1.37",
+          "prompt": "Convert each quantity.",
+          "fields": [
+            "a. 5 ft into cm",
+            "b. 3 US pints into L (2 pints = 1 quart)",
+            "c. 37.7 °C into °F"
+          ],
+          "hint": "Use °F = (9/5)°C + 32. Use the supplied US volume conversions."
+        },
+        {
+          "id": "source-07-q38",
+          "label": "1.38",
+          "prompt": "Convert each quantity.",
+          "fields": [
+            "a. 53.2 kg into lb",
+            "b. 5 US quarts into mL",
+            "c. 103.5 °F into °C"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q39",
+          "label": "1.39",
+          "prompt": "Convert the two temperatures.",
+          "fields": [
+            "a. a. 53 °C into °F",
+            "b. a. 53 °C into K",
+            "c. b. 350 °F into °C",
+            "d. b. 350 °F into K"
+          ],
+          "hint": "K = °C + 273.15; °F = 1.8 × °C + 32. Apply offsets to temperatures, not to temperature differences."
+        },
+        {
+          "id": "source-07-q40",
+          "label": "1.40",
+          "prompt": "Temperature rises from −20 °F to 30 °F.",
+          "fields": [
+            "a. Temperature increase in °F",
+            "b. Temperature increase in °C"
+          ],
+          "hint": "First subtract the two Fahrenheit readings. A temperature difference converts by a scale factor alone: multiply the Fahrenheit difference by 5/9."
+        },
+        {
+          "id": "source-07-q41",
+          "label": "1.41",
+          "prompt": "Which temperature is higher?",
+          "fields": [
+            "a. −10 °C or 10 °F",
+            "b. −50 °C or −50 °F"
+          ],
+          "hint": "Put every temperature on the same scale before comparing. Use °C = (°F − 32) × 5/9 and K = °C + 273.15."
+        },
+        {
+          "id": "source-07-q42",
+          "label": "1.42",
+          "prompt": "Rank each group from coldest to hottest.",
+          "fields": [
+            "a. 0 °F, 0 °C, 0 K",
+            "b. 100 K, 100 °C, 100 °F"
+          ],
+          "hint": "Put every temperature on the same scale before comparing. Use °C = (°F − 32) × 5/9 and K = °C + 273.15."
+        },
+        {
+          "id": "source-07-q43",
+          "label": "1.43",
+          "prompt": "Three immiscible layers fill a cylinder: A is the top 30 mL, B the middle 50 mL, C the bottom 100 mL. Candidate liquids have densities oil 0.93 g/mL, water 1.00 g/mL and syrup 1.37 g/mL. Identify each layer and its mass.",
+          "fields": [
+            "a. A liquid",
+            "b. B liquid",
+            "c. C liquid",
+            "d. A mass in g",
+            "e. B mass in g",
+            "f. C mass in g"
+          ],
+          "hint": "Less dense immiscible liquids sit above more dense ones. Each mass is its own volume multiplied by its density."
+        },
+        {
+          "id": "source-07-q44",
+          "label": "1.44",
+          "prompt": "Describe a layered cylinder containing 25 g water at 1.00 g/mL, 15 g of liquid A at 0.75 g/mL, and 42.6 g of liquid B at 1.42 g/mL. Assume they do not mix.",
+          "fields": [
+            "a. Water volume in mL",
+            "b. Liquid A volume in mL",
+            "c. Liquid B volume in mL",
+            "d. Bottom-to-top order and boundary volumes"
+          ],
+          "hint": "This structured description replaces the drawing task. Find each volume from mass/density, then stack from highest to lowest density."
+        },
+        {
+          "id": "source-07-q45",
+          "label": "1.45",
+          "prompt": "Describe the resulting layers, including bottom-to-top order and cumulative volume boundaries, assuming no mixing.",
+          "fields": [
+            "a. 100 mL water (1.00 g/mL) plus 50 mL liquid A (0.65 g/mL)",
+            "b. 100 mL water (1.00 g/mL) plus 50 mL liquid B (1.33 g/mL)"
+          ],
+          "hint": "Assume the liquids do not mix. The higher-density layer lies below the lower-density layer. Use the provided volumes to label any layer boundaries."
+        },
+        {
+          "id": "source-07-q46",
+          "label": "1.46",
+          "prompt": "Give the density bound for each liquid.",
+          "fields": [
+            "a. A 2.0 g/cm^3 object sinks in the liquid",
+            "b. A 0.90 g/cm^3 object floats in the liquid"
+          ],
+          "hint": "Ignore trapped air and surface-tension effects in this simplified model."
+        },
+        {
+          "id": "source-07-q47",
+          "label": "1.47",
+          "prompt": "Find the density of a liquid with mass 122 g and volume 121 mL.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q48",
+          "label": "1.48",
+          "prompt": "Equal volumes of saline and water have masses 25.6 g and 24.5 g. Take water density as 1.00 g/mL. Find saline density.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q49",
+          "label": "1.49",
+          "prompt": "A liquid has density 1.03 g/mL. Find the mass of one US quart in kilograms.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q50",
+          "label": "1.50",
+          "prompt": "A rock has mass 10.1 g and volume 4.1 mL. Find its density.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q51",
+          "label": "1.51",
+          "prompt": "Each liquid is immiscible with water (1.00 g/mL). Which would be the upper layer: water or the other liquid?",
+          "fields": [
+            "a. 0.684 g/mL liquid",
+            "b. 0.92 g/mL liquid",
+            "c. 1.49 g/mL liquid",
+            "d. 1.59 g/mL liquid"
+          ],
+          "hint": "Assume the liquids do not mix. The higher-density layer lies below the lower-density layer. Use the provided volumes to label any layer boundaries."
+        },
+        {
+          "id": "source-07-q52",
+          "label": "1.52",
+          "prompt": "Use a reference density of 1.00 g/mL.",
+          "fields": [
+            "a. Specific gravity of a liquid at 13.6 g/mL",
+            "b. Density in g/mL when specific gravity is 0.789"
+          ],
+          "hint": "Specific gravity is the density ratio and has no units."
+        },
+        {
+          "id": "source-07-q53",
+          "label": "1.53",
+          "prompt": "Convert a marker concentration of 186 mg/dL.",
+          "fields": [
+            "a. g/dL",
+            "b. mg/L"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q54",
+          "label": "1.54",
+          "prompt": "A model process consumes 88 µg/day.",
+          "fields": [
+            "a. Consumption in mg/day",
+            "b. Total consumption in g for 30 days"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q55",
+          "label": "1.55",
+          "prompt": "How many 500 mg pellets contain 1.5 g of material?",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q56",
+          "label": "1.56",
+          "prompt": "A container initially holds 70.7 kg. Add 1.8 L of liquid at 1.05 g/mL. After a drain step, 69.3 kg remains. How many pounds left through the drain?",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q57",
+          "label": "1.57",
+          "prompt": "A 232 lb mixture is 25% component A by mass. Find the mass of A in kg.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q58",
+          "label": "1.58",
+          "prompt": "A 13 oz sample contains 250 mg of marker per oz. Compare its marker content with a 2.4 g reference.",
+          "fields": [
+            "a. Marker mass in g",
+            "b. More or less than 2.4 g?",
+            "c. Difference in g"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q59",
+          "label": "1.59",
+          "prompt": "A 300 mL bottle of model reagent costs $10. Find the proportional cost.",
+          "fields": [
+            "a. Cost of 20 mL",
+            "b. Cost of 2 tablespoons at 15 mL/tablespoon"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q60",
+          "label": "1.60",
+          "prompt": "Each model pellet has 1.93 mg of component A.",
+          "fields": [
+            "a. Mass in g per pellet",
+            "b. Mass in µg per pellet",
+            "c. Do 20 pellets contain more or less A than 21 mg?"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q61",
+          "label": "1.61",
+          "prompt": "Each batch needs two pellets containing 325 mg each. How many complete batches can be supplied by 0.510 kg of material? State any whole-batch rounding.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q62",
+          "label": "1.62",
+          "prompt": "Each 5 mL of a model mixture contains 400 mg A, 400 mg B and 40 mg C. Use 2 teaspoons per batch (5 mL/teaspoon), 4 batches/day. Find daily component masses.",
+          "fields": [
+            "a. Grams of A",
+            "b. Grams of B",
+            "c. Grams of C"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q63",
+          "label": "1.63",
+          "prompt": "Four daily batches each require 2 g of material. How many 500 mg pellets supply one day?",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q64",
+          "label": "1.64",
+          "prompt": "A model pump runs at 150 mL/hour. Its solution contains 90 mg marker/mL.",
+          "fields": [
+            "a. Volume delivered in 20 minutes",
+            "b. Minutes to deliver 90 mL",
+            "c. Hours to deliver 600 mL",
+            "d. Minutes to deliver 2 g marker"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q65",
+          "label": "1.65",
+          "prompt": "A coating recipe specifies 2 mg marker per kg of material. Find the marker mass for 110 lb of material.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q66",
+          "label": "1.66",
+          "prompt": "A process uses 10 mg marker/kg of material per cycle, with 28 kg of material, 3 cycles/day, 7 days. Find the total marker mass in grams.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q67",
+          "label": "1.67",
+          "prompt": "For this authored packing model define index I = mass(kg)/height(m)^2. A sample has mass 180 lb and height 6 ft 1 in. Model bands are low: I < 20; middle: 20 ≤ I < 25; high: I ≥ 25. Compute and classify.",
+          "fields": [
+            "a. Index in kg/m^2",
+            "b. Model band"
+          ],
+          "hint": "Convert feet and inches together before squaring height. These are fictional packing bands, not health categories."
+        },
+        {
+          "id": "source-07-q68",
+          "label": "1.68",
+          "prompt": "A coating uses three 200 mg pellets for 150 lb of material.",
+          "fields": [
+            "a. Rate in mg/kg",
+            "b. Marker mass for 45 kg at the same rate"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q69",
+          "label": "1.69",
+          "prompt": "A coating requires 10 mg/kg for 42 lb of material. Each pellet contains 80 mg. Find the mathematical pellet equivalent; do not round to a real-world application instruction.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q70",
+          "label": "1.70",
+          "prompt": "Compare two fictional marker schedules over five cycles. A uses 160 mg initially then 80 mg for each of four more cycles. B uses 3.2 mg/kg initially then 1.6 mg/kg for each of four more cycles.",
+          "fields": [
+            "a. Compare total marker masses for a 40 kg sample",
+            "b. Compare total marker masses for a 100 kg sample"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q71",
+          "label": "1.71",
+          "prompt": "A marker solution contains 100 mg in 5 mL. Find the marker mass in grams in 1.5 teaspoons, using 5 mL/teaspoon.",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-07-q72",
+          "label": "1.72",
+          "prompt": "A coating rate is 10 µg/kg. How many mg are needed for 200 lb of material?",
+          "fields": [
+            "Your answer, with units where needed"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        }
+      ],
+      "questionCount": 72,
+      "answerFields": 202
+    },
+    {
+      "id": "source-08",
+      "title": "Fence-post layouts · annotated",
+      "filename": "Dim_fen.pdf",
+      "sha256": "33da50705193632933dabb4771abf7b8c7fffeb5452b33cad229aa4c9f8297cb",
+      "kind": "worksheet",
+      "sourceGroups": 20,
+      "note": "Twenty numbered dimensional-analysis problems. New wording keeps the conversion chains. Q1–3 explicitly supply practice factors; clinical stories are recast as material-handling arithmetic.",
+      "questions": [
+        {
+          "id": "source-08-q1",
+          "label": "1",
+          "prompt": "In a fictional token system, 3 cubes = 8 suns, 6 suns = 1 moon, 8 moons = 7 lights, 1 light = 10 smiles, and 2 smiles = 7 hearts. Convert 2 cubes to hearts using the complete chain. Treat these ratios as exact for this exercise.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q2",
+          "label": "2",
+          "prompt": "In a fictional unit system, 8 A = 29 F, 3 F = 8 K, 1 K = 6 P, 26 P = 59 U and 16 U = 1 Z. Convert 65 A to Z. Treat the conversion ratios as exact.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q3",
+          "label": "3",
+          "prompt": "A fictional store uses 8 g = 6 crash, 1 crash = 8 bang, 68 bang = 22 boom, and 2 boom = 5 zoom. Convert 28 g of sample to zoom.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q4",
+          "label": "4",
+          "prompt": "A planning model needs 3 applications per acceptance, 3 essays per application, and 2 hours per essay. How many writing hours correspond to 10 acceptances? This is a hypothetical ratio model, not an admissions prediction.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q5",
+          "label": "5",
+          "prompt": "Fifteen guests each need 4 pizza slices. Each pizza has 12 slices and costs $14.78. Find the total cost.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q6",
+          "label": "6",
+          "prompt": "At $8.00/hour for 38 hours/week, what is earned over 5 years of 52 weeks each? Report two significant figures.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q7",
+          "label": "7",
+          "prompt": "A packing worker completes 184 items/hour, 8 hours/day, 5 days/week, and receives $840.34 every 2 weeks. How many items correspond to $1,000,000 of gross pay in this model?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q8",
+          "label": "8",
+          "prompt": "Travel lasts 4.5 hours at 125 km/hour. What distance is covered in miles?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q9",
+          "label": "9",
+          "prompt": "With $15, fuel at $2.52/US gallon, and efficiency 27 miles/US gallon, what distance is possible?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q10",
+          "label": "10",
+          "prompt": "Find the modeled fuel cost for 1225 miles at 18 miles/US gallon and $2.52/US gallon.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q11",
+          "label": "11",
+          "prompt": "Repeat the 1225-mile fuel-cost calculation using 32 miles/US gallon and $2.52/US gallon.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q12",
+          "label": "12",
+          "prompt": "A coating model uses 4 drops per 15 lb of material each day. How many drops are required in one week for 128 lb?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q13",
+          "label": "13",
+          "prompt": "A dye model uses 1 drop per 15 lb of material per treatment, 4 treatments/day for 21 days. The material weighs 128 lb. A teaspoon is 5 mL and contains 64 drops. Will 100 mL suffice? Show the volume needed.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q14",
+          "label": "14",
+          "prompt": "A sample needs 0.5 mg of dye from a solution containing 0.1 mg/mL. How many 5 mL teaspoons of solution does that represent?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q15",
+          "label": "15",
+          "prompt": "A model pump has 1.0 g of marker in 250 mL. It must deliver marker at 4.0 mg/min. At 20 drops/mL, what flow in drops/min is required?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q16",
+          "label": "16",
+          "prompt": "A liquid has the mass of 455 balls of 50.0 g each and fills 620 cups of 45 mL each. Find its density in g/mL.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q17",
+          "label": "17",
+          "prompt": "Convert 69 miles/hour into inches/second.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q18",
+          "label": "18",
+          "prompt": "Convert a speed of 3.00 × 10^10 cm/s into km/hour.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q19",
+          "label": "19",
+          "prompt": "Convert 54 in^3 into cm^3. Apply the length factor three times.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-08-q20",
+          "label": "20",
+          "prompt": "A rectangle is 300. ft by 160. ft. Paint covers 65 m^2/L. How many liters are needed in this ideal coverage model?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        }
+      ],
+      "questionCount": 20,
+      "answerFields": 20
+    },
+    {
+      "id": "source-09",
+      "title": "Q4 · dimensional analysis",
+      "filename": "Q4Dim_Analysis.pdf",
+      "sha256": "dab9d6a93b4e604c9bafbd5409be708ef8a7c366307bff021747f540ebef0c3d",
+      "kind": "worksheet",
+      "sourceGroups": 9,
+      "note": "Nine numbered conversion problems become nine editable calculations. Biological quantities are expressed as neutral production or sample quantities with the same unit relationships.",
+      "questions": [
+        {
+          "id": "source-09-q1",
+          "label": "1",
+          "prompt": "Convert 120 days into hectoseconds (1 hs = 100 s).",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q2",
+          "label": "2",
+          "prompt": "A facility produces 3000 units/day. What is its average production per minute?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q3",
+          "label": "3",
+          "prompt": "Convert a length of 1.2 m into inches.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q4",
+          "label": "4",
+          "prompt": "Convert growth of 4.2 inches/year into mm/millisecond, using 365 days/year.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q5",
+          "label": "5",
+          "prompt": "Convert throughput of 6813 L/day into US gallons/minute.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q6",
+          "label": "6",
+          "prompt": "A pump moves 1800 US quarts/day of liquid at 1.0 g/mL. Find the mass in lb/day.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q7",
+          "label": "7",
+          "prompt": "A process consumes 1500 mg/day of powder. Find its annual consumption in lb for 365 days.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q8",
+          "label": "8",
+          "prompt": "Convert a flow of 11.4 L/day into mL/minute.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-09-q9",
+          "label": "9",
+          "prompt": "Convert an area of 4.80 × 10^4 ft^2 into m^2.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        }
+      ],
+      "questionCount": 9,
+      "answerFields": 9
+    },
+    {
+      "id": "source-10",
+      "title": "Q6 · isotopes",
+      "filename": "Q6Isotopes.pdf",
+      "sha256": "3bbb4928b32a927c1deef7d7e6d12c41713532a3e96548855323fd411271327c",
+      "kind": "worksheet",
+      "sourceGroups": 2,
+      "note": "Two printed questions: a six-row isotope table and one weighted-average problem. The 32 originally missing table cells plus the average have separate answer fields.",
+      "questions": [
+        {
+          "id": "source-10-q1",
+          "label": "1 · row 1",
+          "prompt": "Complete the missing entries for a neutral atom with Platinum; mass number 194.",
+          "fields": [
+            "Symbol",
+            "Atomic number",
+            "Protons",
+            "Neutrons",
+            "Electrons"
+          ],
+          "hint": "Atomic number equals proton count. A neutral atom has the same number of electrons. Mass number is protons plus neutrons. Write isotope symbols as element-mass number; a periodic table may be used."
+        },
+        {
+          "id": "source-10-q2",
+          "label": "1 · row 2",
+          "prompt": "Complete the missing entries for a neutral atom with isotope symbol P-30.",
+          "fields": [
+            "Element",
+            "Atomic number",
+            "Mass number",
+            "Protons",
+            "Neutrons",
+            "Electrons"
+          ],
+          "hint": "Atomic number equals proton count. A neutral atom has the same number of electrons. Mass number is protons plus neutrons. Write isotope symbols as element-mass number; a periodic table may be used."
+        },
+        {
+          "id": "source-10-q3",
+          "label": "1 · row 3",
+          "prompt": "Complete the missing entries for a neutral atom with atomic number 53; mass number 127.",
+          "fields": [
+            "Element",
+            "Symbol",
+            "Protons",
+            "Neutrons",
+            "Electrons"
+          ],
+          "hint": "Atomic number equals proton count. A neutral atom has the same number of electrons. Mass number is protons plus neutrons. Write isotope symbols as element-mass number; a periodic table may be used."
+        },
+        {
+          "id": "source-10-q4",
+          "label": "1 · row 4",
+          "prompt": "Complete the missing entries for a neutral atom with mass number 84; 36 protons.",
+          "fields": [
+            "Element",
+            "Symbol",
+            "Atomic number",
+            "Neutrons",
+            "Electrons"
+          ],
+          "hint": "Atomic number equals proton count. A neutral atom has the same number of electrons. Mass number is protons plus neutrons. Write isotope symbols as element-mass number; a periodic table may be used."
+        },
+        {
+          "id": "source-10-q5",
+          "label": "1 · row 5",
+          "prompt": "Complete the missing entries for a neutral atom with 45 neutrons; 34 electrons.",
+          "fields": [
+            "Element",
+            "Symbol",
+            "Atomic number",
+            "Mass number",
+            "Protons"
+          ],
+          "hint": "Atomic number equals proton count. A neutral atom has the same number of electrons. Mass number is protons plus neutrons. Write isotope symbols as element-mass number; a periodic table may be used."
+        },
+        {
+          "id": "source-10-q6",
+          "label": "1 · row 6",
+          "prompt": "Complete the missing entries for a neutral atom with isotope symbol Ca-40.",
+          "fields": [
+            "Element",
+            "Atomic number",
+            "Mass number",
+            "Protons",
+            "Neutrons",
+            "Electrons"
+          ],
+          "hint": "Atomic number equals proton count. A neutral atom has the same number of electrons. Mass number is protons plus neutrons. Write isotope symbols as element-mass number; a periodic table may be used."
+        },
+        {
+          "id": "source-10-q7",
+          "label": "2",
+          "prompt": "A model element has isotope masses 33 u, 35 u and 37 u at abundances 28.5%, 55.6% and 15.9%. Find the weighted mean mass.",
+          "fields": [
+            "Average mass in u"
+          ],
+          "hint": "Convert percentages to fractions; multiply each model mass by its fraction and add. Fractions must total 1. These integer model masses are supplied values, not measured isotope masses."
+        }
+      ],
+      "questionCount": 7,
+      "answerFields": 33
+    },
+    {
+      "id": "source-11",
+      "title": "Q9 · with orbital drawings",
+      "filename": "Q9_Electron_configII_w_Orbital.pdf",
+      "sha256": "dd29367719be5c022cf7bd5d2172df07356694b3d4c48dec2cd6b8a3ea29b0b8",
+      "kind": "worksheet",
+      "sourceGroups": 1,
+      "note": "The orbital-drawing copy repeats the same nine elements and 27 representations. Its annotations are not copied into your answers.",
+      "questions": [
+        {
+          "id": "source-11-q1",
+          "label": "Rb",
+          "prompt": "For neutral Rb, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q2",
+          "label": "Mg",
+          "prompt": "For neutral Mg, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q3",
+          "label": "Pd",
+          "prompt": "For neutral Pd, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q4",
+          "label": "P",
+          "prompt": "For neutral P, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q5",
+          "label": "Br",
+          "prompt": "For neutral Br, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q6",
+          "label": "Ra",
+          "prompt": "For neutral Ra, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q7",
+          "label": "Al",
+          "prompt": "For neutral Al, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q8",
+          "label": "Rn",
+          "prompt": "For neutral Rn, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-11-q9",
+          "label": "B",
+          "prompt": "For neutral B, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        }
+      ],
+      "questionCount": 9,
+      "answerFields": 27
+    },
+    {
+      "id": "source-12",
+      "title": "Electron configuration tutorial",
+      "filename": "Tut_Elect_Config.pdf",
+      "sha256": "ef76b3984dfc7f23c36947c4bd70dc3fc0ab9ef2161200bf4af39874909ff2e0",
+      "kind": "worksheet",
+      "sourceGroups": 1,
+      "note": "One printed assignment spanning two pages: 20 element rows (including iodine at the top of page 2), with three representations each.",
+      "questions": [
+        {
+          "id": "source-12-q1",
+          "label": "O",
+          "prompt": "Represent neutral O in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q2",
+          "label": "P",
+          "prompt": "Represent neutral P in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q3",
+          "label": "Zn",
+          "prompt": "Represent neutral Zn in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q4",
+          "label": "Ag",
+          "prompt": "Represent neutral Ag in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q5",
+          "label": "W",
+          "prompt": "Represent neutral W in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q6",
+          "label": "Rb",
+          "prompt": "Represent neutral Rb in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q7",
+          "label": "Bi",
+          "prompt": "Represent neutral Bi in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q8",
+          "label": "Ba",
+          "prompt": "Represent neutral Ba in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q9",
+          "label": "Na",
+          "prompt": "Represent neutral Na in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q10",
+          "label": "Mg",
+          "prompt": "Represent neutral Mg in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q11",
+          "label": "Li",
+          "prompt": "Represent neutral Li in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q12",
+          "label": "I",
+          "prompt": "Represent neutral I in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q13",
+          "label": "S",
+          "prompt": "Represent neutral S in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q14",
+          "label": "Br",
+          "prompt": "Represent neutral Br in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q15",
+          "label": "Al",
+          "prompt": "Represent neutral Al in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q16",
+          "label": "Cl",
+          "prompt": "Represent neutral Cl in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q17",
+          "label": "Fe",
+          "prompt": "Represent neutral Fe in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q18",
+          "label": "C",
+          "prompt": "Represent neutral C in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q19",
+          "label": "Os",
+          "prompt": "Represent neutral Os in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-12-q20",
+          "label": "Ar",
+          "prompt": "Represent neutral Ar in three ways using shorthand notation.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        }
+      ],
+      "questionCount": 20,
+      "answerFields": 60
+    },
+    {
+      "id": "source-13",
+      "title": "Bouncy balls · observations",
+      "filename": "bouncy-balls.pdf",
+      "sha256": "4b7828d2502c115d7f3765b956fb210c8b99dc5c222188fdddfbafb49eaed186",
+      "kind": "observation",
+      "sourceGroups": 3,
+      "note": "Same three-row observation table as Fun with Polymers: six response fields. The personal photograph remains private in the archive and is excluded from the lesson.",
+      "questions": [
+        {
+          "id": "source-13-q1",
+          "label": "Ball 1",
+          "prompt": "For polymer ball 1, describe its observable properties and record bounce height with units. If you have not performed the supervised activity, write “prediction” and explain what you would measure.",
+          "fields": [
+            "Physical observations or labeled prediction",
+            "Bounce height with unit, or labeled prediction"
+          ],
+          "hint": "Keep observed data separate from predictions. Record the release height, surface and measurement method in your reasoning so trials can be compared. No measurement is supplied or fabricated."
+        },
+        {
+          "id": "source-13-q2",
+          "label": "Ball 2",
+          "prompt": "For polymer ball 2, describe its observable properties and record bounce height with units. If you have not performed the supervised activity, write “prediction” and explain what you would measure.",
+          "fields": [
+            "Physical observations or labeled prediction",
+            "Bounce height with unit, or labeled prediction"
+          ],
+          "hint": "Keep observed data separate from predictions. Record the release height, surface and measurement method in your reasoning so trials can be compared. No measurement is supplied or fabricated."
+        },
+        {
+          "id": "source-13-q3",
+          "label": "Ball 3",
+          "prompt": "For polymer ball 3, describe its observable properties and record bounce height with units. If you have not performed the supervised activity, write “prediction” and explain what you would measure.",
+          "fields": [
+            "Physical observations or labeled prediction",
+            "Bounce height with unit, or labeled prediction"
+          ],
+          "hint": "Keep observed data separate from predictions. Record the release height, surface and measurement method in your reasoning so trials can be compared. No measurement is supplied or fabricated."
+        }
+      ],
+      "questionCount": 3,
+      "answerFields": 6
+    },
+    {
+      "id": "source-14",
+      "title": "Dimensional analysis · earlier attempt",
+      "filename": "dim_analysis.pdf",
+      "sha256": "115852455e83222e15e9ad4e3a0a2cfc1999a90a445a95e4df7569c97128a1c2",
+      "kind": "worksheet",
+      "sourceGroups": 20,
+      "note": "The earlier attempt repeats the same 20 numbered dimensional-analysis problems, with a separate response record. Practice factors and nonclinical contexts are explicit.",
+      "questions": [
+        {
+          "id": "source-14-q1",
+          "label": "1",
+          "prompt": "In a fictional token system, 3 cubes = 8 suns, 6 suns = 1 moon, 8 moons = 7 lights, 1 light = 10 smiles, and 2 smiles = 7 hearts. Convert 2 cubes to hearts using the complete chain. Treat these ratios as exact for this exercise.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q2",
+          "label": "2",
+          "prompt": "In a fictional unit system, 8 A = 29 F, 3 F = 8 K, 1 K = 6 P, 26 P = 59 U and 16 U = 1 Z. Convert 65 A to Z. Treat the conversion ratios as exact.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q3",
+          "label": "3",
+          "prompt": "A fictional store uses 8 g = 6 crash, 1 crash = 8 bang, 68 bang = 22 boom, and 2 boom = 5 zoom. Convert 28 g of sample to zoom.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q4",
+          "label": "4",
+          "prompt": "A planning model needs 3 applications per acceptance, 3 essays per application, and 2 hours per essay. How many writing hours correspond to 10 acceptances? This is a hypothetical ratio model, not an admissions prediction.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q5",
+          "label": "5",
+          "prompt": "Fifteen guests each need 4 pizza slices. Each pizza has 12 slices and costs $14.78. Find the total cost.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q6",
+          "label": "6",
+          "prompt": "At $8.00/hour for 38 hours/week, what is earned over 5 years of 52 weeks each? Report two significant figures.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q7",
+          "label": "7",
+          "prompt": "A packing worker completes 184 items/hour, 8 hours/day, 5 days/week, and receives $840.34 every 2 weeks. How many items correspond to $1,000,000 of gross pay in this model?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q8",
+          "label": "8",
+          "prompt": "Travel lasts 4.5 hours at 125 km/hour. What distance is covered in miles?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q9",
+          "label": "9",
+          "prompt": "With $15, fuel at $2.52/US gallon, and efficiency 27 miles/US gallon, what distance is possible?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q10",
+          "label": "10",
+          "prompt": "Find the modeled fuel cost for 1225 miles at 18 miles/US gallon and $2.52/US gallon.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q11",
+          "label": "11",
+          "prompt": "Repeat the 1225-mile fuel-cost calculation using 32 miles/US gallon and $2.52/US gallon.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q12",
+          "label": "12",
+          "prompt": "A coating model uses 4 drops per 15 lb of material each day. How many drops are required in one week for 128 lb?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q13",
+          "label": "13",
+          "prompt": "A dye model uses 1 drop per 15 lb of material per treatment, 4 treatments/day for 21 days. The material weighs 128 lb. A teaspoon is 5 mL and contains 64 drops. Will 100 mL suffice? Show the volume needed.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q14",
+          "label": "14",
+          "prompt": "A sample needs 0.5 mg of dye from a solution containing 0.1 mg/mL. How many 5 mL teaspoons of solution does that represent?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q15",
+          "label": "15",
+          "prompt": "A model pump has 1.0 g of marker in 250 mL. It must deliver marker at 4.0 mg/min. At 20 drops/mL, what flow in drops/min is required?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q16",
+          "label": "16",
+          "prompt": "A liquid has the mass of 455 balls of 50.0 g each and fills 620 cups of 45 mL each. Find its density in g/mL.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q17",
+          "label": "17",
+          "prompt": "Convert 69 miles/hour into inches/second.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q18",
+          "label": "18",
+          "prompt": "Convert a speed of 3.00 × 10^10 cm/s into km/hour.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q19",
+          "label": "19",
+          "prompt": "Convert 54 in^3 into cm^3. Apply the length factor three times.",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        },
+        {
+          "id": "source-14-q20",
+          "label": "20",
+          "prompt": "A rectangle is 300. ft by 160. ft. Paint covers 65 m^2/L. How many liters are needed in this ideal coverage model?",
+          "fields": [
+            "Result with units and factor chain"
+          ],
+          "hint": "Write the starting quantity and target unit. Arrange conversion factors so unwanted units cancel. Keep extra digits until the last step, then state your rounding convention."
+        }
+      ],
+      "questionCount": 20,
+      "answerFields": 20
+    },
+    {
+      "id": "source-15",
+      "title": "Periodicity & groups",
+      "filename": "periodic_table_periodicity_and_Groups.pdf",
+      "sha256": "d8ac8a2e6f9647732e3f6496fda9f1496f76091f6809926ce8116bd0301d2121",
+      "kind": "reference",
+      "sourceGroups": 0,
+      "note": "This is a two-page reference/notes sheet, not a numbered problem set. Ten authored review prompts cover its ten printed topics; they are additional review, not ten claimed printed worksheet questions.",
+      "questions": [
+        {
+          "id": "source-15-q1",
+          "label": "Chemical periodicity",
+          "prompt": "Explain how repeating electron structure can produce recurring properties across the periodic table.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q2",
+          "label": "Atomic size",
+          "prompt": "Predict how atomic size generally changes across a period and down a group, and explain the roles of charge and occupied shells.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q3",
+          "label": "First ionization energy",
+          "prompt": "Define first ionization energy and explain why a broad periodic trend can have exceptions.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q4",
+          "label": "Electron affinity",
+          "prompt": "Describe the energy change involved when a gaseous atom gains an electron. Explain why a sign convention and element-specific data matter.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q5",
+          "label": "Electronegativity",
+          "prompt": "Distinguish attraction for electrons in a bond from the energy change of adding an electron to an isolated atom.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q6",
+          "label": "Boiling points",
+          "prompt": "Why is one universal arrow across the periodic table insufficient to predict all boiling points? Name structural information you would need.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q7",
+          "label": "Nonmetallic character",
+          "prompt": "Describe the behavior meant by nonmetallic character and connect it to electron attraction.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q8",
+          "label": "Metallic character",
+          "prompt": "Describe metallic character and explain its broad relation to ease of losing electrons.",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q9",
+          "label": "Atomic number",
+          "prompt": "What does atomic number count, and what changes would change element identity?",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        },
+        {
+          "id": "source-15-q10",
+          "label": "Electrons",
+          "prompt": "Where are electrons relative to the nucleus? What changes, and what stays the same, when an atom gains or loses electrons?",
+          "fields": [
+            "My explanation and an example"
+          ],
+          "hint": "Use the concept definition before drawing a trend arrow. State whether you are describing a broad trend, an exception, or a measured property. Compare with the instructor’s convention; handwriting is not a verified key."
+        }
+      ],
+      "questionCount": 10,
+      "answerFields": 10
+    },
+    {
+      "id": "source-16",
+      "title": "Q9 · configuration notes",
+      "filename": "q9_electron_configII.pdf",
+      "sha256": "8c3a3b340c8236f646700da957459f31d157e3501cef2aa80ac8c7d43d972bee",
+      "kind": "worksheet",
+      "sourceGroups": 1,
+      "note": "The configuration-notes copy repeats the same nine elements and 27 representations. Its annotations are not an official answer key.",
+      "questions": [
+        {
+          "id": "source-16-q1",
+          "label": "Rb",
+          "prompt": "For neutral Rb, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q2",
+          "label": "Mg",
+          "prompt": "For neutral Mg, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q3",
+          "label": "Pd",
+          "prompt": "For neutral Pd, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q4",
+          "label": "P",
+          "prompt": "For neutral P, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q5",
+          "label": "Br",
+          "prompt": "For neutral Br, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q6",
+          "label": "Ra",
+          "prompt": "For neutral Ra, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q7",
+          "label": "Al",
+          "prompt": "For neutral Al, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q8",
+          "label": "Rn",
+          "prompt": "For neutral Rn, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        },
+        {
+          "id": "source-16-q9",
+          "label": "B",
+          "prompt": "For neutral B, give the shorthand electron configuration, orbital notation, and Lewis symbol.",
+          "fields": [
+            "Shorthand configuration",
+            "Orbital boxes / arrows",
+            "Lewis dots and convention"
+          ],
+          "hint": "Use a noble-gas core and show the remaining subshell occupancies. You may type orbital boxes as [↑↓] [↑] [ ] and describe Lewis dots by side (top/right/bottom/left). State the convention used for transition-metal Lewis symbols. Annotated attempts are not authoritative keys; check configuration exceptions against your course reference."
+        }
+      ],
+      "questionCount": 9,
+      "answerFields": 27
+    },
+    {
+      "id": "source-17",
+      "title": "Measurement record · initial",
+      "filename": "sig figs 2.pdf",
+      "sha256": "2df3fef731b0fa4e6b725719b387949603c2e8cb4ab62118d117ee32c402da34",
+      "kind": "worksheet",
+      "sourceGroups": 9,
+      "note": "Nine device rows, one measurement response per row. The source lacks instrument views; the new labeled practice scales are authored models, not reconstructions of the original equipment.",
+      "questions": [
+        {
+          "id": "source-17-q1",
+          "label": "Thermometer 1",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "°C",
+            "low": 0,
+            "high": 10,
+            "value": 4.9,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q2",
+          "label": "Thermometer 2",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "°C",
+            "low": 30,
+            "high": 50,
+            "value": 40.5,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q3",
+          "label": "Ruler 1",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "cm",
+            "low": 0,
+            "high": 10,
+            "value": 4.6,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q4",
+          "label": "Ruler 2",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "cm",
+            "low": 9,
+            "high": 10,
+            "value": 9.65,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q5",
+          "label": "Graduated cylinder 1",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 180,
+            "high": 220,
+            "value": 198,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q6",
+          "label": "Graduated cylinder 2",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 50,
+            "high": 60,
+            "value": 52.9,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q7",
+          "label": "Electronic balance",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "digital",
+            "unit": "g",
+            "low": 0,
+            "high": 0,
+            "value": 109.8,
+            "divisions": 10,
+            "direction": "up",
+            "display": "109.80"
+          }
+        },
+        {
+          "id": "source-17-q8",
+          "label": "Buret",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 40,
+            "high": 42,
+            "value": 41.15,
+            "divisions": 20,
+            "direction": "down",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-17-q9",
+          "label": "Graduated cylinder 3",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 0,
+            "high": 100,
+            "value": 43,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        }
+      ],
+      "questionCount": 9,
+      "answerFields": 9
+    },
+    {
+      "id": "source-18",
+      "title": "Measurement record · units added",
+      "filename": "sig figs 2units.pdf",
+      "sha256": "3bc2bf71fd0d66189147de409da5565bd51c4df8e9f06b43dfea38bbb2f1a00e",
+      "kind": "worksheet",
+      "sourceGroups": 9,
+      "note": "Same nine device types and nine response fields as the initial measurement record. Authored practice views supply the missing instrument context; original measurements and uncertainty notes remain private archive evidence.",
+      "questions": [
+        {
+          "id": "source-18-q1",
+          "label": "Thermometer 1",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "°C",
+            "low": 0,
+            "high": 10,
+            "value": 4.9,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q2",
+          "label": "Thermometer 2",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "°C",
+            "low": 30,
+            "high": 50,
+            "value": 40.5,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q3",
+          "label": "Ruler 1",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "cm",
+            "low": 0,
+            "high": 10,
+            "value": 4.6,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q4",
+          "label": "Ruler 2",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "cm",
+            "low": 9,
+            "high": 10,
+            "value": 9.65,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q5",
+          "label": "Graduated cylinder 1",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 180,
+            "high": 220,
+            "value": 198,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q6",
+          "label": "Graduated cylinder 2",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 50,
+            "high": 60,
+            "value": 52.9,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q7",
+          "label": "Electronic balance",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "digital",
+            "unit": "g",
+            "low": 0,
+            "high": 0,
+            "value": 109.8,
+            "divisions": 10,
+            "direction": "up",
+            "display": "109.80"
+          }
+        },
+        {
+          "id": "source-18-q8",
+          "label": "Buret",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 40,
+            "high": 42,
+            "value": 41.15,
+            "divisions": 20,
+            "direction": "down",
+            "display": ""
+          }
+        },
+        {
+          "id": "source-18-q9",
+          "label": "Graduated cylinder 3",
+          "prompt": "Read this authored practice instrument. Give a measurement with unit and explain the last digit you can reasonably report. For a liquid scale, the marker indicates the bottom of the meniscus.",
+          "fields": [
+            "Measurement, unit and precision explanation"
+          ],
+          "hint": "An analog scale supports an estimated digit beyond its marked divisions; explain your estimate. A digital display supplies its displayed digits, but its calibration uncertainty is not established here.",
+          "figure": {
+            "kind": "scale",
+            "unit": "mL",
+            "low": 0,
+            "high": 100,
+            "value": 43,
+            "divisions": 10,
+            "direction": "up",
+            "display": ""
+          }
+        }
+      ],
+      "questionCount": 9,
+      "answerFields": 9
+    },
+    {
+      "id": "source-19",
+      "title": "Q3 · annotated attempt",
+      "filename": "sigfigs_lect_quiz3.pdf",
+      "sha256": "fd77201748f49aa96f10b150bcd8a3ca0853fc50663670d28470257c03d0a08f",
+      "kind": "worksheet",
+      "sourceGroups": 3,
+      "note": "The annotated Q3 version has the same 20 prompts and 26 blanks. The printed I.g value is 0.000020; handwriting is not used as an answer key.",
+      "questions": [
+        {
+          "id": "source-19-q1",
+          "label": "I.a",
+          "prompt": "Write 43.75 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q2",
+          "label": "I.b",
+          "prompt": "Write 0.000030 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q3",
+          "label": "I.c",
+          "prompt": "Write 60,230,000 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q4",
+          "label": "I.d",
+          "prompt": "Write 220 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q5",
+          "label": "I.e",
+          "prompt": "Write 4,000,100 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q6",
+          "label": "I.f",
+          "prompt": "Write 3300. in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q7",
+          "label": "I.g",
+          "prompt": "Write 0.000020 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q8",
+          "label": "I.h",
+          "prompt": "Write 0.08205 in normalized scientific notation, preserving indicated significant figures. If trailing integer zeros do not specify precision, state your assumption.",
+          "fields": [
+            "Scientific notation and precision assumption"
+          ],
+          "hint": "The coefficient has magnitude at least 1 and less than 10. Preserve significant zeros. An integer ending in zeros without a decimal marker can leave its intended precision ambiguous."
+        },
+        {
+          "id": "source-19-q9",
+          "label": "II.a",
+          "prompt": "Write 3.59 × 10^2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-19-q10",
+          "label": "II.b",
+          "prompt": "Write 6.00 × 10^-2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-19-q11",
+          "label": "II.c",
+          "prompt": "Write 4.376 × 10^8 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-19-q12",
+          "label": "II.d",
+          "prompt": "Write 4.32 × 10^-2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-19-q13",
+          "label": "II.e",
+          "prompt": "Write 4.0 × 10^2 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-19-q14",
+          "label": "II.f",
+          "prompt": "Write 7.3750 × 10^-5 in ordinary decimal notation.",
+          "fields": [
+            "Decimal notation"
+          ],
+          "hint": "Move the decimal point according to the exponent; keep significant trailing zeros when decimal notation can express them."
+        },
+        {
+          "id": "source-19-q15",
+          "label": "III.a",
+          "prompt": "Calculate (5 × 10^4)(1 × 10^2).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-19-q16",
+          "label": "III.b",
+          "prompt": "Calculate (5.4 × 10^2)(3.2 × 10^-3).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-19-q17",
+          "label": "III.c",
+          "prompt": "Calculate (4 × 10^6)/(1 × 10^2).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-19-q18",
+          "label": "III.d",
+          "prompt": "Calculate [(4.86 × 10^5)(5.24 × 10^-4)]/(2.2 × 10^3).",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-19-q19",
+          "label": "III.e",
+          "prompt": "Calculate 13.6075 − 0.90.",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        },
+        {
+          "id": "source-19-q20",
+          "label": "III.f",
+          "prompt": "Calculate 13.2 + 138 + 0.0465.",
+          "fields": [
+            "Calculator value before rounding",
+            "Value with appropriate significant figures"
+          ],
+          "hint": "For multiplication/division use the least significant-figure count. For addition/subtraction use the least precise decimal place. Round only at the end."
+        }
+      ],
+      "questionCount": 20,
+      "answerFields": 26
+    }
+  ]
+}

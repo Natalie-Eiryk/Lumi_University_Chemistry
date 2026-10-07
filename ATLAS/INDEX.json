@@ -1,0 +1,19 @@
+{
+  "format": "lumi-subject-atlas-index/1",
+  "subject": "chemistry",
+  "dewey": "540",
+  "contentManifest": "../CONTENT_MANIFEST.json",
+  "authoritativeHistory": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/references/history.json",
+  "nativeHistoryFormat": "luminara-module-reference-history/1",
+  "moduleId": "LU-CHEM-IONS-001",
+  "engineRepository": "https://github.com/Natalie-Eiryk/Lumi_University.git",
+  "collections": {
+    "workbook": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/",
+    "ions": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/",
+    "adventure": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/adventure/",
+    "q13": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/q13-scaffolds/",
+    "unitII": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/",
+    "elements": "../Luminara_Teaching_Room/10-sources/reviewed-element-reference/",
+    "periodicWorkbench": "../Chemistry/periodic_workbench_packet/"
+  }
+}

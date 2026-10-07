@@ -1,0 +1,1348 @@
+{
+  "schema": "luminara-chemistry-folder-content/1",
+  "version": "0.2.0",
+  "archive": {
+    "filename": "Chem_1117_F2026.zip",
+    "sha256": "984ee412c7bae079071ab79dc8980a3ae675da6cf6570cdf85860d9f791a6af6",
+    "pdfCount": 19,
+    "pageCount": 40,
+    "viewablePages": 39,
+    "folderSequenceVerified": false,
+    "syllabusIncluded": false,
+    "publicRightsVerified": false
+  },
+  "documents": [
+    {
+      "id": "source-01",
+      "title": "Annotated safety lab",
+      "filename": "01 Laboratory Safety 2024 - haugen.pdf",
+      "path": "Chem_1117_F2026/01 Laboratory Safety 2024 - haugen.pdf",
+      "sha256": "9a763667ab25d6a3d336029a81a18e0a14eca26abc772db0a6604c830c4d8ec8",
+      "bytes": 642962,
+      "tier": "Learner annotations over course handout",
+      "topic": "safety",
+      "pages": [
+        {
+          "id": "source-01-p01",
+          "number": 1,
+          "image": "source-01-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-01-p02",
+          "number": 2,
+          "image": "source-01-p02.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-01-p03",
+          "number": 3,
+          "image": "source-01-p03.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-01-p04",
+          "number": 4,
+          "image": "source-01-p04.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-02",
+      "title": "Safety lab · unfilled",
+      "filename": "01 Laboratory Safety 2024.pdf",
+      "path": "Chem_1117_F2026/01 Laboratory Safety 2024.pdf",
+      "sha256": "42dcc57c7e327a94c90cf5dfe84274985a28c163ab6a1bc58d40398a510bd39c",
+      "bytes": 211571,
+      "tier": "Course handout with highlighting",
+      "topic": "safety",
+      "pages": [
+        {
+          "id": "source-02-p01",
+          "number": 1,
+          "image": "source-02-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-02-p02",
+          "number": 2,
+          "image": "source-02-p02.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-02-p03",
+          "number": 3,
+          "image": "source-02-p03.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-02-p04",
+          "number": 4,
+          "image": "source-02-p04.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-03",
+      "title": "Fun with Polymers",
+      "filename": "03 Polymer Lab Data Sheet 2024.pdf",
+      "path": "Chem_1117_F2026/03 Polymer Lab Data Sheet 2024.pdf",
+      "sha256": "dc1f310fee8aa7d74268eaabc051005a154639148b8f5d6d2b19c2ae7c7ee83c",
+      "bytes": 135225,
+      "tier": "Course laboratory handout",
+      "topic": "polymers",
+      "pages": [
+        {
+          "id": "source-03-p01",
+          "number": 1,
+          "image": "source-03-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-03-p02",
+          "number": 2,
+          "image": "source-03-p02.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-03-p03",
+          "number": 3,
+          "image": "source-03-p03.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-03-p04",
+          "number": 4,
+          "image": "source-03-p04.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-04",
+      "title": "Q3 · scientific notation · blank",
+      "filename": "1117_20Q3_20Scientific_20Notation_202024_20-_20Copy.pdf",
+      "path": "Chem_1117_F2026/1117_20Q3_20Scientific_20Notation_202024_20-_20Copy.pdf",
+      "sha256": "2675f93b7cbb322cc39988844d9d95ad9d1f04c34c9a221c5e441d0ff7519a9e",
+      "bytes": 88339,
+      "tier": "Printed course worksheet",
+      "topic": "notation",
+      "pages": [
+        {
+          "id": "source-04-p01",
+          "number": 1,
+          "image": "source-04-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-05",
+      "title": "Q9 · electron configuration · blank",
+      "filename": "1117_20Q9_20Electron_20Configuration_20II_202024.pdf",
+      "path": "Chem_1117_F2026/1117_20Q9_20Electron_20Configuration_20II_202024.pdf",
+      "sha256": "77640e17406a78e332ffcfeaa8946cc4a2a3ee89d47a403d8673c01db47cf2fd",
+      "bytes": 78123,
+      "tier": "Printed course worksheet",
+      "topic": "electrons",
+      "pages": [
+        {
+          "id": "source-05-p01",
+          "number": 1,
+          "image": "source-05-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-06",
+      "title": "Significant digits · number record",
+      "filename": "Adobe Scan Sep 1, 2026.pdf",
+      "path": "Chem_1117_F2026/Adobe Scan Sep 1, 2026.pdf",
+      "sha256": "40396f13bf141a59ea5d4d69e48ee557bf0a67c9da152c4d402478d81ca65915",
+      "bytes": 202689,
+      "tier": "Learner handwritten number table",
+      "topic": "measurement",
+      "pages": [
+        {
+          "id": "source-06-p01",
+          "number": 1,
+          "image": "source-06-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-07",
+      "title": "Chapter 1 · end-of-chapter questions",
+      "filename": "CH01_End_of_Chapter_Qs.pdf",
+      "path": "Chem_1117_F2026/CH01_End_of_Chapter_Qs.pdf",
+      "sha256": "6b9343d869408a94cff0e14ef6023f99b187d9cc0640b35a91a888d28057b230",
+      "bytes": 2005026,
+      "tier": "Textbook problem-page excerpt",
+      "topic": "particles",
+      "pages": [
+        {
+          "id": "source-07-p01",
+          "number": 1,
+          "image": "source-07-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-07-p02",
+          "number": 2,
+          "image": "source-07-p02.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-07-p03",
+          "number": 3,
+          "image": "source-07-p03.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-07-p04",
+          "number": 4,
+          "image": "source-07-p04.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-08",
+      "title": "Fence-post layouts · annotated",
+      "filename": "Dim_fen.pdf",
+      "path": "Chem_1117_F2026/Dim_fen.pdf",
+      "sha256": "33da50705193632933dabb4771abf7b8c7fffeb5452b33cad229aa4c9f8297cb",
+      "bytes": 1545052,
+      "tier": "Learner worked setups over printed questions",
+      "topic": "fence",
+      "pages": [
+        {
+          "id": "source-08-p01",
+          "number": 1,
+          "image": "source-08-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-08-p02",
+          "number": 2,
+          "image": "source-08-p02.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-08-p03",
+          "number": 3,
+          "image": "source-08-p03.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-08-p04",
+          "number": 4,
+          "image": "source-08-p04.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-09",
+      "title": "Q4 · dimensional analysis",
+      "filename": "Q4Dim_Analysis.pdf",
+      "path": "Chem_1117_F2026/Q4Dim_Analysis.pdf",
+      "sha256": "dab9d6a93b4e604c9bafbd5409be708ef8a7c366307bff021747f540ebef0c3d",
+      "bytes": 577797,
+      "tier": "Printed prompts/answers with learner work",
+      "topic": "fence",
+      "pages": [
+        {
+          "id": "source-09-p01",
+          "number": 1,
+          "image": "source-09-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-09-p02",
+          "number": 2,
+          "image": "source-09-p02.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-10",
+      "title": "Q6 · isotopes",
+      "filename": "Q6Isotopes.pdf",
+      "path": "Chem_1117_F2026/Q6Isotopes.pdf",
+      "sha256": "3bbb4928b32a927c1deef7d7e6d12c41713532a3e96548855323fd411271327c",
+      "bytes": 252672,
+      "tier": "Printed worksheet with learner entries",
+      "topic": "isotopes",
+      "pages": [
+        {
+          "id": "source-10-p01",
+          "number": 1,
+          "image": "source-10-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-11",
+      "title": "Q9 · with orbital drawings",
+      "filename": "Q9_Electron_configII_w_Orbital.pdf",
+      "path": "Chem_1117_F2026/Q9_Electron_configII_w_Orbital.pdf",
+      "sha256": "dd29367719be5c022cf7bd5d2172df07356694b3d4c48dec2cd6b8a3ea29b0b8",
+      "bytes": 320320,
+      "tier": "Learner annotated representation work",
+      "topic": "electrons",
+      "pages": [
+        {
+          "id": "source-11-p01",
+          "number": 1,
+          "image": "source-11-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-12",
+      "title": "Electron configuration tutorial",
+      "filename": "Tut_Elect_Config.pdf",
+      "path": "Chem_1117_F2026/Tut_Elect_Config.pdf",
+      "sha256": "ef76b3984dfc7f23c36947c4bd70dc3fc0ab9ef2161200bf4af39874909ff2e0",
+      "bytes": 565247,
+      "tier": "Learner annotated tutorial problem set",
+      "topic": "electrons",
+      "pages": [
+        {
+          "id": "source-12-p01",
+          "number": 1,
+          "image": "source-12-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-12-p02",
+          "number": 2,
+          "image": "source-12-p02.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-13",
+      "title": "Bouncy balls · observations",
+      "filename": "bouncy-balls.pdf",
+      "path": "Chem_1117_F2026/bouncy-balls.pdf",
+      "sha256": "4b7828d2502c115d7f3765b956fb210c8b99dc5c222188fdddfbafb49eaed186",
+      "bytes": 1137549,
+      "tier": "Learner laboratory observations; personal photo archived only",
+      "topic": "polymers",
+      "pages": [
+        {
+          "id": "source-13-p01",
+          "number": 1,
+          "image": "source-13-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-13-p02",
+          "number": 2,
+          "withheld": true,
+          "reason": "Personal lab photograph retained in the original PDF/archive; not reproduced in the study interface."
+        }
+      ]
+    },
+    {
+      "id": "source-14",
+      "title": "Dimensional analysis · earlier attempt",
+      "filename": "dim_analysis.pdf",
+      "path": "Chem_1117_F2026/dim_analysis.pdf",
+      "sha256": "115852455e83222e15e9ad4e3a0a2cfc1999a90a445a95e4df7569c97128a1c2",
+      "bytes": 1719320,
+      "tier": "Learner working over tutorial questions",
+      "topic": "fence",
+      "pages": [
+        {
+          "id": "source-14-p01",
+          "number": 1,
+          "image": "source-14-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-14-p02",
+          "number": 2,
+          "image": "source-14-p02.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-14-p03",
+          "number": 3,
+          "image": "source-14-p03.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-15",
+      "title": "Periodicity & groups",
+      "filename": "periodic_table_periodicity_and_Groups.pdf",
+      "path": "Chem_1117_F2026/periodic_table_periodicity_and_Groups.pdf",
+      "sha256": "d8ac8a2e6f9647732e3f6496fda9f1496f76091f6809926ce8116bd0301d2121",
+      "bytes": 454514,
+      "tier": "Printed prompts with learner trend notes",
+      "topic": "periodicity",
+      "pages": [
+        {
+          "id": "source-15-p01",
+          "number": 1,
+          "image": "source-15-p01.jpg",
+          "withheld": false
+        },
+        {
+          "id": "source-15-p02",
+          "number": 2,
+          "image": "source-15-p02.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-16",
+      "title": "Q9 · configuration notes",
+      "filename": "q9_electron_configII.pdf",
+      "path": "Chem_1117_F2026/q9_electron_configII.pdf",
+      "sha256": "8c3a3b340c8236f646700da957459f31d157e3501cef2aa80ac8c7d43d972bee",
+      "bytes": 267666,
+      "tier": "Learner annotated representation work",
+      "topic": "electrons",
+      "pages": [
+        {
+          "id": "source-16-p01",
+          "number": 1,
+          "image": "source-16-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-17",
+      "title": "Measurement record · initial",
+      "filename": "sig figs 2.pdf",
+      "path": "Chem_1117_F2026/sig figs 2.pdf",
+      "sha256": "2df3fef731b0fa4e6b725719b387949603c2e8cb4ab62118d117ee32c402da34",
+      "bytes": 213253,
+      "tier": "Learner measurements; instrument images absent",
+      "topic": "measurement",
+      "pages": [
+        {
+          "id": "source-17-p01",
+          "number": 1,
+          "image": "source-17-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-18",
+      "title": "Measurement record · units added",
+      "filename": "sig figs 2units.pdf",
+      "path": "Chem_1117_F2026/sig figs 2units.pdf",
+      "sha256": "3bc2bf71fd0d66189147de409da5565bd51c4df8e9f06b43dfea38bbb2f1a00e",
+      "bytes": 284076,
+      "tier": "Learner measurements with units; instrument images absent",
+      "topic": "measurement",
+      "pages": [
+        {
+          "id": "source-18-p01",
+          "number": 1,
+          "image": "source-18-p01.jpg",
+          "withheld": false
+        }
+      ]
+    },
+    {
+      "id": "source-19",
+      "title": "Q3 · annotated attempt",
+      "filename": "sigfigs_lect_quiz3.pdf",
+      "path": "Chem_1117_F2026/sigfigs_lect_quiz3.pdf",
+      "sha256": "fd77201748f49aa96f10b150bcd8a3ca0853fc50663670d28470257c03d0a08f",
+      "bytes": 273264,
+      "tier": "Learner answers over printed worksheet",
+      "topic": "notation",
+      "pages": [
+        {
+          "id": "source-19-p01",
+          "number": 1,
+          "image": "source-19-p01.jpg",
+          "withheld": false
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "id": "particles",
+      "title": "The particles keep their story",
+      "subtitle": "Matter and change · Chapter 1 picture questions",
+      "pages": [
+        "source-07-p01"
+      ],
+      "opening": "Seatbelts, everyone. These circles are not decorations beside the question; they are part of the evidence. Start by following one pictured group from left to right. We can keep the drawing open while deciding what the words ask us to notice.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-07-p01",
+          "question": "Choose one pictured sample in 1.1. Describe its visible groups before naming its category.",
+          "pre": "Let the picture speak before the label arrives. Which marks are alike, and which are drawn together? You may write a few fragments instead of a definition.",
+          "post": "Now keep that description available. A label should account for those observations rather than make you stop looking at them.",
+          "rails": [
+            "Point to one group.",
+            "Describe what repeats and what differs.",
+            "Separate what the drawing shows from an assumption you are adding."
+          ],
+          "quote": "Classify each example of molecular art as a pure element, a pure compound, or a mixture.",
+          "where": "Problem 1.1",
+          "id": "particles-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-07-p01",
+          "question": "In 1.3, compare two of the pictures. What feature would you use to defend a different classification?",
+          "pre": "The page offers near neighbors: same style of drawing, different arrangements. A comparison can make the distinction easier to name than examining either picture alone.",
+          "post": "Return to the earlier Unit I chart if its vocabulary helps. That chart is still in this application; your first notebook has not been replaced.",
+          "rails": [
+            "Choose exactly two pictures.",
+            "Identify one difference that matters to the question.",
+            "Say why that difference would change your label."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "particles-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-07-p01",
+          "question": "Choose an arrow in 1.4. Which physical/chemical distinction from the earlier workbook are you using?",
+          "pre": "We have a before and an after. Do not let the arrow itself decide the category; explain what changed across it.",
+          "post": "The label is a conclusion about the picture. Keep the detail that supports it beside the label.",
+          "rails": [
+            "Read the question’s two categories.",
+            "Track one pictured group through the change.",
+            "Use your Unit I composition criterion in your own words."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "particles-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-07-p01",
+          "question": "Compare the dry-ice illustration in 1.7 with the ammonia illustration in 1.8. What would a rule based only on appearance miss?",
+          "pre": "The two questions make a useful pair. One shows a solid becoming a gas; the next includes heat and a metal. Read each caption instead of treating either cue as the whole explanation.",
+          "post": "This comparison is built from the two actual problems. It is not an extra claim about what every change must look like.",
+          "rails": [
+            "Describe the before and after in each.",
+            "Ask whether the same pictured units persist.",
+            "Explain which observation your classification relies on."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "particles-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-07-p01",
+          "question": "Write a reusable question you can ask the next particle picture.",
+          "pre": "Leave yourself a method rather than a list of letters. What could you inspect even when the colors or arrangement look unfamiliar?",
+          "post": "A good return note is small enough to use again. Keep one specific picture as its anchor.",
+          "rails": [
+            "Start “Before I name it, I look for…”",
+            "Attach one example number.",
+            "Record any detail the diagram does not resolve."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "particles-5"
+        }
+      ],
+      "tool": null
+    },
+    {
+      "id": "notation",
+      "title": "A number changes clothes",
+      "subtitle": "Q3 · value, notation, and reporting",
+      "pages": [
+        "source-04-p01",
+        "source-19-p01"
+      ],
+      "opening": "The digits are changing address, not necessarily changing the quantity. Q3 asks three different jobs: scientific notation, “real” numbers, then a calculator result beside a rounded report. We will keep those jobs apart so a formatting decision does not swallow the numerical idea.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-04-p01",
+          "question": "Compare 43.75 and 0.000030 in Part I. What must your new notation preserve?",
+          "pre": "We can look at both numbers without calculating anything yet. Tell me what is being rewritten and what you expect to remain the same.",
+          "post": "Your explanation can begin with size and place, before the phrase scientific notation comes readily.",
+          "rails": [
+            "Choose one number.",
+            "Say roughly how large it is.",
+            "Name what you want an alternate writing to preserve."
+          ],
+          "quote": "Write these numbers in scientific notation using the correct number of “sig fig”",
+          "where": "Part I",
+          "id": "notation-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-04-p01",
+          "question": "Use the Number lens on one Part I item. What happens to its value if you change the exponent but not the coefficient?",
+          "pre": "A small control experiment with notation can reveal the relationship. The Number lens checks numerical equivalence; it does not certify the course’s significant-figure decision.",
+          "post": "Bring the result back to the written number. A matching calculator value and a correctly reported measurement are different checks.",
+          "rails": [
+            "Record the original number.",
+            "Try a coefficient and exponent.",
+            "Use the computed value to explain, not merely accept, the result."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "notation-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-04-p01",
+          "question": "In Part III, explain why there are two answer blanks.",
+          "pre": "The page is telling us how it wants the work shown. One box preserves the calculation; another records the reporting decision. Which would you inspect first if your final answer differed?",
+          "post": "This is useful error-location language: calculation, then reporting. It need not become a verdict on your understanding of both at once.",
+          "rails": [
+            "Read the instruction above Part III.",
+            "Label each blank’s job.",
+            "Give an example of a question you would ask each blank."
+          ],
+          "quote": "put your calculator answer in the first blank and the answer rounded to the correct number of “sig fig” in the second blank.",
+          "where": "Part III",
+          "id": "notation-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-19-p01",
+          "question": "Compare your earlier Part III notes with the blank worksheet. Which mark describes a calculation and which describes your rounding rule?",
+          "pre": "Your earlier page has its own reasoning trace. Treat the marginal rules as things to examine, not as a hidden instructor key. You can switch to the blank source without losing this response.",
+          "post": "Where a rule is unclear, save a question with its example number. We will not silently turn an uncertain note into an automatic scoring rule.",
+          "rails": [
+            "Locate the marginal note beside III.",
+            "Connect it to one operation.",
+            "State what would need confirming with the instructor."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "notation-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-04-p01",
+          "question": "What short two-check routine would help you with the next Q3-style item?",
+          "pre": "A useful anchor might name the quantity check and the reporting check separately. Use your own words; you are building a handle, not reciting mine.",
+          "post": "Your answer remains alongside the source in the notebook. Recalling a name later can be a separate practice session.",
+          "rails": [
+            "Name your first check.",
+            "Name your second check.",
+            "Choose one item to revisit without its earlier answer."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "notation-5"
+        }
+      ],
+      "tool": "number"
+    },
+    {
+      "id": "measurement",
+      "title": "The unit returns to the measurement",
+      "subtitle": "Recorded readings, significant digits, and missing instrument views",
+      "pages": [
+        "source-06-p01",
+        "source-17-p01",
+        "source-18-p01",
+        "source-07-p01"
+      ],
+      "opening": "Here are two versions of your measurement record. The later page gives the numbers their units. Let us keep both: one shows what you first recorded, and the other shows what you added. A revision is part of the learning evidence, not a file to throw away.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-17-p01",
+          "question": "Choose a row. What can you tell from the number alone, and what remains unspecified?",
+          "pre": "There are measuring-device names, numerical entries, and uncertainty-like markings. Start with a single row and separate what is written from what you would have to infer.",
+          "post": "The actual device views for this record are not supplied. We cannot independently re-read a ruler or cylinder that is not pictured.",
+          "rails": [
+            "Read the device name.",
+            "Copy only the visible numerical description.",
+            "List information you would still need."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "measurement-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-18-p01",
+          "question": "Compare the same row with the units-added version. What does the new information make interpretable?",
+          "pre": "We have changed the record, not rerun the measurement. What job does the added unit perform?",
+          "post": "That is the bridge from a string of digits to a measured quantity. The paired pages remain separate sources.",
+          "rails": [
+            "Choose the same device in both versions.",
+            "Identify the added unit.",
+            "Explain a misunderstanding that the unit prevents."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "measurement-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-06-p01",
+          "question": "Choose one row in the significant-digits table. Can you explain the count you wrote rather than simply repeat it?",
+          "pre": "Your handwritten count is an earlier answer to inspect. The uploaded page supplies the table but not a complete printed rule set, so we will not grade other counts against an invented course policy.",
+          "post": "Name recall, rule recall, and explaining a particular number may not arrive at the same time. Keep track of which is difficult.",
+          "rails": [
+            "Choose a row with zeros.",
+            "Identify which written places you treated as meaningful.",
+            "Record the rule you think you used and where to verify it."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "measurement-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-07-p01",
+          "question": "Look at the pictured thermometer or crayon in Chapter 1. What evidence is available here that was absent from your measurement record?",
+          "pre": "Now the measuring scale is visible. Let the original illustration remain beside you and state what you could inspect directly.",
+          "post": "Do not transfer a recorded precision from a different instrument simply because both questions ask for a measurement.",
+          "rails": [
+            "Find the graduation marks.",
+            "Describe what the question asks you to report.",
+            "Distinguish reading the scale from converting the unit."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "measurement-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-18-p01",
+          "question": "Write a “measurement with its meaning intact” checklist for yourself.",
+          "pre": "Keep it short enough to use beside a lab record. What pieces must travel together?",
+          "post": "A missing unit is a repairable feature of a record. This desk preserves the earlier form so you can see the repair.",
+          "rails": [
+            "Include the quantity.",
+            "Include its unit and your reporting decision.",
+            "Leave a question for any precision rule not established by these pages."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "measurement-5"
+        }
+      ],
+      "tool": null
+    },
+    {
+      "id": "fence",
+      "title": "Let the units show the route",
+      "subtitle": "Dimensional analysis · preserve the fence-post method",
+      "pages": [
+        "source-08-p01",
+        "source-08-p02",
+        "source-08-p04",
+        "source-09-p01",
+        "source-09-p02",
+        "source-14-p01",
+        "source-14-p03"
+      ],
+      "opening": "The fence posts are not decoration around an answer. They make each conversion visible. Your archive includes an earlier working page, a more structured fence-post version, and Q4 with printed answers. That gives us a place to study the route rather than race to the destination.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-09-p01",
+          "question": "What does the Q4 instruction say will be graded? Which part of your work must remain visible even when an answer is supplied?",
+          "pre": "The instructions here settle a practical question about this course’s method. Read them before choosing an example. We can study the path even when the destination is printed.",
+          "post": "This desk is preparation, not an assignment solver. Your own fence-post reasoning remains the work to be shown.",
+          "rails": [
+            "Locate the bold instruction.",
+            "Separate answer availability from method evidence.",
+            "Name one feature of the setup you intend to show."
+          ],
+          "quote": "I have given you the answers, I am grading your work. All problems must be solved utilizing Dimensional Analysis. DO NOT google your conversion factors.",
+          "where": "Q4 heading",
+          "id": "fence-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-08-p01",
+          "question": "For the college-application question (#4), describe the route from the requested acceptances to hours.",
+          "pre": "This example supplies the relationships inside the paragraph. Follow the nouns: acceptances, applications, essays, hours. Each factor should tell you why the next noun belongs.",
+          "post": "Those relationships form the worksheet’s model. They are not a real-world guarantee of college acceptance.",
+          "rails": [
+            "Underline the given relationships.",
+            "Name a starting quantity and a target unit.",
+            "Use the Fence-post bench to inspect one setup you enter."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "fence-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-08-p01",
+          "question": "Use the pizza question (#5). What does each denominator cancel, and why is the final unit appropriate?",
+          "pre": "The pizza bill is still a dimensional-analysis problem. A number may look plausible while its unit route is not. Explain both.",
+          "post": "The bench checks literal unit algebra and your entered arithmetic. It cannot verify a conversion fact you have typed or certify rounding.",
+          "rails": [
+            "Read the per-person and per-pizza quantities.",
+            "Place units above and below each bar.",
+            "Explain the meaning of the surviving unit."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "fence-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-08-p04",
+          "question": "Compare #19 and #20. Where does the dimensionality of area or volume show up in your setup?",
+          "pre": "These are on the same page but are not simply another length conversion. Inspect how the handwritten factors represent the quantity the question actually asks about.",
+          "post": "A unit ledger can help you catch an unmatched power. It cannot decide the physical model for you.",
+          "rails": [
+            "Read the exponent attached to the starting unit.",
+            "Find each matching conversion in the setup.",
+            "State why the target is not a length."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "fence-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-14-p01",
+          "question": "Compare one of your earlier setups with Dim_fen.pdf. What has become easier to check?",
+          "pre": "We are not deciding which page belongs in the bin. We are recovering the useful change between attempts.",
+          "post": "Carry one practical revision into the next problem: a visible unit, a target, a missing factor, or a clearer fence-post line.",
+          "rails": [
+            "Choose the same numbered question in both files.",
+            "Identify one layout or reasoning difference.",
+            "Write the next check you will perform before final rounding."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "fence-5"
+        }
+      ],
+      "tool": "fence"
+    },
+    {
+      "id": "isotopes",
+      "title": "One element, a weighted crowd",
+      "subtitle": "Q6 · identity bookkeeping and relative abundance",
+      "pages": [
+        "source-10-p01"
+      ],
+      "opening": "The first table asks who the atom is; the second asks what a population contributes to an average. Your page already explores the average two ways. We can let each route explain the other instead of making you memorize a disconnected formula.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-10-p01",
+          "question": "Choose a row of the first table. Which quantities are given in print and which did you supply in handwriting?",
+          "pre": "Before checking the numbers, locate the evidence. The typography matters here: a blank worksheet prompt and your previous entry have different roles.",
+          "post": "Do not promote an earlier answer to a definition. Mark the relationship you used and what would confirm it.",
+          "rails": [
+            "Read the column headings.",
+            "Separate a printed value from a handwritten one.",
+            "Describe which entries you think constrain one another."
+          ],
+          "quote": "Fill in the following table.",
+          "where": "Q6 question 1",
+          "id": "isotopes-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-10-p01",
+          "question": "In question 2, why would giving each isotope one equal vote differ from using the percentages?",
+          "pre": "Imagine the listed isotopes as three groups arriving with different numbers of passengers. The worksheet gives each group a share of the population; it does not say there are equal-sized groups.",
+          "post": "The passenger image is a learning metaphor for weighting. It is not an additional physical claim about the fictional element.",
+          "rails": [
+            "Locate the three percentages.",
+            "Say which group is most represented.",
+            "Explain why an ordinary mean of the three labels ignores information."
+          ],
+          "quote": "Unk-33 28.5 %; Unk-35 55.6%; Unk-37 15.9%",
+          "where": "Q6 question 2 · table transcribed",
+          "id": "isotopes-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-10-p01",
+          "question": "Use the Abundance bench to connect each fraction to its contribution. What is the sum doing?",
+          "pre": "Here the arithmetic can be visible without taking away your explanation. The bench uses the worksheet’s fictional integer-mass model and labels its result as arithmetic, not an official rounded answer.",
+          "post": "If the percentages do not total 100, the bench will not quietly renormalize them. Missing representation is something to notice.",
+          "rails": [
+            "Explain one percentage as a fraction.",
+            "Multiply it by that row’s model mass.",
+            "Describe what adding the weighted contributions means."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "isotopes-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-10-p01",
+          "question": "Your notes also use 33 as a baseline and add differences. How does that connect to the direct weighted sum?",
+          "pre": "Stay with the two routes on your own page. One starts with each mass; another starts from a common reference. Ask what is preserved between them.",
+          "post": "This is the kind of connection a physicist can use as an anchor. You still need to show the method requested for the course task.",
+          "rails": [
+            "Locate the baseline in your notes.",
+            "Identify the increments above it.",
+            "Explain why the fractions matter in both routes."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "isotopes-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-10-p01",
+          "question": "What could you check about a proposed average before trusting the last digit?",
+          "pre": "Write a check you can explain from this table’s particular values and proportions. Do not make the last decimal place carry the entire understanding.",
+          "post": "Keep the final reporting convention as a separate question if it is unclear. The handwritten rounded value is a prior learner entry, not an instructor key.",
+          "rails": [
+            "Compare the result with the listed masses.",
+            "Relate it to the more abundant group.",
+            "Record your rounding question separately from the weighting idea."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "isotopes-5"
+        }
+      ],
+      "tool": "abundance"
+    },
+    {
+      "id": "electrons",
+      "title": "Three views of one row",
+      "subtitle": "Configuration → orbital notation → Lewis dots",
+      "pages": [
+        "source-05-p01",
+        "source-11-p01",
+        "source-12-p01",
+        "source-12-p02",
+        "source-16-p01"
+      ],
+      "opening": "Three columns, not three unrelated memory tests. Your Q9 asks for configuration, orbital notation, and a Lewis-dot diagram, using shorthand. The blank page and both annotated versions stay available. We will examine how you move between representations without treating every handwritten row as a settled answer.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-05-p01",
+          "question": "What three representations does Q9 request? What does “USE THE SHORTHAND NOTATION” ask you to make visible?",
+          "pre": "Choose a row before attempting the whole page. Name the job of each requested representation, or write what you currently think that job is.",
+          "post": "The Three-view bench gives each representation its own field and keeps the source visible. It does not fill the row for you.",
+          "rails": [
+            "Read the instruction.",
+            "Choose one element row.",
+            "Identify what information you expect in each column."
+          ],
+          "quote": "Write the electron configuration, orbital notation, and Lewis Dot diagram for the following elements, USE THE SHORTHAND NOTATION.",
+          "where": "Q9 instruction",
+          "id": "electrons-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-11-p01",
+          "question": "Compare one completed row with the blank prompt. Which symbols are doing different jobs?",
+          "pre": "The brackets, superscripts, arrows, and dots need not be memorized as a single picture. Follow one mark at a time and describe what you think it encodes.",
+          "post": "Switch to the other annotated Q9 page when useful; your current explanation stays in place.",
+          "rails": [
+            "Locate the bracketed part.",
+            "Locate an exponent and an arrow group.",
+            "Say what you think remains the same across those forms."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "electrons-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-12-p01",
+          "question": "Choose a tutorial row also present in Q9. Can the tutorial help you explain your representation rather than merely copy it?",
+          "pre": "The tutorial is another worked learning record, not an automatically trusted answer key. A copied row becomes useful only when its marks can be explained.",
+          "post": "The app keeps unresolved configurations and Lewis-dot conventions out of automatic correctness scoring. Matching an electron total alone would not settle every question.",
+          "rails": [
+            "Pick Mg, P, or Rb in both sources.",
+            "Compare the configuration and orbital drawings.",
+            "Record the rule you are using and its source."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "electrons-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-12-p02",
+          "question": "Choose a less familiar row. Which part of your familiar-row method transfers, and which part needs confirmation?",
+          "pre": "A change of element can reveal where a remembered picture was standing in for a rule. Keep the source close while naming that boundary.",
+          "post": "Do not erase an uncertain row by replacing it with a confident generic rule. A specific question about an exception or dot convention is useful work.",
+          "rails": [
+            "Name the transferable step.",
+            "Identify the first uncertain step.",
+            "Save an exact row and symbol for follow-up."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "electrons-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-05-p01",
+          "question": "Leave yourself a three-view explanation for one chosen element, with uncertainty marked where it belongs.",
+          "pre": "Your future self needs more than the completed marks. Add one sentence connecting them, and one question if the connection still has a gap.",
+          "post": "This is practice for constructing a representation. Name recall can be revisited separately.",
+          "rails": [
+            "Record the element.",
+            "Describe the link between two representations.",
+            "Keep a pending convention or exception visible."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "electrons-5"
+        }
+      ],
+      "tool": "representations"
+    },
+    {
+      "id": "periodicity",
+      "title": "Name the question before drawing the arrow",
+      "subtitle": "Periodicity notes · process, direction, and scope",
+      "pages": [
+        "source-15-p01",
+        "source-15-p02"
+      ],
+      "opening": "The page is full of arrows, but an arrow without its property can become a very persuasive wrong answer. Start with the question each heading asks. We will read the accompanying words and the sketches together—and preserve places where they do not yet form a clear rule.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-15-p01",
+          "question": "What does the printed definition of chemical periodicity ask you to connect?",
+          "pre": "Look at the relationship in the printed sentence before examining a particular trend. Position and property are the two things the page brings together.",
+          "post": "The subsequent arrows are your annotation layer. A direction is not promoted to course authority merely because it is on this sheet.",
+          "rails": [
+            "Read the printed definition.",
+            "Name the two things being related.",
+            "Choose one heading to investigate."
+          ],
+          "quote": "the variation in properties of elements with their position on the periodic table.",
+          "where": "Chemical Periodicity",
+          "id": "periodicity-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-15-p01",
+          "question": "Compare the words beside first ionization energy and electronegativity. Are they describing the same question?",
+          "pre": "The names may sound related. Read the accompanying phrases and explain the difference you think the notes intend.",
+          "post": "Where the note is abbreviated or ambiguous, record your reading as an interpretation. We have not imported an outside rule set to resolve it silently.",
+          "rails": [
+            "Locate each heading.",
+            "Describe the process each note refers to.",
+            "Write one difference before choosing directions."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "periodicity-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-15-p01",
+          "question": "Choose one arrow diagram. What property and direction of travel must be named for its arrow to make sense?",
+          "pre": "An arrow has an address: a property, a starting comparison, and a direction along the table. Give it that address.",
+          "post": "This is a note-reading exercise, not a universal trend quiz built from every mark on the page.",
+          "rails": [
+            "Identify the property.",
+            "Say whether you are moving across or down.",
+            "Explain what “increases” would mean for that comparison."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "periodicity-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-15-p02",
+          "question": "What would you ask before applying the boiling-point arrows to every element?",
+          "pre": "The page gives a heading and a short note, but little stated scope. A careful question can be more useful than expanding the note into a law.",
+          "post": "That unresolved scope remains visible. We do not fill it from general chemistry while calling the result your instructor’s rule.",
+          "rails": [
+            "Read exactly what is written.",
+            "Identify any missing comparison or group.",
+            "Write a question that would establish the scope."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "periodicity-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-15-p02",
+          "question": "Which one trend do you feel able to explain, and which one needs a source clarification?",
+          "pre": "You can understand one relationship without declaring the entire page settled. Leave a small map of what is solid and what still needs a bridge.",
+          "post": "A clear uncertainty note is something you can take to class. It is not graded here as failure.",
+          "rails": [
+            "Name one property.",
+            "State the comparison you can defend from your source.",
+            "Name the next question you would ask."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "periodicity-5"
+        }
+      ],
+      "tool": null
+    },
+    {
+      "id": "safety",
+      "title": "A rule needs a reason",
+      "subtitle": "Safety narrative and cartoon · discussion preparation",
+      "pages": [
+        "source-02-p01",
+        "source-02-p02",
+        "source-02-p03",
+        "source-02-p04",
+        "source-01-p02",
+        "source-01-p03"
+      ],
+      "opening": "The scene is busy enough to tempt a quick hunt for “bad behavior.” Slow the picture down. Choose one action, identify what the scenario says, and ask what consequence a safety rule is meant to prevent. This is conceptual preparation; it does not replace the instructor’s video or complete the lab attestation.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-02-p01",
+          "question": "Which required resource does the safety handout say to use before completing the worksheets?",
+          "pre": "There is a source boundary here: the handout points to a D2L safety video that is not in this archive. Read the instruction without pretending the missing video has been watched.",
+          "post": "The application never signs a safety attestation, certifies a workspace, or grants permission to perform an experiment.",
+          "rails": [
+            "Locate the video instruction.",
+            "Distinguish reading this PDF from completing that requirement.",
+            "Record a question the missing video should resolve."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "safety-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-02-p02",
+          "question": "Choose one action in the cartoon. Describe it before labeling it correct or incorrect.",
+          "pre": "One action at a time gives your reasoning somewhere to stand. Describe the object, the person’s action, and the nearby condition.",
+          "post": "The unfilled sheet stays available before the annotated version. The annotated sheet is your prior record, not a certified safety key.",
+          "rails": [
+            "Point to one part of the cartoon.",
+            "Describe the action without a verdict.",
+            "Explain the kind of harm or protection you would examine."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "safety-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-02-p03",
+          "question": "Find one point in the narrative where a decision changes what happens next. Which rule would you connect to it?",
+          "pre": "The story contains sequences as well as isolated actions. Follow a decision into its consequence instead of just collecting underlined words.",
+          "post": "Your written explanation remains yours. No numbered worksheet responses are generated.",
+          "rails": [
+            "Choose a single sentence.",
+            "Name the decision.",
+            "Connect it to the reason for a rule in your course safety material."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "safety-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-01-p03",
+          "question": "Compare your earlier annotations with the unfilled narrative. Is there one marked action whose explanation you would now sharpen?",
+          "pre": "Revision here means making the reason clearer, not manufacturing a more dramatic hazard. Keep the actual scenario in view.",
+          "post": "If the relevant safety instruction is missing, ask for it rather than improvise a procedure.",
+          "rails": [
+            "Find one earlier mark.",
+            "Re-read the original sentence.",
+            "Write your improved explanation or the missing rule you need."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "safety-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-02-p04",
+          "question": "What question could help you pause before an unfamiliar action in a real lab?",
+          "pre": "Leave yourself a question about authorization, instructions, or hazards—not a substitute protocol.",
+          "post": "The supplied laboratory sheet remains a course source, not an independent product-safety clearance. Use the instructor’s current directions and required safety materials.",
+          "rails": [
+            "Identify the information you would check.",
+            "Identify who or what supplies it.",
+            "Write one preparation question, not an attestation."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "safety-5"
+        }
+      ],
+      "tool": null
+    },
+    {
+      "id": "polymers",
+      "title": "An observation is not yet an explanation",
+      "subtitle": "Polymers · source comparison and your existing data",
+      "pages": [
+        "source-03-p01",
+        "source-03-p02",
+        "source-03-p03",
+        "source-13-p01"
+      ],
+      "opening": "Your archive gives us the handout and an actual observation record. We can connect the two without generating a lab report. Keep “what I saw,” “what I measured,” and “what I infer” distinct while you work toward a mechanism.",
+      "steps": [
+        {
+          "name": "Notice",
+          "page": "source-03-p01",
+          "question": "What relationship does the introduction say this lab will investigate?",
+          "pre": "Begin with the purpose written on the page. You do not need to recite the entire polymer paragraph to say what the investigation is trying to connect.",
+          "post": "The source’s structure/property claims are retained as source claims. Broad or unclear statements are not turned into automatically scored chemistry rules.",
+          "rails": [
+            "Locate the introduction.",
+            "Name the observed side of the relationship.",
+            "Name the structural side."
+          ],
+          "quote": "In this lab you will examine the properties of several polymers. You will also try to relate the physical properties of these polymers to their corresponding structures.",
+          "where": "Introduction",
+          "id": "polymers-1"
+        },
+        {
+          "name": "Explore",
+          "page": "source-03-p03",
+          "question": "Compare the listed versions with Ball #1 on page 2. Which ingredient difference would you track, and what else would you want held comparable?",
+          "pre": "These recipes are on the source pages; the desk is not asking you to invent a new mixture. We are reading the design of the supplied comparison.",
+          "post": "This is study of an existing protocol, not a new safety approval or instruction to perform it.",
+          "rails": [
+            "Choose two versions.",
+            "Identify a difference directly from the lists.",
+            "Write a question about comparability."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "polymers-2"
+        },
+        {
+          "name": "Name",
+          "page": "source-13-p01",
+          "question": "In your observation table, which entries are descriptions and which are measurements?",
+          "pre": "Your handwritten record belongs here beside the printed table headings. Keep the observation itself separate from a later explanation of why it occurred.",
+          "post": "We preserve the original record, including uncertain handwriting, rather than invent replacement data. The personal photograph stays in the archived PDF only.",
+          "rails": [
+            "Read one row.",
+            "Separate descriptive language from a number with a unit.",
+            "Name an inference that would require more than the row itself."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "polymers-3"
+        },
+        {
+          "name": "Change",
+          "page": "source-13-p01",
+          "question": "Your margin mentions drying. What extra information would make a before/after comparison easier to interpret?",
+          "pre": "A margin can hold an experimental condition that never made it into the main table. Notice what that means for the story the numbers can tell.",
+          "post": "Do not manufacture another measurement. Record what you would need for a fair comparison if you studied this further.",
+          "rails": [
+            "Locate the drying note.",
+            "Ask when each observation was made.",
+            "Distinguish missing context from missing numerical precision."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "polymers-4"
+        },
+        {
+          "name": "Return",
+          "page": "source-03-p02",
+          "question": "Which source statement would you want to connect to one observed property—and what evidence is still missing for that explanation?",
+          "pre": "A structure picture is a proposed explanatory connection, not a photograph of what your sample did. Let the observation and the proposed mechanism remain distinguishable.",
+          "post": "Your output is a private study reflection, not an automatically written conclusion for submission.",
+          "rails": [
+            "Choose one property in your record.",
+            "Locate the source’s related structural statement.",
+            "State the bridge you can explain and the part you would ask about."
+          ],
+          "quote": "",
+          "where": "",
+          "id": "polymers-5"
+        }
+      ],
+      "tool": null
+    }
+  ],
+  "pairs": [
+    [
+      "source-02",
+      "source-01"
+    ],
+    [
+      "source-04",
+      "source-19"
+    ],
+    [
+      "source-05",
+      "source-11",
+      "source-16"
+    ],
+    [
+      "source-17",
+      "source-18"
+    ],
+    [
+      "source-14",
+      "source-08"
+    ],
+    [
+      "source-03",
+      "source-13"
+    ]
+  ],
+  "limits": [
+    "The upload is a snapshot of 19 PDFs, not a verified complete semester folder or syllabus. Dates in filenames do not establish assignment order.",
+    "The earlier Unit I workbook is a separate recovered source; it is not among these 19 PDFs. Its seven-page transcriptions and notebook remain available.",
+    "Blank forms, printed answers, handwritten attempts, and source claims are visibly distinguished. Handwriting is not an instructor answer key.",
+    "The safety video, current syllabus/AI policy, and some measurement-device views are not in this upload. No missing rule set or course calendar has been invented.",
+    "Laboratory and medication-related source problems are for study only. This module does not authorize procedures, recommend doses, generate data, sign attestations, or write lab reports.",
+    "All original PDFs, including the personal photo page, remain in the private ZIP. The study HTML displays 39 page facsimiles and omits that photograph."
+  ],
+  "notationItems": [
+    "43.75",
+    "0.000030",
+    "60230000",
+    "220",
+    "4000100",
+    "3300.",
+    "0.000020",
+    "0.08205"
+  ],
+  "elements": [
+    "Rb",
+    "Mg",
+    "Pd",
+    "P",
+    "Br",
+    "Ra",
+    "Al",
+    "Rn",
+    "B"
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "schema": "luminara-chemistry-upload/1",
+  "originalArchive": {
+    "path": "10-sources/originals/Chem_1117_F2026.zip",
+    "sha256": "984ee412c7bae079071ab79dc8980a3ae675da6cf6570cdf85860d9f791a6af6",
+    "bytes": 8235955
+  },
+  "documents": [
+    {
+      "id": "source-01",
+      "path": "Chem_1117_F2026/01 Laboratory Safety 2024 - haugen.pdf",
+      "sha256": "9a763667ab25d6a3d336029a81a18e0a14eca26abc772db0a6604c830c4d8ec8",
+      "bytes": 642962,
+      "pages": 4
+    },
+    {
+      "id": "source-02",
+      "path": "Chem_1117_F2026/01 Laboratory Safety 2024.pdf",
+      "sha256": "42dcc57c7e327a94c90cf5dfe84274985a28c163ab6a1bc58d40398a510bd39c",
+      "bytes": 211571,
+      "pages": 4
+    },
+    {
+      "id": "source-03",
+      "path": "Chem_1117_F2026/03 Polymer Lab Data Sheet 2024.pdf",
+      "sha256": "dc1f310fee8aa7d74268eaabc051005a154639148b8f5d6d2b19c2ae7c7ee83c",
+      "bytes": 135225,
+      "pages": 4
+    },
+    {
+      "id": "source-04",
+      "path": "Chem_1117_F2026/1117_20Q3_20Scientific_20Notation_202024_20-_20Copy.pdf",
+      "sha256": "2675f93b7cbb322cc39988844d9d95ad9d1f04c34c9a221c5e441d0ff7519a9e",
+      "bytes": 88339,
+      "pages": 1
+    },
+    {
+      "id": "source-05",
+      "path": "Chem_1117_F2026/1117_20Q9_20Electron_20Configuration_20II_202024.pdf",
+      "sha256": "77640e17406a78e332ffcfeaa8946cc4a2a3ee89d47a403d8673c01db47cf2fd",
+      "bytes": 78123,
+      "pages": 1
+    },
+    {
+      "id": "source-06",
+      "path": "Chem_1117_F2026/Adobe Scan Sep 1, 2026.pdf",
+      "sha256": "40396f13bf141a59ea5d4d69e48ee557bf0a67c9da152c4d402478d81ca65915",
+      "bytes": 202689,
+      "pages": 1
+    },
+    {
+      "id": "source-07",
+      "path": "Chem_1117_F2026/CH01_End_of_Chapter_Qs.pdf",
+      "sha256": "6b9343d869408a94cff0e14ef6023f99b187d9cc0640b35a91a888d28057b230",
+      "bytes": 2005026,
+      "pages": 4
+    },
+    {
+      "id": "source-08",
+      "path": "Chem_1117_F2026/Dim_fen.pdf",
+      "sha256": "33da50705193632933dabb4771abf7b8c7fffeb5452b33cad229aa4c9f8297cb",
+      "bytes": 1545052,
+      "pages": 4
+    },
+    {
+      "id": "source-09",
+      "path": "Chem_1117_F2026/Q4Dim_Analysis.pdf",
+      "sha256": "dab9d6a93b4e604c9bafbd5409be708ef8a7c366307bff021747f540ebef0c3d",
+      "bytes": 577797,
+      "pages": 2
+    },
+    {
+      "id": "source-10",
+      "path": "Chem_1117_F2026/Q6Isotopes.pdf",
+      "sha256": "3bbb4928b32a927c1deef7d7e6d12c41713532a3e96548855323fd411271327c",
+      "bytes": 252672,
+      "pages": 1
+    },
+    {
+      "id": "source-11",
+      "path": "Chem_1117_F2026/Q9_Electron_configII_w_Orbital.pdf",
+      "sha256": "dd29367719be5c022cf7bd5d2172df07356694b3d4c48dec2cd6b8a3ea29b0b8",
+      "bytes": 320320,
+      "pages": 1
+    },
+    {
+      "id": "source-12",
+      "path": "Chem_1117_F2026/Tut_Elect_Config.pdf",
+      "sha256": "ef76b3984dfc7f23c36947c4bd70dc3fc0ab9ef2161200bf4af39874909ff2e0",
+      "bytes": 565247,
+      "pages": 2
+    },
+    {
+      "id": "source-13",
+      "path": "Chem_1117_F2026/bouncy-balls.pdf",
+      "sha256": "4b7828d2502c115d7f3765b956fb210c8b99dc5c222188fdddfbafb49eaed186",
+      "bytes": 1137549,
+      "pages": 2
+    },
+    {
+      "id": "source-14",
+      "path": "Chem_1117_F2026/dim_analysis.pdf",
+      "sha256": "115852455e83222e15e9ad4e3a0a2cfc1999a90a445a95e4df7569c97128a1c2",
+      "bytes": 1719320,
+      "pages": 3
+    },
+    {
+      "id": "source-15",
+      "path": "Chem_1117_F2026/periodic_table_periodicity_and_Groups.pdf",
+      "sha256": "d8ac8a2e6f9647732e3f6496fda9f1496f76091f6809926ce8116bd0301d2121",
+      "bytes": 454514,
+      "pages": 2
+    },
+    {
+      "id": "source-16",
+      "path": "Chem_1117_F2026/q9_electron_configII.pdf",
+      "sha256": "8c3a3b340c8236f646700da957459f31d157e3501cef2aa80ac8c7d43d972bee",
+      "bytes": 267666,
+      "pages": 1
+    },
+    {
+      "id": "source-17",
+      "path": "Chem_1117_F2026/sig figs 2.pdf",
+      "sha256": "2df3fef731b0fa4e6b725719b387949603c2e8cb4ab62118d117ee32c402da34",
+      "bytes": 213253,
+      "pages": 1
+    },
+    {
+      "id": "source-18",
+      "path": "Chem_1117_F2026/sig figs 2units.pdf",
+      "sha256": "3bc2bf71fd0d66189147de409da5565bd51c4df8e9f06b43dfea38bbb2f1a00e",
+      "bytes": 284076,
+      "pages": 1
+    },
+    {
+      "id": "source-19",
+      "path": "Chem_1117_F2026/sigfigs_lect_quiz3.pdf",
+      "sha256": "fd77201748f49aa96f10b150bcd8a3ca0853fc50663670d28470257c03d0a08f",
+      "bytes": 273264,
+      "pages": 1
+    }
+  ],
+  "pageFacsimiles": [
+    {
+      "id": "source-01-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-01-p01.jpg",
+      "sha256": "0823bd41f6d7d712728a2e8acafe1af2b7103126b4213b3956354702156679b5",
+      "bytes": 259193
+    },
+    {
+      "id": "source-01-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-01-p02.jpg",
+      "sha256": "58a40d90cf47240434272f8df2452b2116e7ec457746ea3eebc1ce6a417b8cf2",
+      "bytes": 404219
+    },
+    {
+      "id": "source-01-p03",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-01-p03.jpg",
+      "sha256": "3a1ab92516bfcc59b175647bc3fece39d2db616b1afbf2ed7622d5025f29c0dd",
+      "bytes": 403282
+    },
+    {
+      "id": "source-01-p04",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-01-p04.jpg",
+      "sha256": "bf0353e9b0a561c967840f71e9c18385693828ac398625f6bdb466daf1eae0d0",
+      "bytes": 173508
+    },
+    {
+      "id": "source-02-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-02-p01.jpg",
+      "sha256": "0823bd41f6d7d712728a2e8acafe1af2b7103126b4213b3956354702156679b5",
+      "bytes": 259193
+    },
+    {
+      "id": "source-02-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-02-p02.jpg",
+      "sha256": "8bdc8dd14695fff225b2763470044ff2f6529abcec6d4930e9fd13bc6cb2ae92",
+      "bytes": 331410
+    },
+    {
+      "id": "source-02-p03",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-02-p03.jpg",
+      "sha256": "659779fecf892b86b12da8af03616397ac50c3e401009ebc9d857ba2a7219dea",
+      "bytes": 341714
+    },
+    {
+      "id": "source-02-p04",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-02-p04.jpg",
+      "sha256": "e7faadf2027b258678da7bd1761a69712386c8d416b88e17acef9c87274a0b67",
+      "bytes": 162802
+    },
+    {
+      "id": "source-03-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-03-p01.jpg",
+      "sha256": "339d2c177d41c8dbd9b5429200922914f76f127cef1ae23b5529641235677ac5",
+      "bytes": 319764
+    },
+    {
+      "id": "source-03-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-03-p02.jpg",
+      "sha256": "04cc30f8af1fd1f1c5ad139a7d05e0b3a88f418ee02710a9bd8fe98a569e12ee",
+      "bytes": 246641
+    },
+    {
+      "id": "source-03-p03",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-03-p03.jpg",
+      "sha256": "4b75d781b84d6c366b70054bb76c4087130d797ca6e0544b60d4d1d7501d6a2b",
+      "bytes": 155690
+    },
+    {
+      "id": "source-03-p04",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-03-p04.jpg",
+      "sha256": "9755c108691aabd589e181c0d4a71d1bf689d1cf3e73814cd70bbdbf7c479d28",
+      "bytes": 79938
+    },
+    {
+      "id": "source-04-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-04-p01.jpg",
+      "sha256": "256aa1f7899d67d512c9644de55db3dc24171a56b1d8eb6fd1a2e2317468dbec",
+      "bytes": 135650
+    },
+    {
+      "id": "source-05-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-05-p01.jpg",
+      "sha256": "08ea45511264f2830c5e4ef4ab162bd5c5c044c62cb99efc39e2d9e232a4986b",
+      "bytes": 95633
+    },
+    {
+      "id": "source-06-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-06-p01.jpg",
+      "sha256": "0700601b0c5cfe7add538ad77270d6b9ec228aed1614e9d1fa04b50200ac224d",
+      "bytes": 144137
+    },
+    {
+      "id": "source-07-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-07-p01.jpg",
+      "sha256": "79a131ffdd8f31ddfa74b31054020c45bf8cce381c4ffb2645855b95ced9594f",
+      "bytes": 301138
+    },
+    {
+      "id": "source-07-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-07-p02.jpg",
+      "sha256": "0ce3791d908ac992d2aa27dc7ef2bc635a7f457964f0c5f278b3bb1366a14b41",
+      "bytes": 374688
+    },
+    {
+      "id": "source-07-p03",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-07-p03.jpg",
+      "sha256": "c07b612bd797a93dcd9fe67964e00197a72060fc0d21f2babc4970f456c4e360",
+      "bytes": 621577
+    },
+    {
+      "id": "source-07-p04",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-07-p04.jpg",
+      "sha256": "f824efd3b948f29a302cf333c599ccae94e112e87ac83eac523c22fc3ecdbc3c",
+      "bytes": 573157
+    },
+    {
+      "id": "source-08-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-08-p01.jpg",
+      "sha256": "15b2581193d14a9e0e311121c86e7022b666697777eb60c2dc9efcafb8ddf768",
+      "bytes": 389464
+    },
+    {
+      "id": "source-08-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-08-p02.jpg",
+      "sha256": "d8f62acf4db7f3044058acc43739ad55255c911fe9b78e94d5b91e89d51a13a9",
+      "bytes": 354428
+    },
+    {
+      "id": "source-08-p03",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-08-p03.jpg",
+      "sha256": "30970c955d9f4dea8d38b264086fbdf9ee458baf6681e54a9eed12dab8ae0f8b",
+      "bytes": 362445
+    },
+    {
+      "id": "source-08-p04",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-08-p04.jpg",
+      "sha256": "182be47aa8d539385b5c568072ccaf3432e140a57e467a7c9e22cf54b7de86bf",
+      "bytes": 312306
+    },
+    {
+      "id": "source-09-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-09-p01.jpg",
+      "sha256": "55c7968ee09e384204f011de68957c07f5d52d18105a87209bcadb8f1333dbb7",
+      "bytes": 260172
+    },
+    {
+      "id": "source-09-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-09-p02.jpg",
+      "sha256": "35b4f83ccadea7df8709ab0fe9f7bc57fecd0bc656840fd8de9256f6954375ca",
+      "bytes": 303957
+    },
+    {
+      "id": "source-10-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-10-p01.jpg",
+      "sha256": "ba8e67407e59dcfc30a81a9ecc20ef9f69b9bd0b1074fa18dd4d16914daefd83",
+      "bytes": 304328
+    },
+    {
+      "id": "source-11-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-11-p01.jpg",
+      "sha256": "ba9ce0d229d76f898a33e90d0b15c0c57a7bbadb1aa31140ac8288a4d19c55d3",
+      "bytes": 316078
+    },
+    {
+      "id": "source-12-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-12-p01.jpg",
+      "sha256": "389562925df420b73e729d213f9a8ba062d95a8d6f393e0018b5ba59f57a41bd",
+      "bytes": 262102
+    },
+    {
+      "id": "source-12-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-12-p02.jpg",
+      "sha256": "335470a3aa94037de722ea4c810348277a555941fb129b6a8594fed0d1a5901c",
+      "bytes": 230750
+    },
+    {
+      "id": "source-13-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-13-p01.jpg",
+      "sha256": "862b12e3797877f7c06ccb2504c8c313ad8b6bd3c08f7f81603a26926c909a66",
+      "bytes": 245595
+    },
+    {
+      "id": "source-14-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-14-p01.jpg",
+      "sha256": "d830ed9ab7813c8a7a8a6fdc13253c198fa0288b114582f73f2d135012c223e2",
+      "bytes": 498447
+    },
+    {
+      "id": "source-14-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-14-p02.jpg",
+      "sha256": "0cc04a3f41fc49b3b6999419bd42320697a54947f84e980d5d834fc5ae077eed",
+      "bytes": 444508
+    },
+    {
+      "id": "source-14-p03",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-14-p03.jpg",
+      "sha256": "95a5a6cae5786ebd13473ac37e09aebb31848060cd2e0333f9975b3aac700472",
+      "bytes": 360773
+    },
+    {
+      "id": "source-15-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-15-p01.jpg",
+      "sha256": "fbe47332fec77ca91ee6a4daa29966a1747fa9224b80e45d75f8e99f1a91dcaf",
+      "bytes": 170281
+    },
+    {
+      "id": "source-15-p02",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-15-p02.jpg",
+      "sha256": "6f9b4b500b0090df80224aee4babe18375b6a3bc04561da2dfaf4bf85bfc981f",
+      "bytes": 158914
+    },
+    {
+      "id": "source-16-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-16-p01.jpg",
+      "sha256": "4b7ac5b22a28dd240ba3e84e4b740e6cc6d5224124f6a1dd47e2a288c1052518",
+      "bytes": 287990
+    },
+    {
+      "id": "source-17-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-17-p01.jpg",
+      "sha256": "9f7a9a44cec1d19e37e0efc3c211f375576c2a7c22f0fd08f9b0b8a5a3fb6f96",
+      "bytes": 162822
+    },
+    {
+      "id": "source-18-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-18-p01.jpg",
+      "sha256": "64be409ba6aec6654d6df4ed94d32318519d554d69f2b64e8dd38da1115482a0",
+      "bytes": 216952
+    },
+    {
+      "id": "source-19-p01",
+      "path": "30-modules/chem-1117-f2026/source/page-images/source-19-p01.jpg",
+      "sha256": "4e5877be2b2c1b938b469e83a8b0cc7ce54f7a8aa7e8ea851f247c84d6089c78",
+      "bytes": 210213
+    }
+  ],
+  "originalPages": 40,
+  "renderedStudyPages": 39,
+  "withheldPage": {
+    "id": "source-13-p02",
+    "reason": "personal photograph; preserved within original archive, not embedded in the application"
+  },
+  "rawFilesServed": false,
+  "liveWindowsDirectoryScanned": false,
+  "sourceSnapshotVisuallyInspected": true,
+  "earlierPilotContent": {
+    "path": "30-modules/chem-1117-f2026/source/content.json",
+    "sha256": "93e600a67c85566de0d7a3f377543177f9b3989f5081e435c56e2af289364d04"
+  },
+  "bioethics": {
+    "path": "web/index.html",
+    "sha256": "bb4410480b38bbd05a4ca3816d63f07829ec17f0c3099e8cb3b1a7a8882afbf7"
+  }
+}

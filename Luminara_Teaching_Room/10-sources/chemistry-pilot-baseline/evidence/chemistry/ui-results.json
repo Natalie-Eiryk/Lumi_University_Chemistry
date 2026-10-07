@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "groupCount": 19,
+  "groups": [
+    "01 five-space chemistry pilot renders with six source-limited routes",
+    "02 all 18 guided stops preserve their individual writing and pre/post guidance",
+    "03 source changes leave the textarea node and typed content intact; markup stays inert",
+    "04 quiet and larger-type controls preserve context and responses",
+    "05 seven source transcriptions retain separate handwritten and unresolved layers",
+    "06 all twelve matches use recovered definitions/chart associations, with separate self-ratings",
+    "07 unsure/cue paths track help without claiming correctness or independent recall",
+    "08 eleven workbook prompts compare with learner annotations, not an invented answer key",
+    "09 serialized chemistry notebook restores across fresh test documents",
+    "10 real download events deliver chemistry-only JSON and learner-writing Markdown",
+    "11 validated import requires confirmation and cancel leaves existing writing untouched",
+    "12 Bioethics, prototype-shaped, and incompatible chemistry imports reject without mutation",
+    "13 all six existing Bioethics keys remain untouched",
+    "14 failed saves preserve old saved bytes and current exportable session writing",
+    "15 corrupt prior notebook is not silently replaced",
+    "16 different stored bytes stop further writes instead of overwriting another tab",
+    "17 keyboard tab navigation uses arrows, Home, and End",
+    "18 five spaces fit four viewport widths; actual desktop/mobile previews captured",
+    "19 no automatic network requests or JavaScript errors in exercised states"
+  ],
+  "htmlSha256": "8b68f8e228409fdc67b6a929be003b8092fae2b25e4920bd820db98c751981b6",
+  "storageMethod": "explicit TEST ONLY fixture; native attempt separate",
+  "pageErrors": [],
+  "automaticRequests": []
+}

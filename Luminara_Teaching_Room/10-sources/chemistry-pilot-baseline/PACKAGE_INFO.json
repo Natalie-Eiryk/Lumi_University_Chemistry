@@ -1,0 +1,23 @@
+{
+  "name": "Luminara_Teaching_Room",
+  "assemblyVersion": "1.1.0",
+  "bioethicsVersion": "7.0.0",
+  "sourceArchivesRetained": 9,
+  "originalMembersVerified": 594,
+  "activeSourceCopiesVerified": 162,
+  "origin": "http://127.0.0.1:47831",
+  "studyRoute": "/bioethics/",
+  "roomRoute": "/room/",
+  "includesPrivateSourceArchives": true,
+  "containsLearnerBrowserState": false,
+  "published": false,
+  "lumiOsIntegrated": false,
+  "requiresNetwork": false,
+  "requiresPython": "3.10+",
+  "normalUseThirdPartyDependencies": [],
+  "chemistryVersion": "0.1.0",
+  "chemistryRoute": "/chemistry/",
+  "chemistrySourcesInspected": 1,
+  "chemistryWindowsFolderInspected": false,
+  "chemistryOriginalPDFIncluded": false
+}
