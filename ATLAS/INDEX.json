@@ -15,5 +15,43 @@
     "unitII": "../Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/",
     "elements": "../Luminara_Teaching_Room/10-sources/reviewed-element-reference/",
     "periodicWorkbench": "../Chemistry/periodic_workbench_packet/"
+  },
+  "adventureCollection": {
+    "collectionId": "luminara.adventures.collection.001",
+    "version": "1.0.0",
+    "logicalRoot": "Adventures/First_Collection",
+    "catalogueOwner": "Lumi_University_Writing",
+    "catalogue": "Adventures/First_Collection/catalogue.json",
+    "localSources": [
+      "Adventures/First_Collection/practice/001_practice.md",
+      "Adventures/First_Collection/practice/002_practice.md",
+      "Adventures/First_Collection/practice/003_practice.md",
+      "Adventures/First_Collection/practice/004_practice.md",
+      "Adventures/First_Collection/practice/005_practice.md",
+      "Adventures/First_Collection/stories/001_the_address_with_no_row.story.md",
+      "Adventures/First_Collection/stories/002_the_bracket_luggage_office.story.md",
+      "Adventures/First_Collection/stories/003_the_city_without_couples.story.md",
+      "Adventures/First_Collection/stories/004_story.md",
+      "Adventures/First_Collection/stories/005_story.md",
+      "Adventures/First_Collection/support/001_support.md",
+      "Adventures/First_Collection/support/002_support.md",
+      "Adventures/First_Collection/support/003_support.md",
+      "Adventures/First_Collection/support/004_support.md",
+      "Adventures/First_Collection/support/005_support.md",
+      "Adventures/First_Collection/teacher/001_key.md",
+      "Adventures/First_Collection/teacher/002_key.md",
+      "Adventures/First_Collection/teacher/003_key.md",
+      "Adventures/First_Collection/teacher/004_key.md",
+      "Adventures/First_Collection/teacher/005_key.md"
+    ],
+    "historyStatus": "Source digest custody; native authored-reference history not extended"
+  },
+  "worksheetTeaching": {
+    "source": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/worksheet-teaching.md",
+    "sourceSha256": "ece0001087ac42f9164e6366ade1f6d1c8460101a60431edaa2a215d0badf5ea",
+    "reviewed": "2026-10-07",
+    "worksheetSections": 19,
+    "guides": 10,
+    "historyStatus": "Authored source pointer; existing native Atlas history not extended"
   }
 }

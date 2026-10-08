@@ -1552,6 +1552,132 @@
       "path": "Luminara_Teaching_Room/ION_LANGUAGE_REPORT.md",
       "bytes": 6502,
       "sha256": "1ea6697761613284c82924d63d8cfa2d37de9e6924d71b4a88c74d8303d97b7a"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/001_practice.md",
+      "bytes": 1358,
+      "sha256": "ea8f464e85cc919bfd6d9421dbc4b9c6a19266460fd9c1195b0cc7fed9379a8c",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/002_practice.md",
+      "bytes": 1285,
+      "sha256": "c5a5b4f0a62ca384bd3b555ef37df8166a13a1aa8b26ee09ccb1d3d22d71112c",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/003_practice.md",
+      "bytes": 1275,
+      "sha256": "747dba0eab73763fc2cae3750e787543869a808ef1530ef15593c3076be7850b",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/004_practice.md",
+      "bytes": 2145,
+      "sha256": "deb0449fe77590137ccae31d98acc1907e23cf0138bc51018203614489ccada8",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/005_practice.md",
+      "bytes": 2478,
+      "sha256": "47bf341b55df57ad0c752413ce79ace20262c9d7045778785e521ad74472cb0a",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/001_the_address_with_no_row.story.md",
+      "bytes": 8424,
+      "sha256": "4050ccdf5638fce8ba7ac39cb4977918076593714500a6cf3c3ae04c66e33c17",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/002_the_bracket_luggage_office.story.md",
+      "bytes": 8403,
+      "sha256": "5c3dc13189258e5cfee811bbcc443928eaa90accef2dcfab7765eb71382d1a26",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/003_the_city_without_couples.story.md",
+      "bytes": 9043,
+      "sha256": "232dba0edbf0d778bd69683dc3b5eaa93d39b6b7cf95b361e3335e0160848e6e",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/004_story.md",
+      "bytes": 8048,
+      "sha256": "471d584a8cb0bc1fde101520aeb528237ae1ea02f8f4dc3358baa980df1d0b60",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/005_story.md",
+      "bytes": 7661,
+      "sha256": "3863a0410651012a6e56718b884f0a947c90d79f0f25a73632913504afd39e40",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/001_support.md",
+      "bytes": 2605,
+      "sha256": "519c23bd8858f46591954961848f987b935f50417ac67be4bd3d2420187b7fe5",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/002_support.md",
+      "bytes": 2486,
+      "sha256": "a23ef0bb44a2a291de2b2dc80c0849a5055f40eae1bb5ce22675ce9c49960cbf",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/003_support.md",
+      "bytes": 2436,
+      "sha256": "e66d63ab84a65ecc782356a512bbbd51ebbe655cdd16a40ec7f5660ce92b1eec",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/004_support.md",
+      "bytes": 2290,
+      "sha256": "ce07784749e579870da9f1f6e3a749a6cf3d69964e3beba34d07220af59551fa",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/005_support.md",
+      "bytes": 2183,
+      "sha256": "72d52381fe6850eabfb962de1b21a2cf9bbcde99623b0e6d96379d32aeb8c3b1",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/001_key.md",
+      "bytes": 2893,
+      "sha256": "179121783cf5a8da355913ba8f6f7695f250185955c90a78468b63dc80e449cd",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/002_key.md",
+      "bytes": 2959,
+      "sha256": "f7755d26de8450c3429d0fcc2af26476290971a2b34ed3f463567fbed8d3e3ee",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/003_key.md",
+      "bytes": 3208,
+      "sha256": "fa4e519c2c938405829a23eb78a9119e49c3873b25eac692bc33c6c30c3bd5aa",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/004_key.md",
+      "bytes": 4772,
+      "sha256": "48d7b4b8c1e5c0e971cfee8fa462f7ca146dc08e59b82c459add339e8860471d",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/005_key.md",
+      "bytes": 5167,
+      "sha256": "fc4f861680842314c8ef12d11acf515e7ba5c7075a2b4ebbc3f3b16afc94a1cc",
+      "role": "source"
+    },
+    {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/worksheet-teaching.md",
+      "bytes": 15464,
+      "sha256": "ece0001087ac42f9164e6366ade1f6d1c8460101a60431edaa2a215d0badf5ea",
+      "role": "source"
     }
   ],
   "additionalExtractions": [
