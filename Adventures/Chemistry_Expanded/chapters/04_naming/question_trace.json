@@ -1,0 +1,303 @@
+{
+  "story_id": "luminara.adventure.004",
+  "original_questions_preserved": 4,
+  "new_questions": 10,
+  "questions": [
+    {
+      "question_id": "luminara.adventure.004.q01",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.004.q01",
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-03",
+        "ch04-scene-05",
+        "ch04-scene-18",
+        "ch04-scene-19"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S08"
+      ],
+      "prompt_unchanged": true,
+      "prompt_sha256": "10ad6676d6ba9b828c683c481eee7690eacf4989a5fc8a7fabaf563eeb242466",
+      "scientific_correction": null
+    },
+    {
+      "question_id": "luminara.adventure.004.q02",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.004.q02",
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-07",
+        "ch04-scene-18",
+        "ch04-scene-19"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S08"
+      ],
+      "prompt_unchanged": true,
+      "prompt_sha256": "7347bd602879e9cc4587e708bf5e02e95ca7b0569e446293d7c84e64f4adae03",
+      "scientific_correction": null
+    },
+    {
+      "question_id": "luminara.adventure.004.q03",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.004.q03",
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-06",
+        "ch04-scene-14",
+        "ch04-scene-18",
+        "ch04-scene-19"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S08",
+        "S09"
+      ],
+      "prompt_unchanged": true,
+      "prompt_sha256": "e7ee37b3a21ff36c6af8ff939b067e9e791bcf22e7e4a35a1708b12c8ae0bccc",
+      "scientific_correction": null
+    },
+    {
+      "question_id": "luminara.adventure.004.q04",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.004.q04",
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-15",
+        "ch04-scene-19"
+      ],
+      "source_refs": [
+        "S01",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "prompt_unchanged": true,
+      "prompt_sha256": "d192241b6ded511a2ab9a6bc5b87d67f5e1a1769814cf909d995a0653f8b6aa7",
+      "scientific_correction": null
+    },
+    {
+      "question_id": "luminara.adventure.004.q05",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-01",
+        "ch04-scene-02",
+        "ch04-scene-12",
+        "ch04-scene-16"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S08"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q06",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-03",
+        "ch04-scene-04",
+        "ch04-scene-18"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q07",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-05",
+        "ch04-scene-06"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S09"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q08",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-08",
+        "ch04-scene-18"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q09",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-09",
+        "ch04-scene-10"
+      ],
+      "source_refs": [
+        "S02",
+        "S03",
+        "S04",
+        "S08"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q10",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-10"
+      ],
+      "source_refs": [
+        "S02",
+        "S03",
+        "S04",
+        "S08"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q11",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-11"
+      ],
+      "source_refs": [
+        "S02",
+        "S03",
+        "S04",
+        "S09"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q12",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-12"
+      ],
+      "source_refs": [
+        "S02",
+        "S03",
+        "S05",
+        "S09"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q13",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-02",
+        "ch04-scene-14",
+        "ch04-scene-16"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S08"
+      ],
+      "worksheet_item": false
+    },
+    {
+      "question_id": "luminara.adventure.004.q14",
+      "origin": "new_expansion",
+      "original_id": null,
+      "prompt_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "scene_ids": [
+        "ch04-scene-07",
+        "ch04-scene-17",
+        "ch04-scene-19"
+      ],
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "worksheet_item": false
+    }
+  ],
+  "checkpoint": "Pass 3, final reviewed draft",
+  "original_prompt_preservation_check": "2026-10-08: q01–q04 rechecked verbatim against the supplied original; no prompt correction required. Pass 3 adds a broader-nomenclature qualification to the q03 explanation while retaining its answer and original rubric. All fourteen task meanings remain.",
+  "scene_link_scope": "Scene links identify a narrated example or a method explicitly practiced there; related transfer questions may use different supplied species. A scene link does not assert that its full practice prompt appears in the narrative."
+}

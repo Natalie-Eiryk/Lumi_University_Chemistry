@@ -1,0 +1,408 @@
+[
+  {
+    "scene_id": "ch04-scene-01",
+    "title": "A destination called two",
+    "anchor": "ch04-scene-01",
+    "concepts": [
+      "symbol meaning",
+      "formula to English bridge",
+      "context before number"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q05"
+    ],
+    "source_refs": [
+      "S01",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-02",
+    "title": "Behind the brass panel",
+    "anchor": "ch04-scene-02",
+    "concepts": [
+      "subscript versus charge versus coefficient",
+      "task and category fields",
+      "element-symbol case"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q05",
+      "luminara.adventure.004.q13"
+    ],
+    "source_refs": [
+      "S01",
+      "S03",
+      "S05",
+      "S08",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-03",
+    "title": "The iron platform with no little trios",
+    "anchor": "ch04-scene-03",
+    "concepts": [
+      "FeCl₂",
+      "ionic lattice",
+      "formula unit",
+      "iron(II) chloride"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01",
+      "luminara.adventure.004.q06"
+    ],
+    "source_refs": [
+      "S01",
+      "S03",
+      "S04",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-04",
+    "title": "The six that belonged to nobody alone",
+    "anchor": "ch04-scene-04",
+    "concepts": [
+      "Fe₂O₃",
+      "charge per ion versus total",
+      "iron(III) oxide"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q06"
+    ],
+    "source_refs": [
+      "S01",
+      "S03",
+      "S04",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-05",
+    "title": "The return lane",
+    "anchor": "ch04-scene-05",
+    "concepts": [
+      "name to formula",
+      "incomplete iron chloride name",
+      "return translation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01",
+      "luminara.adventure.004.q07"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S04",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-06",
+    "title": "What the ordinary name already carries",
+    "anchor": "ch04-scene-06",
+    "concepts": [
+      "fixed common charge",
+      "variable charge",
+      "ionic names without count prefixes",
+      "broader compositional prefix convention"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q03",
+      "luminara.adventure.004.q07"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S04",
+      "S06",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-07",
+    "title": "The passengers nobody counted as ions",
+    "anchor": "ch04-scene-07",
+    "concepts": [
+      "ammonium sulfate",
+      "polyatomic ions",
+      "no-metal heuristic counterexample"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q02",
+      "luminara.adventure.004.q14"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-08",
+    "title": "The elevator that multiplied only the last passenger",
+    "anchor": "ch04-scene-08",
+    "concepts": [
+      "calcium nitrate",
+      "parentheses",
+      "whole-ion repetition",
+      "atom inventory"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q08"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S04"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-09",
+    "title": "The library of nearly matching names",
+    "anchor": "ch04-scene-09",
+    "concepts": [
+      "sulfate sulfite",
+      "nitrate nitrite",
+      "known oxyanion pairs",
+      "vocabulary retrieval"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q09"
+    ],
+    "source_refs": [
+      "S02",
+      "S04",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-10",
+    "title": "A useful pattern meets its boundary",
+    "anchor": "ch04-scene-10",
+    "concepts": [
+      "hydroxide cyanide",
+      "-ide limit",
+      "ion vocabulary versus inference"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q09",
+      "luminara.adventure.004.q10"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S04",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-11",
+    "title": "Hydrogen at the wrong door",
+    "anchor": "ch04-scene-11",
+    "concepts": [
+      "sodium hydride",
+      "lithium hydride",
+      "H⁻ versus H₂",
+      "electron charge ledger"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q11"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S04",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-12",
+    "title": "What must stay together when a ratio becomes smaller",
+    "anchor": "ch04-scene-12",
+    "concepts": [
+      "peroxide versus oxide",
+      "whole-ion reduction",
+      "Li₂O₂ and MgO"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q05",
+      "luminara.adventure.004.q12"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S05",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-13",
+    "title": "The labels that had already left",
+    "anchor": "ch04-scene-13",
+    "concepts": [
+      "downstream labels",
+      "source context preservation",
+      "bounded repair",
+      "quiet reflection"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "S01",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-14",
+    "title": "A count that belongs in the name",
+    "anchor": "ch04-scene-14",
+    "concepts": [
+      "binary molecular naming",
+      "CO₂ PCl₃ SF₆",
+      "prefixes",
+      "spelling conventions",
+      "tetroxide and tetraoxide convention"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q03",
+      "luminara.adventure.004.q13"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S04",
+      "S05",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-15",
+    "title": "The eraser and the molecule",
+    "anchor": "ch04-scene-15",
+    "concepts": [
+      "N₂O₄ versus NO₂",
+      "H₂O₂ versus HO",
+      "molecular and empirical formulas"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q04"
+    ],
+    "source_refs": [
+      "S01",
+      "S04",
+      "S05",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-16",
+    "title": "Two of what",
+    "anchor": "ch04-scene-16",
+    "concepts": [
+      "coefficient",
+      "subscript",
+      "superscript",
+      "specified entities",
+      "formula-unit inventory"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q05",
+      "luminara.adventure.004.q13"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S05"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-17",
+    "title": "The drawer labeled beyond the shortcut",
+    "anchor": "ch04-scene-17",
+    "concepts": [
+      "OsO₄",
+      "molecular metal oxide",
+      "formal oxidation state",
+      "heuristic limits",
+      "metalloid classifier boundary"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q14"
+    ],
+    "source_refs": [
+      "S02",
+      "S04",
+      "S06",
+      "S07",
+      "S09",
+      "S10"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-18",
+    "title": "The first departure with its reasons attached",
+    "anchor": "ch04-scene-18",
+    "concepts": [
+      "two-way translation",
+      "Cu₃(PO₄)₂",
+      "(NH₄)₂CO₃",
+      "integrated repair"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01",
+      "luminara.adventure.004.q02",
+      "luminara.adventure.004.q03",
+      "luminara.adventure.004.q06",
+      "luminara.adventure.004.q08"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-19",
+    "title": "A barrier rises for the right reason",
+    "anchor": "ch04-scene-19",
+    "concepts": [
+      "clarification resolution",
+      "preserving identities",
+      "scope and support"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01",
+      "luminara.adventure.004.q02",
+      "luminara.adventure.004.q03",
+      "luminara.adventure.004.q04",
+      "luminara.adventure.004.q14"
+    ],
+    "source_refs": [
+      "S01",
+      "S03",
+      "S04",
+      "S05",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch04-scene-20",
+    "title": "The bridge on an ordinary page",
+    "anchor": "ch04-scene-20",
+    "concepts": [
+      "reflection",
+      "retrieval versus reasoning",
+      "two-way formula English bridge"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "S01",
+      "S08"
+    ]
+  }
+]

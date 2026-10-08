@@ -1,0 +1,246 @@
+[
+  {
+    "id": "luminara.adventure.003.card01",
+    "story_id": "luminara.adventure.003",
+    "kind": "definition",
+    "prompt": "What is a lattice in the chapter’s ordinary solid NaCl model?",
+    "answer": "An extended repeating arrangement of ions in three dimensions, rather than a collection of separate NaCl couples.",
+    "accepted_reasoning": "Accept a repeated ionic network with the solid-state scope. Do not require a drawing or a particular viewing angle.",
+    "source_refs": [
+      "SOURCES.md#ch03-s03--ordinary-rock-salt-structure",
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-02",
+      "ch03-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q14"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card02",
+    "story_id": "luminara.adventure.003",
+    "kind": "definition",
+    "prompt": "What does one NaCl formula unit specify for the ordinary ionic solid?",
+    "answer": "One sodium ion for each chloride ion in the represented composition ratio. It does not identify an isolated two-ion molecule in the crystal.",
+    "accepted_reasoning": "Credit the 1:1 composition-unit meaning and the absence of special separate pairs.",
+    "source_refs": [
+      "SOURCES.md#ch03-s03--ordinary-rock-salt-structure",
+      "SOURCES.md#ch03-s06--formula-meanings",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+    ],
+    "scene_ids": [
+      "ch03-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card03",
+    "story_id": "luminara.adventure.003",
+    "kind": "definition",
+    "prompt": "Why is NH₄⁺ called a polyatomic ion?",
+    "answer": "It is a bonded group of more than one atom with an overall nonzero charge, here +1.",
+    "accepted_reasoning": "Include both multiple atoms and net charge. Its internal N–H covalent bonds do not cancel the whole ion’s charge.",
+    "source_refs": [
+      "SOURCES.md#ch03-s01--official-ion-definition",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-10",
+      "ch03-scene-11"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card04",
+    "story_id": "luminara.adventure.003",
+    "kind": "definition",
+    "prompt": "What is an ionic compound in the chapter’s supplied simple models?",
+    "answer": "An electrically neutral substance composed of cations and anions, such as ordinary solid NaCl or ammonium carbonate.",
+    "accepted_reasoning": "Include positive and negative ions in an overall neutral composition. A metal is not part of the definition.",
+    "source_refs": [
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-12"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q07"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card05",
+    "story_id": "luminara.adventure.003",
+    "kind": "contrast",
+    "prompt": "Why is N₂ a molecule but not a compound?",
+    "answer": "Its two bonded atoms form a discrete neutral molecule, but both atoms are nitrogen; a compound contains more than one element.",
+    "accepted_reasoning": "Distinguish number of atoms from number of elements. The presence of a covalent bond alone does not make a compound.",
+    "source_refs": [
+      "SOURCES.md#ch03-s02--official-molecule-definition",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-10"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card06",
+    "story_id": "luminara.adventure.003",
+    "kind": "contrast",
+    "prompt": "How can NH₄⁺ have covalent bonds and still be an ion?",
+    "answer": "Covalent describes its internal N–H bonding; ion describes the overall charged species. Those labels answer different questions.",
+    "accepted_reasoning": "Credit the distinction between bonding inside a group and net charge of the whole group.",
+    "source_refs": [
+      "SOURCES.md#ch03-s01--official-ion-definition",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-10"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card07",
+    "story_id": "luminara.adventure.003",
+    "kind": "contrast",
+    "prompt": "In ordinary solid NaCl, why does six nearest opposite-charge neighbors not mean a NaCl₆ formula?",
+    "answer": "Six describes a local coordination environment; NaCl records the overall 1:1 ion composition throughout the extended lattice.",
+    "accepted_reasoning": "Contrast local neighbor count with bulk ratio. Neighbors are not exclusively owned by the central ion.",
+    "source_refs": [
+      "SOURCES.md#ch03-s03--ordinary-rock-salt-structure",
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q06"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card08",
+    "story_id": "luminara.adventure.003",
+    "kind": "contrast",
+    "prompt": "How does electron-transfer bookkeeping differ from the interaction holding the NaCl lattice together?",
+    "answer": "Transfer bookkeeping tracks electron gain and loss in an introductory formation model. Ionic attraction concerns interactions among charges in the resulting structure.",
+    "accepted_reasoning": "Explain why a remembered unique donor–recipient partnership is not the lattice’s binding mechanism.",
+    "source_refs": [
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "SOURCES.md#ch03-s07--energy-account-beyond-a-transfer-arrow",
+      "https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+    ],
+    "scene_ids": [
+      "ch03-scene-06",
+      "ch03-scene-07"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q05",
+      "luminara.adventure.003.q14"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card09",
+    "story_id": "luminara.adventure.003",
+    "kind": "application",
+    "prompt": "What ratio of intact NH₄⁺ ions to CO₃²⁻ ions makes a neutral ammonium carbonate composition?",
+    "answer": "2:1. Two +1 charges balance one −2 charge.",
+    "accepted_reasoning": "Accept a charge sum 2(+1) + (−2) = 0 or a labeled tile explanation. Internal ion subscripts stay unchanged.",
+    "source_refs": [
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch03-scene-12"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q07"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card10",
+    "story_id": "luminara.adventure.003",
+    "kind": "application",
+    "prompt": "In Ca(NO₃)₂, what does the outside subscript 2 multiply?",
+    "answer": "The entire nitrate group NO₃: it represents two nitrate ions, with two nitrogen atoms and six oxygen atoms in the formula-unit composition.",
+    "accepted_reasoning": "Credit whole-group multiplication; Ca is outside those parentheses and is not multiplied by this 2.",
+    "source_refs": [
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "SOURCES.md#ch03-s06--formula-meanings",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch03-scene-13"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q02",
+      "luminara.adventure.003.q08"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card11",
+    "story_id": "luminara.adventure.003",
+    "kind": "application",
+    "prompt": "Using Al³⁺ and O²⁻, what simplest whole-ion ratio makes a neutral formula?",
+    "answer": "Two aluminum ions to three oxide ions, giving Al₂O₃: +6 and −6 balance.",
+    "accepted_reasoning": "A smallest whole-number charge-balance explanation is sufficient. Neutrality alone does not prove a proposed substance’s stability or synthesis.",
+    "source_refs": [
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch03-scene-14"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q03"
+    ]
+  },
+  {
+    "id": "luminara.adventure.003.card12",
+    "story_id": "luminara.adventure.003",
+    "kind": "application",
+    "prompt": "Ammonium carbonate is known to contain NH₄⁺ and CO₃²⁻. Does its lack of a metal make it molecular?",
+    "answer": "No. The verified cation and anion identities identify an ionic compound; the cation here is ammonium.",
+    "accepted_reasoning": "Use the supplied identities rather than a metal/nonmetal shortcut. This is not a claim that every metal-free formula is ionic.",
+    "source_refs": [
+      "SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+      "SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch03-scene-12"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q07"
+    ]
+  }
+]

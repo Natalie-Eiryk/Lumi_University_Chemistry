@@ -1,0 +1,126 @@
+{
+  "story_id": "luminara.adventure.003",
+  "pass": 3,
+  "counting_method": "Canonical Unicode word-token method: take only text between the narrative markers; remove Markdown heading lines, HTML tags and standalone character speaker-label prefixes; count matches of token_regex with Unicode semantics. Metadata and all companions are excluded.",
+  "counting_method_id": "canonical_unicode_words_v1",
+  "counting_token_regex": "\\b[\\w]+(?:[’'‐-][\\w]+)*\\b",
+  "narrative_words": 19139,
+  "alternate_whitespace_narrative_words": 19128,
+  "alternate_whitespace_method": "Whitespace-separated tokens in the narrative marker region, after stripping headings and HTML; retained only to distinguish the earlier writer method from the canonical method.",
+  "marker_region_whitespace_tokens_including_headings_anchors": 19309,
+  "scenes": 20,
+  "original_questions_preserved": 4,
+  "new_questions": 10,
+  "pass_history": [
+    {
+      "pass": 1,
+      "canonical_narrative_words": 18166,
+      "alternate_whitespace_narrative_words": 18156,
+      "note": "Immutable Pass 1 narrative; counts differ only by method."
+    },
+    {
+      "pass": 2,
+      "canonical_narrative_words": 19049,
+      "alternate_whitespace_narrative_words": 19038,
+      "note": "Independent literary and continuity revision; final science review pending."
+    },
+    {
+      "pass": 3,
+      "canonical_narrative_words": 19139,
+      "alternate_whitespace_narrative_words": 19128,
+      "note": "Independent final science, notation, source and study-consistency review; final-reviewed draft, not canonized."
+    }
+  ],
+  "scene_word_counts": [
+    {
+      "scene_id": "ch03-scene-01",
+      "narrative_words": 911
+    },
+    {
+      "scene_id": "ch03-scene-02",
+      "narrative_words": 931
+    },
+    {
+      "scene_id": "ch03-scene-03",
+      "narrative_words": 908
+    },
+    {
+      "scene_id": "ch03-scene-04",
+      "narrative_words": 897
+    },
+    {
+      "scene_id": "ch03-scene-05",
+      "narrative_words": 895
+    },
+    {
+      "scene_id": "ch03-scene-06",
+      "narrative_words": 1009
+    },
+    {
+      "scene_id": "ch03-scene-07",
+      "narrative_words": 1168
+    },
+    {
+      "scene_id": "ch03-scene-08",
+      "narrative_words": 927
+    },
+    {
+      "scene_id": "ch03-scene-09",
+      "narrative_words": 971
+    },
+    {
+      "scene_id": "ch03-scene-10",
+      "narrative_words": 891
+    },
+    {
+      "scene_id": "ch03-scene-11",
+      "narrative_words": 1002
+    },
+    {
+      "scene_id": "ch03-scene-12",
+      "narrative_words": 1020
+    },
+    {
+      "scene_id": "ch03-scene-13",
+      "narrative_words": 967
+    },
+    {
+      "scene_id": "ch03-scene-14",
+      "narrative_words": 881
+    },
+    {
+      "scene_id": "ch03-scene-15",
+      "narrative_words": 990
+    },
+    {
+      "scene_id": "ch03-scene-16",
+      "narrative_words": 898
+    },
+    {
+      "scene_id": "ch03-scene-17",
+      "narrative_words": 985
+    },
+    {
+      "scene_id": "ch03-scene-18",
+      "narrative_words": 1009
+    },
+    {
+      "scene_id": "ch03-scene-19",
+      "narrative_words": 979
+    },
+    {
+      "scene_id": "ch03-scene-20",
+      "narrative_words": 900
+    }
+  ],
+  "files_whitespace_tokens": {
+    "PRACTICE.md": 1426,
+    "REVISION_LOG.md": 1085,
+    "SOURCES.md": 2042,
+    "STORY.md": 19359,
+    "SUPPORT.md": 1700,
+    "TEACHER_KEY.md": 1931,
+    "VOCABULARY_CARDS.md": 1131
+  },
+  "vocabulary_cards": 12
+}

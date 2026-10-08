@@ -1,0 +1,222 @@
+[
+  {
+    "chapter": 1,
+    "story_id": "luminara.adventure.001",
+    "title": "The Address With No Row",
+    "pass": 0,
+    "pass_label": "Baseline",
+    "narrative_words": 1203,
+    "created_utc": "2026-10-08T14:34:43.979703+00:00",
+    "zip_sha256": "c407fab19bc16e3fff50097f64554b519f54a2a0a81a44596b54170e345fea2b",
+    "filename": "Ms_Luminara_Chemistry_Chapter_01_Pass_00_Baseline.zip"
+  },
+  {
+    "chapter": 2,
+    "story_id": "luminara.adventure.002",
+    "title": "The Bracket Luggage Office",
+    "pass": 0,
+    "pass_label": "Baseline",
+    "narrative_words": 1207,
+    "created_utc": "2026-10-08T14:34:44.012947+00:00",
+    "zip_sha256": "51f229aefbcfba81c4a960d08ffefd265b57b2936fee4b7554c68c7e6a1a5725",
+    "filename": "Ms_Luminara_Chemistry_Chapter_02_Pass_00_Baseline.zip"
+  },
+  {
+    "chapter": 3,
+    "story_id": "luminara.adventure.003",
+    "title": "The City Without Couples",
+    "pass": 0,
+    "pass_label": "Baseline",
+    "narrative_words": 1303,
+    "created_utc": "2026-10-08T14:34:44.048566+00:00",
+    "zip_sha256": "66663c08e8e1a4a58460da7efeac60f1d515548fd31d4cd674dd40948692bf6a",
+    "filename": "Ms_Luminara_Chemistry_Chapter_03_Pass_00_Baseline.zip"
+  },
+  {
+    "chapter": 4,
+    "story_id": "luminara.adventure.004",
+    "title": "Ms Luminara and the Compound Naming Station",
+    "pass": 0,
+    "pass_label": "Baseline",
+    "narrative_words": 1153,
+    "created_utc": "2026-10-08T14:34:44.084746+00:00",
+    "zip_sha256": "f53e7be5baca2d32cddd4e5a33f3f192b9a8d62c3d61c38a765a657678890dea",
+    "filename": "Ms_Luminara_Chemistry_Chapter_04_Pass_00_Baseline.zip"
+  },
+  {
+    "chapter": 5,
+    "story_id": "luminara.adventure.005",
+    "title": "Ms Luminara and the Mole Counting Station",
+    "pass": 0,
+    "pass_label": "Baseline",
+    "narrative_words": 1137,
+    "created_utc": "2026-10-08T14:34:44.118403+00:00",
+    "zip_sha256": "ed623c8cce7cd7942a5d33a1b507a40f97442170be244605caae7e0786c521fe",
+    "filename": "Ms_Luminara_Chemistry_Chapter_05_Pass_00_Baseline.zip"
+  },
+  {
+    "chapter": 4,
+    "story_id": "luminara.adventure.004",
+    "title": "Ms Luminara and the Compound Naming Station",
+    "pass": 1,
+    "pass_label": "Expansion",
+    "narrative_words": 17728,
+    "created_utc": "2026-10-08T15:10:27.142711+00:00",
+    "zip_sha256": "b5bb3a7e797b85b3af97187b5fc3ffbcc8187f0efc10ed88e746eda1ba27783e",
+    "filename": "Ms_Luminara_Chemistry_Chapter_04_Pass_01_Expansion.zip"
+  },
+  {
+    "chapter": 3,
+    "story_id": "luminara.adventure.003",
+    "title": "The City Without Couples",
+    "pass": 1,
+    "pass_label": "Expansion",
+    "narrative_words": 18166,
+    "created_utc": "2026-10-08T15:10:51.722716+00:00",
+    "zip_sha256": "90cc1d07031516cb27b9aba0a20f6bb9e84c354af20a736a076b98d54075d46a",
+    "filename": "Ms_Luminara_Chemistry_Chapter_03_Pass_01_Expansion.zip"
+  },
+  {
+    "chapter": 5,
+    "story_id": "luminara.adventure.005",
+    "title": "Ms Luminara and the Mole Counting Station",
+    "pass": 1,
+    "pass_label": "Expansion",
+    "narrative_words": 18322,
+    "created_utc": "2026-10-08T15:12:48.291866+00:00",
+    "zip_sha256": "fce6f66c79621c7c2910896654cf95af5a54f4b68eeafd9fa0298d11ca588a75",
+    "filename": "Ms_Luminara_Chemistry_Chapter_05_Pass_01_Expansion.zip"
+  },
+  {
+    "chapter": 2,
+    "story_id": "luminara.adventure.002",
+    "title": "The Bracket Luggage Office",
+    "pass": 1,
+    "pass_label": "Expansion",
+    "narrative_words": 18113,
+    "created_utc": "2026-10-08T15:13:14.507682+00:00",
+    "zip_sha256": "0f6c8d8db419a2f13fbc623e1024621cd2e9c064da93dfd7c8bf9803d2c05dcb",
+    "filename": "Ms_Luminara_Chemistry_Chapter_02_Pass_01_Expansion.zip"
+  },
+  {
+    "chapter": 1,
+    "story_id": "luminara.adventure.001",
+    "title": "The Address With No Row",
+    "pass": 1,
+    "pass_label": "Expansion",
+    "narrative_words": 18130,
+    "created_utc": "2026-10-08T15:16:48.897134+00:00",
+    "zip_sha256": "059d1dda1585b372160e2746c6d6c91858e1fabed7a9d72c730465405eec5b90",
+    "filename": "Ms_Luminara_Chemistry_Chapter_01_Pass_01_Expansion.zip"
+  },
+  {
+    "chapter": 4,
+    "story_id": "luminara.adventure.004",
+    "title": "Ms Luminara and the Compound Naming Station",
+    "pass": 2,
+    "pass_label": "Pacing_Revision",
+    "narrative_words": 18775,
+    "created_utc": "2026-10-08T15:22:48.310172+00:00",
+    "zip_sha256": "faf30ba8d1e9766dc4b7f03452f228fcf90d7dc62574771be6994661bbf51b85",
+    "filename": "Ms_Luminara_Chemistry_Chapter_04_Pass_02_Pacing_Revision.zip"
+  },
+  {
+    "chapter": 3,
+    "story_id": "luminara.adventure.003",
+    "title": "The City Without Couples",
+    "pass": 2,
+    "pass_label": "Pacing_Revision",
+    "narrative_words": 19049,
+    "created_utc": "2026-10-08T15:23:29.528599+00:00",
+    "zip_sha256": "928774a2f4e23dd7416dbb96c9a2dc2b477a617442dcf353ed0bcb18aa87d42e",
+    "filename": "Ms_Luminara_Chemistry_Chapter_03_Pass_02_Pacing_Revision.zip"
+  },
+  {
+    "chapter": 5,
+    "story_id": "luminara.adventure.005",
+    "title": "Ms Luminara and the Mole Counting Station",
+    "pass": 2,
+    "pass_label": "Pacing_Revision",
+    "narrative_words": 18971,
+    "created_utc": "2026-10-08T15:26:48.096247+00:00",
+    "zip_sha256": "644f8b624fc1b8612622b56e6f4bdde98e23352f21797eb91083c5518b5ad058",
+    "filename": "Ms_Luminara_Chemistry_Chapter_05_Pass_02_Pacing_Revision.zip"
+  },
+  {
+    "chapter": 2,
+    "story_id": "luminara.adventure.002",
+    "title": "The Bracket Luggage Office",
+    "pass": 2,
+    "pass_label": "Pacing_Revision",
+    "narrative_words": 18896,
+    "created_utc": "2026-10-08T15:27:14.300474+00:00",
+    "zip_sha256": "9e099e61fb1c56ebfc382072ae7377377a56ec58117ad651097168e5cbdf5471",
+    "filename": "Ms_Luminara_Chemistry_Chapter_02_Pass_02_Pacing_Revision.zip"
+  },
+  {
+    "chapter": 1,
+    "story_id": "luminara.adventure.001",
+    "title": "The Address With No Row",
+    "pass": 2,
+    "pass_label": "Pacing_Revision",
+    "narrative_words": 19429,
+    "created_utc": "2026-10-08T15:36:14.700132+00:00",
+    "zip_sha256": "6b8834e1267bda22c44fb2f854fd2943f5b7edf89832f1cad0a6543b6c914264",
+    "filename": "Ms_Luminara_Chemistry_Chapter_01_Pass_02_Pacing_Revision.zip"
+  },
+  {
+    "chapter": 3,
+    "story_id": "luminara.adventure.003",
+    "title": "The City Without Couples",
+    "pass": 3,
+    "pass_label": "Final_Review",
+    "narrative_words": 19139,
+    "created_utc": "2026-10-08T15:36:52.578159+00:00",
+    "zip_sha256": "1d2f30bf9f31bd3af9563076b92577a26ceac444df1c1a43fe740b7f1b857557",
+    "filename": "Ms_Luminara_Chemistry_Chapter_03_Pass_03_Final_Review.zip"
+  },
+  {
+    "chapter": 4,
+    "story_id": "luminara.adventure.004",
+    "title": "Ms Luminara and the Compound Naming Station",
+    "pass": 3,
+    "pass_label": "Final_Review",
+    "narrative_words": 18955,
+    "created_utc": "2026-10-08T15:37:45.355882+00:00",
+    "zip_sha256": "33406d130b8ad329c569c4021461f580db2139a867c15f3db5cb5514bce01b4c",
+    "filename": "Ms_Luminara_Chemistry_Chapter_04_Pass_03_Final_Review.zip"
+  },
+  {
+    "chapter": 5,
+    "story_id": "luminara.adventure.005",
+    "title": "Ms Luminara and the Mole Counting Station",
+    "pass": 3,
+    "pass_label": "Final_Review",
+    "narrative_words": 19028,
+    "created_utc": "2026-10-08T15:39:56.057387+00:00",
+    "zip_sha256": "0235b966d45d26b34697cb614b2726f532f23c11b0276ad9d6b8d45cd5b37769",
+    "filename": "Ms_Luminara_Chemistry_Chapter_05_Pass_03_Final_Review.zip"
+  },
+  {
+    "chapter": 2,
+    "story_id": "luminara.adventure.002",
+    "title": "The Bracket Luggage Office",
+    "pass": 3,
+    "pass_label": "Final_Review",
+    "narrative_words": 19016,
+    "created_utc": "2026-10-08T15:40:50.348214+00:00",
+    "zip_sha256": "85c524a61f00dbe1a97232f29c3793bff7a2dfc5fdb7a66a05ebe7b604718d78",
+    "filename": "Ms_Luminara_Chemistry_Chapter_02_Pass_03_Final_Review.zip"
+  },
+  {
+    "chapter": 1,
+    "story_id": "luminara.adventure.001",
+    "title": "The Address With No Row",
+    "pass": 3,
+    "pass_label": "Final_Review",
+    "narrative_words": 19595,
+    "created_utc": "2026-10-08T15:49:12.760113+00:00",
+    "zip_sha256": "86e4321e89b88557c3bf654d03e77dc277cc8150edfda9d7aa000a2cee458c3c",
+    "filename": "Ms_Luminara_Chemistry_Chapter_01_Pass_03_Final_Review.zip"
+  }
+]

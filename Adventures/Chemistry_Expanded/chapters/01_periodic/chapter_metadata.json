@@ -1,0 +1,57 @@
+{
+  "story_id": "luminara.adventure.001",
+  "chapter_number": 1,
+  "title": "The Address With No Row",
+  "authoring_status": "pass_3_final_reviewed_draft_ready_for_checkpoint",
+  "canonical_status": "not_promoted",
+  "content_purpose": "private concept-reinforcement fiction and optional study companions",
+  "course_identifiers_in_narrative": false,
+  "narrative_word_count": 19595,
+  "narrative_word_count_method": "Shared checkpoint.words method: narrative markers only; remove Markdown headings, HTML, and named core-ensemble dialogue prefixes; Unicode word-token count with internal apostrophes or hyphens retained.",
+  "scene_count": 20,
+  "original_question_ids": [
+    "luminara.adventure.001.q01",
+    "luminara.adventure.001.q02",
+    "luminara.adventure.001.q03",
+    "luminara.adventure.001.q04"
+  ],
+  "new_question_ids": [
+    "luminara.adventure.001.q05",
+    "luminara.adventure.001.q06",
+    "luminara.adventure.001.q07",
+    "luminara.adventure.001.q08",
+    "luminara.adventure.001.q09",
+    "luminara.adventure.001.q10",
+    "luminara.adventure.001.q11",
+    "luminara.adventure.001.q12",
+    "luminara.adventure.001.q13",
+    "luminara.adventure.001.q14",
+    "luminara.adventure.001.q15",
+    "luminara.adventure.001.q16"
+  ],
+  "guest": {
+    "name": "Henry Gwyn Jeffreys Moseley",
+    "imagined_place": "Manchester",
+    "imagined_period": "October 1913",
+    "scene_ids": [
+      "ch01-scene-09",
+      "ch01-scene-10",
+      "ch01-scene-11",
+      "ch01-scene-12"
+    ],
+    "pronunciation_status": "not independently verified; no phonetic spelling supplied",
+    "modern_briefing_scene": "ch01-scene-11",
+    "return_scene": "ch01-scene-12",
+    "retrospective_history_briefing_scene": "ch01-scene-10",
+    "historical_source_limit": "Manchester October 1913 is an imagined setting; the first-paper retrospective is explicitly labeled, December 1913 publication and November Oxford move independently checked; complete primary facsimile not inspected."
+  },
+  "source_review_date": "2026-10-08",
+  "integration_status": "portable authoring only; no application or repository integration",
+  "completed_passes": [
+    1,
+    2,
+    3
+  ],
+  "next_review": "No further chapter revision pass scheduled; ready for the final immutable checkpoint. Pronunciation remains unverified for any future audio edition.",
+  "vocabulary_card_count": 12
+}

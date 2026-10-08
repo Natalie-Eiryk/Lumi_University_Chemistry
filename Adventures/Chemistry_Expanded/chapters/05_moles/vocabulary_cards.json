@@ -1,0 +1,240 @@
+[
+  {
+    "id": "luminara.adventure.005.card01",
+    "story_id": "luminara.adventure.005",
+    "kind": "definition",
+    "prompt": "What quantity does the unit mole measure when the named entities are O₂ molecules?",
+    "answer": "Amount of substance of those specified O₂ molecules. One mole corresponds to exactly 6.02214076 × 10²³ such molecules.",
+    "accepted_reasoning": "Include the entity and the counting meaning. A mole is not a mass unit.",
+    "source_refs": [
+      "SOURCES.md#s01--present-definition-of-the-mole",
+      "https://www.bipm.org/en/si-base-units/mole"
+    ],
+    "scene_ids": [
+      "ch05-scene-02"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q05",
+      "luminara.adventure.005.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card02",
+    "story_id": "luminara.adventure.005",
+    "kind": "definition",
+    "prompt": "What is the Avogadro constant used to connect?",
+    "answer": "Amount of substance n in mol with the number N of specified entities: N = nN_A, where N_A is exactly 6.02214076 × 10²³ mol⁻¹.",
+    "accepted_reasoning": "An equivalent verbal conversion is enough. Keep the per-mole unit and the entity label.",
+    "source_refs": [
+      "SOURCES.md#s01--present-definition-of-the-mole",
+      "SOURCES.md#s02--si-quantities-units-and-measurement-boundary",
+      "https://www.bipm.org/en/si-base-units/mole"
+    ],
+    "scene_ids": [
+      "ch05-scene-02"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01",
+      "luminara.adventure.005.q14"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card03",
+    "story_id": "luminara.adventure.005",
+    "kind": "definition",
+    "prompt": "What does the supplied molar mass 32.00 g/mol mean for O₂?",
+    "answer": "Approximately 32.00 grams per mole of O₂ molecules at the precision of the supplied value.",
+    "accepted_reasoning": "State mass per mole of the specified substance. The rounded molar mass is not made exact by the exact Avogadro constant.",
+    "source_refs": [
+      "SOURCES.md#s05--oxygen-reference-range",
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept"
+    ],
+    "scene_ids": [
+      "ch05-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q02"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card04",
+    "story_id": "luminara.adventure.005",
+    "kind": "definition",
+    "prompt": "What makes two atoms isotopes of the same element?",
+    "answer": "They have the same proton number and different neutron numbers.",
+    "accepted_reasoning": "Both features matter. Different electron counts alone identify ionization differences, not different isotopes.",
+    "source_refs": [
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch05-scene-09"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q03",
+      "luminara.adventure.005.q14"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card05",
+    "story_id": "luminara.adventure.005",
+    "kind": "contrast",
+    "prompt": "How does one mole of O₂ molecules differ from one mole of oxygen atoms within those molecules?",
+    "answer": "One mole of O₂ molecules contains two moles of oxygen atoms within them. The entity label determines which count is being reported.",
+    "accepted_reasoning": "Use the two-atoms-per-molecule relationship. The atoms need not be separate free atoms.",
+    "source_refs": [
+      "SOURCES.md#s01--present-definition-of-the-mole",
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://www.bipm.org/en/si-base-units/mole",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+    ],
+    "scene_ids": [
+      "ch05-scene-03"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q02",
+      "luminara.adventure.005.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card06",
+    "story_id": "luminara.adventure.005",
+    "kind": "contrast",
+    "prompt": "Why can equal amounts of Ne atoms and O₂ molecules have different masses?",
+    "answer": "Equal mole amounts give equal numbers of the named entities, but Ne atoms and O₂ molecules have different masses, so their molar masses differ.",
+    "accepted_reasoning": "A count-versus-mass explanation is sufficient. Equal amount does not mean equal mass or equal total atom count.",
+    "source_refs": [
+      "SOURCES.md#s04--neon-reference-value",
+      "SOURCES.md#s05--oxygen-reference-range",
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept"
+    ],
+    "scene_ids": [
+      "ch05-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q02"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card07",
+    "story_id": "luminara.adventure.005",
+    "kind": "contrast",
+    "prompt": "In the artificial 24 u/26 u isotope model, how does a sample’s average mass differ from an individual atom’s mass?",
+    "answer": "The average summarizes the atom-number-weighted mixture. Each modeled atom still has its assigned 24 u or 26 u mass, not necessarily the average.",
+    "accepted_reasoning": "Reject fractional-neutron interpretations of the mean. These invented masses do not assert that real isotope masses are integers.",
+    "source_refs": [
+      "SOURCES.md#s03--atomic-mass-relative-atomic-mass-isotope-weighting-molar-mass",
+      "SOURCES.md#s09--original-arithmetic-and-statistical-model-derivations",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch05-scene-10"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q03",
+      "luminara.adventure.005.q04"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card08",
+    "story_id": "luminara.adventure.005",
+    "kind": "contrast",
+    "prompt": "How do the quantities labeled u, dimensionless relative atomic mass, and g/mol differ?",
+    "answer": "u can label an atomic or average atomic mass; relative atomic mass is a dimensionless ratio to the atomic mass constant; g/mol labels molar mass.",
+    "accepted_reasoning": "Credit the distinction of quantities and units. Their familiar numerical correspondence does not authorize swapping unit labels or claiming an exact post-2019 SI identity.",
+    "source_refs": [
+      "SOURCES.md#s02--si-quantities-units-and-measurement-boundary",
+      "SOURCES.md#s03--atomic-mass-relative-atomic-mass-isotope-weighting-molar-mass",
+      "https://www.nist.gov/pml/special-publication-330/sp-330-section-2",
+      "https://www.ciaaw.org/info.htm"
+    ],
+    "scene_ids": [
+      "ch05-scene-16"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q14"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card09",
+    "story_id": "luminara.adventure.005",
+    "kind": "application",
+    "prompt": "In a thought experiment containing exactly 0.25 mol of N₂O₄ molecules, how many molecules are represented?",
+    "answer": "1.50553519 × 10²³ N₂O₄ molecules, from 0.25 mol × 6.02214076 × 10²³ mol⁻¹.",
+    "accepted_reasoning": "Keep the molecule entity and show the amount-to-count conversion. Exactness here follows the explicitly exact thought-experiment amount and constant.",
+    "source_refs": [
+      "SOURCES.md#s01--present-definition-of-the-mole",
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://www.bipm.org/en/si-base-units/mole"
+    ],
+    "scene_ids": [
+      "ch05-scene-19",
+      "ch05-scene-20"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card10",
+    "story_id": "luminara.adventure.005",
+    "kind": "application",
+    "prompt": "Exactly 0.25 mol of N₂O₄ molecules contains how many moles of oxygen atoms within those molecules?",
+    "answer": "Exactly 1 mol of oxygen atoms, because each N₂O₄ molecule contains four O atoms and 0.25 × 4 = 1.",
+    "accepted_reasoning": "Use four O atoms per molecule, not six total atoms per molecule. Those oxygen atoms remain within the molecules.",
+    "source_refs": [
+      "SOURCES.md#s01--present-definition-of-the-mole",
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas",
+      "https://www.bipm.org/en/si-base-units/mole"
+    ],
+    "scene_ids": [
+      "ch05-scene-03",
+      "ch05-scene-20"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card11",
+    "story_id": "luminara.adventure.005",
+    "kind": "application",
+    "prompt": "Using the supplied approximate M(O₂) = 32.00 g/mol, what mass corresponds to 2.00 mol of O₂ molecules?",
+    "answer": "64.0 g at three significant figures: 2.00 mol × 32.00 g/mol = 64.00 g before rounding.",
+    "accepted_reasoning": "Credit dimensional cancellation to grams and appropriate precision. More digits in a calculator result do not make the inputs exact.",
+    "source_refs": [
+      "SOURCES.md#s05--oxygen-reference-range",
+      "SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks",
+      "https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept"
+    ],
+    "scene_ids": [
+      "ch05-scene-05",
+      "ch05-scene-06"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q02"
+    ]
+  },
+  {
+    "id": "luminara.adventure.005.card12",
+    "story_id": "luminara.adventure.005",
+    "kind": "application",
+    "prompt": "For an explicitly artificial mixture with 75% of atoms assigned 24 u and 25% assigned 26 u, what is the average atomic mass?",
+    "answer": "24.5 u, from 0.75(24 u) + 0.25(26 u).",
+    "accepted_reasoning": "Weight by fractions of atom number, not by mass fractions or an unweighted midpoint. The answer lies closer to 24 u because those model atoms are more abundant.",
+    "source_refs": [
+      "SOURCES.md#s03--atomic-mass-relative-atomic-mass-isotope-weighting-molar-mass",
+      "SOURCES.md#s09--original-arithmetic-and-statistical-model-derivations",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch05-scene-10"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q03"
+    ]
+  }
+]

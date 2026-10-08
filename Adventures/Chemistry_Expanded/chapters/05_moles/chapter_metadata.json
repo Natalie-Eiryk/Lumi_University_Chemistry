@@ -1,0 +1,45 @@
+{
+  "story_id": "luminara.adventure.005",
+  "title": "Ms Luminara and the Mole Counting Station",
+  "content_version": "2.2.0-pass3",
+  "status": "final_reviewed_private_study_draft",
+  "pass": 3,
+  "scene_count": 21,
+  "narrative_word_count": 19028,
+  "word_count_method": "Narrative markers only; Markdown headings, HTML markup, and leading speaker-name labels excluded; lexical token regex used by collection checkpoint utility.",
+  "original_narrative_word_count": 1137,
+  "preserved_question_ids": [
+    "luminara.adventure.005.q01",
+    "luminara.adventure.005.q02",
+    "luminara.adventure.005.q03",
+    "luminara.adventure.005.q04"
+  ],
+  "new_question_ids": [
+    "luminara.adventure.005.q05",
+    "luminara.adventure.005.q06",
+    "luminara.adventure.005.q07",
+    "luminara.adventure.005.q08",
+    "luminara.adventure.005.q09",
+    "luminara.adventure.005.q10",
+    "luminara.adventure.005.q11",
+    "luminara.adventure.005.q12",
+    "luminara.adventure.005.q13",
+    "luminara.adventure.005.q14"
+  ],
+  "historical_guest": null,
+  "resources": {
+    "story": "STORY.md",
+    "support": "SUPPORT.md",
+    "practice": "PRACTICE.md",
+    "teacher_key": "TEACHER_KEY.md",
+    "sources": "SOURCES.md",
+    "scene_map": "scene_map.json",
+    "question_trace": "question_trace.json",
+    "revision_log": "REVISION_LOG.md",
+    "vocabulary_cards": "VOCABULARY_CARDS.md",
+    "vocabulary_cards_data": "vocabulary_cards.json"
+  },
+  "pass2_review": "Complete narrative and companions independently reread for the preserved Pass 2 pacing revision; Pass 3 records the subsequent science review.",
+  "pass3_review": "Independent complete narrative and companion review, source checks, arithmetic recalculation, and twelve-card consistency review completed. Not instructor certification, canonization, or runtime approval.",
+  "vocabulary_card_count": 12
+}

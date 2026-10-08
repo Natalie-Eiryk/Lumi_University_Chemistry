@@ -1,0 +1,219 @@
+{
+  "collection_id": "luminara.adventures.chemistry.expanded.20261008",
+  "version": "2.0.0-reviewed-draft",
+  "date": "2026-10-08",
+  "lifecycle": "reviewed_authoring_content_not_canonized",
+  "integration_status": "not_installed_or_runtime_tested",
+  "source_collection_id": "luminara.adventures.collection.001",
+  "source_collection_version": "1.0.0",
+  "narrative_word_count_method": "Unicode word tokens inside narrative markers, excluding headings, HTML anchors and explicit standalone ensemble speaker labels; includes integrated scientific exposition. Study companions excluded. Original baseline counts retain their archived method.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "story_id": "luminara.adventure.001",
+      "title": "The Address With No Row",
+      "content_version": "2.0.0-reviewed-draft",
+      "narrative_words": 19595,
+      "scene_count": 20,
+      "question_ids": [
+        "luminara.adventure.001.q01",
+        "luminara.adventure.001.q02",
+        "luminara.adventure.001.q03",
+        "luminara.adventure.001.q04",
+        "luminara.adventure.001.q05",
+        "luminara.adventure.001.q06",
+        "luminara.adventure.001.q07",
+        "luminara.adventure.001.q08",
+        "luminara.adventure.001.q09",
+        "luminara.adventure.001.q10",
+        "luminara.adventure.001.q11",
+        "luminara.adventure.001.q12",
+        "luminara.adventure.001.q13",
+        "luminara.adventure.001.q14",
+        "luminara.adventure.001.q15",
+        "luminara.adventure.001.q16"
+      ],
+      "original_question_ids": [
+        "luminara.adventure.001.q01",
+        "luminara.adventure.001.q02",
+        "luminara.adventure.001.q03",
+        "luminara.adventure.001.q04"
+      ],
+      "resources": {
+        "story": "chapters/01_periodic/STORY.md",
+        "support": "chapters/01_periodic/SUPPORT.md",
+        "practice": "chapters/01_periodic/PRACTICE.md",
+        "teacher_key": "chapters/01_periodic/TEACHER_KEY.md",
+        "sources": "chapters/01_periodic/SOURCES.md",
+        "scene_map": "chapters/01_periodic/scene_map.json",
+        "vocabulary_cards": "chapters/01_periodic/VOCABULARY_CARDS.md",
+        "vocabulary_data": "chapters/01_periodic/vocabulary_cards.json",
+        "reader": "readers/Chemistry_01_periodic.md"
+      }
+    },
+    {
+      "chapter": 2,
+      "story_id": "luminara.adventure.002",
+      "title": "The Bracket Luggage Office",
+      "content_version": "2.0.0-reviewed-draft",
+      "narrative_words": 19016,
+      "scene_count": 20,
+      "question_ids": [
+        "luminara.adventure.002.q01",
+        "luminara.adventure.002.q02",
+        "luminara.adventure.002.q03",
+        "luminara.adventure.002.q04",
+        "luminara.adventure.002.q05",
+        "luminara.adventure.002.q06",
+        "luminara.adventure.002.q07",
+        "luminara.adventure.002.q08",
+        "luminara.adventure.002.q09",
+        "luminara.adventure.002.q10",
+        "luminara.adventure.002.q11",
+        "luminara.adventure.002.q12",
+        "luminara.adventure.002.q13",
+        "luminara.adventure.002.q14"
+      ],
+      "original_question_ids": [
+        "luminara.adventure.002.q01",
+        "luminara.adventure.002.q02",
+        "luminara.adventure.002.q03",
+        "luminara.adventure.002.q04"
+      ],
+      "resources": {
+        "story": "chapters/02_brackets/STORY.md",
+        "support": "chapters/02_brackets/SUPPORT.md",
+        "practice": "chapters/02_brackets/PRACTICE.md",
+        "teacher_key": "chapters/02_brackets/TEACHER_KEY.md",
+        "sources": "chapters/02_brackets/SOURCES.md",
+        "scene_map": "chapters/02_brackets/scene_map.json",
+        "vocabulary_cards": "chapters/02_brackets/VOCABULARY_CARDS.md",
+        "vocabulary_data": "chapters/02_brackets/vocabulary_cards.json",
+        "reader": "readers/Chemistry_02_brackets.md"
+      }
+    },
+    {
+      "chapter": 3,
+      "story_id": "luminara.adventure.003",
+      "title": "The City Without Couples",
+      "content_version": "2.0.0-reviewed-draft",
+      "narrative_words": 19139,
+      "scene_count": 20,
+      "question_ids": [
+        "luminara.adventure.003.q01",
+        "luminara.adventure.003.q02",
+        "luminara.adventure.003.q03",
+        "luminara.adventure.003.q04",
+        "luminara.adventure.003.q05",
+        "luminara.adventure.003.q06",
+        "luminara.adventure.003.q07",
+        "luminara.adventure.003.q08",
+        "luminara.adventure.003.q09",
+        "luminara.adventure.003.q10",
+        "luminara.adventure.003.q11",
+        "luminara.adventure.003.q12",
+        "luminara.adventure.003.q13",
+        "luminara.adventure.003.q14"
+      ],
+      "original_question_ids": [
+        "luminara.adventure.003.q01",
+        "luminara.adventure.003.q02",
+        "luminara.adventure.003.q03",
+        "luminara.adventure.003.q04"
+      ],
+      "resources": {
+        "story": "chapters/03_city/STORY.md",
+        "support": "chapters/03_city/SUPPORT.md",
+        "practice": "chapters/03_city/PRACTICE.md",
+        "teacher_key": "chapters/03_city/TEACHER_KEY.md",
+        "sources": "chapters/03_city/SOURCES.md",
+        "scene_map": "chapters/03_city/scene_map.json",
+        "vocabulary_cards": "chapters/03_city/VOCABULARY_CARDS.md",
+        "vocabulary_data": "chapters/03_city/vocabulary_cards.json",
+        "reader": "readers/Chemistry_03_city.md"
+      }
+    },
+    {
+      "chapter": 4,
+      "story_id": "luminara.adventure.004",
+      "title": "Ms Luminara and the Compound Naming Station",
+      "content_version": "2.0.0-reviewed-draft",
+      "narrative_words": 18955,
+      "scene_count": 20,
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04",
+        "luminara.adventure.004.q05",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q09",
+        "luminara.adventure.004.q10",
+        "luminara.adventure.004.q11",
+        "luminara.adventure.004.q12",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ],
+      "original_question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04"
+      ],
+      "resources": {
+        "story": "chapters/04_naming/STORY.md",
+        "support": "chapters/04_naming/SUPPORT.md",
+        "practice": "chapters/04_naming/PRACTICE.md",
+        "teacher_key": "chapters/04_naming/TEACHER_KEY.md",
+        "sources": "chapters/04_naming/SOURCES.md",
+        "scene_map": "chapters/04_naming/scene_map.json",
+        "vocabulary_cards": "chapters/04_naming/VOCABULARY_CARDS.md",
+        "vocabulary_data": "chapters/04_naming/vocabulary_cards.json",
+        "reader": "readers/Chemistry_04_naming.md"
+      }
+    },
+    {
+      "chapter": 5,
+      "story_id": "luminara.adventure.005",
+      "title": "Ms Luminara and the Mole Counting Station",
+      "content_version": "2.0.0-reviewed-draft",
+      "narrative_words": 19028,
+      "scene_count": 21,
+      "question_ids": [
+        "luminara.adventure.005.q01",
+        "luminara.adventure.005.q02",
+        "luminara.adventure.005.q03",
+        "luminara.adventure.005.q04",
+        "luminara.adventure.005.q05",
+        "luminara.adventure.005.q06",
+        "luminara.adventure.005.q07",
+        "luminara.adventure.005.q08",
+        "luminara.adventure.005.q09",
+        "luminara.adventure.005.q10",
+        "luminara.adventure.005.q11",
+        "luminara.adventure.005.q12",
+        "luminara.adventure.005.q13",
+        "luminara.adventure.005.q14"
+      ],
+      "original_question_ids": [
+        "luminara.adventure.005.q01",
+        "luminara.adventure.005.q02",
+        "luminara.adventure.005.q03",
+        "luminara.adventure.005.q04"
+      ],
+      "resources": {
+        "story": "chapters/05_moles/STORY.md",
+        "support": "chapters/05_moles/SUPPORT.md",
+        "practice": "chapters/05_moles/PRACTICE.md",
+        "teacher_key": "chapters/05_moles/TEACHER_KEY.md",
+        "sources": "chapters/05_moles/SOURCES.md",
+        "scene_map": "chapters/05_moles/scene_map.json",
+        "vocabulary_cards": "chapters/05_moles/VOCABULARY_CARDS.md",
+        "vocabulary_data": "chapters/05_moles/vocabulary_cards.json",
+        "reader": "readers/Chemistry_05_moles.md"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "luminara.adventure.001.card01",
+    "story_id": "luminara.adventure.001",
+    "kind": "definition",
+    "prompt": "For a chlorine atom or ion, what does atomic number 17 count?",
+    "answer": "The 17 protons in its nucleus. Proton number fixes its identity as chlorine.",
+    "accepted_reasoning": "A proton-count explanation is sufficient; electrons or mass number do not define atomic number.",
+    "source_refs": [
+      "SOURCES.md#S06",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch01-scene-11",
+      "ch01-scene-14"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q02",
+      "luminara.adventure.001.q05"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card02",
+    "story_id": "luminara.adventure.001",
+    "kind": "definition",
+    "prompt": "What does ground state mean for a neutral fluorine atom in this chapter?",
+    "answer": "Its lowest-energy electronic state. The chapter’s configuration clues assume that state rather than an excited state.",
+    "accepted_reasoning": "Accept lowest-energy arrangement/state in context; do not require the phrase electronic state verbatim.",
+    "source_refs": [
+      "SOURCES.md#S03",
+      "SOURCES.md#S04",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch01-scene-08"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q09"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card03",
+    "story_id": "luminara.adventure.001",
+    "kind": "definition",
+    "prompt": "In the chapter’s neutral, first-twenty main-group examples, what are valence electrons?",
+    "answer": "Electrons in the outermost occupied principal shell, under this stated main-group convention.",
+    "accepted_reasoning": "Accept outer-shell electrons with the stated scope. Do not export this rule unchanged to all transition-metal contexts.",
+    "source_refs": [
+      "SOURCES.md#S03",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch01-scene-19",
+      "ch01-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q06",
+      "luminara.adventure.001.q04"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card04",
+    "story_id": "luminara.adventure.001",
+    "kind": "definition",
+    "prompt": "What is subshell occupancy in the notation 3p⁵?",
+    "answer": "The number of electrons assigned to that subshell; here the 3p subshell contains five electrons.",
+    "accepted_reasoning": "Recognize that five is an occupancy of 3p, not five electrons in the whole atom. Equivalent spoken or plain-text notation is welcome.",
+    "source_refs": [
+      "SOURCES.md#S03",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch01-scene-04"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q03",
+      "luminara.adventure.001.q05"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card05",
+    "story_id": "luminara.adventure.001",
+    "kind": "contrast",
+    "prompt": "How does the n = 3 shell differ from its 3p subshell?",
+    "answer": "The shell groups states with principal quantum number 3. The 3p subshell is one part of that shell, distinguished by the p subshell type.",
+    "accepted_reasoning": "A whole-category versus subcategory explanation is enough. Neither is a literal circular electron track.",
+    "source_refs": [
+      "SOURCES.md#S03",
+      "SOURCES.md#S04",
+      "https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch01-scene-06"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q07"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card06",
+    "story_id": "luminara.adventure.001",
+    "kind": "contrast",
+    "prompt": "For chlorine on a periodic table, how do period and group differ?",
+    "answer": "Period 3 is its horizontal row; group 17 is its numbered column.",
+    "accepted_reasoning": "Identify row versus column. A temporal meaning of period does not apply here.",
+    "source_refs": [
+      "SOURCES.md#S01",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+    ],
+    "scene_ids": [
+      "ch01-scene-02"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q11"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card07",
+    "story_id": "luminara.adventure.001",
+    "kind": "contrast",
+    "prompt": "Why is ns² np⁵ an outer pattern rather than a complete electron configuration for F or Cl?",
+    "answer": "It describes the outer s and p occupancies without specifying n or listing all the inner electrons.",
+    "accepted_reasoning": "Accept an explanation of missing principal-shell identity and core inventory, rather than an exact definition.",
+    "source_refs": [
+      "SOURCES.md#S02",
+      "SOURCES.md#S03",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1.htm",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+    ],
+    "scene_ids": [
+      "ch01-scene-04",
+      "ch01-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q03",
+      "luminara.adventure.001.q11"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card08",
+    "story_id": "luminara.adventure.001",
+    "kind": "contrast",
+    "prompt": "What is the difference between saying F and Cl share a group pattern and saying they behave identically?",
+    "answer": "Their related outer configurations support useful chemical similarities. They do not make every size, energy, or reaction property identical.",
+    "accepted_reasoning": "Name the restricted similarity and reject universal identity; no particular property value is required.",
+    "source_refs": [
+      "SOURCES.md#S03",
+      "SOURCES.md#S09",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch01-scene-16"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q04",
+      "luminara.adventure.001.q15"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card09",
+    "story_id": "luminara.adventure.001",
+    "kind": "application",
+    "prompt": "A neutral ground-state first-twenty atom fits ns² np⁵ and is in period 3. Which element fits?",
+    "answer": "Chlorine: the additional period clue selects 3s² 3p⁵ rather than fluorine’s 2s² 2p⁵.",
+    "accepted_reasoning": "Credit elimination of F by the period clue. Chlorine without any reasoning is a starting answer, not the whole explanation.",
+    "source_refs": [
+      "SOURCES.md#S01",
+      "SOURCES.md#S02",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1.htm",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+    ],
+    "scene_ids": [
+      "ch01-scene-13"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q11"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card10",
+    "story_id": "luminara.adventure.001",
+    "kind": "application",
+    "prompt": "How many electrons are represented by 1s² 2s² 2p⁶ 3s² 3p⁵?",
+    "answer": "17 electrons: 2 + 2 + 6 + 2 + 5.",
+    "accepted_reasoning": "Any correct sum or labeled counting explanation is sufficient. The result is an electron inventory, not automatically an atomic number for every species.",
+    "source_refs": [
+      "SOURCES.md#S02",
+      "SOURCES.md#S03",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+    ],
+    "scene_ids": [
+      "ch01-scene-05",
+      "ch01-scene-13"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q03"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card11",
+    "story_id": "luminara.adventure.001",
+    "kind": "application",
+    "prompt": "A species has 17 protons and 18 electrons. Which element does it belong to?",
+    "answer": "Chlorine, because its 17 protons determine the element even though the electron count differs from that of neutral chlorine.",
+    "accepted_reasoning": "Accept Cl or chlorine with a proton-identity explanation. Identifying the negative ion is welcome but not needed for this card’s identity question.",
+    "source_refs": [
+      "SOURCES.md#S06",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch01-scene-14"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q02"
+    ]
+  },
+  {
+    "id": "luminara.adventure.001.card12",
+    "story_id": "luminara.adventure.001",
+    "kind": "application",
+    "prompt": "Oxygen has outer configuration 2s² 2p⁴ and sulfur has 3s² 3p⁴. What one missing clue would distinguish them in a neutral ground-state first-twenty search?",
+    "answer": "The period, or equivalently the value of the outer principal quantum number n: 2 selects oxygen and 3 selects sulfur.",
+    "accepted_reasoning": "Any independently supplied discriminator, such as atomic number 8 versus 16, is also valid. Do not reward a guess from the shared outer pattern alone.",
+    "source_refs": [
+      "SOURCES.md#S07",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch01-scene-17"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q01",
+      "luminara.adventure.001.q12"
+    ]
+  }
+]

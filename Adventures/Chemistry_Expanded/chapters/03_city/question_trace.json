@@ -1,0 +1,312 @@
+[
+  {
+    "question_id": "luminara.adventure.003.q01",
+    "status": "preserved_original",
+    "original_question_id": "luminara.adventure.003.q01",
+    "original_source": "Ms_Luminara_Adventures_First_Collection/practice/003_practice.md",
+    "original_text_preserved": true,
+    "question_text": "Classify O₂, H₂O, and NH₄⁺ using the supplied facts: O₂ and H₂O are neutral discrete molecules; NH₄⁺ is a charged bonded group. Which is elemental, which is a molecular compound, and which is a polyatomic ion? Explain why “has covalent bonds” is not a complete classification.",
+    "question_text_sha256": "b0247e651d6fd11c102f7bd54c68f4f1d744152c8e73d77259077cd1cee39641",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S01",
+      "CH03-S02",
+      "CH03-S05",
+      "CH03-S16"
+    ],
+    "scene_ids": [
+      "ch03-scene-10",
+      "ch03-scene-11",
+      "ch03-scene-18"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Updated precise reference bindings; original item text unchanged."
+  },
+  {
+    "question_id": "luminara.adventure.003.q02",
+    "status": "preserved_original",
+    "original_question_id": "luminara.adventure.003.q02",
+    "original_source": "Ms_Luminara_Adventures_First_Collection/practice/003_practice.md",
+    "original_text_preserved": true,
+    "question_text": "Build neutral calcium nitrate from Ca²⁺ and NO₃⁻. State the ion ratio, formula, and total numbers of Ca, N, and O represented. Explain the parentheses.",
+    "question_text_sha256": "34015546e474451c78065e0e2e76b890ea3d8b486f55142d227078b8b96e976f",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S05",
+      "CH03-S06"
+    ],
+    "scene_ids": [
+      "ch03-scene-13",
+      "ch03-scene-18"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Updated precise reference bindings; original item text unchanged."
+  },
+  {
+    "question_id": "luminara.adventure.003.q03",
+    "status": "preserved_original",
+    "original_question_id": "luminara.adventure.003.q03",
+    "original_source": "Ms_Luminara_Adventures_First_Collection/practice/003_practice.md",
+    "original_text_preserved": true,
+    "question_text": "Build the simplest neutral ionic formula from Al³⁺ and O²⁻. Show the charge accounting. Then explain why the instruction to reduce an ionic ratio does not authorize changing the molecular formula N₂O₄ to NO₂.",
+    "question_text_sha256": "03cf28e80d6454ad2a7e17d53e5fd22c154ea934c6432cb3b5ff8d54bdf487ba",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S06"
+    ],
+    "scene_ids": [
+      "ch03-scene-14",
+      "ch03-scene-15",
+      "ch03-scene-18"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Updated precise reference bindings; original item text unchanged."
+  },
+  {
+    "question_id": "luminara.adventure.003.q04",
+    "status": "preserved_original",
+    "original_question_id": "luminara.adventure.003.q04",
+    "original_source": "Ms_Luminara_Adventures_First_Collection/practice/003_practice.md",
+    "original_text_preserved": true,
+    "question_text": "In ordinary solid NaCl, an illustration shows one sodium ion surrounded by six nearest chloride neighbors. A student concludes the compound must be NaCl₆. Identify the difference between a local neighborhood and an overall composition ratio. A text explanation is sufficient.",
+    "question_text_sha256": "16d10c900391ece2b439b562210064131fec568ac700ca6c1493504fdd9c12c0",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04"
+    ],
+    "scene_ids": [
+      "ch03-scene-02",
+      "ch03-scene-04",
+      "ch03-scene-05",
+      "ch03-scene-08",
+      "ch03-scene-18"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Updated precise reference bindings; original item text unchanged."
+  },
+  {
+    "question_id": "luminara.adventure.003.q05",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "An animation shows a neutral sodium atom losing one electron and a neutral chlorine atom gaining it. It then draws a permanent ribbon between the two resulting ions. Sodium has 11 protons and chlorine has 17. Identify what the electron bookkeeping establishes, calculate each final electron count and charge, and explain one claim the ribbon adds without support. Do not calculate a reaction energy.",
+    "question_text_sha256": "03cfb33a79f0bf268fa4bcc381081e40bc98a9158387a8f92729cacd07b28a5a",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S07",
+      "CH03-S13",
+      "CH03-S17"
+    ],
+    "scene_ids": [
+      "ch03-scene-03",
+      "ch03-scene-06",
+      "ch03-scene-07"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q06",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "A two-dimensional even-by-even checkerboard of alternating positive and negative signs has equal total counts. A selected interior positive sign has four nearest negative neighbors. Explain why writing the whole board's composition as “one positive to four negatives” would be wrong. Then state why this analogy does not establish NaCl's actual three-dimensional coordination number.",
+    "question_text_sha256": "393519859d929443e64829ca05f1e504a5781f762d9b716bc95b23db740ceb8e",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04"
+    ],
+    "scene_ids": [
+      "ch03-scene-04",
+      "ch03-scene-05",
+      "ch03-scene-08"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q07",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "Use intact NH₄⁺ and CO₃²⁻ ions to build the simplest neutral formula. Show the charge sum and count N, H, C and O. A learner encloses the selected two positive ions and one negative ion in a ribbon and calls the set a molecule within the ordinary ionic solid. Explain which grouping is valid for the accounting and which additional claim is not justified.",
+    "question_text_sha256": "708c0f5ad26f30427e7106011a7ae64f3350da5692a89afa914c4f34b4303d2c",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S05"
+    ],
+    "scene_ids": [
+      "ch03-scene-12",
+      "ch03-scene-18"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q08",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "For the inventory written 3 Ca(NO₃)₂, state the number of formula units, calcium ions, nitrate ions, nitrogen atoms and oxygen atoms represented. Explain the distinct roles of the leading 3, the outside subscript 2 and the internal subscript 3. Use the supplied identities Ca²⁺ and NO₃⁻; no physical preparation is implied.",
+    "question_text_sha256": "4ed84af02e23c355e79f9a1b9cdcaa5184a3b7f0a00f4fa421fdb697dedf805d",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S05",
+      "CH03-S06"
+    ],
+    "scene_ids": [
+      "ch03-scene-13",
+      "ch03-scene-17"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q09",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "A model's tiles correctly contain one Ca²⁺ and two NO₃⁻ ions, but its printer produces CaN₂O₃. Diagnose the exact atom-count failure, repair the conventional ionic formula, and explain why a correct zero charge reading on the original tiles does not prove that the printed formula preserved those tiles.",
+    "question_text_sha256": "caa62462457df2f622618713d42f71c14fe451f4b7f0f30ddca22e3d0cf5ee55",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S05",
+      "CH03-S06"
+    ],
+    "scene_ids": [
+      "ch03-scene-13"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q10",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "Given intact Mg²⁺ and SO₄²⁻ ions, a learner proposes Mg₂(SO₄)₂. Check neutrality, then write the simplest conventional ionic formula. Explain which two counts may be divided by a common factor and which internal subscript must remain unchanged.",
+    "question_text_sha256": "92e0ab04cbc20c1065aff7890cfbdad4cca8b4ea4a8d0ffb9b1f128802c13def",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S05"
+    ],
+    "scene_ids": [
+      "ch03-scene-14",
+      "ch03-scene-16"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q11",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "The identities are supplied: lithium hydride is represented by Li⁺ and H⁻; sodium peroxide is represented by Na⁺ and the intact peroxide ion O₂²⁻. Build each neutral formula. Explain why hydrogen must not be silently changed to H⁺ and why the conventional sodium peroxide formula must not be reduced to NaO.",
+    "question_text_sha256": "62fca19f43257e2c573a366dfa6b154eea5cc4ad84d95899543ab744893cc3ea",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S11",
+      "CH03-S12"
+    ],
+    "scene_ids": [
+      "ch03-scene-16",
+      "ch03-scene-18"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q12",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "An unknown molecular substance is reported only to have a nitrogen-to-oxygen atom ratio of 1:2. A student concludes its molecular formula must be NO₂. Explain what the information establishes and what additional kind of information would be needed to distinguish NO₂ from N₂O₄ as molecular formulas. No actual sample analysis or reaction is requested.",
+    "question_text_sha256": "fb8cc9b06630f412d4bae653d32fb6aad08c4e0a29caea448808f0d273533fae",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S06"
+    ],
+    "scene_ids": [
+      "ch03-scene-15"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q13",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "Optional Lewis bridge: use neutral-atom valence contributions N = 5 and H = 1 to calculate the NH₄⁺ valence-electron budget. Draw or describe four N–H single bonds, count the electrons used, and state whether a lone pair remains on N. Given that four bonding regions and no central lone pair produce tetrahedral geometry in this model, explain why a flat cross drawing is not evidence of a flat ion.",
+    "question_text_sha256": "acdc64e844d4b1067b33d10c9ecfdc0e0df4079a58daf8f930db90ff6e242b2e",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S08",
+      "CH03-S09",
+      "CH03-S10"
+    ],
+    "scene_ids": [
+      "ch03-scene-11"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  },
+  {
+    "question_id": "luminara.adventure.003.q14",
+    "status": "new_companion",
+    "original_question_id": null,
+    "original_source": null,
+    "original_text_preserved": null,
+    "question_text": "Rewrite this misleading exhibit label in two or three clear sentences: “Every ion in salt belongs to one molecule with its favorite partner. Its electron transfer makes it stay there forever. A charge-balanced formula tells us the entire structure.” Keep the scope at ordinary solid NaCl. Include one limit of the replacement model; a detailed quantum calculation is not required.",
+    "question_text_sha256": "8582e0060adad8937be275af7cdc0456f7bbf330f2499a3805350c5e7499f88d",
+    "scientific_correction": null,
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04",
+      "CH03-S07",
+      "CH03-S14",
+      "CH03-S15"
+    ],
+    "scene_ids": [
+      "ch03-scene-01",
+      "ch03-scene-02",
+      "ch03-scene-03",
+      "ch03-scene-07",
+      "ch03-scene-08",
+      "ch03-scene-17",
+      "ch03-scene-19"
+    ],
+    "practice_file": "PRACTICE.md",
+    "key_file": "TEACHER_KEY.md",
+    "binding_note": "Newly authored transfer item; not an original course worksheet question."
+  }
+]

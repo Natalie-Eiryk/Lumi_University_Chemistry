@@ -1,0 +1,2890 @@
+[
+  {
+    "card_id": "luminara.adventure.001.card01",
+    "concept": "atomic number",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-11",
+        "title": "Two names on the same bench",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-11"
+      },
+      {
+        "scene_id": "ch01-scene-14",
+        "title": "The plaque that stayed seventeen",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-14"
+      }
+    ],
+    "support_topic": "Atomic number",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q02"
+      },
+      {
+        "practice_id": "luminara.adventure.001.q05",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q05"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Atomic number and element identity",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#atomic-number-and-element-identity",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S06",
+        "url": "../chapters/01_periodic/SOURCES.md#S06"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card02",
+    "concept": "ground state",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-08",
+        "title": "The staircase that was not a filling rule",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-08"
+      }
+    ],
+    "support_topic": "Ground state",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q09",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q09"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "The scene defines ground state with its general specified-atom meaning and K/Ca examples; the card applies that definition to neutral F.",
+    "support_heading": "Configuration notation and its levels",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#configuration-notation-and-its-levels",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      },
+      {
+        "source_id": "S04",
+        "url": "../chapters/01_periodic/SOURCES.md#S04"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card03",
+    "concept": "valence electrons",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-19",
+        "title": "The part of the map they had not walked",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-19"
+      },
+      {
+        "scene_id": "ch01-scene-05",
+        "title": "What the outer window hid",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-05"
+      }
+    ],
+    "support_topic": "Valence electrons",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q06"
+      },
+      {
+        "practice_id": "luminara.adventure.001.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q04"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Configuration notation and its levels",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#configuration-notation-and-its-levels",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card04",
+    "concept": "occupancy",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-04",
+        "title": "A number with a small territory",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-04"
+      }
+    ],
+    "support_topic": "3p⁵ occupancy",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q03"
+      },
+      {
+        "practice_id": "luminara.adventure.001.q05",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q05"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "One expression, three different jobs",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#one-expression-three-different-jobs",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card05",
+    "concept": "shell versus subshell",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-06",
+        "title": "Rooms inside rooms and the point where rooms fail",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-06"
+      }
+    ],
+    "support_topic": "Principal shell and subshell",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q07",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q07"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Configuration notation and its levels",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#configuration-notation-and-its-levels",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-03",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-3-development-of-quantum-theory"
+      },
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      },
+      {
+        "source_id": "S04",
+        "url": "../chapters/01_periodic/SOURCES.md#S04"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card06",
+    "concept": "period and group",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-02",
+        "title": "A neighborhood that would not become a line",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-02"
+      }
+    ],
+    "support_topic": "Period versus group",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q11",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q11"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Period, group, and the declared scope",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#period-group-and-the-declared-scope",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-04",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/01_periodic/SOURCES.md#S01"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card07",
+    "concept": "outer pattern versus full configuration",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-04",
+        "title": "A number with a small territory",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-04"
+      },
+      {
+        "scene_id": "ch01-scene-05",
+        "title": "What the outer window hid",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-05"
+      }
+    ],
+    "support_topic": "Outer pattern versus total inventory",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q03"
+      },
+      {
+        "practice_id": "luminara.adventure.001.q11",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q11"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "One expression, three different jobs",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#one-expression-three-different-jobs",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-05",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1.htm"
+      },
+      {
+        "url": "SOURCES.md#ref-04",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S02",
+        "url": "../chapters/01_periodic/SOURCES.md#S02"
+      },
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card08",
+    "concept": "group patterns",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-16",
+        "title": "The souvenir that promised too much",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-16"
+      }
+    ],
+    "support_topic": "Named property and similarity",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q04"
+      },
+      {
+        "practice_id": "luminara.adventure.001.q15",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q15"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Why a same-group counterexample is useful",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#why-a-same-group-counterexample-is-useful",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      },
+      {
+        "source_id": "S09",
+        "url": "../chapters/01_periodic/SOURCES.md#S09"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card09",
+    "concept": "discriminating period clue",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-13",
+        "title": "The row earns its place",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-13"
+      }
+    ],
+    "support_topic": "Period 3 discriminator",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q11",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q11"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "The whole puzzle in a few steps",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#the-whole-puzzle-in-a-few-steps",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-05",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/fluorinetable1.htm"
+      },
+      {
+        "url": "SOURCES.md#ref-04",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/01_periodic/SOURCES.md#S01"
+      },
+      {
+        "source_id": "S02",
+        "url": "../chapters/01_periodic/SOURCES.md#S02"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card10",
+    "concept": "full electron inventory",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-05",
+        "title": "What the outer window hid",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-05"
+      },
+      {
+        "scene_id": "ch01-scene-13",
+        "title": "The row earns its place",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-13"
+      }
+    ],
+    "support_topic": "Complete chlorine configuration",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q03"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Configuration notation and its levels",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#configuration-notation-and-its-levels",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-04",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/chlorinetable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S02",
+        "url": "../chapters/01_periodic/SOURCES.md#S02"
+      },
+      {
+        "source_id": "S03",
+        "url": "../chapters/01_periodic/SOURCES.md#S03"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card11",
+    "concept": "proton identity in an ion",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-14",
+        "title": "The plaque that stayed seventeen",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-14"
+      }
+    ],
+    "support_topic": "Chlorine identity with changed electron count",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q02"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Atomic number and element identity",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#atomic-number-and-element-identity",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S06",
+        "url": "../chapters/01_periodic/SOURCES.md#S06"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.001.card12",
+    "concept": "incomplete address",
+    "story_path": "../chapters/01_periodic/STORY.md",
+    "support_path": "../chapters/01_periodic/SUPPORT.md",
+    "practice_path": "../chapters/01_periodic/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch01-scene-17",
+        "title": "The next letter refuses to be chlorine",
+        "url": "../chapters/01_periodic/STORY.md#ch01-scene-17"
+      }
+    ],
+    "support_topic": "Oxygen/sulfur candidate discrimination",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.001.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q01"
+      },
+      {
+        "practice_id": "luminara.adventure.001.q12",
+        "origin": "new expansion question",
+        "url": "../chapters/01_periodic/PRACTICE.md#q12"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "The shortest help ladder",
+    "support_link": "../chapters/01_periodic/SUPPORT.md#the-shortest-help-ladder",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S07",
+        "url": "../chapters/01_periodic/SOURCES.md#S07"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card01",
+    "concept": "noble-gas core notation",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-03",
+        "title": "The fold that opens again",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-03"
+      }
+    ],
+    "support_topic": "Neon-core expansion",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q11",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q11"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q01"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Open the three cases",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#open-the-three-cases",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-06",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N2",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "N3",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card02",
+    "concept": "occupancy check",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-15",
+        "title": "Twenty is not the whole answer",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-15"
+      }
+    ],
+    "support_topic": "Ground-state occupancy check",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q03"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q12",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q12"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "A short check that does not overpromise",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#a-short-check-that-does-not-overpromise",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-07",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/calciumtable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N7",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card03",
+    "concept": "isoelectronic",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-09",
+        "title": "The sodium sent toward neon",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-09"
+      }
+    ],
+    "support_topic": "Isoelectronic",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q06"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      },
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N2",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "N3",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T3",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card04",
+    "concept": "cation",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-09",
+        "title": "The sodium sent toward neon",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-09"
+      }
+    ],
+    "support_topic": "Cation and anion",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q06"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q09",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q09"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      },
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "T3",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card05",
+    "concept": "valid notation versus requested convention",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-06",
+        "title": "A longer answer that tells the truth",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-06"
+      },
+      {
+        "scene_id": "ch02-scene-11",
+        "title": "Two numbers above the line",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-11"
+      }
+    ],
+    "support_topic": "Valid longer form and requested core",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q01"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q13",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q13"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 6 establishes the longer-form versus requested-core distinction with sodium; scene 11 supplies the neutral magnesium inventory. The card transfers the same distinction to magnesium, and q01 gives that exact comparison.",
+    "support_heading": "Selected verified neutral ground states",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#selected-verified-neutral-ground-states",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N4",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card06",
+    "concept": "count versus occupancy",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-15",
+        "title": "Twenty is not the whole answer",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-15"
+      }
+    ],
+    "support_topic": "Ground state; occupancy and capacity",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q03"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q12",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q12"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-07",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/calciumtable1.htm"
+      },
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N7",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card07",
+    "concept": "ion versus element",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-09",
+        "title": "The sodium sent toward neon",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-09"
+      }
+    ],
+    "support_topic": "Monatomic ion; atomic number",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q06"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q09",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q09"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      },
+      {
+        "url": "SOURCES.md#ref-06",
+        "external_url": "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N3",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T3",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card08",
+    "concept": "ledger versus energy",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-10",
+        "title": "The third column",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-10"
+      },
+      {
+        "scene_id": "ch02-scene-12",
+        "title": "What a balanced ledger cannot buy",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-12"
+      }
+    ],
+    "support_topic": "System boundary and surroundings; ionization energy",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q09",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q09"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q10",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q10"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      },
+      {
+        "url": "SOURCES.md#ref-09",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N1",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "N3",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T3",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card09",
+    "concept": "expand magnesium core",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-03",
+        "title": "The fold that opens again",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-03"
+      },
+      {
+        "scene_id": "ch02-scene-11",
+        "title": "Two numbers above the line",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-11"
+      }
+    ],
+    "support_topic": "Neutral magnesium configuration",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q01"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 3 demonstrates opening a neon core, and scene 11 supplies the full neutral-magnesium configuration. The card combines those explicitly taught steps; q01 uses the same magnesium case.",
+    "support_heading": "Selected verified neutral ground states",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#selected-verified-neutral-ground-states",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N4",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card10",
+    "concept": "missing middle electrons",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-04",
+        "title": "Eight missing from the label",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-04"
+      },
+      {
+        "scene_id": "ch02-scene-11",
+        "title": "Two numbers above the line",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-11"
+      }
+    ],
+    "support_topic": "Expansion fidelity and missing middle terms",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q01"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 4 demonstrates the missing 2s² 2p⁶ block in sodium; scene 11 supplies neutral magnesium’s twelve-electron inventory. The eight-electron omission transfers to magnesium; q01 explicitly tests that case.",
+    "support_heading": "Open the three cases",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#open-the-three-cases",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N4",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card11",
+    "concept": "charge ledger",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-11",
+        "title": "Two numbers above the line",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-11"
+      }
+    ],
+    "support_topic": "Net charge",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q02"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q06"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "T3",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.002.card12",
+    "concept": "preceding-core convention",
+    "story_path": "../chapters/02_brackets/STORY.md",
+    "support_path": "../chapters/02_brackets/SUPPORT.md",
+    "practice_path": "../chapters/02_brackets/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch02-scene-07",
+        "title": "The border before neon",
+        "url": "../chapters/02_brackets/STORY.md#ch02-scene-07"
+      }
+    ],
+    "support_topic": "Nearest earlier noble gas",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.002.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q04"
+      },
+      {
+        "practice_id": "luminara.adventure.002.q11",
+        "origin": "new expansion question",
+        "url": "../chapters/02_brackets/PRACTICE.md#luminaraadventure002q11"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/02_brackets/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-02",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "N2",
+        "url": "../chapters/02_brackets/SOURCES.md#nist-atomic-data"
+      },
+      {
+        "source_id": "T1",
+        "url": "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card01",
+    "concept": "extended lattice",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-02",
+        "title": "The Hall Beyond Every Window",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-02"
+      },
+      {
+        "scene_id": "ch03-scene-05",
+        "title": "Six Neighbors, One-to-One Composition",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-05"
+      }
+    ],
+    "support_topic": "Extended ordinary NaCl structure",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q04"
+      },
+      {
+        "practice_id": "luminara.adventure.003.q14",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q14"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Lattice, crystal structure and local coordination",
+    "support_link": "../chapters/03_city/SUPPORT.md#lattice-crystal-structure-and-local-coordination",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-10",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids"
+      },
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S03",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s03--ordinary-rock-salt-structure"
+      },
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card02",
+    "concept": "formula unit",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-05",
+        "title": "Six Neighbors, One-to-One Composition",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-05"
+      }
+    ],
+    "support_topic": "NaCl formula unit",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q04"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Bulk ratio, finite window and formula unit",
+    "support_link": "../chapters/03_city/SUPPORT.md#bulk-ratio-finite-window-and-formula-unit",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      },
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S03",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s03--ordinary-rock-salt-structure"
+      },
+      {
+        "source_id": "CH03-S06",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s06--formula-meanings"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card03",
+    "concept": "polyatomic ion",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-10",
+        "title": "Three Displays and Two Bad Drawers",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-10"
+      },
+      {
+        "scene_id": "ch03-scene-11",
+        "title": "A Boundary Worth Keeping",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-11"
+      }
+    ],
+    "support_topic": "Ammonium as a charged bonded group",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q01"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Monatomic versus polyatomic ion",
+    "support_link": "../chapters/03_city/SUPPORT.md#monatomic-versus-polyatomic-ion",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S01",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s01--official-ion-definition"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card04",
+    "concept": "ionic compound",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-12",
+        "title": "The Whole Ion Comes Along",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-12"
+      }
+    ],
+    "support_topic": "Neutral ionic composition",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q07",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q07"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Ionic compound",
+    "support_link": "../chapters/03_city/SUPPORT.md#ionic-compound",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card05",
+    "concept": "molecule versus compound",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-10",
+        "title": "Three Displays and Two Bad Drawers",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-10"
+      }
+    ],
+    "support_topic": "Molecule versus compound",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q01"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "The scene works N₂ and CO₂. Original q01 transfers the same molecule/element/compound distinction to O₂ and H₂O and also tests NH₄⁺.",
+    "support_heading": "Elemental substance, compound and molecular compound",
+    "support_link": "../chapters/03_city/SUPPORT.md#elemental-substance-compound-and-molecular-compound",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      },
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S02",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s02--official-molecule-definition"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card06",
+    "concept": "internal bonding versus whole-species charge",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-10",
+        "title": "Three Displays and Two Bad Drawers",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-10"
+      }
+    ],
+    "support_topic": "Internal N–H bonding and whole charge",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q01"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Monatomic versus polyatomic ion",
+    "support_link": "../chapters/03_city/SUPPORT.md#monatomic-versus-polyatomic-ion",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S01",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s01--official-ion-definition"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card07",
+    "concept": "coordination versus composition",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-05",
+        "title": "Six Neighbors, One-to-One Composition",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-05"
+      }
+    ],
+    "support_topic": "Coordination versus composition",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q04"
+      },
+      {
+        "practice_id": "luminara.adventure.003.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q06"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Bulk ratio, finite window and formula unit",
+    "support_link": "../chapters/03_city/SUPPORT.md#bulk-ratio-finite-window-and-formula-unit",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-10",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/10-6-lattice-structures-in-crystalline-solids"
+      },
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S03",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s03--ordinary-rock-salt-structure"
+      },
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card08",
+    "concept": "formation bookkeeping versus interaction",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-06",
+        "title": "The Archive of How They Arrived",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-06"
+      },
+      {
+        "scene_id": "ch03-scene-07",
+        "title": "Under the Floorboards",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-07"
+      }
+    ],
+    "support_topic": "Ion formation versus ionic interaction",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q05",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q05"
+      },
+      {
+        "practice_id": "luminara.adventure.003.q14",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q14"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Ionic and covalent bonding",
+    "support_link": "../chapters/03_city/SUPPORT.md#ionic-and-covalent-bonding",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-09",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding"
+      },
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      },
+      {
+        "source_id": "CH03-S07",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s07--energy-account-beyond-a-transfer-arrow"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card09",
+    "concept": "whole-ion charge balance",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-12",
+        "title": "The Whole Ion Comes Along",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-12"
+      }
+    ],
+    "support_topic": "Ammonium carbonate whole-ion counts",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q07",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q07"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Every symbol has one job in its context",
+    "support_link": "../chapters/03_city/SUPPORT.md#every-symbol-has-one-job-in-its-context",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      },
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card10",
+    "concept": "parentheses",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-13",
+        "title": "The Cargo That Lost Its Oxygen",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-13"
+      }
+    ],
+    "support_topic": "Ca(NO₃)₂ parentheses",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q02"
+      },
+      {
+        "practice_id": "luminara.adventure.003.q08",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q08"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Every symbol has one job in its context",
+    "support_link": "../chapters/03_city/SUPPORT.md#every-symbol-has-one-job-in-its-context",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      },
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      },
+      {
+        "source_id": "CH03-S06",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s06--formula-meanings"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card11",
+    "concept": "lowest neutral ion ratio",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-14",
+        "title": "The Smallest Fair Ledger",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-14"
+      }
+    ],
+    "support_topic": "Al₂O₃ neutral ratio",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q03"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "An optional whole-ion formula ladder",
+    "support_link": "../chapters/03_city/SUPPORT.md#an-optional-whole-ion-formula-ladder",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      },
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.003.card12",
+    "concept": "ammonium exception to shortcut",
+    "story_path": "../chapters/03_city/STORY.md",
+    "support_path": "../chapters/03_city/SUPPORT.md",
+    "practice_path": "../chapters/03_city/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch03-scene-12",
+        "title": "The Whole Ion Comes Along",
+        "url": "../chapters/03_city/STORY.md#ch03-scene-12"
+      }
+    ],
+    "support_topic": "Ammonium salt without a metal",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.003.q07",
+        "origin": "new expansion question",
+        "url": "../chapters/03_city/PRACTICE.md#luminaraadventure003q07"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Ionic compound",
+    "support_link": "../chapters/03_city/SUPPORT.md#ionic-compound",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      },
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "CH03-S04",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios"
+      },
+      {
+        "source_id": "CH03-S05",
+        "url": "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card01",
+    "concept": "Roman numeral oxidation state",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-04",
+        "title": "The six that belonged to nobody alone",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-04"
+      }
+    ],
+    "support_topic": "Iron(III) oxidation state",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-6-a-roman-numeral-from-a-ledger"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Supplied simple ionic compound formula to name",
+    "support_link": "../chapters/04_naming/SUPPORT.md#supplied-simple-ionic-compound-formula-to-name",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      },
+      {
+        "source_id": "S06",
+        "url": "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card02",
+    "concept": "molecular prefix",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-14",
+        "title": "A count that belongs in the name",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-14"
+      }
+    ],
+    "support_topic": "Binary molecular count prefix",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-3-choosing-a-naming-language"
+      },
+      {
+        "practice_id": "luminara.adventure.004.q13",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-13-two-molecules-do-not-become-one-bigger-molecule"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Supplied binary molecular formula to name and back",
+    "support_link": "../chapters/04_naming/SUPPORT.md#supplied-binary-molecular-formula-to-name-and-back",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      },
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      },
+      {
+        "source_id": "S05",
+        "url": "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card03",
+    "concept": "ionic formula subscript",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-03",
+        "title": "The iron platform with no little trios",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-03"
+      }
+    ],
+    "support_topic": "Subscript and formula-unit composition",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-1-copper-at-two-platforms"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "The scene works FeCl₂. Original q01 transfers the subscript-versus-numeral distinction to CuCl₂.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/04_naming/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      },
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions"
+      },
+      {
+        "source_id": "S05",
+        "url": "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card04",
+    "concept": "empirical formula",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-15",
+        "title": "The eraser and the molecule",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-15"
+      }
+    ],
+    "support_topic": "Empirical formula",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-4-a-formula-that-must-keep-its-passengers"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/04_naming/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S05",
+        "url": "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card05",
+    "concept": "Roman numeral versus subscript",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-03",
+        "title": "The iron platform with no little trios",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-03"
+      },
+      {
+        "scene_id": "ch04-scene-04",
+        "title": "The six that belonged to nobody alone",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-04"
+      }
+    ],
+    "support_topic": "Roman numeral versus formula count",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-1-copper-at-two-platforms"
+      },
+      {
+        "practice_id": "luminara.adventure.004.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-6-a-roman-numeral-from-a-ledger"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Supplied simple ionic compound formula to name",
+    "support_link": "../chapters/04_naming/SUPPORT.md#supplied-simple-ionic-compound-formula-to-name",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      },
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      },
+      {
+        "source_id": "S06",
+        "url": "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card06",
+    "concept": "ionic and molecular naming routes",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-06",
+        "title": "What the ordinary name already carries",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-06"
+      },
+      {
+        "scene_id": "ch04-scene-14",
+        "title": "A count that belongs in the name",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-14"
+      }
+    ],
+    "support_topic": "Ionic and molecular naming routes",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-3-choosing-a-naming-language"
+      },
+      {
+        "practice_id": "luminara.adventure.004.q07",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-7-two-ways-a-name-supplies-charge-information"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "The formula and English bridge",
+    "support_link": "../chapters/04_naming/SUPPORT.md#the-formula-and-english-bridge",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions"
+      },
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card07",
+    "concept": "molecular versus empirical formula",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-15",
+        "title": "The eraser and the molecule",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-15"
+      }
+    ],
+    "support_topic": "Molecular formula versus empirical formula",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-4-a-formula-that-must-keep-its-passengers"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/04_naming/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S05",
+        "url": "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card08",
+    "concept": "verified identity versus heuristic",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-07",
+        "title": "The passengers nobody counted as ions",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-07"
+      }
+    ],
+    "support_topic": "Heuristic and verified ammonium-sulfate identity",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q14",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-14-the-honest-edge-of-a-naming-rule"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Contextual glossary",
+    "support_link": "../chapters/04_naming/SUPPORT.md#contextual-glossary",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-08",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds"
+      },
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions"
+      },
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card09",
+    "concept": "infer iron oxidation state",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-04",
+        "title": "The six that belonged to nobody alone",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-04"
+      }
+    ],
+    "support_topic": "Iron oxidation state from neutrality",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q06",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-6-a-roman-numeral-from-a-ledger"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Supplied simple ionic compound formula to name",
+    "support_link": "../chapters/04_naming/SUPPORT.md#supplied-simple-ionic-compound-formula-to-name",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      },
+      {
+        "source_id": "S06",
+        "url": "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card10",
+    "concept": "infer copper oxidation state",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-05",
+        "title": "The return lane",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-05"
+      }
+    ],
+    "support_topic": "Copper(II) chloride charge account",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-1-copper-at-two-platforms"
+      },
+      {
+        "practice_id": "luminara.adventure.004.q07",
+        "origin": "new expansion question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-7-two-ways-a-name-supplies-charge-information"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 5 builds CuCl₂ from copper(II) and chloride identities. The card checks the same charge relation in reverse; original q01 asks this formula-to-name reasoning.",
+    "support_heading": "Supplied simple ionic compound formula to name",
+    "support_link": "../chapters/04_naming/SUPPORT.md#supplied-simple-ionic-compound-formula-to-name",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      },
+      {
+        "source_id": "S06",
+        "url": "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card11",
+    "concept": "apply molecular prefix",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-14",
+        "title": "A count that belongs in the name",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-14"
+      }
+    ],
+    "support_topic": "Hexa- prefix",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-3-choosing-a-naming-language"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Supplied binary molecular formula to name and back",
+    "support_link": "../chapters/04_naming/SUPPORT.md#supplied-binary-molecular-formula-to-name-and-back",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      },
+      {
+        "source_id": "S05",
+        "url": "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.004.card12",
+    "concept": "name whole-ion compound",
+    "story_path": "../chapters/04_naming/STORY.md",
+    "support_path": "../chapters/04_naming/SUPPORT.md",
+    "practice_path": "../chapters/04_naming/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch04-scene-18",
+        "title": "The first departure with its reasons attached",
+        "url": "../chapters/04_naming/STORY.md#ch04-scene-18"
+      }
+    ],
+    "support_topic": "Ammonium carbonate",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.004.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/04_naming/PRACTICE.md#question-2-a-salt-without-a-metal"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "A selected ion drawer",
+    "support_link": "../chapters/04_naming/SUPPORT.md#a-selected-ion-drawer",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-12",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions"
+      },
+      {
+        "source_id": "S04",
+        "url": "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card01",
+    "concept": "mole and named entity",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-02",
+        "title": "A number with room beneath it",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-02"
+      }
+    ],
+    "support_topic": "Mole and specified entity",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q05",
+        "origin": "new expansion question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-5-a-bare-mole-label"
+      },
+      {
+        "practice_id": "luminara.adventure.005.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-1-a-new-molecule-on-the-receipt"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Amount of substance, n; mole, mol",
+    "support_link": "../chapters/05_moles/SUPPORT.md#amount-of-substance-n-mole-mol",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-13",
+        "external_url": "https://www.bipm.org/en/si-base-units/mole"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/05_moles/SOURCES.md#s01--present-definition-of-the-mole"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card02",
+    "concept": "Avogadro constant",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-02",
+        "title": "A number with room beneath it",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-02"
+      }
+    ],
+    "support_topic": "Exact amount-to-count factor",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-1-a-new-molecule-on-the-receipt"
+      },
+      {
+        "practice_id": "luminara.adventure.005.q14",
+        "origin": "new expansion question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-14-four-labels-for-careful-reporting"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Avogadro constant, N_A",
+    "support_link": "../chapters/05_moles/SUPPORT.md#avogadro-constant-n_a",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-13",
+        "external_url": "https://www.bipm.org/en/si-base-units/mole"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/05_moles/SOURCES.md#s01--present-definition-of-the-mole"
+      },
+      {
+        "source_id": "S02",
+        "url": "../chapters/05_moles/SOURCES.md#s02--si-quantities-units-and-measurement-boundary"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card03",
+    "concept": "molar mass",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-05",
+        "title": "Two containers, one amount",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-05"
+      }
+    ],
+    "support_topic": "Mass per mole",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-2-equal-amounts-and-unequal-masses"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Molar mass, M",
+    "support_link": "../chapters/05_moles/SUPPORT.md#molar-mass-m",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-14",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S05",
+        "url": "../chapters/05_moles/SOURCES.md#s05--oxygen-reference-range"
+      },
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card04",
+    "concept": "isotope identity",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-09",
+        "title": "Pause before the explanation",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-09"
+      }
+    ],
+    "support_topic": "Isotope identity",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-3-a-different-artificial-isotope-mixture"
+      },
+      {
+        "practice_id": "luminara.adventure.005.q14",
+        "origin": "new expansion question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-14-four-labels-for-careful-reporting"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Isotope, proton number, neutron number, and mass number",
+    "support_link": "../chapters/05_moles/SUPPORT.md#isotope-proton-number-neutron-number-and-mass-number",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card05",
+    "concept": "molecule amount versus atom amount",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-03",
+        "title": "The scanner sees twice",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-03"
+      }
+    ],
+    "support_topic": "O₂ molecule-to-atom relation",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-2-equal-amounts-and-unequal-masses"
+      },
+      {
+        "practice_id": "luminara.adventure.005.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-1-a-new-molecule-on-the-receipt"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Molecular formula and constituent-atom count",
+    "support_link": "../chapters/05_moles/SUPPORT.md#molecular-formula-and-constituent-atom-count",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-13",
+        "external_url": "https://www.bipm.org/en/si-base-units/mole"
+      },
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/05_moles/SOURCES.md#s01--present-definition-of-the-mole"
+      },
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card06",
+    "concept": "amount versus mass",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-05",
+        "title": "Two containers, one amount",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-05"
+      }
+    ],
+    "support_topic": "Equal specified-entity amounts versus mass",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-2-equal-amounts-and-unequal-masses"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Molar mass, M",
+    "support_link": "../chapters/05_moles/SUPPORT.md#molar-mass-m",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-14",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S04",
+        "url": "../chapters/05_moles/SOURCES.md#s04--neon-reference-value"
+      },
+      {
+        "source_id": "S05",
+        "url": "../chapters/05_moles/SOURCES.md#s05--oxygen-reference-range"
+      },
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card07",
+    "concept": "average versus individual",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-10",
+        "title": "Eighty, twenty, and the missing middle",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-10"
+      }
+    ],
+    "support_topic": "Mean versus modeled individuals",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-3-a-different-artificial-isotope-mixture"
+      },
+      {
+        "practice_id": "luminara.adventure.005.q04",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-4-reconstructing-a-mixture"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 10 teaches the mean-versus-individual distinction with explicitly artificial 10 u/11 u counters. The card and original q03/q04 use the separately labeled artificial 24 u/26 u model.",
+    "support_heading": "Average atomic mass",
+    "support_link": "../chapters/05_moles/SUPPORT.md#average-atomic-mass",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/05_moles/SOURCES.md#s03--atomic-mass-relative-atomic-mass-isotope-weighting-molar-mass"
+      },
+      {
+        "source_id": "S09",
+        "url": "../chapters/05_moles/SOURCES.md#s09--original-arithmetic-and-statistical-model-derivations"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card08",
+    "concept": "atomic mass versus relative atomic mass versus molar mass",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-16",
+        "title": "Three quantities with similar numbers",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-16"
+      }
+    ],
+    "support_topic": "Atomic mass, relative atomic mass, and molar mass",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q14",
+        "origin": "new expansion question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-14-four-labels-for-careful-reporting"
+      }
+    ],
+    "scene_relationship": "direct concept teaching",
+    "binding_note": "The linked scene explicitly teaches the card’s central distinction or worked chemistry. A practice link may ask additional related steps; the card does not claim to answer the entire question.",
+    "support_heading": "Relative atomic mass; atomic weight",
+    "support_link": "../chapters/05_moles/SUPPORT.md#relative-atomic-mass-atomic-weight",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-15",
+        "external_url": "https://www.nist.gov/pml/special-publication-330/sp-330-section-2"
+      },
+      {
+        "url": "SOURCES.md#ref-16",
+        "external_url": "https://www.ciaaw.org/info.htm"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S02",
+        "url": "../chapters/05_moles/SOURCES.md#s02--si-quantities-units-and-measurement-boundary"
+      },
+      {
+        "source_id": "S03",
+        "url": "../chapters/05_moles/SOURCES.md#s03--atomic-mass-relative-atomic-mass-isotope-weighting-molar-mass"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card09",
+    "concept": "amount to entity count",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-19",
+        "title": "Half a mole, all the way across",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-19"
+      },
+      {
+        "scene_id": "ch05-scene-20",
+        "title": "A good gate sometimes stays shut",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-20"
+      }
+    ],
+    "support_topic": "Amount to N₂O₄ molecule count",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-1-a-new-molecule-on-the-receipt"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 19 works an exact half-mole CO₂ count; scene 20 preserves the N₂O₄ molecular identity. The card transfers N = nN_A to the exact quarter-mole N₂O₄ case stated in original q01.",
+    "support_heading": "Optional support A: three relations, different jobs",
+    "support_link": "../chapters/05_moles/SUPPORT.md#optional-support-a-three-relations-different-jobs",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-13",
+        "external_url": "https://www.bipm.org/en/si-base-units/mole"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/05_moles/SOURCES.md#s01--present-definition-of-the-mole"
+      },
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card10",
+    "concept": "amount to constituent-atom amount",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-03",
+        "title": "The scanner sees twice",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-03"
+      },
+      {
+        "scene_id": "ch05-scene-20",
+        "title": "A good gate sometimes stays shut",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-20"
+      }
+    ],
+    "support_topic": "Four O atoms per N₂O₄ molecule",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q01",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-1-a-new-molecule-on-the-receipt"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 3 teaches the molecule-to-constituent-atom multiplier with O₂; scene 20 explicitly counts four O atoms in N₂O₄. Original q01 supplies the exact quarter-mole N₂O₄ amount.",
+    "support_heading": "Molecular formula and constituent-atom count",
+    "support_link": "../chapters/05_moles/SUPPORT.md#molecular-formula-and-constituent-atom-count",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-11",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+      },
+      {
+        "url": "SOURCES.md#ref-13",
+        "external_url": "https://www.bipm.org/en/si-base-units/mole"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S01",
+        "url": "../chapters/05_moles/SOURCES.md#s01--present-definition-of-the-mole"
+      },
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card11",
+    "concept": "amount to mass",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-05",
+        "title": "Two containers, one amount",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-05"
+      },
+      {
+        "scene_id": "ch05-scene-06",
+        "title": "Natalie's fence posts",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-06"
+      }
+    ],
+    "support_topic": "Amount to O₂ mass",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q02",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-2-equal-amounts-and-unequal-masses"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scenes 5–6 teach m = nM and factor orientation using the supplied molar masses. Original q02 supplies the two-mole O₂ case used by the card.",
+    "support_heading": "Optional support B: Natalie's dimensional fence posts",
+    "support_link": "../chapters/05_moles/SUPPORT.md#optional-support-b-natalies-dimensional-fence-posts",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-14",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/3-1-formula-mass-and-the-mole-concept"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S05",
+        "url": "../chapters/05_moles/SOURCES.md#s05--oxygen-reference-range"
+      },
+      {
+        "source_id": "S07",
+        "url": "../chapters/05_moles/SOURCES.md#s07--structural-and-mole-concept-teaching-cross-checks"
+      }
+    ]
+  },
+  {
+    "card_id": "luminara.adventure.005.card12",
+    "concept": "weighted isotope mean",
+    "story_path": "../chapters/05_moles/STORY.md",
+    "support_path": "../chapters/05_moles/SUPPORT.md",
+    "practice_path": "../chapters/05_moles/PRACTICE.md",
+    "binding_status": "verified against expanded chapter text, support, practice, and source register",
+    "scene_links": [
+      {
+        "scene_id": "ch05-scene-10",
+        "title": "Eighty, twenty, and the missing middle",
+        "url": "../chapters/05_moles/STORY.md#ch05-scene-10"
+      }
+    ],
+    "support_topic": "Atom-number-weighted artificial isotope mean",
+    "practice_links": [
+      {
+        "practice_id": "luminara.adventure.005.q03",
+        "origin": "preserved original question",
+        "url": "../chapters/05_moles/PRACTICE.md#question-3-a-different-artificial-isotope-mixture"
+      }
+    ],
+    "scene_relationship": "explicit method transfer",
+    "binding_note": "Scene 10 develops count-weighted averaging with explicitly artificial 10 u/11 u values. Original q03 supplies the distinct artificial 24 u/26 u, 75:25 card data. The scene is a method source, not a claim those exact numbers appear there.",
+    "support_heading": "Optional support C: an average without a new atom",
+    "support_link": "../chapters/05_moles/SUPPORT.md#optional-support-c-an-average-without-a-new-atom",
+    "source_links": [
+      {
+        "url": "SOURCES.md#ref-01",
+        "external_url": "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+      }
+    ],
+    "chapter_source_links": [
+      {
+        "source_id": "S03",
+        "url": "../chapters/05_moles/SOURCES.md#s03--atomic-mass-relative-atomic-mass-isotope-weighting-molar-mass"
+      },
+      {
+        "source_id": "S09",
+        "url": "../chapters/05_moles/SOURCES.md#s09--original-arithmetic-and-statistical-model-derivations"
+      }
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "id": "luminara.adventure.002.card01",
+    "story_id": "luminara.adventure.002",
+    "kind": "definition",
+    "prompt": "What does [Ne] represent in neutral sodium’s [Ne] 3s¹ configuration?",
+    "answer": "It abbreviates 1s² 2s² 2p⁶, accounting for ten core electrons. It is not a neon atom inside sodium.",
+    "accepted_reasoning": "Accept the expanded configuration or a precise ten-electron core description; retain the distinction between notation and a physical extra atom.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1.htm"
+    ],
+    "scene_ids": [
+      "ch02-scene-03"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q11",
+      "luminara.adventure.002.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card02",
+    "story_id": "luminara.adventure.002",
+    "kind": "definition",
+    "prompt": "What does an occupancy check ask after a configuration’s electron total has been counted?",
+    "answer": "Whether those electrons occupy the appropriate stated subshells for the specified species and state.",
+    "accepted_reasoning": "A correct total alone does not pass this check. A ground-state check needs a suitable verified configuration.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/calciumtable1.htm"
+    ],
+    "scene_ids": [
+      "ch02-scene-15"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q03",
+      "luminara.adventure.002.q12"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card03",
+    "story_id": "luminara.adventure.002",
+    "kind": "definition",
+    "prompt": "In the chapter’s Na⁺ and Ne comparison, what does isoelectronic mean?",
+    "answer": "They have the same electron count and matching ground-state electronic configurations, while their nuclei identify different elements.",
+    "accepted_reasoning": "Accept same electron configuration or same ten-electron inventory with the stated ground-state comparison. Do not infer identical size or energies.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch02-scene-09"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q06"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card04",
+    "story_id": "luminara.adventure.002",
+    "kind": "definition",
+    "prompt": "What makes the sodium ion Na⁺ a cation?",
+    "answer": "Its net electric charge is positive; Na⁺ has one more proton than electron.",
+    "accepted_reasoning": "The defining feature is positive net charge, not being a metal or having only one atom.",
+    "source_refs": [
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch02-scene-09"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q06",
+      "luminara.adventure.002.q09"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card05",
+    "story_id": "luminara.adventure.002",
+    "kind": "contrast",
+    "prompt": "How do [He] 2s² 2p⁶ 3s² and [Ne] 3s² differ as descriptions of neutral magnesium?",
+    "answer": "They expand to the same electron configuration; the neon-core form is the compact version requested by a nearest-earlier-noble-gas convention.",
+    "accepted_reasoning": "Distinguish correct inventory from requested formatting. The longer helium-core expression is not a lost-electron error.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch02-scene-06",
+      "ch02-scene-11"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q01",
+      "luminara.adventure.002.q13"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card06",
+    "story_id": "luminara.adventure.002",
+    "kind": "contrast",
+    "prompt": "Why can [Ar] 3d² pass an electron-count check for neutral Ca yet fail its ground-state check?",
+    "answer": "The argon core plus two electrons totals 20, but verified neutral ground-state calcium is [Ar] 4s², not [Ar] 3d².",
+    "accepted_reasoning": "State that total and placement are different checks. Do not turn this example into a universal transition-metal removal rule.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/calciumtable1.htm",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch02-scene-15"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q03",
+      "luminara.adventure.002.q12"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card07",
+    "story_id": "luminara.adventure.002",
+    "kind": "contrast",
+    "prompt": "What remains the same when neutral Na becomes Na⁺ by electron removal in the chapter’s bookkeeping model?",
+    "answer": "Its nucleus still has 11 protons, so its elemental identity remains sodium; the electron inventory changes.",
+    "accepted_reasoning": "An unchanged proton count/element explanation is enough. Ion formation is not a nuclear change here.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "https://physics.nist.gov/PhysRefData/Handbook/Tables/sodiumtable1.htm"
+    ],
+    "scene_ids": [
+      "ch02-scene-09"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q06",
+      "luminara.adventure.002.q09"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card08",
+    "story_id": "luminara.adventure.002",
+    "kind": "contrast",
+    "prompt": "How does a charge ledger differ from an explanation of whether sodium ionization occurs spontaneously?",
+    "answer": "The ledger accounts for charges and the removed electron. Spontaneity needs energetic and environmental information that the count alone does not supply.",
+    "accepted_reasoning": "Credit the boundary between conservation/bookkeeping and a physical process’s feasibility. No advanced thermodynamic calculation is expected.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism",
+      "https://openstax.org/books/chemistry-2e/pages/7-1-ionic-bonding"
+    ],
+    "scene_ids": [
+      "ch02-scene-10",
+      "ch02-scene-12"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q09",
+      "luminara.adventure.002.q10"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card09",
+    "story_id": "luminara.adventure.002",
+    "kind": "application",
+    "prompt": "Expand [Ne] 3s² without losing any represented electrons.",
+    "answer": "1s² 2s² 2p⁶ 3s².",
+    "accepted_reasoning": "Equivalent unambiguous text is sufficient. The neon core must contribute all ten of its electrons.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch02-scene-03",
+      "ch02-scene-11"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card10",
+    "story_id": "luminara.adventure.002",
+    "kind": "application",
+    "prompt": "How many electrons are missing from [He] 3s² if it is proposed for neutral magnesium, Z = 12?",
+    "answer": "Eight. The written inventory is 2 + 2 = 4, whereas neutral magnesium needs 12; 2s² 2p⁶ is missing.",
+    "accepted_reasoning": "Credit the difference 12 − 4 = 8 or identification of the omitted eight-electron block.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch02-scene-04",
+      "ch02-scene-11"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card11",
+    "story_id": "luminara.adventure.002",
+    "kind": "application",
+    "prompt": "What net charge does a monatomic species with 12 protons and 10 electrons have?",
+    "answer": "+2 in elementary-charge units, because 12 − 10 = +2.",
+    "accepted_reasoning": "Accept 2+, +2, or a labeled balance drawing. Removing negative charge makes the remaining balance more positive.",
+    "source_refs": [
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/2-3-atomic-structure-and-symbolism"
+    ],
+    "scene_ids": [
+      "ch02-scene-11"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q02",
+      "luminara.adventure.002.q06"
+    ]
+  },
+  {
+    "id": "luminara.adventure.002.card12",
+    "story_id": "luminara.adventure.002",
+    "kind": "application",
+    "prompt": "Write neutral neon using the immediately preceding noble-gas core convention.",
+    "answer": "[He] 2s² 2p⁶.",
+    "accepted_reasoning": "The task requests the preceding core, so helium plus the remaining terms is appropriate. This is a notation convention, not a physical change in neon.",
+    "source_refs": [
+      "SOURCES.md#nist-atomic-data",
+      "SOURCES.md#explanatory-model-references",
+      "https://openstax.org/books/chemistry-2e/pages/6-4-electronic-structure-of-atoms-electron-configurations"
+    ],
+    "scene_ids": [
+      "ch02-scene-07"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q04",
+      "luminara.adventure.002.q11"
+    ]
+  }
+]

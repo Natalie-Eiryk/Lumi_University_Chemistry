@@ -1,0 +1,72 @@
+{
+  "story_id": "luminara.adventure.004",
+  "title": "Ms Luminara and the Compound Naming Station",
+  "chapter": 4,
+  "checkpoint": "Pass 3, final reviewed draft",
+  "checkpoint_date": "2026-10-08",
+  "narrative_word_count": 18955,
+  "original_narrative_word_count": 1153,
+  "word_count_method": "Canonical collection method: Unicode word tokens between narrative markers, excluding Markdown headings, HTML tags, and leading named-ensemble dialogue labels; apostrophe-linked and hyphen-linked words count as one token.",
+  "scene_count": 20,
+  "original_question_ids": [
+    "luminara.adventure.004.q01",
+    "luminara.adventure.004.q02",
+    "luminara.adventure.004.q03",
+    "luminara.adventure.004.q04"
+  ],
+  "new_question_ids": [
+    "luminara.adventure.004.q05",
+    "luminara.adventure.004.q06",
+    "luminara.adventure.004.q07",
+    "luminara.adventure.004.q08",
+    "luminara.adventure.004.q09",
+    "luminara.adventure.004.q10",
+    "luminara.adventure.004.q11",
+    "luminara.adventure.004.q12",
+    "luminara.adventure.004.q13",
+    "luminara.adventure.004.q14"
+  ],
+  "files": {
+    "story": "STORY.md",
+    "support": "SUPPORT.md",
+    "practice": "PRACTICE.md",
+    "teacher_key": "TEACHER_KEY.md",
+    "sources": "SOURCES.md",
+    "scene_map": "scene_map.json",
+    "question_trace": "question_trace.json",
+    "source_bindings": "source_bindings.json",
+    "revision_log": "REVISION_LOG.md",
+    "vocabulary_cards": "VOCABULARY_CARDS.md",
+    "vocabulary_cards_data": "vocabulary_cards.json"
+  },
+  "historical_guest": null,
+  "review_status": "Independent complete-read science, history-boundary, notation, source, and study-consistency review complete; final reviewed draft ready for final snapshot. No instructor or publication approval implied.",
+  "integration_status": "Portable content only; no live code or repository integration.",
+  "word_count_history": [
+    {
+      "version": "Original source",
+      "canonical_narrative_words": 1153,
+      "alternative_whitespace_words": 1202,
+      "alternative_method": "Alternative whitespace count after the original Narrative heading, excluding numbered scene headings and HTML anchor lines; includes dialogue speaker labels."
+    },
+    {
+      "version": "Pass 1 frozen expansion",
+      "canonical_narrative_words": 17728,
+      "alternative_whitespace_words": 18018,
+      "alternative_method": "Alternative whitespace count between narrative markers, excluding numbered scene headings and HTML anchor lines; includes dialogue speaker labels."
+    },
+    {
+      "version": "Pass 2 literary revision",
+      "canonical_narrative_words": 18775,
+      "alternative_whitespace_words": 19074,
+      "alternative_method": "Alternative whitespace count between narrative markers, excluding numbered scene headings and HTML anchor lines; includes dialogue speaker labels."
+    },
+    {
+      "version": "Pass 3 final scientific and study review",
+      "canonical_narrative_words": 18955,
+      "alternative_whitespace_words": 19259,
+      "alternative_method": "Alternative whitespace count between narrative markers, excluding numbered scene headings and HTML anchor lines; includes dialogue speaker labels."
+    }
+  ],
+  "vocabulary_card_count": 12
+}

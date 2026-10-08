@@ -53,5 +53,28 @@
     "worksheetSections": 19,
     "guides": 10,
     "historyStatus": "Authored source pointer; existing native Atlas history not extended"
+  },
+  "chemistryAdventureExpansion": {
+    "logicalRoot": "Adventures/Chemistry_Expanded",
+    "collectionId": "luminara.adventures.chemistry.expanded.20261008",
+    "version": "2.0.0-reviewed-draft",
+    "catalogue": "Adventures/Chemistry_Expanded/catalogue.json",
+    "sourceDigests": "Adventures/Chemistry_Expanded/SHA256SUMS.txt",
+    "vocabularyNavigation": "Adventures/Chemistry_Expanded/study_support/card_navigation.json",
+    "unitIICrosswalk": "Adventures/Chemistry_Expanded/study_support/unit_ii_crosswalk.json",
+    "chapterCount": 5,
+    "sceneCount": 101,
+    "practiceCount": 72,
+    "vocabularyCount": 60,
+    "preservesStoryIds": [
+      "luminara.adventure.001",
+      "luminara.adventure.002",
+      "luminara.adventure.003",
+      "luminara.adventure.004",
+      "luminara.adventure.005"
+    ],
+    "earlierEdition": "Adventures/First_Collection",
+    "historyStatus": "Source digest custody; native authored-reference history not extended",
+    "checkpointArchives": "20 author-recorded checkpoints; ZIPs not supplied, not reconstructed"
   }
 }

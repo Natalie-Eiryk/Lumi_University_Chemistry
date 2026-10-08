@@ -1,0 +1,348 @@
+{
+  "story_id": "luminara.adventure.002",
+  "pass": 3,
+  "original_question_count": 4,
+  "new_question_count": 10,
+  "original_text_preservation": "q01–q04 retained verbatim; no question-text correction. Teacher notes clarify that omission from notation is not physical ionization.",
+  "questions": [
+    {
+      "question_id": "luminara.adventure.002.q01",
+      "status": "preserved",
+      "original_question_id": "luminara.adventure.002.q01",
+      "original_source": "First Collection practice/002_practice.md",
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-04",
+        "ch02-scene-06",
+        "ch02-scene-11"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-04",
+        "STORY.md#ch02-scene-06",
+        "STORY.md#ch02-scene-11"
+      ],
+      "source_refs": [
+        "P01",
+        "N4",
+        "T1",
+        "N8"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q02",
+      "status": "preserved",
+      "original_question_id": "luminara.adventure.002.q02",
+      "original_source": "First Collection practice/002_practice.md",
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-09",
+        "ch02-scene-11",
+        "ch02-scene-12"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-09",
+        "STORY.md#ch02-scene-11",
+        "STORY.md#ch02-scene-12"
+      ],
+      "source_refs": [
+        "P01",
+        "N2",
+        "N4",
+        "T3",
+        "N10"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q03",
+      "status": "preserved",
+      "original_question_id": "luminara.adventure.002.q03",
+      "original_source": "First Collection practice/002_practice.md",
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-14",
+        "ch02-scene-15",
+        "ch02-scene-16"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-14",
+        "STORY.md#ch02-scene-15",
+        "STORY.md#ch02-scene-16"
+      ],
+      "source_refs": [
+        "P01",
+        "N7",
+        "T1",
+        "T2",
+        "N9"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q04",
+      "status": "preserved",
+      "original_question_id": "luminara.adventure.002.q04",
+      "original_source": "First Collection practice/002_practice.md",
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-07"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-07"
+      ],
+      "source_refs": [
+        "P01",
+        "N2",
+        "T1",
+        "N8"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q05",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-06",
+        "ch02-scene-14"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-06",
+        "STORY.md#ch02-scene-14"
+      ],
+      "source_refs": [
+        "N5",
+        "N6",
+        "T1"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q06",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-09",
+        "ch02-scene-10",
+        "ch02-scene-11"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-09",
+        "STORY.md#ch02-scene-10",
+        "STORY.md#ch02-scene-11"
+      ],
+      "source_refs": [
+        "N2",
+        "N3",
+        "N4",
+        "T3",
+        "N10"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q07",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-14",
+        "ch02-scene-16"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-14",
+        "STORY.md#ch02-scene-16"
+      ],
+      "source_refs": [
+        "N5",
+        "N6",
+        "T1",
+        "T2",
+        "N9"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q08",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-02",
+        "ch02-scene-11",
+        "ch02-scene-20"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-02",
+        "STORY.md#ch02-scene-11",
+        "STORY.md#ch02-scene-20"
+      ],
+      "source_refs": [
+        "T1",
+        "T3",
+        "N10"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q09",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-07",
+        "ch02-scene-10",
+        "ch02-scene-12"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-07",
+        "STORY.md#ch02-scene-10",
+        "STORY.md#ch02-scene-12"
+      ],
+      "source_refs": [
+        "N1",
+        "T3",
+        "N10"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q10",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-09",
+        "ch02-scene-12",
+        "ch02-scene-16"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-09",
+        "STORY.md#ch02-scene-12",
+        "STORY.md#ch02-scene-16"
+      ],
+      "source_refs": [
+        "N2",
+        "N3",
+        "T1",
+        "N10"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q11",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-03",
+        "ch02-scene-07"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-03",
+        "STORY.md#ch02-scene-07"
+      ],
+      "source_refs": [
+        "P01",
+        "N2",
+        "T1",
+        "N8",
+        "N10"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q12",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-14",
+        "ch02-scene-15",
+        "ch02-scene-16"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-14",
+        "STORY.md#ch02-scene-15",
+        "STORY.md#ch02-scene-16"
+      ],
+      "source_refs": [
+        "N7",
+        "T1",
+        "T2",
+        "N9"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q13",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-04",
+        "ch02-scene-06",
+        "ch02-scene-17",
+        "ch02-scene-18",
+        "ch02-scene-20"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-04",
+        "STORY.md#ch02-scene-06",
+        "STORY.md#ch02-scene-17",
+        "STORY.md#ch02-scene-18",
+        "STORY.md#ch02-scene-20"
+      ],
+      "source_refs": [
+        "P01",
+        "N3",
+        "T1",
+        "N8"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    },
+    {
+      "question_id": "luminara.adventure.002.q14",
+      "status": "new",
+      "original_question_id": null,
+      "original_source": null,
+      "question_text_changed": false,
+      "scene_ids": [
+        "ch02-scene-05",
+        "ch02-scene-08",
+        "ch02-scene-09",
+        "ch02-scene-15",
+        "ch02-scene-17",
+        "ch02-scene-19"
+      ],
+      "story_links": [
+        "STORY.md#ch02-scene-05",
+        "STORY.md#ch02-scene-08",
+        "STORY.md#ch02-scene-09",
+        "STORY.md#ch02-scene-15",
+        "STORY.md#ch02-scene-17",
+        "STORY.md#ch02-scene-19"
+      ],
+      "source_refs": [
+        "H3",
+        "N3",
+        "N7",
+        "T1"
+      ],
+      "key_file": "TEACHER_KEY.md"
+    }
+  ],
+  "status": "final reviewed draft"
+}

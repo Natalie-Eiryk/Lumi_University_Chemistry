@@ -1,0 +1,290 @@
+{
+  "story_id": "luminara.adventure.004",
+  "sources": [
+    {
+      "source_id": "S01",
+      "title": "Supplied original adventure 004 and companions",
+      "url": null,
+      "access_status": "supplied-source full text read",
+      "review_date": "2026-10-08",
+      "supports": "Original title, story identity, central mechanisms, q01–q04 prompts, and original formative key",
+      "scene_ids": [
+        "ch04-scene-01",
+        "ch04-scene-02",
+        "ch04-scene-03",
+        "ch04-scene-04",
+        "ch04-scene-05",
+        "ch04-scene-07",
+        "ch04-scene-13",
+        "ch04-scene-14",
+        "ch04-scene-15",
+        "ch04-scene-18",
+        "ch04-scene-19",
+        "ch04-scene-20"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04",
+        "luminara.adventure.004.q05",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S02",
+      "title": "Supplied Unit II ions formulas and naming handoff",
+      "url": null,
+      "access_status": "relevant supplied-source lessons, key, and provenance read",
+      "review_date": "2026-10-08",
+      "supports": "Scope, named ions, hydride, nomenclature, OsO₄ convention uncertainty; peroxide marked supplemental",
+      "scene_ids": [
+        "ch04-scene-05",
+        "ch04-scene-06",
+        "ch04-scene-07",
+        "ch04-scene-08",
+        "ch04-scene-09",
+        "ch04-scene-10",
+        "ch04-scene-11",
+        "ch04-scene-12",
+        "ch04-scene-14",
+        "ch04-scene-16",
+        "ch04-scene-17",
+        "ch04-scene-18"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q05",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q09",
+        "luminara.adventure.004.q10",
+        "luminara.adventure.004.q11",
+        "luminara.adventure.004.q12",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S03",
+      "title": "OpenStax Chemistry 2e section 2.6 Ionic and Molecular Compounds",
+      "url": "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "access_status": "relevant live source text independently rechecked in Pass 3",
+      "review_date": "2026-10-08",
+      "supports": "Ions, ionic and molecular descriptions, whole polyatomic ions, peroxide Li₂O₂",
+      "scene_ids": [
+        "ch04-scene-02",
+        "ch04-scene-03",
+        "ch04-scene-04",
+        "ch04-scene-06",
+        "ch04-scene-07",
+        "ch04-scene-08",
+        "ch04-scene-10",
+        "ch04-scene-11",
+        "ch04-scene-12",
+        "ch04-scene-16",
+        "ch04-scene-18",
+        "ch04-scene-19"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04",
+        "luminara.adventure.004.q05",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q09",
+        "luminara.adventure.004.q10",
+        "luminara.adventure.004.q11",
+        "luminara.adventure.004.q12",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S04",
+      "title": "OpenStax Chemistry 2e section 2.7 Chemical Nomenclature",
+      "url": "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "access_status": "relevant live source text independently rechecked in Pass 3",
+      "review_date": "2026-10-08",
+      "supports": "Introductory Stock and molecular naming, familiar ion vocabulary, suffixes and prefixes",
+      "scene_ids": [
+        "ch04-scene-03",
+        "ch04-scene-04",
+        "ch04-scene-05",
+        "ch04-scene-06",
+        "ch04-scene-07",
+        "ch04-scene-08",
+        "ch04-scene-09",
+        "ch04-scene-10",
+        "ch04-scene-11",
+        "ch04-scene-14",
+        "ch04-scene-15",
+        "ch04-scene-17",
+        "ch04-scene-18",
+        "ch04-scene-19"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q09",
+        "luminara.adventure.004.q10",
+        "luminara.adventure.004.q11",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S05",
+      "title": "OpenStax Chemistry 2e section 2.4 Chemical Formulas",
+      "url": "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas",
+      "access_status": "relevant live source text independently rechecked in Pass 3",
+      "review_date": "2026-10-08",
+      "supports": "Molecular versus empirical formula; atom-count descriptions",
+      "scene_ids": [
+        "ch04-scene-02",
+        "ch04-scene-12",
+        "ch04-scene-14",
+        "ch04-scene-15",
+        "ch04-scene-16",
+        "ch04-scene-18",
+        "ch04-scene-19"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04",
+        "luminara.adventure.004.q05",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q12",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S06",
+      "title": "IUPAC Gold Book oxidation state",
+      "url": "https://goldbook.iupac.org/terms/view/O04365/1000",
+      "access_status": "official indexed entry independently inspected in Pass 3; direct entry/plain requests failed, including HTTP 403",
+      "review_date": "2026-10-08",
+      "supports": "Formal oxidation state not universally literal local physical charge",
+      "scene_ids": [
+        "ch04-scene-03",
+        "ch04-scene-04",
+        "ch04-scene-05",
+        "ch04-scene-06",
+        "ch04-scene-17",
+        "ch04-scene-18"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q08",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S07",
+      "title": "NIH PubChem CID 30318 Osmium Tetroxide",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/30318",
+      "access_status": "official indexed formula, structure description, and relevant synonym rechecked; direct page remains JavaScript shell; ChEBI corroboration added as S10",
+      "review_date": "2026-10-08",
+      "supports": "OsO₄ covalent molecular identity and osmium(VIII) oxide naming alternative",
+      "scene_ids": [
+        "ch04-scene-17"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S08",
+      "title": "Supplied Primer, teaching guide, doctrine 1.1.0 and bioethics pacing benchmark",
+      "url": null,
+      "access_status": "teaching guide reread in Pass 3; earlier Primer/doctrine/benchmark provenance retained, not a fresh complete reread of those works",
+      "review_date": "2026-10-08",
+      "supports": "Fictional ensemble, warm rigorous teaching, slow turns, speaker tags, pacing and return; no scientific fact authority",
+      "scene_ids": [
+        "ch04-scene-01",
+        "ch04-scene-02",
+        "ch04-scene-09",
+        "ch04-scene-10",
+        "ch04-scene-13",
+        "ch04-scene-19",
+        "ch04-scene-20"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q02",
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q04",
+        "luminara.adventure.004.q05",
+        "luminara.adventure.004.q09",
+        "luminara.adventure.004.q10",
+        "luminara.adventure.004.q13",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S09",
+      "title": "IUPAC Nomenclature of Inorganic Chemistry, Recommendations 2005 (Red Book)",
+      "url": "https://iupac.org/wp-content/uploads/2016/07/Red_Book_2005.pdf",
+      "access_status": "direct PDF text inspected for relevant sections and Table IX entries; not complete-volume reading",
+      "review_date": "2026-10-08",
+      "supports": "Compositional prefixes beyond molecular naming; tetraoxide spelling; distinct charge and oxidation numerals; hydride/peroxide names",
+      "scene_ids": [
+        "ch04-scene-02",
+        "ch04-scene-06",
+        "ch04-scene-07",
+        "ch04-scene-11",
+        "ch04-scene-12",
+        "ch04-scene-14",
+        "ch04-scene-15",
+        "ch04-scene-17"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q07",
+        "luminara.adventure.004.q11",
+        "luminara.adventure.004.q12",
+        "luminara.adventure.004.q14"
+      ]
+    },
+    {
+      "source_id": "S10",
+      "title": "EMBL-EBI ChEBI osmium tetroxide CHEBI:88215",
+      "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:88215",
+      "access_status": "direct manually annotated record read",
+      "review_date": "2026-10-08",
+      "supports": "Neutral O₄Os composition and covalent molecular identity; formal +8 derived separately",
+      "scene_ids": [
+        "ch04-scene-17"
+      ],
+      "question_ids": [
+        "luminara.adventure.004.q14"
+      ]
+    }
+  ],
+  "checkpoint": "Pass 3, final reviewed draft",
+  "literary_revision_note": "Pass 2 causality, physical continuity, and pacing are retained; Pass 3 adds limited scientific and nomenclature qualifications without moving scene anchors.",
+  "science_review_note": "Complete story, companions, fourteen worked answers, and twelve optional vocabulary cards reviewed; arithmetic recalculated; primary IUPAC naming sections and curated ChEBI identity checked with access limits recorded."
+}

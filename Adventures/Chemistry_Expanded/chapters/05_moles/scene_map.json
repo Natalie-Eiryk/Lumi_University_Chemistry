@@ -1,0 +1,646 @@
+[
+  {
+    "scene_id": "ch05-scene-01",
+    "title": "The cart that could not arrive",
+    "anchor": "ch05-scene-01",
+    "story_link": "STORY.md#ch05-scene-01",
+    "concepts": [
+      "specified entity",
+      "incomplete information",
+      "quantity meaning"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q05"
+    ],
+    "source_refs": [
+      "C01",
+      "S01"
+    ],
+    "spotlight_characters": [
+      "Henry",
+      "Jackson",
+      "Natalie"
+    ],
+    "model_delta": {
+      "before": "One mole appears complete enough for dispatch.",
+      "after": "Amount requires a specified entity before a route can be chosen."
+    },
+    "slow_turn": "Natalie separates unknown entity from unknown mass; Jeff stops the loop; Jackson keeps the cropped label beside the larger original so the missing entity remains physical evidence.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-02",
+    "title": "A number with room beneath it",
+    "anchor": "ch05-scene-02",
+    "story_link": "STORY.md#ch05-scene-02",
+    "concepts": [
+      "amount of substance",
+      "exact Avogadro constant",
+      "representation scale"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01",
+      "luminara.adventure.005.q05",
+      "luminara.adventure.005.q14"
+    ],
+    "source_refs": [
+      "C01",
+      "S01",
+      "S02"
+    ],
+    "spotlight_characters": [
+      "Jeff",
+      "Kàra",
+      "Natalie"
+    ],
+    "model_delta": {
+      "before": "Understanding the mole seems to require picturing every object.",
+      "after": "An exact count relationship can be used without an exhaustive image."
+    },
+    "slow_turn": "Natalie distinguishes a representation from an exhaustive picture; Jeff compares the model to a map; the class accepts exact relationships without visualizing every entity.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-03",
+    "title": "The scanner sees twice",
+    "anchor": "ch05-scene-03",
+    "story_link": "STORY.md#ch05-scene-03",
+    "concepts": [
+      "molecule versus atom count",
+      "O₂ composition",
+      "constituent atoms remain within molecules"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01",
+      "luminara.adventure.005.q02",
+      "luminara.adventure.005.q07"
+    ],
+    "source_refs": [
+      "C01",
+      "S01",
+      "S07"
+    ],
+    "spotlight_characters": [
+      "Jeff",
+      "Henry",
+      "Jackson"
+    ],
+    "model_delta": {
+      "before": "A correct scanner tally can be labeled molecules.",
+      "after": "The tally must match the specified level: atoms or molecules."
+    },
+    "slow_turn": "Jeff preserves the correct atom tally, Henry names its entity, and Jackson connects the mislabeling to an early-closing gate; the corrected counting acknowledgement still precedes weighing.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-04",
+    "title": "What the subscript brings along",
+    "anchor": "ch05-scene-04",
+    "story_link": "STORY.md#ch05-scene-04",
+    "concepts": [
+      "CO₂ composition",
+      "molecular and atom levels",
+      "sample boundary"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01"
+    ],
+    "source_refs": [
+      "C01",
+      "S01",
+      "S07"
+    ],
+    "spotlight_characters": [
+      "Ástríðr",
+      "Natalie",
+      "Kàra"
+    ],
+    "model_delta": {
+      "before": "A sample needs separate material for each level of counting.",
+      "after": "One sample supports different connected descriptions without changing species."
+    },
+    "slow_turn": "Natalie keeps the same sample in view at multiple descriptive levels; Jackson follows which level a receiving action needs; no atoms are physically released.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-05",
+    "title": "Two containers, one amount",
+    "anchor": "ch05-scene-05",
+    "story_link": "STORY.md#ch05-scene-05",
+    "concepts": [
+      "equal amount versus equal mass",
+      "molar mass",
+      "substance-specific factor"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q02"
+    ],
+    "source_refs": [
+      "C01",
+      "S03",
+      "S04",
+      "S05"
+    ],
+    "spotlight_characters": [
+      "Ástríðr",
+      "Natalie",
+      "Jackson"
+    ],
+    "model_delta": {
+      "before": "Equal mole amounts should have equal masses.",
+      "after": "The molar mass is substance-specific; equal entity numbers do not fix equal mass."
+    },
+    "slow_turn": "Natalie recognizes her imagined universal scoop; Kàra notices the misleading equal-container drawing; the unequal scales remain correct.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-06",
+    "title": "Natalie's fence posts",
+    "anchor": "ch05-scene-06",
+    "story_link": "STORY.md#ch05-scene-06",
+    "concepts": [
+      "dimensional fence posts",
+      "factor orientation",
+      "identity and magnitude checks"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q06"
+    ],
+    "source_refs": [
+      "C02",
+      "S03",
+      "S04",
+      "S09",
+      "S07"
+    ],
+    "spotlight_characters": [
+      "Natalie",
+      "Jeff",
+      "Henry"
+    ],
+    "model_delta": {
+      "before": "A memorized factor or calculator answer guarantees conversion.",
+      "after": "Factor applicability, orientation, units, magnitude, and identity need distinct checks."
+    },
+    "slow_turn": "Natalie discovers that units alone cannot catch a mismatched substance; Ástríðr separates applicability, direction, and magnitude checks.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-07",
+    "title": "Back across the bridge",
+    "anchor": "ch05-scene-07",
+    "story_link": "STORY.md#ch05-scene-07",
+    "concepts": [
+      "mass to amount to count",
+      "measurement precision",
+      "reverse checks"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q07",
+      "luminara.adventure.005.q14"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S05",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Jeff",
+      "Natalie",
+      "Jackson"
+    ],
+    "model_delta": {
+      "before": "Exact Avogadro conversion makes inferred sample information exact.",
+      "after": "Measured mass and approximate molar mass retain their limitations."
+    },
+    "slow_turn": "Jackson separates exact rules from uncertain inputs; Natalie reflects on what the rooftop digits did not promise; the unnamed mass card remains unresolved.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-08",
+    "title": "The quiet canopy",
+    "anchor": "ch05-scene-08",
+    "story_link": "STORY.md#ch05-scene-08",
+    "concepts": [
+      "volume not specified",
+      "reference use",
+      "meaningful stopping point"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "C03",
+      "S01"
+    ],
+    "spotlight_characters": [
+      "Kàra",
+      "Natalie",
+      "Ástríðr"
+    ],
+    "model_delta": {
+      "before": "A drawing or standard amount also determines a physical volume.",
+      "after": "The model supplies only named quantities; unspecified volume conditions remain unknown."
+    },
+    "slow_turn": "The canopy gives the group an actual break: the notebook dries, Jackson puts down his board to eat, and Henry recalls the view; a wider reference card makes the written route usable.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-09",
+    "title": "Pause before the explanation",
+    "anchor": "ch05-scene-09",
+    "story_link": "STORY.md#ch05-scene-09",
+    "concepts": [
+      "isotope identity",
+      "fractional-neutron misconception",
+      "mass number versus mass"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q03",
+      "luminara.adventure.005.q14"
+    ],
+    "source_refs": [
+      "C01",
+      "S03",
+      "S06",
+      "S07"
+    ],
+    "spotlight_characters": [
+      "Jeff",
+      "Natalie",
+      "Henry"
+    ],
+    "model_delta": {
+      "before": "A decimal average requires a modified individual neutron count.",
+      "after": "Collection means and physical atomic masses are not neutron-count instructions."
+    },
+    "slow_turn": "Jeff identifies two distinct false leaps; Jackson preserves both in the record; Ástríðr changes the output task from construction to description.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-10",
+    "title": "Eighty, twenty, and the missing middle",
+    "anchor": "ch05-scene-10",
+    "story_link": "STORY.md#ch05-scene-10",
+    "concepts": [
+      "atom-number-weighted mean",
+      "population versus individual",
+      "histogram"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q03"
+    ],
+    "source_refs": [
+      "C01",
+      "S03",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Natalie",
+      "Ástríðr",
+      "Kàra"
+    ],
+    "model_delta": {
+      "before": "Two isotope categories imply equal statistical influence.",
+      "after": "Each atom contributes; the grouped weights are atom-number fractions."
+    },
+    "slow_turn": "The empty histogram position at 10.2 u separates mean from member; Natalie, Kàra, and Ástríðr keep the distribution visible before formal naming.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-11",
+    "title": "The mean moves; the counters do not",
+    "anchor": "ch05-scene-11",
+    "story_link": "STORY.md#ch05-scene-11",
+    "concepts": [
+      "changing fractions",
+      "removal versus replacement",
+      "mean versus total"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q09"
+    ],
+    "source_refs": [
+      "S03",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Kàra",
+      "Jeff",
+      "Natalie"
+    ],
+    "model_delta": {
+      "before": "Fewer heavy members determines one unique new mean.",
+      "after": "The changed total count and composition determine the mean."
+    },
+    "slow_turn": "Kàra tests whether the repaired graph calculates a new mean or merely replays 10.2 u; changing and duplicating populations distinguishes count, total, and mean.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-12",
+    "title": "A receipt that runs backward",
+    "anchor": "ch05-scene-12",
+    "story_link": "STORY.md#ch05-scene-12",
+    "concepts": [
+      "reverse mixture",
+      "two-isotope model",
+      "bounds and inconsistent data"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q04",
+      "luminara.adventure.005.q12"
+    ],
+    "source_refs": [
+      "S03",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Henry",
+      "Natalie",
+      "Ástríðr"
+    ],
+    "model_delta": {
+      "before": "An average completely reconstructs a sample.",
+      "after": "A two-isotope mean can recover proportions, not sample size; out-of-range results expose inconsistency."
+    },
+    "slow_turn": "An archive request to recover missing batch counts motivates reverse lookup; a valid mean recovers proportions but leaves total count unknown, so the class seeks original inventories.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-13",
+    "title": "Two averages are not two atoms",
+    "anchor": "ch05-scene-13",
+    "story_link": "STORY.md#ch05-scene-13",
+    "concepts": [
+      "pooled mean",
+      "unequal batch sizes",
+      "weights from counts"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q10"
+    ],
+    "source_refs": [
+      "S03",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Natalie",
+      "Ástríðr",
+      "Jackson"
+    ],
+    "model_delta": {
+      "before": "Two summary cards deserve equal averaging weight.",
+      "after": "Their underlying atom counts determine a pooled mean."
+    },
+    "slow_turn": "Natalie nearly averages the means automatically; Ástríðr and Jeff open the drawers, and the recovered unequal inventories let the class rebuild the pooled mean together.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-14",
+    "title": "Equal mass is a different promise",
+    "anchor": "ch05-scene-14",
+    "story_link": "STORY.md#ch05-scene-14",
+    "concepts": [
+      "mass fraction versus atom fraction",
+      "equal mass unequal count",
+      "dimensional statistical bridge"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q11"
+    ],
+    "source_refs": [
+      "S03",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Henry",
+      "Natalie",
+      "Kàra"
+    ],
+    "model_delta": {
+      "before": "Equal mass fractions can substitute for equal atom fractions.",
+      "after": "Mass and count denominators differ and must be converted explicitly."
+    },
+    "slow_turn": "Equal mass and unequal count fractions remain visible together; the class sends a complete record and witnesses its BY MASS qualifier disappear from the returned copy.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-15",
+    "title": "The little sample at the edge",
+    "anchor": "ch05-scene-15",
+    "story_link": "STORY.md#ch05-scene-15",
+    "concepts": [
+      "sample versus population",
+      "sampling variability",
+      "selection bias"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q13"
+    ],
+    "source_refs": [
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Kàra",
+      "Natalie",
+      "Ástríðr"
+    ],
+    "model_delta": {
+      "before": "A small sample must duplicate population proportions.",
+      "after": "Sample descriptions and population inference have different scope; selection matters."
+    },
+    "slow_turn": "Jackson tests a suspected dispatch error but preserves two valid means with different collection boundaries; Kàra gets direct help, and Natalie records all three samples.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-16",
+    "title": "Three quantities with similar numbers",
+    "anchor": "ch05-scene-16",
+    "story_link": "STORY.md#ch05-scene-16",
+    "concepts": [
+      "atomic mass",
+      "relative atomic mass",
+      "molar mass",
+      "real-data precision"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q14"
+    ],
+    "source_refs": [
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S08",
+      "S02"
+    ],
+    "spotlight_characters": [
+      "Henry",
+      "Natalie",
+      "Jeff"
+    ],
+    "model_delta": {
+      "before": "Similar numerical values permit interchangeable quantity labels.",
+      "after": "Atomic mass, dimensionless relative atomic mass, and molar mass have distinct definitions."
+    },
+    "slow_turn": "Checking the neon card against its source exposes different quantity headings; Natalie reserves the advanced mass question for optional support and returns with the same useful approximate molar mass.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-17",
+    "title": "The parcel without separate molecules",
+    "anchor": "ch05-scene-17",
+    "story_link": "STORY.md#ch05-scene-17",
+    "concepts": [
+      "formula units",
+      "ionic composition",
+      "charge versus count"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q08"
+    ],
+    "source_refs": [
+      "C02",
+      "S01",
+      "S07"
+    ],
+    "spotlight_characters": [
+      "Henry",
+      "Ástríðr",
+      "Kàra"
+    ],
+    "model_delta": {
+      "before": "All moles should count separate molecules.",
+      "after": "Specified formula units support composition accounting in an extended ionic solid."
+    },
+    "slow_turn": "The class observes the extended lattice without extracting private molecular packages; Natalie links the entity choice to the model of the substance.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-18",
+    "title": "The one-box machine",
+    "anchor": "ch05-scene-18",
+    "story_link": "STORY.md#ch05-scene-18",
+    "concepts": [
+      "quantity/entity/population metadata",
+      "independent checks",
+      "context preservation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q05",
+      "luminara.adventure.005.q06",
+      "luminara.adventure.005.q11",
+      "luminara.adventure.005.q14"
+    ],
+    "source_refs": [
+      "C01",
+      "S01",
+      "S03",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Jackson",
+      "Natalie",
+      "Jeff"
+    ],
+    "model_delta": {
+      "before": "Local corrected numbers solve the station permanently.",
+      "after": "The shared dispatch mechanism must preserve meaning-bearing labels and assumptions."
+    },
+    "slow_turn": "The missing paper strip joins its retained return copy, locating the shared shortening mechanism; a clearly labeled test checks identity without a surprise gotcha.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-19",
+    "title": "Half a mole, all the way across",
+    "anchor": "ch05-scene-19",
+    "story_link": "STORY.md#ch05-scene-19",
+    "concepts": [
+      "integrated amount/count/mass conversion",
+      "exact count approximate mass",
+      "CO₂"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01",
+      "luminara.adventure.005.q07"
+    ],
+    "source_refs": [
+      "C01",
+      "S01",
+      "S02",
+      "S07",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Jeff",
+      "Natalie",
+      "Henry"
+    ],
+    "model_delta": {
+      "before": "One completed calculation is a completed delivery.",
+      "after": "All requested reports and their precision boundaries must survive end-to-end transfer."
+    },
+    "slow_turn": "The concise approximate-mass panel travels beside the exact count; a downstream decimal-routing switch is caught separately, and the destination acknowledgement confirms the full route.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-20",
+    "title": "A good gate sometimes stays shut",
+    "anchor": "ch05-scene-20",
+    "story_link": "STORY.md#ch05-scene-20",
+    "concepts": [
+      "insufficient information",
+      "molecular formula preservation",
+      "invalid fraction totals"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q01",
+      "luminara.adventure.005.q12"
+    ],
+    "source_refs": [
+      "S01",
+      "S07",
+      "S09"
+    ],
+    "spotlight_characters": [
+      "Jackson",
+      "Ástríðr",
+      "Jeff"
+    ],
+    "model_delta": {
+      "before": "A successful system always returns a number.",
+      "after": "A responsible result can identify missing information or inconsistent assumptions."
+    },
+    "slow_turn": "The unidentified parcel remains honestly on hold; Jeff prefers an inspectable imperfect station to a falsely perfect one; Jackson preserves the first versions.",
+    "historical_guest": null
+  },
+  {
+    "scene_id": "ch05-scene-21",
+    "title": "Six biscuits, later",
+    "anchor": "ch05-scene-21",
+    "story_link": "STORY.md#ch05-scene-21",
+    "concepts": [
+      "transfer",
+      "notebook model revision",
+      "bounded confidence"
+    ],
+    "practice_ids": [
+      "luminara.adventure.005.q05",
+      "luminara.adventure.005.q14"
+    ],
+    "source_refs": [
+      "C01",
+      "C03"
+    ],
+    "spotlight_characters": [
+      "Natalie",
+      "Kàra",
+      "Jeff"
+    ],
+    "model_delta": {
+      "before": "Confidence means picturing everything and avoiding help.",
+      "after": "Portable questions, written relations, and justified pauses support independent reasoning."
+    },
+    "slow_turn": "Notebook objects return without a round of repeated morals: Natalie names what her familiar methods needed, Kàra thanks Jeff for pausing at the switch, and Ástríðr keeps the collection behind her first prediction.",
+    "historical_guest": null
+  }
+]

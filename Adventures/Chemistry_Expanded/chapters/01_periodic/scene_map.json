@@ -1,0 +1,399 @@
+[
+  {
+    "scene_id": "ch01-scene-01",
+    "title": "The bus with a front porch",
+    "anchor": "ch01-scene-01",
+    "concepts": [
+      "scope conditions",
+      "outer-electron pattern",
+      "hypothesis versus unique answer"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q11"
+    ],
+    "source_refs": [
+      "S01",
+      "S02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-02",
+    "title": "A neighborhood that would not become a line",
+    "anchor": "ch01-scene-02",
+    "concepts": [
+      "period versus group",
+      "first-twenty scope",
+      "two surviving candidates"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q11"
+    ],
+    "source_refs": [
+      "S01",
+      "S02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-03",
+    "title": "The stamp that traveled faster than its reasons",
+    "anchor": "ch01-scene-03",
+    "concepts": [
+      "first-match error",
+      "preserving evidence",
+      "explicit waiting state",
+      "requested distinguishing observation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q16"
+    ],
+    "source_refs": [
+      "S01",
+      "S02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-04",
+    "title": "A number with a small territory",
+    "anchor": "ch01-scene-04",
+    "concepts": [
+      "principal number",
+      "subshell",
+      "occupancy superscript",
+      "partial information"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q03",
+      "luminara.adventure.001.q05"
+    ],
+    "source_refs": [
+      "S03"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-05",
+    "title": "What the outer window hid",
+    "anchor": "ch01-scene-05",
+    "concepts": [
+      "complete configuration",
+      "outer versus total electrons",
+      "shell summaries",
+      "neutrality"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q03",
+      "luminara.adventure.001.q06"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-06",
+    "title": "Rooms inside rooms and the point where rooms fail",
+    "anchor": "ch01-scene-06",
+    "concepts": [
+      "shell/subshell/orbital hierarchy",
+      "allowed occupancy",
+      "s p d capacities",
+      "model limits"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q07"
+    ],
+    "source_refs": [
+      "S03",
+      "S04"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-07",
+    "title": "Weather without little tracks",
+    "anchor": "ch01-scene-07",
+    "concepts": [
+      "orbital probability",
+      "repeated preparations",
+      "non-classical paths",
+      "epistemic versus quantum uncertainty",
+      "testing and revising a trajectory sketch"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q08"
+    ],
+    "source_refs": [
+      "S04"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-08",
+    "title": "The staircase that was not a filling rule",
+    "anchor": "ch01-scene-08",
+    "concepts": [
+      "ground versus excited state",
+      "capacity versus energy ordering",
+      "K and Ca 4s occupancy",
+      "prediction checked against reference"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q09"
+    ],
+    "source_refs": [
+      "S03",
+      "S04",
+      "S05"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-09",
+    "title": "The man behind a measured number",
+    "anchor": "ch01-scene-09",
+    "concepts": [
+      "historical measurement problem",
+      "Moseley 1913",
+      "number versus physical evidence"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q10"
+    ],
+    "source_refs": [
+      "H01",
+      "H02",
+      "H03",
+      "H04"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-10",
+    "title": "Lines a ruler could not wish into place",
+    "anchor": "ch01-scene-10",
+    "concepts": [
+      "characteristic X-ray spectra",
+      "measurement and interpretation",
+      "approximate relation",
+      "scientific credit",
+      "comparability versus readability",
+      "dated retrospective historical synthesis"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q10"
+    ],
+    "source_refs": [
+      "H01",
+      "H02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-11",
+    "title": "Two names on the same bench",
+    "anchor": "ch01-scene-11",
+    "concepts": [
+      "later scientific briefing",
+      "atomic number versus group",
+      "reference versus case observation",
+      "reference misfiled as observation",
+      "traceable concise report"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q05",
+      "luminara.adventure.001.q10",
+      "luminara.adventure.001.q11"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S03",
+      "S06",
+      "H01",
+      "H02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-12",
+    "title": "A return that leaves the evidence where it belongs",
+    "anchor": "ch01-scene-12",
+    "concepts": [
+      "chronological containment",
+      "authority versus evidence",
+      "collective reflection",
+      "period observation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q10",
+      "luminara.adventure.001.q11"
+    ],
+    "source_refs": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "S01",
+      "S02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-13",
+    "title": "The row earns its place",
+    "anchor": "ch01-scene-13",
+    "concepts": [
+      "candidate elimination",
+      "period 3",
+      "Cl configuration and atomic number",
+      "bounded confidence"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q03",
+      "luminara.adventure.001.q11",
+      "luminara.adventure.001.q16"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-14",
+    "title": "The plaque that stayed seventeen",
+    "anchor": "ch01-scene-14",
+    "concepts": [
+      "ion charge",
+      "Cl− versus Ar",
+      "same electron count different identity",
+      "symbol roles",
+      "voluntary comparison after completed delivery",
+      "complete-system charge conservation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q02",
+      "luminara.adventure.001.q05"
+    ],
+    "source_refs": [
+      "S02",
+      "S06",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-15",
+    "title": "A disappointingly useful treasure",
+    "anchor": "ch01-scene-15",
+    "concepts": [
+      "reflection",
+      "honest uncertainty",
+      "evidence-dependent confidence",
+      "next-case validation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q16"
+    ],
+    "source_refs": [
+      "S01",
+      "S02"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-16",
+    "title": "The souvenir that promised too much",
+    "anchor": "ch01-scene-16",
+    "concepts": [
+      "group patterns versus identity",
+      "first ionization energy",
+      "named property and scope",
+      "minimum ionization threshold and per-atom energy"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q04",
+      "luminara.adventure.001.q15"
+    ],
+    "source_refs": [
+      "S02",
+      "S03",
+      "S09"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-17",
+    "title": "The next letter refuses to be chlorine",
+    "anchor": "ch01-scene-17",
+    "concepts": [
+      "O/S transfer",
+      "case binding",
+      "stale-result error",
+      "non-unique versus resolved"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q01",
+      "luminara.adventure.001.q12"
+    ],
+    "source_refs": [
+      "S01",
+      "S03",
+      "S07"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-18",
+    "title": "The letter with nowhere to go",
+    "anchor": "ch01-scene-18",
+    "concepts": [
+      "inconsistent inputs",
+      "total versus allowed occupancy",
+      "specific corrective feedback",
+      "learner-authored discriminating tests"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q13",
+      "luminara.adventure.001.q14",
+      "luminara.adventure.001.q16"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S06"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-19",
+    "title": "The part of the map they had not walked",
+    "anchor": "ch01-scene-19",
+    "concepts": [
+      "scope boundary",
+      "helium exception",
+      "valence convention",
+      "model retention"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q07"
+    ],
+    "source_refs": [
+      "S01",
+      "S03",
+      "S04",
+      "S08"
+    ]
+  },
+  {
+    "scene_id": "ch01-scene-20",
+    "title": "Somewhere sufficiently specified",
+    "anchor": "ch01-scene-20",
+    "concepts": [
+      "carry-forward",
+      "reasons attached to conclusions",
+      "reference-aided confidence",
+      "reliable return"
+    ],
+    "practice_ids": [
+      "luminara.adventure.001.q16"
+    ],
+    "source_refs": [
+      "S01",
+      "S02",
+      "S03",
+      "S06"
+    ]
+  }
+]

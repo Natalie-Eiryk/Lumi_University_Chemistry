@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "errors": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Address With No Row",
+      "narrative_words": 19595,
+      "scene_count": 20,
+      "question_count": 16,
+      "original_question_ids_retained": 4,
+      "directory": "chapters/01_periodic"
+    },
+    {
+      "chapter": 2,
+      "title": "The Bracket Luggage Office",
+      "narrative_words": 19016,
+      "scene_count": 20,
+      "question_count": 14,
+      "original_question_ids_retained": 4,
+      "directory": "chapters/02_brackets"
+    },
+    {
+      "chapter": 3,
+      "title": "The City Without Couples",
+      "narrative_words": 19139,
+      "scene_count": 20,
+      "question_count": 14,
+      "original_question_ids_retained": 4,
+      "directory": "chapters/03_city"
+    },
+    {
+      "chapter": 4,
+      "title": "Ms Luminara and the Compound Naming Station",
+      "narrative_words": 18955,
+      "scene_count": 20,
+      "question_count": 14,
+      "original_question_ids_retained": 4,
+      "directory": "chapters/04_naming"
+    },
+    {
+      "chapter": 5,
+      "title": "Ms Luminara and the Mole Counting Station",
+      "narrative_words": 19028,
+      "scene_count": 21,
+      "question_count": 14,
+      "original_question_ids_retained": 4,
+      "directory": "chapters/05_moles"
+    }
+  ],
+  "narrative_words_total": 95733,
+  "questions_total": 72,
+  "checkpoint_count": 20,
+  "scope": "Static content/link/id/hash checks. Not runtime, rendering, schema or instructor certification.",
+  "vocabulary_cards": 60,
+  "original_questions_retained": 20,
+  "new_questions": 52,
+  "scene_count": 101,
+  "all_final_chapter_files_match_frozen_checkpoint": true,
+  "all_20_checkpoint_hashes_and_crcs_verified": true,
+  "duplicate_long_narrative_paragraphs": 0,
+  "card_copy_contract": "All semantic fields agree; source_refs resolve within the central or chapter directory as documented."
+}

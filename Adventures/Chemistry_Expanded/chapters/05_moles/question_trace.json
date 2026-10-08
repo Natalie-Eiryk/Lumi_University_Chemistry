@@ -1,0 +1,271 @@
+{
+  "story_id": "luminara.adventure.005",
+  "pass": 3,
+  "questions": [
+    {
+      "question_id": "luminara.adventure.005.q01",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.005.q01",
+      "original_question_unchanged": true,
+      "source_refs": [
+        "C01",
+        "S01",
+        "S07"
+      ],
+      "scene_ids": [
+        "ch05-scene-02",
+        "ch05-scene-03",
+        "ch05-scene-04",
+        "ch05-scene-19",
+        "ch05-scene-20"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "original_question_sha256": "e7240565a17d31e2c78beabd375995abf23f2ee9c9f22cd2835dbdd88b22bc86",
+      "change_note": "Original question text and intended meaning preserved verbatim; optional hints and expanded narrative/source bindings added separately."
+    },
+    {
+      "question_id": "luminara.adventure.005.q02",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.005.q02",
+      "original_question_unchanged": true,
+      "source_refs": [
+        "C01",
+        "S01",
+        "S04",
+        "S05"
+      ],
+      "scene_ids": [
+        "ch05-scene-03",
+        "ch05-scene-05"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "original_question_sha256": "50c6f5c865cfd3b83344740a2aa132253d2094b4e1ee2a770c4292063a5eb2b7",
+      "change_note": "Original question text and intended meaning preserved verbatim; optional hints and expanded narrative/source bindings added separately."
+    },
+    {
+      "question_id": "luminara.adventure.005.q03",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.005.q03",
+      "original_question_unchanged": true,
+      "source_refs": [
+        "C01",
+        "S03",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-09",
+        "ch05-scene-10"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "original_question_sha256": "c30d61db2f7ead200375c5946b0f8d3859272582ba49ab3be63c94345996b6de",
+      "change_note": "Original question text and intended meaning preserved verbatim; optional hints and expanded narrative/source bindings added separately."
+    },
+    {
+      "question_id": "luminara.adventure.005.q04",
+      "origin": "preserved_original",
+      "original_id": "luminara.adventure.005.q04",
+      "original_question_unchanged": true,
+      "source_refs": [
+        "C01",
+        "S03",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-12"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "original_question_sha256": "a5c2908c3a54964ca2022030084f22321ac763c5c8ab101c1e433fb7491c4ee1",
+      "change_note": "Original question text and intended meaning preserved verbatim; optional hints and expanded narrative/source bindings added separately."
+    },
+    {
+      "question_id": "luminara.adventure.005.q05",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S01",
+        "S03"
+      ],
+      "scene_ids": [
+        "ch05-scene-01",
+        "ch05-scene-02"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q06",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S03",
+        "S04",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-06"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q07",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S01",
+        "S02",
+        "S05",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-07",
+        "ch05-scene-19"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q08",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S01",
+        "S07"
+      ],
+      "scene_ids": [
+        "ch05-scene-17"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q09",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S03",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-11"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q10",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S03",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-13"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q11",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S03",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-14"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q12",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S03",
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-12"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q13",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S09"
+      ],
+      "scene_ids": [
+        "ch05-scene-15"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    },
+    {
+      "question_id": "luminara.adventure.005.q14",
+      "origin": "new_expansion",
+      "original_id": null,
+      "original_question_unchanged": null,
+      "source_refs": [
+        "S01",
+        "S02",
+        "S03",
+        "S06",
+        "S08"
+      ],
+      "scene_ids": [
+        "ch05-scene-02",
+        "ch05-scene-07",
+        "ch05-scene-09",
+        "ch05-scene-16"
+      ],
+      "practice_file": "PRACTICE.md",
+      "key_file": "TEACHER_KEY.md",
+      "source_binding_status": "explicit_local_content_binding; no live application binding claimed",
+      "change_note": "New original scaffolded question; not an instructor-source worksheet item."
+    }
+  ],
+  "pass2_continuity_note": "All fourteen question IDs, question texts, intended meanings, scene anchors, and source bindings retained. Pacing revisions change narrative motivation and delivery, not the tasks or worked arithmetic. The bound-system mass qualification referenced by q14 remains optional support.",
+  "pass3_review_note": "All fourteen question texts and meanings retained. q01–q04 independently compared verbatim against the supplied originals. All worked numerical results recalculated. Exact definitions, approximate inputs, specified entities, atom-number weighting, and twelve related vocabulary cards checked. No live application binding or instructor approval claimed."
+}

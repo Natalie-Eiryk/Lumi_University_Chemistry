@@ -1,0 +1,972 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Selected conceptual navigation for optional private study; not course-task completion or campus integration.",
+  "source_title": "Chem. 1117 Review Unit II Chapters 4–5",
+  "source_packet_file": "01_ions_formulas_naming.items.json",
+  "source_repository_commit": "bdea56749b52b4c2804b79299b4798564b9f70cd",
+  "source_repository_url": "https://github.com/Natalie-Eiryk/Lumi_University_Chemistry/tree/bdea56749b52b4c2804b79299b4798564b9f70cd/Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source",
+  "live_campus_binding_verified": false,
+  "coverage_claim": "Selected conceptual links only. A task may have additional parts, species, formats, or instructor requirements beyond a card.",
+  "counts": {
+    "all_unit_ii_records": 142,
+    "all_source_records": 117,
+    "all_supplemental_records": 25,
+    "selected_source_records_mapped": 23,
+    "selected_supplemental_records_mapped": 0,
+    "unmapped_records": 119
+  },
+  "entries": [
+    {
+      "task_id": "LUMI-U2-Q01-A",
+      "original_anchor": "Q1a",
+      "source_record_kind": "source",
+      "concept": "Ion: overall net charge",
+      "relationship": "conceptual reinforcement",
+      "story_ids": [
+        "luminara.adventure.002",
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.002.card03",
+        "luminara.adventure.002.card04",
+        "luminara.adventure.003.card03"
+      ],
+      "scene_ids": [
+        "ch02-scene-09",
+        "ch03-scene-10",
+        "ch03-scene-11"
+      ],
+      "limitations": "The cards offer examples and distinctions; the original task still asks for the learner’s own definition.",
+      "scene_links": [
+        "../chapters/02_brackets/STORY.md#ch02-scene-09",
+        "../chapters/03_city/STORY.md#ch03-scene-10",
+        "../chapters/03_city/STORY.md#ch03-scene-11"
+      ],
+      "practice_ids": [
+        "luminara.adventure.002.q06",
+        "luminara.adventure.002.q09",
+        "luminara.adventure.003.q01"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card03",
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card04",
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card03"
+      ],
+      "source_refs": [
+        "../chapters/02_brackets/SOURCES.md#nist-atomic-data",
+        "../chapters/02_brackets/SOURCES.md#explanatory-model-references",
+        "../chapters/03_city/SOURCES.md#ch03-s01--official-ion-definition",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q01-C",
+      "original_anchor": "Q1c",
+      "source_record_kind": "source",
+      "concept": "Cation: positive net charge",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.002"
+      ],
+      "card_ids": [
+        "luminara.adventure.002.card04"
+      ],
+      "scene_ids": [
+        "ch02-scene-09"
+      ],
+      "limitations": "Naming a positive ion does not explain every ion-formation process.",
+      "scene_links": [
+        "../chapters/02_brackets/STORY.md#ch02-scene-09"
+      ],
+      "practice_ids": [
+        "luminara.adventure.002.q06",
+        "luminara.adventure.002.q09"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card04"
+      ],
+      "source_refs": [
+        "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q01-D",
+      "original_anchor": "Q1d",
+      "source_record_kind": "source",
+      "concept": "Ionic attraction versus electron-transfer bookkeeping",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card08"
+      ],
+      "scene_ids": [
+        "ch03-scene-06",
+        "ch03-scene-07"
+      ],
+      "limitations": "The story’s electrostatic model is introductory, not a complete quantum account of bonding.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-06",
+        "../chapters/03_city/STORY.md#ch03-scene-07"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q05",
+        "luminara.adventure.003.q14"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card08"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s07--energy-account-beyond-a-transfer-arrow"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q01-E",
+      "original_anchor": "Q1e",
+      "source_record_kind": "source",
+      "concept": "Ionic compound as neutral cation/anion composition",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card04",
+        "luminara.adventure.003.card12"
+      ],
+      "scene_ids": [
+        "ch03-scene-12"
+      ],
+      "limitations": "Metal presence is not a necessary defining criterion.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-12"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q07"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card04",
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card12"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q02-B",
+      "original_anchor": "Q2b",
+      "source_record_kind": "source",
+      "concept": "Electron removal and positive charge",
+      "relationship": "concept and practice reinforcement",
+      "story_ids": [
+        "luminara.adventure.002"
+      ],
+      "card_ids": [
+        "luminara.adventure.002.card07",
+        "luminara.adventure.002.card11"
+      ],
+      "scene_ids": [
+        "ch02-scene-09",
+        "ch02-scene-11"
+      ],
+      "limitations": "The cards reinforce electron removal and positive charge. New chapter practice luminara.adventure.002.q09 also works lithium’s charge-balanced electron-loss equation. The source course’s required equation format and acceptance remain unverified.",
+      "scene_links": [
+        "../chapters/02_brackets/STORY.md#ch02-scene-09",
+        "../chapters/02_brackets/STORY.md#ch02-scene-11"
+      ],
+      "practice_ids": [
+        "luminara.adventure.002.q06",
+        "luminara.adventure.002.q09",
+        "luminara.adventure.002.q02"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card07",
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card11"
+      ],
+      "source_refs": [
+        "../chapters/02_brackets/SOURCES.md#nist-atomic-data",
+        "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q03-B",
+      "original_anchor": "Q3b",
+      "source_record_kind": "source",
+      "concept": "Signed proton-minus-electron charge calculation",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.002"
+      ],
+      "card_ids": [
+        "luminara.adventure.002.card07",
+        "luminara.adventure.002.card11"
+      ],
+      "scene_ids": [
+        "ch02-scene-09",
+        "ch02-scene-11"
+      ],
+      "limitations": "The card’s numerical application uses magnesium; the story also compares sodium and Na⁺. Transfer the method to the task’s supplied counts.",
+      "scene_links": [
+        "../chapters/02_brackets/STORY.md#ch02-scene-09",
+        "../chapters/02_brackets/STORY.md#ch02-scene-11"
+      ],
+      "practice_ids": [
+        "luminara.adventure.002.q06",
+        "luminara.adventure.002.q09",
+        "luminara.adventure.002.q02"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card07",
+        "VOCABULARY_CARDS.md#luminara.adventure.002.card11"
+      ],
+      "source_refs": [
+        "../chapters/02_brackets/SOURCES.md#nist-atomic-data",
+        "../chapters/02_brackets/SOURCES.md#explanatory-model-references"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q05-E",
+      "original_anchor": "Q5e",
+      "source_record_kind": "source",
+      "concept": "Recognize ammonium as a whole ion",
+      "relationship": "selected-ion reference",
+      "story_ids": [
+        "luminara.adventure.003",
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card03",
+        "luminara.adventure.004.card12"
+      ],
+      "scene_ids": [
+        "ch03-scene-10",
+        "ch03-scene-11",
+        "ch04-scene-18"
+      ],
+      "limitations": "The new card supplies the ion name and supports meaning, so it is not evidence of unaided name recall.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-10",
+        "../chapters/03_city/STORY.md#ch03-scene-11",
+        "../chapters/04_naming/STORY.md#ch04-scene-18"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q01",
+        "luminara.adventure.004.q02"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card03",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card12"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s01--official-ion-definition",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+        "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q05-F",
+      "original_anchor": "Q5f",
+      "source_record_kind": "source",
+      "concept": "Recognize carbonate as a whole ion",
+      "relationship": "selected-ion reference",
+      "story_ids": [
+        "luminara.adventure.003",
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card09",
+        "luminara.adventure.004.card12"
+      ],
+      "scene_ids": [
+        "ch03-scene-12",
+        "ch04-scene-18"
+      ],
+      "limitations": "The new cards supply the ion identity; the wider course ion list is not taught exhaustively.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-12",
+        "../chapters/04_naming/STORY.md#ch04-scene-18"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q07",
+        "luminara.adventure.004.q02"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card09",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card12"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+        "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q06-G",
+      "original_anchor": "Q6g",
+      "source_record_kind": "source",
+      "concept": "Oxide identity in charge-balanced formulas",
+      "relationship": "selected-ion reference",
+      "story_ids": [
+        "luminara.adventure.003",
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card11",
+        "luminara.adventure.004.card09"
+      ],
+      "scene_ids": [
+        "ch03-scene-14",
+        "ch04-scene-04"
+      ],
+      "limitations": "Oxide is supplied in these examples. This is not a complete ion-symbol recall exercise.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-14",
+        "../chapters/04_naming/STORY.md#ch04-scene-04"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q03",
+        "luminara.adventure.004.q06"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card11",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card09"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions",
+        "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q06-K",
+      "original_anchor": "Q6k",
+      "source_record_kind": "source",
+      "concept": "Nitrate composition preserved inside parentheses",
+      "relationship": "selected-ion reference",
+      "story_ids": [
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card10"
+      ],
+      "scene_ids": [
+        "ch03-scene-13"
+      ],
+      "limitations": "The formula is supplied; retrieval of nitrate from its name is a separate task.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-13"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q02",
+        "luminara.adventure.003.q08"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card10"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+        "../chapters/03_city/SOURCES.md#ch03-s06--formula-meanings"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q07-B",
+      "original_anchor": "Q7b",
+      "source_record_kind": "source",
+      "concept": "Cu²⁺/Cl⁻ neutral composition",
+      "relationship": "reverse-direction connection",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card10"
+      ],
+      "scene_ids": [
+        "ch04-scene-05"
+      ],
+      "limitations": "The card infers copper’s state from supplied CuCl₂; the original task constructs the formula from the ions.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-05"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q07"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card10"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions",
+        "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q08-B",
+      "original_anchor": "Q8b",
+      "source_record_kind": "source",
+      "concept": "Copper(II) naming from charge accounting",
+      "relationship": "method reinforcement",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card05",
+        "luminara.adventure.004.card10"
+      ],
+      "scene_ids": [
+        "ch04-scene-03",
+        "ch04-scene-04",
+        "ch04-scene-05"
+      ],
+      "limitations": "Card 10 targets oxidation state; its reasoning note gives the associated introductory name.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-03",
+        "../chapters/04_naming/STORY.md#ch04-scene-04",
+        "../chapters/04_naming/STORY.md#ch04-scene-05"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q01",
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q07"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card05",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card10"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions",
+        "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q07-G",
+      "original_anchor": "Q7g",
+      "source_record_kind": "source",
+      "concept": "Whole polyatomic ions and smallest neutral ratio",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card09",
+        "luminara.adventure.003.card10",
+        "luminara.adventure.003.card11"
+      ],
+      "scene_ids": [
+        "ch03-scene-12",
+        "ch03-scene-13",
+        "ch03-scene-14"
+      ],
+      "limitations": "The source task uses calcium and phosphate, which are not the same worked pair as these cards. Use the source’s supplied ion identities.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-12",
+        "../chapters/03_city/STORY.md#ch03-scene-13",
+        "../chapters/03_city/STORY.md#ch03-scene-14"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q07",
+        "luminara.adventure.003.q02",
+        "luminara.adventure.003.q08",
+        "luminara.adventure.003.q03"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card09",
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card10",
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card11"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+        "../chapters/03_city/SOURCES.md#ch03-s06--formula-meanings"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q07-I",
+      "original_anchor": "Q7i",
+      "source_record_kind": "source",
+      "concept": "Ammonium as a cation in a metal-free salt",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card09",
+        "luminara.adventure.003.card12"
+      ],
+      "scene_ids": [
+        "ch03-scene-12"
+      ],
+      "limitations": "The task’s anion is sulfide rather than carbonate; keep its supplied identity and charge.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-12"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q07"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card09",
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card12"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q07-L",
+      "original_anchor": "Q7l",
+      "source_record_kind": "source",
+      "concept": "Ammonium/carbonate whole-ion ratio",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.003",
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card09",
+        "luminara.adventure.004.card12"
+      ],
+      "scene_ids": [
+        "ch03-scene-12",
+        "ch04-scene-18"
+      ],
+      "limitations": "The formula and charge reasoning do not imply any synthesis or stability demonstration.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-12",
+        "../chapters/04_naming/STORY.md#ch04-scene-18"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q07",
+        "luminara.adventure.004.q02"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card09",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card12"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories",
+        "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q08-L",
+      "original_anchor": "Q8l",
+      "source_record_kind": "source",
+      "concept": "Ammonium carbonate naming route",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card12"
+      ],
+      "scene_ids": [
+        "ch04-scene-18"
+      ],
+      "limitations": "Use the stated introductory ionic convention; this is not a survey of every IUPAC naming system.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-18"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q02"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card12"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q07-M",
+      "original_anchor": "Q7m",
+      "source_record_kind": "source",
+      "concept": "Smallest neutral ratio for +3 and −2 ions",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.003"
+      ],
+      "card_ids": [
+        "luminara.adventure.003.card11"
+      ],
+      "scene_ids": [
+        "ch03-scene-14"
+      ],
+      "limitations": "The card works aluminum and oxide; the task supplies iron and sulfide. Similar charge arithmetic does not make the substances identical.",
+      "scene_links": [
+        "../chapters/03_city/STORY.md#ch03-scene-14"
+      ],
+      "practice_ids": [
+        "luminara.adventure.003.q03"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.003.card11"
+      ],
+      "source_refs": [
+        "../chapters/03_city/SOURCES.md#ch03-s04--ionic-bonding-and-formula-ratios",
+        "../chapters/03_city/SOURCES.md#ch03-s05--ion-identities-and-substance-categories"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q08-N",
+      "original_anchor": "Q8n",
+      "source_record_kind": "source",
+      "concept": "Oxidation-state numeral for supplied iron(III) salts",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card01",
+        "luminara.adventure.004.card05",
+        "luminara.adventure.004.card09"
+      ],
+      "scene_ids": [
+        "ch04-scene-04",
+        "ch04-scene-03"
+      ],
+      "limitations": "The original task’s chloride composition differs from the card’s oxide example.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-04",
+        "../chapters/04_naming/STORY.md#ch04-scene-03"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q06",
+        "luminara.adventure.004.q01"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card01",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card05",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card09"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions",
+        "../chapters/04_naming/SOURCES.md#s06-oxidation-state-scope"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q15-A",
+      "original_anchor": "Q15a",
+      "source_record_kind": "source",
+      "concept": "Binary molecular naming route and atom-count prefixes",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card06",
+        "luminara.adventure.004.card11"
+      ],
+      "scene_ids": [
+        "ch04-scene-06",
+        "ch04-scene-14"
+      ],
+      "limitations": "The original task uses PI₃, not the card’s PCl₃ or SF₆. Consult the chapter prefix reference and retain the original species.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-06",
+        "../chapters/04_naming/STORY.md#ch04-scene-14"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q07"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card06",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card11"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions",
+        "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q15-G",
+      "original_anchor": "Q15g",
+      "source_record_kind": "source",
+      "concept": "Introductory ionic naming route",
+      "relationship": "method transfer",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card06"
+      ],
+      "scene_ids": [
+        "ch04-scene-06",
+        "ch04-scene-14"
+      ],
+      "limitations": "AlF₃ is the source task; MgCl₂ is the card’s contrasting example. This is route practice, not a copied answer.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-06",
+        "../chapters/04_naming/STORY.md#ch04-scene-14"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q03",
+        "luminara.adventure.004.q07"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card06"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s03-ionic-compounds-and-whole-ions",
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q16-A",
+      "original_anchor": "Q16a",
+      "source_record_kind": "source",
+      "concept": "NO₂ molecular counts versus empirical-ratio use",
+      "relationship": "conceptual reinforcement",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card04",
+        "luminara.adventure.004.card07"
+      ],
+      "scene_ids": [
+        "ch04-scene-15"
+      ],
+      "limitations": "NO₂ can be the actual molecular formula of nitrogen dioxide and the empirical formula of N₂O₄. Specify which substance and question are meant.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-15"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q04"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card04",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card07"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q16-C",
+      "original_anchor": "Q16c",
+      "source_record_kind": "source",
+      "concept": "Preserve N₂O₄ molecular composition",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card04",
+        "luminara.adventure.004.card07"
+      ],
+      "scene_ids": [
+        "ch04-scene-15"
+      ],
+      "limitations": "Prefix-to-formula translation is related to, but longer than, identifying the empirical/molecular distinction.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-15"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q04"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card04",
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card07"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      ]
+    },
+    {
+      "task_id": "LUMI-U2-Q16-F",
+      "original_anchor": "Q16f",
+      "source_record_kind": "source",
+      "concept": "Hexa- as molecular atom count",
+      "relationship": "direct concept match",
+      "story_ids": [
+        "luminara.adventure.004"
+      ],
+      "card_ids": [
+        "luminara.adventure.004.card11"
+      ],
+      "scene_ids": [
+        "ch04-scene-14"
+      ],
+      "limitations": "The card focuses on F count; writing the full formula retains sulfur as well.",
+      "scene_links": [
+        "../chapters/04_naming/STORY.md#ch04-scene-14"
+      ],
+      "practice_ids": [
+        "luminara.adventure.004.q03"
+      ],
+      "card_links": [
+        "VOCABULARY_CARDS.md#luminara.adventure.004.card11"
+      ],
+      "source_refs": [
+        "../chapters/04_naming/SOURCES.md#s04-chemical-naming-conventions",
+        "../chapters/04_naming/SOURCES.md#s05-formula-roles-and-molecular-composition"
+      ]
+    }
+  ],
+  "not_claimed": [
+    {
+      "scope": "Stories 001 and 005",
+      "reason": "Their periodic-configuration and mole/isotope teaching has no direct source-task match selected in this Unit II crosswalk. This is not a claim they lack relevance to other course material."
+    },
+    {
+      "scope": "Q10–Q14 and supplemental LG01–LG09",
+      "reason": "No complete Lewis-structure, formal-charge, resonance, electron-budget, or geometry coverage is asserted. Some narrative extensions may mention these ideas without covering the full task family."
+    },
+    {
+      "scope": "Remaining ions and naming records, including all unmapped Q1–Q9/Q15–Q16 subitems",
+      "reason": "No all-ion recall, all-species naming, all formation-equation, or exhaustive rule coverage is asserted."
+    },
+    {
+      "scope": "Q15d NaH; Q15e OsO₄; Q15f AsCl₃; Q15h SiCl₄; Q15i SbF₅",
+      "reason": "Special-case identity and/or instructor-specific naming choices are not settled by the generic metal/nonmetal shortcut. These records are not claimed as covered by the card deck."
+    },
+    {
+      "scope": "The 25 supplemental Unit II records",
+      "reason": "They remain separately authored extensions, not original worksheet questions. None is relabeled or mapped as a source question here."
+    },
+    {
+      "scope": "Live delivery, answer checking, completion state, or instructor approval",
+      "reason": "No campus IDs, runtime import, semantic grading, or course acceptance has been verified."
+    }
+  ],
+  "unmapped_record_ids": [
+    "LUMI-U2-NEW-S0-01",
+    "LUMI-U2-NEW-S0-02",
+    "LUMI-U2-NEW-S0-03",
+    "LUMI-U2-NEW-S0-04",
+    "LUMI-U2-NEW-S0-05",
+    "LUMI-U2-NEW-S0-06",
+    "LUMI-U2-NEW-S0-07",
+    "LUMI-U2-Q01-B",
+    "LUMI-U2-Q02-A",
+    "LUMI-U2-Q02-C",
+    "LUMI-U2-Q02-D",
+    "LUMI-U2-Q03-A",
+    "LUMI-U2-Q04-A",
+    "LUMI-U2-Q04-B",
+    "LUMI-U2-Q04-C",
+    "LUMI-U2-Q04-D",
+    "LUMI-U2-Q04-E",
+    "LUMI-U2-Q04-F",
+    "LUMI-U2-NEW-S1-01",
+    "LUMI-U2-NEW-S1-02",
+    "LUMI-U2-Q05-A",
+    "LUMI-U2-Q05-B",
+    "LUMI-U2-Q05-C",
+    "LUMI-U2-Q05-D",
+    "LUMI-U2-Q05-G",
+    "LUMI-U2-Q05-H",
+    "LUMI-U2-Q05-I",
+    "LUMI-U2-Q05-J",
+    "LUMI-U2-Q05-K",
+    "LUMI-U2-Q05-L",
+    "LUMI-U2-Q06-A",
+    "LUMI-U2-Q06-B",
+    "LUMI-U2-Q06-C",
+    "LUMI-U2-Q06-D",
+    "LUMI-U2-Q06-E",
+    "LUMI-U2-Q06-F",
+    "LUMI-U2-Q06-H",
+    "LUMI-U2-Q06-I",
+    "LUMI-U2-Q06-J",
+    "LUMI-U2-Q06-L",
+    "LUMI-U2-NEW-S2-01",
+    "LUMI-U2-NEW-S2-02",
+    "LUMI-U2-Q07-A",
+    "LUMI-U2-Q08-A",
+    "LUMI-U2-Q07-C",
+    "LUMI-U2-Q08-C",
+    "LUMI-U2-Q07-D",
+    "LUMI-U2-Q08-D",
+    "LUMI-U2-Q07-E",
+    "LUMI-U2-Q08-E",
+    "LUMI-U2-Q07-F",
+    "LUMI-U2-Q08-F",
+    "LUMI-U2-Q08-G",
+    "LUMI-U2-Q07-H",
+    "LUMI-U2-Q08-H",
+    "LUMI-U2-Q08-I",
+    "LUMI-U2-Q07-J",
+    "LUMI-U2-Q08-J",
+    "LUMI-U2-Q07-K",
+    "LUMI-U2-Q08-K",
+    "LUMI-U2-Q08-M",
+    "LUMI-U2-Q07-N",
+    "LUMI-U2-Q07-O",
+    "LUMI-U2-Q08-O",
+    "LUMI-U2-Q07-P",
+    "LUMI-U2-Q08-P",
+    "LUMI-U2-NEW-S3-01",
+    "LUMI-U2-NEW-S3-02",
+    "LUMI-U2-NEW-S3-03",
+    "LUMI-U2-Q09-A",
+    "LUMI-U2-Q09-B",
+    "LUMI-U2-Q09-C",
+    "LUMI-U2-Q09-D",
+    "LUMI-U2-Q09-E",
+    "LUMI-U2-Q15-B",
+    "LUMI-U2-Q15-C",
+    "LUMI-U2-Q15-D",
+    "LUMI-U2-Q15-E",
+    "LUMI-U2-Q15-F",
+    "LUMI-U2-Q15-H",
+    "LUMI-U2-Q15-I",
+    "LUMI-U2-Q15-J",
+    "LUMI-U2-Q16-B",
+    "LUMI-U2-Q16-D",
+    "LUMI-U2-Q16-E",
+    "LUMI-U2-Q16-G",
+    "LUMI-U2-Q16-H",
+    "LUMI-U2-Q16-I",
+    "LUMI-U2-Q16-J",
+    "LUMI-U2-NEW-S4-01",
+    "LUMI-U2-NEW-S4-02",
+    "Q10",
+    "Q11a",
+    "Q11b",
+    "Q11c",
+    "Q11d",
+    "Q12a",
+    "Q12b",
+    "Q12c",
+    "Q12d",
+    "Q13a",
+    "Q13b",
+    "Q13c",
+    "Q13d",
+    "Q14a",
+    "Q14b",
+    "Q14c",
+    "Q14d",
+    "Q14e",
+    "Q14f",
+    "LG01",
+    "LG02",
+    "LG03",
+    "LG04",
+    "LG05",
+    "LG06",
+    "LG07",
+    "LG08",
+    "LG09"
+  ],
+  "instructor_sensitive_unknowns": [
+    "Which four octet exceptions are expected",
+    "Whether orbital geometry means electron-domain geometry",
+    "SO₃ Lewis representation preference",
+    "OsO₄ naming preference",
+    "Q2 ion symbol versus electron-equation format",
+    "Accepted acetate/bicarbonate variants and formal-charge display expectations"
+  ],
+  "binding_status": "Selected source-task IDs, card IDs, expanded-scene anchors, related practice IDs, and source links verified on 8 October 2026. Conceptual scope limitations remain."
+}

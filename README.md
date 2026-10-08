@@ -56,3 +56,21 @@ After a fresh clone, build the campus tools and run the campus compiler's
 existing local Atlas transaction lock; it validates but does not alter history or
 admit new sources. Runtime lock files remain outside Git. See the university's
 `Luminara_Teaching_Room/CONTENT_REPOSITORIES.md` for the complete update procedure.
+
+## Expanded Ms. Luminara Chemistry adventures
+
+The byte-preserved October 8 handoff is in `Adventures/Chemistry_Expanded`.
+Its manifest and existing Atlas index reference the five expanded editions,
+101 scenes, sixty vocabulary cards and 72 optional question/key pairs. All
+twenty earlier Chemistry questions and story IDs remain unchanged. The original
+First Collection files stay as provenance; Campus opens the expanded edition
+without a second catalogue entry. Twenty checkpoint ZIP payloads and a companion
+archive described by the author were not supplied or recreated.
+
+University owns native admission, grading, page generation, the shared reader,
+windows, question templates, hints and Library Save/journal. Twenty-three selected
+Unit II tasks reference exact story passages through University `studyLinks`.
+This repository adds no runtime, grader, persistence store or native history.
+The current Campus release is 1.47.8; earlier 1.47.7 cannot display the added
+Chemistry question IDs. Sources are authoring evidence; review is not instructor
+approval or certification of learning effectiveness.

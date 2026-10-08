@@ -1,0 +1,238 @@
+[
+  {
+    "id": "luminara.adventure.004.card01",
+    "story_id": "luminara.adventure.004",
+    "kind": "definition",
+    "prompt": "What does III specify in the name iron(III) oxide?",
+    "answer": "Iron’s oxidation state is +3. In this supplied simple monatomic-ion model, that agrees with the Fe³⁺ ion charge.",
+    "accepted_reasoning": "Accept oxidation state plus three. Do not equate every oxidation state in all compounds with a localized physical ionic charge.",
+    "source_refs": [
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "SOURCES.md#s06-oxidation-state-scope",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-04"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q06"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card02",
+    "story_id": "luminara.adventure.004",
+    "kind": "definition",
+    "prompt": "What does di- specify in carbon dioxide?",
+    "answer": "Two oxygen atoms per CO₂ molecule.",
+    "accepted_reasoning": "Tie the prefix to oxygen atom count in the molecule, not to carbon charge or number of molecules.",
+    "source_refs": [
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "SOURCES.md#s05-formula-roles-and-molecular-composition",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+    ],
+    "scene_ids": [
+      "ch04-scene-14"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q03",
+      "luminara.adventure.004.q13"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card03",
+    "story_id": "luminara.adventure.004",
+    "kind": "definition",
+    "prompt": "In FeCl₂, what does the subscript 2 after Cl specify?",
+    "answer": "Two chloride ions per iron ion in the conventional formula-unit composition ratio of this supplied ionic compound.",
+    "accepted_reasoning": "Count chloride in the ionic composition; it neither counts iron atoms nor states the iron oxidation state by itself.",
+    "source_refs": [
+      "SOURCES.md#s03-ionic-compounds-and-whole-ions",
+      "SOURCES.md#s05-formula-roles-and-molecular-composition",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-03"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card04",
+    "story_id": "luminara.adventure.004",
+    "kind": "definition",
+    "prompt": "What is the empirical formula of N₂O₄ intended to report?",
+    "answer": "Its simplest atom-number ratio, N:O = 1:2, written NO₂.",
+    "accepted_reasoning": "Explain the ratio purpose. An empirical formula does not state that an N₂O₄ molecule has only one N and two O atoms.",
+    "source_refs": [
+      "SOURCES.md#s05-formula-roles-and-molecular-composition",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+    ],
+    "scene_ids": [
+      "ch04-scene-15"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q04"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card05",
+    "story_id": "luminara.adventure.004",
+    "kind": "contrast",
+    "prompt": "How do the II in iron(II) chloride and the 2 in FeCl₂ perform different jobs?",
+    "answer": "II names iron’s +2 oxidation state; the subscript 2 gives the chloride count relative to iron in the formula-unit composition.",
+    "accepted_reasoning": "Keep formal oxidation state separate from the ion ratio. Both are related by neutrality, but they are not interchangeable symbols.",
+    "source_refs": [
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "SOURCES.md#s06-oxidation-state-scope",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+    ],
+    "scene_ids": [
+      "ch04-scene-03",
+      "ch04-scene-04"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01",
+      "luminara.adventure.004.q06"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card06",
+    "story_id": "luminara.adventure.004",
+    "kind": "contrast",
+    "prompt": "Why does the chapter use magnesium chloride for ionic MgCl₂ but phosphorus trichloride for molecular PCl₃?",
+    "answer": "The supplied ionic naming route names ions without molecular count prefixes; the binary molecular route uses prefixes for atoms per molecule.",
+    "accepted_reasoning": "Identify the naming convention before interpreting the subscript. Magnesium(II) chloride is not chemically nonsensical; the numeral is unnecessary in the stated introductory convention. Broader compositional nomenclature also permits count prefixes for ionic compounds; a prefix alone does not prove molecular structure.",
+    "source_refs": [
+      "SOURCES.md#s03-ionic-compounds-and-whole-ions",
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-06",
+      "ch04-scene-14"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q03",
+      "luminara.adventure.004.q07"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card07",
+    "story_id": "luminara.adventure.004",
+    "kind": "contrast",
+    "prompt": "Why may H₂O₂ have empirical formula HO while its molecular formula must remain H₂O₂?",
+    "answer": "HO gives a simplest ratio; H₂O₂ gives the actual two hydrogen and two oxygen atoms per molecule. The requested information is different.",
+    "accepted_reasoning": "Credit ratio versus molecule contents. Reducing the written formula does not preserve its molecular-composition statement.",
+    "source_refs": [
+      "SOURCES.md#s05-formula-roles-and-molecular-composition",
+      "https://openstax.org/books/chemistry-2e/pages/2-4-chemical-formulas"
+    ],
+    "scene_ids": [
+      "ch04-scene-15"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q04"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card08",
+    "story_id": "luminara.adventure.004",
+    "kind": "contrast",
+    "prompt": "Why should known NH₄⁺ and SO₄²⁻ identities outrank the shortcut “no metal means molecular” for (NH₄)₂SO₄?",
+    "answer": "The species are verified ions, so the compound follows the ionic route even though all of its elements are nonmetals.",
+    "accepted_reasoning": "Use the identity/structure evidence as the stronger basis. A shortcut is a clue, not a universal classification law.",
+    "source_refs": [
+      "SOURCES.md#s03-ionic-compounds-and-whole-ions",
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "https://openstax.org/books/chemistry-2e/pages/2-6-ionic-and-molecular-compounds",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-07"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q14"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card09",
+    "story_id": "luminara.adventure.004",
+    "kind": "application",
+    "prompt": "For supplied simple ionic Fe₂O₃ with O²⁻, which Roman numeral belongs in iron’s name?",
+    "answer": "III: three oxide ions contribute −6, so two iron ions must contribute +6 in total, or +3 each.",
+    "accepted_reasoning": "Accept the charge equation 2q + 3(−2) = 0, a diagram, or clear verbal balancing. The 2 after Fe is not the Roman numeral.",
+    "source_refs": [
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "SOURCES.md#s06-oxidation-state-scope",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-04"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q06"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card10",
+    "story_id": "luminara.adventure.004",
+    "kind": "application",
+    "prompt": "For supplied simple ionic CuCl₂ with Cl⁻, which oxidation state belongs to copper?",
+    "answer": "+2, since two chloride ions contribute −2 and the one copper ion must balance them.",
+    "accepted_reasoning": "A neutral-charge sum is enough. The corresponding introductory name is copper(II) chloride, but naming spelling is not this card’s target.",
+    "source_refs": [
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "SOURCES.md#s06-oxidation-state-scope",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-05"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q01",
+      "luminara.adventure.004.q07"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card11",
+    "story_id": "luminara.adventure.004",
+    "kind": "application",
+    "prompt": "In the binary molecular name sulfur hexafluoride, how many F atoms belong to one molecule?",
+    "answer": "Six, because hexa- gives the fluorine count; the molecular formula is SF₆.",
+    "accepted_reasoning": "Accept six with a prefix explanation. This is atom count, not a fluorine charge.",
+    "source_refs": [
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "SOURCES.md#s05-formula-roles-and-molecular-composition",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-14"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q03"
+    ]
+  },
+  {
+    "id": "luminara.adventure.004.card12",
+    "story_id": "luminara.adventure.004",
+    "kind": "application",
+    "prompt": "Using the supplied ion names ammonium (NH₄⁺) and carbonate (CO₃²⁻), name (NH₄)₂CO₃ in the chapter’s introductory ionic convention.",
+    "answer": "Ammonium carbonate.",
+    "accepted_reasoning": "Name the cation and anion. Do not require a molecular di- prefix for the two ammonium ions in this convention.",
+    "source_refs": [
+      "SOURCES.md#s03-ionic-compounds-and-whole-ions",
+      "SOURCES.md#s04-chemical-naming-conventions",
+      "https://openstax.org/books/chemistry-2e/pages/2-7-chemical-nomenclature"
+    ],
+    "scene_ids": [
+      "ch04-scene-18"
+    ],
+    "practice_ids": [
+      "luminara.adventure.004.q02"
+    ]
+  }
+]

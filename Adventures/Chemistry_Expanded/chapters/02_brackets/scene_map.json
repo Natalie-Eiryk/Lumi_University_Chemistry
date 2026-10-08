@@ -1,0 +1,447 @@
+[
+  {
+    "scene_id": "ch02-scene-01",
+    "title": "The gas that would not fit the label",
+    "anchor": "ch02-scene-01",
+    "concepts": [
+      "historical gas identification versus later atomic notation",
+      "explicit fictional future-model briefing",
+      "preserving identity through labels"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "P01",
+      "P02",
+      "P04",
+      "H1",
+      "H2"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-02",
+    "title": "Eleven at the counter",
+    "anchor": "ch02-scene-02",
+    "concepts": [
+      "proton identity",
+      "neutral atom",
+      "shell versus subshell",
+      "occupancy count",
+      "reference before attempt"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q08"
+    ],
+    "source_refs": [
+      "P01",
+      "N3",
+      "T1",
+      "T2",
+      "T3",
+      "N9"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-03",
+    "title": "The fold that opens again",
+    "anchor": "ch02-scene-03",
+    "concepts": [
+      "reversible noble-gas shorthand",
+      "configuration reference not a second atom",
+      "representation change versus physical change"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q11"
+    ],
+    "source_refs": [
+      "P01",
+      "N2",
+      "N3",
+      "T1",
+      "N10"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-04",
+    "title": "Eight missing from the label",
+    "anchor": "ch02-scene-04",
+    "concepts": [
+      "missing 2s² 2p⁶ inventory",
+      "expansion check",
+      "representational omission versus ionization",
+      "local error containment"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q01",
+      "luminara.adventure.002.q13"
+    ],
+    "source_refs": [
+      "P01",
+      "N3",
+      "T1",
+      "N8"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-05",
+    "title": "The shelf behind the shelf",
+    "anchor": "ch02-scene-05",
+    "concepts": [
+      "source record versus copied output",
+      "known error versus unchecked information",
+      "batch provenance"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q14"
+    ],
+    "source_refs": [
+      "P01",
+      "P02",
+      "H2"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-06",
+    "title": "A longer answer that tells the truth",
+    "anchor": "ch02-scene-06",
+    "concepts": [
+      "valid longer helium-core form",
+      "nearest-earlier-core convention",
+      "specific feedback"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q01",
+      "luminara.adventure.002.q05",
+      "luminara.adventure.002.q13"
+    ],
+    "source_refs": [
+      "P01",
+      "N3",
+      "T1",
+      "N8"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-07",
+    "title": "The border before neon",
+    "anchor": "ch02-scene-07",
+    "concepts": [
+      "Li–Ne–Na core boundary",
+      "preceding-core notation at neon",
+      "task-sensitive representation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q04",
+      "luminara.adventure.002.q09",
+      "luminara.adventure.002.q11"
+    ],
+    "source_refs": [
+      "P01",
+      "N1",
+      "N2",
+      "N3",
+      "T1",
+      "N8"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-08",
+    "title": "Tea beside the observation window",
+    "anchor": "ch02-scene-08",
+    "concepts": [
+      "measurement versus inference",
+      "historical spectral presence versus amount",
+      "electron count not universal identity"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q14"
+    ],
+    "source_refs": [
+      "H3",
+      "P02",
+      "N2",
+      "N3",
+      "T3"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-09",
+    "title": "The sodium sent toward neon",
+    "anchor": "ch02-scene-09",
+    "concepts": [
+      "Na⁺ identity",
+      "proton–electron charge difference",
+      "isoelectronic not identical"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q02",
+      "luminara.adventure.002.q06",
+      "luminara.adventure.002.q10",
+      "luminara.adventure.002.q14"
+    ],
+    "source_refs": [
+      "P01",
+      "N2",
+      "N3",
+      "T3",
+      "N10"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-10",
+    "title": "The third column",
+    "anchor": "ch02-scene-10",
+    "concepts": [
+      "system boundary",
+      "surroundings electron account",
+      "charge conservation",
+      "bookkeeping not mechanism",
+      "conserved total need not be zero"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q06",
+      "luminara.adventure.002.q09"
+    ],
+    "source_refs": [
+      "P01",
+      "P03",
+      "N3",
+      "T3",
+      "N10"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-11",
+    "title": "Two numbers above the line",
+    "anchor": "ch02-scene-11",
+    "concepts": [
+      "Mg²⁺ identity",
+      "charge superscript versus occupancy",
+      "ten-electron comparison"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q01",
+      "luminara.adventure.002.q02",
+      "luminara.adventure.002.q06",
+      "luminara.adventure.002.q08"
+    ],
+    "source_refs": [
+      "P01",
+      "P03",
+      "N4",
+      "T1",
+      "T3",
+      "N10"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-12",
+    "title": "What a balanced ledger cannot buy",
+    "anchor": "ch02-scene-12",
+    "concepts": [
+      "ionization energy",
+      "charge balance not energy balance",
+      "different nuclei in isoelectronic species"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q02",
+      "luminara.adventure.002.q09",
+      "luminara.adventure.002.q10"
+    ],
+    "source_refs": [
+      "N2",
+      "N3",
+      "T1",
+      "T2",
+      "T3",
+      "N10"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-13",
+    "title": "A place to set the pencil down",
+    "anchor": "ch02-scene-13",
+    "concepts": [
+      "learner reflection",
+      "bounded competence",
+      "selecting relevant checks",
+      "rest and help"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "P02",
+      "P04",
+      "P05"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-14",
+    "title": "Eighteen inside argon",
+    "anchor": "ch02-scene-14",
+    "concepts": [
+      "[Ar] expansion",
+      "K ground state",
+      "shell occupancy versus capacity",
+      "unoccupied 3d",
+      "separate proposal and verification mechanisms"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q03",
+      "luminara.adventure.002.q05",
+      "luminara.adventure.002.q07",
+      "luminara.adventure.002.q12"
+    ],
+    "source_refs": [
+      "N5",
+      "N6",
+      "T1",
+      "T2",
+      "N9"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-15",
+    "title": "Twenty is not the whole answer",
+    "anchor": "ch02-scene-15",
+    "concepts": [
+      "Ca ground state",
+      "total versus capacity versus occupancy",
+      "specific nonshaming repair",
+      "removing unsupported continuation rule"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q03",
+      "luminara.adventure.002.q12",
+      "luminara.adventure.002.q14"
+    ],
+    "source_refs": [
+      "P01",
+      "N7",
+      "T1",
+      "T2",
+      "N9"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-16",
+    "title": "Under the office floor",
+    "anchor": "ch02-scene-16",
+    "concepts": [
+      "quantum orbital probability model",
+      "s/p/d capacities",
+      "Pauli principle",
+      "nonuniversal 4s/3d order"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q03",
+      "luminara.adventure.002.q07",
+      "luminara.adventure.002.q10",
+      "luminara.adventure.002.q12"
+    ],
+    "source_refs": [
+      "T1",
+      "T2",
+      "N6",
+      "N7",
+      "N9",
+      "T4"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-17",
+    "title": "A repair that asks the right question",
+    "anchor": "ch02-scene-17",
+    "concepts": [
+      "context-sensitive checking",
+      "missing information",
+      "scope limit",
+      "preserving correct parts"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q13",
+      "luminara.adventure.002.q14"
+    ],
+    "source_refs": [
+      "P01",
+      "P02",
+      "N2",
+      "N3",
+      "N7",
+      "T1",
+      "T3"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-18",
+    "title": "The first dispatch after the hold",
+    "anchor": "ch02-scene-18",
+    "concepts": [
+      "verification at receiving end",
+      "legible superscripts",
+      "batch reconciliation",
+      "no blanket validation claim",
+      "accepted replacements versus total print impressions",
+      "deliberate omitted one versus damaged explicit occupancy"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q13"
+    ],
+    "source_refs": [
+      "P01",
+      "P02",
+      "N3",
+      "N7",
+      "T1",
+      "T3",
+      "N9",
+      "N10"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-19",
+    "title": "The visitor's return ticket",
+    "anchor": "ch02-scene-19",
+    "concepts": [
+      "historical return",
+      "collaborator credit",
+      "chronological containment",
+      "evidence scope"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q14"
+    ],
+    "source_refs": [
+      "H1",
+      "H2",
+      "H3",
+      "P04"
+    ]
+  },
+  {
+    "scene_id": "ch02-scene-20",
+    "title": "The return receipt",
+    "anchor": "ch02-scene-20",
+    "concepts": [
+      "reopening and repairing the original sodium shorthand puzzle",
+      "transfer reflection",
+      "representation versus species change",
+      "accounting receipt",
+      "optional continuation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.002.q08",
+      "luminara.adventure.002.q13"
+    ],
+    "source_refs": [
+      "P01",
+      "P02",
+      "N2",
+      "N3",
+      "N4",
+      "N7",
+      "T1",
+      "T3",
+      "N8",
+      "N10"
+    ]
+  }
+]

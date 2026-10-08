@@ -1,0 +1,445 @@
+[
+  {
+    "scene_id": "ch03-scene-01",
+    "title": "An Invitation With Too Much Ribbon",
+    "anchor": "ch03-scene-01",
+    "story_link": "STORY.md#ch03-scene-01",
+    "concepts": [
+      "representation versus evidence",
+      "entry scope",
+      "ionic-pair hypothesis"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S04"
+    ],
+    "model_before": "A transfer picture seems to justify a permanent pair.",
+    "model_after": "The partner rule is a hypothesis to test against structure."
+  },
+  {
+    "scene_id": "ch03-scene-02",
+    "title": "The Hall Beyond Every Window",
+    "anchor": "ch03-scene-02",
+    "story_link": "STORY.md#ch03-scene-02",
+    "concepts": [
+      "extended ordinary NaCl structure",
+      "charge labels",
+      "nearest neighbors"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04"
+    ],
+    "model_before": "The hall may be a flat collection of paired objects.",
+    "model_after": "Ordinary NaCl is extended in three dimensions with labeled ionic species."
+  },
+  {
+    "scene_id": "ch03-scene-03",
+    "title": "A Perfectly Balanced Wrong Picture",
+    "anchor": "ch03-scene-03",
+    "story_link": "STORY.md#ch03-scene-03",
+    "concepts": [
+      "charge balance versus structure",
+      "unsupported exclusive grouping",
+      "representation consequences"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q05",
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S04"
+    ],
+    "model_before": "Correct equal totals appear to validate the pair structure.",
+    "model_after": "Charge accounting and structural grouping need separate evidence."
+  },
+  {
+    "scene_id": "ch03-scene-04",
+    "title": "The Balcony With an Ordinary Bench",
+    "anchor": "ch03-scene-04",
+    "story_link": "STORY.md#ch03-scene-04",
+    "concepts": [
+      "sixfold local coordination",
+      "overlapping neighborhoods",
+      "accessible perspectives"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q06"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04"
+    ],
+    "model_before": "Nearest neighbors might be owned by the selected center.",
+    "model_after": "Local sixfold views overlap; access can be chosen without losing evidence."
+  },
+  {
+    "scene_id": "ch03-scene-05",
+    "title": "Six Neighbors, One-to-One Composition",
+    "anchor": "ch03-scene-05",
+    "story_link": "STORY.md#ch03-scene-05",
+    "concepts": [
+      "local count versus bulk ratio",
+      "formula unit",
+      "finite-window limits"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q06"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04",
+      "CH03-S06"
+    ],
+    "model_before": "A local neighborhood count could be the formula ratio.",
+    "model_after": "Six nearest neighbors and 1:1 bulk composition answer different questions."
+  },
+  {
+    "scene_id": "ch03-scene-06",
+    "title": "The Archive of How They Arrived",
+    "anchor": "ch03-scene-06",
+    "story_link": "STORY.md#ch03-scene-06",
+    "concepts": [
+      "ion-formation bookkeeping",
+      "proton identity",
+      "energy-account limits",
+      "charge conservation versus neutrality"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q05"
+    ],
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S07",
+      "CH03-S13",
+      "CH03-S17"
+    ],
+    "model_before": "Arrival transfer assigns a permanent partner and completes the explanation.",
+    "model_after": "Electron counts, charge conservation and proton identity survive without partner memory."
+  },
+  {
+    "scene_id": "ch03-scene-07",
+    "title": "Under the Floorboards",
+    "anchor": "ch03-scene-07",
+    "story_link": "STORY.md#ch03-scene-07",
+    "concepts": [
+      "electrostatic interactions",
+      "short-range repulsion",
+      "qualitative energy minimum",
+      "bonding-model limits"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q05",
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S07",
+      "CH03-S14",
+      "CH03-S15",
+      "CH03-S16"
+    ],
+    "model_before": "Attraction alone should collapse ions or end all motion.",
+    "model_after": "Current many-particle interactions and electronic structure matter; schematic models have limits."
+  },
+  {
+    "scene_id": "ch03-scene-08",
+    "title": "The Rehearsal That Went Dark",
+    "anchor": "ch03-scene-08",
+    "story_link": "STORY.md#ch03-scene-08",
+    "concepts": [
+      "nearest-neighbor links",
+      "shared references versus duplicate particles",
+      "representation testing"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q06",
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04"
+    ],
+    "model_before": "Patching a visible caption can repair every dependent representation.",
+    "model_after": "Relationship records, entity counts and scope labels need coordinated repair."
+  },
+  {
+    "scene_id": "ch03-scene-09",
+    "title": "Biscuits in the Unclassified Courtyard",
+    "anchor": "ch03-scene-09",
+    "story_link": "STORY.md#ch03-scene-09",
+    "concepts": [
+      "scope of corrections",
+      "retaining partial success",
+      "quiet reflection"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "CH03-S04"
+    ],
+    "model_before": "Removing an invalid outline might make every grouping invalid.",
+    "model_after": "A correction is bounded; discrete molecules and polyatomic groups remain meaningful."
+  },
+  {
+    "scene_id": "ch03-scene-10",
+    "title": "Three Displays and Two Bad Drawers",
+    "anchor": "ch03-scene-10",
+    "story_link": "STORY.md#ch03-scene-10",
+    "concepts": [
+      "elemental molecule",
+      "molecular compound",
+      "polyatomic ion",
+      "internal bonding versus category"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q01"
+    ],
+    "source_refs": [
+      "CH03-S01",
+      "CH03-S02",
+      "CH03-S05",
+      "CH03-S16"
+    ],
+    "model_before": "One ionic/covalent drawer can classify an entire species.",
+    "model_after": "Composition, charge, entity type and internal bonding are separate dimensions."
+  },
+  {
+    "scene_id": "ch03-scene-11",
+    "title": "A Boundary Worth Keeping",
+    "anchor": "ch03-scene-11",
+    "story_link": "STORY.md#ch03-scene-11",
+    "concepts": [
+      "whole-ion boundary",
+      "NH₄⁺ valence budget",
+      "tetrahedral arrangement",
+      "charge notation"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q01",
+      "luminara.adventure.003.q13"
+    ],
+    "source_refs": [
+      "CH03-S01",
+      "CH03-S08",
+      "CH03-S09",
+      "CH03-S10",
+      "CH03-S16"
+    ],
+    "model_before": "A whole-ion tile might be one indivisible atom or a flat cross.",
+    "model_after": "NH₄⁺ is a multiatom charged species with an eight-electron Lewis budget and tetrahedral model."
+  },
+  {
+    "scene_id": "ch03-scene-12",
+    "title": "The Whole Ion Comes Along",
+    "anchor": "ch03-scene-12",
+    "story_link": "STORY.md#ch03-scene-12",
+    "concepts": [
+      "ammonium carbonate",
+      "whole-ion charge balance",
+      "parentheses",
+      "ratio versus independent cluster"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q07"
+    ],
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S05"
+    ],
+    "model_before": "Balancing charge is enough even if group contents change in printing.",
+    "model_after": "Whole groups, charge totals and printed atom counts must all agree."
+  },
+  {
+    "scene_id": "ch03-scene-13",
+    "title": "The Cargo That Lost Its Oxygen",
+    "anchor": "ch03-scene-13",
+    "story_link": "STORY.md#ch03-scene-13",
+    "concepts": [
+      "calcium nitrate",
+      "atom inventory",
+      "coefficient/subscript/superscript distinction",
+      "transcription checks"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q02",
+      "luminara.adventure.003.q08",
+      "luminara.adventure.003.q09"
+    ],
+    "source_refs": [
+      "CH03-S05",
+      "CH03-S06"
+    ],
+    "model_before": "Correct tiles guarantee a correct downstream formula and inventory.",
+    "model_after": "Coefficients, group multipliers, internal subscripts and charges have distinct scopes."
+  },
+  {
+    "scene_id": "ch03-scene-14",
+    "title": "The Smallest Fair Ledger",
+    "anchor": "ch03-scene-14",
+    "story_link": "STORY.md#ch03-scene-14",
+    "concepts": [
+      "Al₂O₃ charge balance",
+      "simplest whole-ion ratio",
+      "CaO contrast",
+      "neutrality limits"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q03",
+      "luminara.adventure.003.q10"
+    ],
+    "source_refs": [
+      "CH03-S04",
+      "CH03-S05"
+    ],
+    "model_before": "Any neutral count or any visible subscript reduction is acceptable.",
+    "model_after": "The simplest neutral whole-ion ratio is required while supplied ion identities remain intact."
+  },
+  {
+    "scene_id": "ch03-scene-15",
+    "title": "The Formula That Must Not Shrink",
+    "anchor": "ch03-scene-15",
+    "story_link": "STORY.md#ch03-scene-15",
+    "concepts": [
+      "molecular versus empirical formula",
+      "N₂O₄ preservation",
+      "information loss"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q03",
+      "luminara.adventure.003.q12"
+    ],
+    "source_refs": [
+      "CH03-S06"
+    ],
+    "model_before": "A common factor authorizes reducing every formula.",
+    "model_after": "Molecular counts survive; an empirical ratio loses the molecular multiplier."
+  },
+  {
+    "scene_id": "ch03-scene-16",
+    "title": "Two Cards That Refused the Shortcut",
+    "anchor": "ch03-scene-16",
+    "story_link": "STORY.md#ch03-scene-16",
+    "concepts": [
+      "supplied hydride identity",
+      "peroxide group preservation",
+      "scope of simplification"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q10",
+      "luminara.adventure.003.q11"
+    ],
+    "source_refs": [
+      "CH03-S11",
+      "CH03-S12"
+    ],
+    "model_before": "Familiar charges and visible even subscripts override supplied identity.",
+    "model_after": "LiH and Na₂O₂ follow supplied intact ions, not unqualified shortcuts."
+  },
+  {
+    "scene_id": "ch03-scene-17",
+    "title": "The Signmakers Disagree",
+    "anchor": "ch03-scene-17",
+    "story_link": "STORY.md#ch03-scene-17",
+    "concepts": [
+      "precise captions",
+      "accessible notation",
+      "symbol scope",
+      "qualification placement"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q08",
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04",
+      "CH03-S05",
+      "CH03-S06",
+      "CH03-S18"
+    ],
+    "model_before": "A technically correct caption works regardless of scope or visibility.",
+    "model_after": "Usable accurate communication keeps scope and access visible."
+  },
+  {
+    "scene_id": "ch03-scene-18",
+    "title": "The Dance Without Pair Assignments",
+    "anchor": "ch03-scene-18",
+    "story_link": "STORY.md#ch03-scene-18",
+    "concepts": [
+      "integrated model demonstration",
+      "local/global distinction",
+      "whole-ion accounting",
+      "story resolution"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q01",
+      "luminara.adventure.003.q02",
+      "luminara.adventure.003.q03",
+      "luminara.adventure.003.q04",
+      "luminara.adventure.003.q07",
+      "luminara.adventure.003.q11"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04",
+      "CH03-S05",
+      "CH03-S06",
+      "CH03-S11",
+      "CH03-S12"
+    ],
+    "model_before": "The repaired components may not work as one visitor-facing explanation.",
+    "model_after": "The integrated exhibit preserves the distinctions without compulsory testing."
+  },
+  {
+    "scene_id": "ch03-scene-19",
+    "title": "What the Old Chart Was Allowed to Keep",
+    "anchor": "ch03-scene-19",
+    "story_link": "STORY.md#ch03-scene-19",
+    "concepts": [
+      "preserving correct partial knowledge",
+      "revision evidence",
+      "classification uncertainty",
+      "reflection"
+    ],
+    "practice_ids": [
+      "luminara.adventure.003.q14"
+    ],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04",
+      "CH03-S07"
+    ],
+    "model_before": "Correcting a model means discarding everything it once said.",
+    "model_after": "A revision can retain valid counts, identities and uncertainty while removing the wrong claim."
+  },
+  {
+    "scene_id": "ch03-scene-20",
+    "title": "The Useful Souvenir",
+    "anchor": "ch03-scene-20",
+    "story_link": "STORY.md#ch03-scene-20",
+    "concepts": [
+      "scale bridge",
+      "scope of symbols",
+      "useful souvenirs",
+      "transfer questions"
+    ],
+    "practice_ids": [],
+    "source_refs": [
+      "CH03-S03",
+      "CH03-S04",
+      "CH03-S05",
+      "CH03-S06"
+    ],
+    "model_before": "Understanding requires carrying every detail unaided.",
+    "model_after": "Portable questions and references support further learning without pretending to cover everything."
+  }
+]

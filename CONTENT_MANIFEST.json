@@ -7,6 +7,594 @@
   "atlasHistory": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/ion-language/source/references/history.json",
   "files": [
     {
+      "path": "Adventures/Chemistry_Expanded/CHECKPOINT_HISTORY.md",
+      "bytes": 2803,
+      "sha256": "e8d318e36c4a5fdd206a7c8a24e6ff59e0d14c23446fe2cf60677c3c8361ce09",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/CODEX_INTEGRATION.md",
+      "bytes": 3726,
+      "sha256": "5267e761e86bc68d70e4b47caf0511d633f6bd6b04480415e316ba81e104ebaa",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/CONTENTS.md",
+      "bytes": 2377,
+      "sha256": "fa70a60bb389f23bb2f4bed72b6c9e4a6f1252abdf9364ba8d127b9bf09c9c16",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/README.md",
+      "bytes": 2366,
+      "sha256": "cf2f33315ff30d6db9660dba91799e1bf4935e0660d013afcfcfac412ce87a38",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/SHA256SUMS.txt",
+      "bytes": 7556,
+      "sha256": "1c08ef29cff838823fa079aaa871ec1507e38e3600bd6791c1be23ea136bea8a",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/SOURCES_AND_COVERAGE.md",
+      "bytes": 6847,
+      "sha256": "3286e8556aa974dbe3b4ea22b2fe92a87c0eeb4f5e292dbbba127d3dd86c520a",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/VALIDATION.md",
+      "bytes": 1660,
+      "sha256": "620cd4e7d2a2170044df4048a1b75344c74d12b77ce3277145b28b4bcf0773e0",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/catalogue.json",
+      "bytes": 8427,
+      "sha256": "2687d6cec216f9da9bbf386f2b8ebf7fd3948e2ce0f5ee65923f53324cfc9164",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/MODEL_CHANGES.md",
+      "bytes": 12899,
+      "sha256": "09006855ca9c067db7ff51afc02169c491a060da7f04c33de97a91d1ca9f2c8c",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/PRACTICE.md",
+      "bytes": 12064,
+      "sha256": "b44a113d02cbf523ed65e8d0a3fd2bc21fd6223503023c1ae4eea8ea23344256",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/QUESTION_TRACE.md",
+      "bytes": 4650,
+      "sha256": "1ac68e9a268e08ab28f809dd623dfa2a39a47862c07ec923fdff2b3d2b6bdac7",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/REVISION_LOG.md",
+      "bytes": 7937,
+      "sha256": "548981fe853b7d26e1fa85d17a8bc10178e95bf013c0f2bfb03c0c504b73b46f",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/SOURCES.md",
+      "bytes": 19790,
+      "sha256": "687572aa805d619b06e689bc1c0469f4596b9117c7d366893c058192e4897d56",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/STORY.md",
+      "bytes": 126743,
+      "sha256": "37edecc22ea7db772b32dd9ca99add5be797f7714e987607b809a712cd788bac",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/SUPPORT.md",
+      "bytes": 13877,
+      "sha256": "710da5bdb1517bdced8e94576b38ccf144c2c58f68cd28152be90235bfdf3376",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/TEACHER_KEY.md",
+      "bytes": 18385,
+      "sha256": "81d8b77844f902e07c061722458584e19b6d789a80ae9db0270870c310e10ef6",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/VOCABULARY_CARDS.md",
+      "bytes": 13121,
+      "sha256": "fdea2acfcb1ed05c3cd7ee2e5ebc483d6d18b242b2acf4a340b7518fe597b878",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/chapter_metadata.json",
+      "bytes": 2366,
+      "sha256": "3722ca8f82be9b9027eea39efb10f50c4e4e4ec69f3f3e540aa1733b2ca2a880",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/scene_map.json",
+      "bytes": 8779,
+      "sha256": "699bfe649c2d2e7a1ae64c572013c2f0ea39e805381898dda6a8daea79a83da7",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/01_periodic/vocabulary_cards.json",
+      "bytes": 10103,
+      "sha256": "d8c29cbd4b69d4b73513a86483d22554d0a42f7ebb6116fe61ce15342f39b711",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/PRACTICE.md",
+      "bytes": 9084,
+      "sha256": "1cc2c659503c3848f4c400e633e7cd375319cdc67eb2126e9a8450e3f30039b5",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/QUESTION_TRACE.json",
+      "bytes": 8374,
+      "sha256": "7491c6fb0a31d705e6dac7f814456b617f5368f4f39f0bacb2619343370a0324",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/REVISION_LOG.md",
+      "bytes": 6582,
+      "sha256": "126584470d900c62d29e77241cdb8f9b6712cae027341c6f378206acdcaf22d9",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/SOURCES.md",
+      "bytes": 16102,
+      "sha256": "2e761ecc0bae341fb09bd022e69d8f4389eeed5bca57d73c3f360a24a3af0f30",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/STORY.md",
+      "bytes": 120889,
+      "sha256": "e6132c1fec8c2e82fe09a12128b67eecccb24be45ec9efea31c17401ede2e16f",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/SUPPORT.md",
+      "bytes": 10619,
+      "sha256": "c7311d2971c4add1ae04e830123c453ecfc4d1eb87dc81925a4418ff2d4e2805",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/TEACHER_KEY.md",
+      "bytes": 14238,
+      "sha256": "a78025e1c2579e733e2b051d96d61c63aa8d0eaf8c886396d55b0a3a5dc786e1",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/VOCABULARY_CARDS.md",
+      "bytes": 14532,
+      "sha256": "caeb33046bccb8705c54b5e8e8c08cbf073ef472a3c017f8e05efda37e5435bf",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/scene_map.json",
+      "bytes": 9587,
+      "sha256": "461d391807d0dbd6de13b49d1e1633b9810a61677312bf62fe872336144f31ce",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/02_brackets/vocabulary_cards.json",
+      "bytes": 10617,
+      "sha256": "bbfee4aa35a8890e4a5682d92872a7bb5de3cbdd7dcbc71a06640a25702ed5b0",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/PRACTICE.md",
+      "bytes": 9588,
+      "sha256": "f1d72ccd836b6c6488b2b21ce5e5476c6259e1dfcbe78f1d56dbf761d5311ddf",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/REVISION_LOG.md",
+      "bytes": 7923,
+      "sha256": "039dd47b05e096304fee2a9151ce1d069925eedfc064030fda59caeffdc6bfda",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/SOURCES.md",
+      "bytes": 17255,
+      "sha256": "e931ea4510d4a0cb1df3733ed2b7a24b1ac09b3117af4680ab74b0ee5fb311ca",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/STORY.md",
+      "bytes": 122801,
+      "sha256": "aa8b5b3130a2a49b6f2d89f17538771251edf87b2c27ddb255d556370b20295e",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/SUPPORT.md",
+      "bytes": 11956,
+      "sha256": "408f617c20767199b80a4d03fdb29ac67334bbe80756bebb29c2b1f1e8a011e3",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/TEACHER_KEY.md",
+      "bytes": 13403,
+      "sha256": "7c0b35974e5fc38fa1343b72babf7f95af2520fc8d660b4701deb5053488a53c",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/VOCABULARY_CARDS.md",
+      "bytes": 14112,
+      "sha256": "8ec19010b0a503bd369f9ed445360696afcb4dd849f4ab1dc535ba5111a0f98d",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/question_trace.json",
+      "bytes": 14163,
+      "sha256": "2247924ddd77df47ddbfe98958b9139d33966850c324310cf66b83a716666ad5",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/scene_map.json",
+      "bytes": 13234,
+      "sha256": "f7a2ee7636eda1a96c7c0e29a1c000cd51e9fcbd9bbefb9057a5cd853ba89672",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/vocabulary_cards.json",
+      "bytes": 10977,
+      "sha256": "93ba944e7eea1f65e2d46a09e4eec58e97bd2343df29be11407814fd74abf4cd",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/03_city/word_count.json",
+      "bytes": 3415,
+      "sha256": "2c0d5f2f7df9accf63bdb8e516bd1d94fa223840544cd567ddb02d250b94bb34",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/CHAPTER_METADATA.json",
+      "bytes": 3223,
+      "sha256": "e9f95671f1aa161b52263e1bb3538410948a3807e6d54768712c35b97629fc5e",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/PRACTICE.md",
+      "bytes": 12303,
+      "sha256": "6aececf6c33b0997c5cceae6bfd877c970b55d362273ea0cff24c408b7107115",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/REVISION_LOG.md",
+      "bytes": 7863,
+      "sha256": "5960fad5cd91a72eaa867019ed2ccbee95731552e113c1a8b673de666037dbaf",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/SOURCES.md",
+      "bytes": 14064,
+      "sha256": "71522bca563f92f3b239fb9fe853458c764b36d6b58e207be7401dc8fd26373b",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/STORY.md",
+      "bytes": 122043,
+      "sha256": "9ecab06ccbcf82dfa589db490ab38d3e61cf92b1c56e17b996c932e91d502e02",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/SUPPORT.md",
+      "bytes": 13604,
+      "sha256": "9cfb01f17766a406ed1da51ef1134e6b6ac93be079ea27c34be6c3fae82ae74b",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/TEACHER_KEY.md",
+      "bytes": 14611,
+      "sha256": "a107d60e522cc0c859099f2d77d686391ac2ace4b4a9e6b44dc243927554aeb3",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/VOCABULARY_CARDS.md",
+      "bytes": 13636,
+      "sha256": "36fd8b3b61c8971d3d3a01704619b6ef93efe547378873d1d9a858decfef8d5e",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/question_trace.json",
+      "bytes": 7467,
+      "sha256": "f79f4b43fcb970067001352b3279edead94bfd2373118c6b8012066ee3a2d3e6",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/scene_map.json",
+      "bytes": 8446,
+      "sha256": "697a1321b3d61c88a27d80740f55a91fafa677b01df3b3a2e9859d30c01e0c7d",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/source_bindings.json",
+      "bytes": 10516,
+      "sha256": "e5d4913862a154c3b85df6d94f6ee70a924159c8fa7c73ab8d47249a40df5eeb",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/04_naming/vocabulary_cards.json",
+      "bytes": 10308,
+      "sha256": "d36c99ae59e8e2c9ac1d00357f91eb9953ef9927a55885f51ffc346ae454a903",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/PRACTICE.md",
+      "bytes": 10901,
+      "sha256": "4f4cfbb6d86ac086d213bf8e4fb5f5b69b97e388f0b139f655c234affe714742",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/REVISION_LOG.md",
+      "bytes": 6395,
+      "sha256": "796f8af00754f680ab3c89301f5b771f75e3278fba30ed990c5c812f1e46a1fe",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/SOURCES.md",
+      "bytes": 13497,
+      "sha256": "fed781594ba9522f3dc45db685978c7a89394577377a283645b5dfb9ea987ba4",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/STORY.md",
+      "bytes": 120146,
+      "sha256": "f17c3eb1965bb52be31d60b83bc2ac2ad87e5768f488ded481edade79eaec293",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/SUPPORT.md",
+      "bytes": 12554,
+      "sha256": "ddba5fe3ebc6329a5ca1adebe1227e1214b9cefa01bb319621356fe8e2f0aa8f",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/TEACHER_KEY.md",
+      "bytes": 16435,
+      "sha256": "33045baf418d185bdfed96b1e52ad3d58ac146666a05d3ea20b59bad614a20d0",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/VOCABULARY_CARDS.md",
+      "bytes": 14776,
+      "sha256": "7e4b62d8db652f919fd55d843e67be0825f06e2459858ad80b750834b4d913bd",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/chapter_metadata.json",
+      "bytes": 1855,
+      "sha256": "951fad21db8b4d83613b0a05af5f95deea753383dfa749302c38b507dd60387f",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/question_trace.json",
+      "bytes": 9747,
+      "sha256": "6b94608c6cd2304e12f2c82f87fa04d64f709d706a0643735006be5d76a781ff",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/scene_map.json",
+      "bytes": 19593,
+      "sha256": "2d3b242c4bca584a5d16e97903ea9189a2fc59c7842ebd14d57bc9cf27ad19f4",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/chapters/05_moles/vocabulary_cards.json",
+      "bytes": 10555,
+      "sha256": "82d86865ddd71609c4fbdea7ba0692fcbf3256a692f6004d3db27d0f9d04ff01",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/checkpoint_history.json",
+      "bytes": 8226,
+      "sha256": "1162b66fd5c091155fc29cb74d3fb06cf5226dc5058c81506a6b677c9e88a07e",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/readers/Chemistry_01_periodic.md",
+      "bytes": 173886,
+      "sha256": "8ba16c04c808b6a76f58e0709a87e5705c4e973926e7953b753d83244fa0c901",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/readers/Chemistry_02_brackets.md",
+      "bytes": 157650,
+      "sha256": "2e260c524a3e28e2fc49bbb8be9394a027de388b8126e8255c7c8d98f9c8f749",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/readers/Chemistry_03_city.md",
+      "bytes": 162460,
+      "sha256": "df045bd7af4199d33e1daecac5b2e0d614d7e315eb3cf5a79b9e6a72fcd752a3",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/readers/Chemistry_04_naming.md",
+      "bytes": 163408,
+      "sha256": "ef510e1a1f28d58a8bc1cf86c3ae1b030e621676ff0489c015bf1ebfed09f550",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/readers/Chemistry_05_moles.md",
+      "bytes": 158183,
+      "sha256": "cd9273a1ec73515d37a9e83f2673fa36cf7b25b1fb39ac4513a21350c86bf820",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/README.md",
+      "bytes": 8426,
+      "sha256": "2a6f29d4d5f66bbce2d80ba59448870bb572ab6d3629a2e79021a3321bbec8c8",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/SOURCES.md",
+      "bytes": 6164,
+      "sha256": "f0e5cc49926e60482547ef51466cd0b244af304e9b125773fc6a7d712fb4e014",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/VOCABULARY_CARDS.md",
+      "bytes": 69251,
+      "sha256": "42f0aa99a36c38f9f130136476054f58694051897abe4be8fc37e5c7532b1157",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/card_navigation.json",
+      "bytes": 115960,
+      "sha256": "4251b670da92abd9e4ec63916a4d2b340d1e5c711535d70ab15a8e75af58811d",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/cards.json",
+      "bytes": 49334,
+      "sha256": "2c7b389183c420a3a7dde4342c528b8bbba837a365093b9eee32f48bf87b9a66",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/cards.tsv",
+      "bytes": 36761,
+      "sha256": "5f00acc9354249796acfdf4feaed57bf3e837f50da078fcff0e077ce1203bd23",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/study_support/unit_ii_crosswalk.json",
+      "bytes": 32918,
+      "sha256": "e7f64aed0ce61ac4236a1681b492acf1a96f951fbca5627bd8cdc562d3b0bf3b",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/Chemistry_Expanded/validation_summary.json",
+      "bytes": 1908,
+      "sha256": "f8b18686ce2a0cf6caac8838ef3fbf86b74481bf1e0c4b3e49da6e1ba98c95b1",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/001_practice.md",
+      "bytes": 1358,
+      "sha256": "ea8f464e85cc919bfd6d9421dbc4b9c6a19266460fd9c1195b0cc7fed9379a8c",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/002_practice.md",
+      "bytes": 1285,
+      "sha256": "c5a5b4f0a62ca384bd3b555ef37df8166a13a1aa8b26ee09ccb1d3d22d71112c",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/003_practice.md",
+      "bytes": 1275,
+      "sha256": "747dba0eab73763fc2cae3750e787543869a808ef1530ef15593c3076be7850b",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/004_practice.md",
+      "bytes": 2145,
+      "sha256": "deb0449fe77590137ccae31d98acc1907e23cf0138bc51018203614489ccada8",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/practice/005_practice.md",
+      "bytes": 2478,
+      "sha256": "47bf341b55df57ad0c752413ce79ace20262c9d7045778785e521ad74472cb0a",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/001_the_address_with_no_row.story.md",
+      "bytes": 8424,
+      "sha256": "4050ccdf5638fce8ba7ac39cb4977918076593714500a6cf3c3ae04c66e33c17",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/002_the_bracket_luggage_office.story.md",
+      "bytes": 8403,
+      "sha256": "5c3dc13189258e5cfee811bbcc443928eaa90accef2dcfab7765eb71382d1a26",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/003_the_city_without_couples.story.md",
+      "bytes": 9043,
+      "sha256": "232dba0edbf0d778bd69683dc3b5eaa93d39b6b7cf95b361e3335e0160848e6e",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/004_story.md",
+      "bytes": 8048,
+      "sha256": "471d584a8cb0bc1fde101520aeb528237ae1ea02f8f4dc3358baa980df1d0b60",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/stories/005_story.md",
+      "bytes": 7661,
+      "sha256": "3863a0410651012a6e56718b884f0a947c90d79f0f25a73632913504afd39e40",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/001_support.md",
+      "bytes": 2605,
+      "sha256": "519c23bd8858f46591954961848f987b935f50417ac67be4bd3d2420187b7fe5",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/002_support.md",
+      "bytes": 2486,
+      "sha256": "a23ef0bb44a2a291de2b2dc80c0849a5055f40eae1bb5ce22675ce9c49960cbf",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/003_support.md",
+      "bytes": 2436,
+      "sha256": "e66d63ab84a65ecc782356a512bbbd51ebbe655cdd16a40ec7f5660ce92b1eec",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/004_support.md",
+      "bytes": 2290,
+      "sha256": "ce07784749e579870da9f1f6e3a749a6cf3d69964e3beba34d07220af59551fa",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/support/005_support.md",
+      "bytes": 2183,
+      "sha256": "72d52381fe6850eabfb962de1b21a2cf9bbcde99623b0e6d96379d32aeb8c3b1",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/001_key.md",
+      "bytes": 2893,
+      "sha256": "179121783cf5a8da355913ba8f6f7695f250185955c90a78468b63dc80e449cd",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/002_key.md",
+      "bytes": 2959,
+      "sha256": "f7755d26de8450c3429d0fcc2af26476290971a2b34ed3f463567fbed8d3e3ee",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/003_key.md",
+      "bytes": 3208,
+      "sha256": "fa4e519c2c938405829a23eb78a9119e49c3873b25eac692bc33c6c30c3bd5aa",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/004_key.md",
+      "bytes": 4772,
+      "sha256": "48d7b4b8c1e5c0e971cfee8fa462f7ca146dc08e59b82c459add339e8860471d",
+      "role": "source"
+    },
+    {
+      "path": "Adventures/First_Collection/teacher/005_key.md",
+      "bytes": 5167,
+      "sha256": "fc4f861680842314c8ef12d11acf515e7ba5c7075a2b4ebbc3f3b16afc94a1cc",
+      "role": "source"
+    },
+    {
       "path": "Chemistry/periodic_workbench_packet/00_START_HERE.md",
       "bytes": 7622,
       "sha256": "0a4f082b3cf3dfaecd41c0a503ffec67f536e5432ffcf2fd42d9df3ea57b55a5"
@@ -1414,6 +2002,12 @@
       "sha256": "17cfc4d2d610ed80ca1c34ee7b9119275792c5cef59ed21dc41af9c9db1bc24e"
     },
     {
+      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/worksheet-teaching.md",
+      "bytes": 15464,
+      "sha256": "ece0001087ac42f9164e6366ade1f6d1c8460101a60431edaa2a215d0badf5ea",
+      "role": "source"
+    },
+    {
       "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/unit-ii/source/00_START_HERE.md",
       "bytes": 6326,
       "sha256": "092125e7c3f60b7ad422b28269e71d68136c90006c8b4fc914dab05f1fb2bca8"
@@ -1552,132 +2146,6 @@
       "path": "Luminara_Teaching_Room/ION_LANGUAGE_REPORT.md",
       "bytes": 6502,
       "sha256": "1ea6697761613284c82924d63d8cfa2d37de9e6924d71b4a88c74d8303d97b7a"
-    },
-    {
-      "path": "Adventures/First_Collection/practice/001_practice.md",
-      "bytes": 1358,
-      "sha256": "ea8f464e85cc919bfd6d9421dbc4b9c6a19266460fd9c1195b0cc7fed9379a8c",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/practice/002_practice.md",
-      "bytes": 1285,
-      "sha256": "c5a5b4f0a62ca384bd3b555ef37df8166a13a1aa8b26ee09ccb1d3d22d71112c",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/practice/003_practice.md",
-      "bytes": 1275,
-      "sha256": "747dba0eab73763fc2cae3750e787543869a808ef1530ef15593c3076be7850b",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/practice/004_practice.md",
-      "bytes": 2145,
-      "sha256": "deb0449fe77590137ccae31d98acc1907e23cf0138bc51018203614489ccada8",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/practice/005_practice.md",
-      "bytes": 2478,
-      "sha256": "47bf341b55df57ad0c752413ce79ace20262c9d7045778785e521ad74472cb0a",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/stories/001_the_address_with_no_row.story.md",
-      "bytes": 8424,
-      "sha256": "4050ccdf5638fce8ba7ac39cb4977918076593714500a6cf3c3ae04c66e33c17",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/stories/002_the_bracket_luggage_office.story.md",
-      "bytes": 8403,
-      "sha256": "5c3dc13189258e5cfee811bbcc443928eaa90accef2dcfab7765eb71382d1a26",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/stories/003_the_city_without_couples.story.md",
-      "bytes": 9043,
-      "sha256": "232dba0edbf0d778bd69683dc3b5eaa93d39b6b7cf95b361e3335e0160848e6e",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/stories/004_story.md",
-      "bytes": 8048,
-      "sha256": "471d584a8cb0bc1fde101520aeb528237ae1ea02f8f4dc3358baa980df1d0b60",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/stories/005_story.md",
-      "bytes": 7661,
-      "sha256": "3863a0410651012a6e56718b884f0a947c90d79f0f25a73632913504afd39e40",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/support/001_support.md",
-      "bytes": 2605,
-      "sha256": "519c23bd8858f46591954961848f987b935f50417ac67be4bd3d2420187b7fe5",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/support/002_support.md",
-      "bytes": 2486,
-      "sha256": "a23ef0bb44a2a291de2b2dc80c0849a5055f40eae1bb5ce22675ce9c49960cbf",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/support/003_support.md",
-      "bytes": 2436,
-      "sha256": "e66d63ab84a65ecc782356a512bbbd51ebbe655cdd16a40ec7f5660ce92b1eec",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/support/004_support.md",
-      "bytes": 2290,
-      "sha256": "ce07784749e579870da9f1f6e3a749a6cf3d69964e3beba34d07220af59551fa",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/support/005_support.md",
-      "bytes": 2183,
-      "sha256": "72d52381fe6850eabfb962de1b21a2cf9bbcde99623b0e6d96379d32aeb8c3b1",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/teacher/001_key.md",
-      "bytes": 2893,
-      "sha256": "179121783cf5a8da355913ba8f6f7695f250185955c90a78468b63dc80e449cd",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/teacher/002_key.md",
-      "bytes": 2959,
-      "sha256": "f7755d26de8450c3429d0fcc2af26476290971a2b34ed3f463567fbed8d3e3ee",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/teacher/003_key.md",
-      "bytes": 3208,
-      "sha256": "fa4e519c2c938405829a23eb78a9119e49c3873b25eac692bc33c6c30c3bd5aa",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/teacher/004_key.md",
-      "bytes": 4772,
-      "sha256": "48d7b4b8c1e5c0e971cfee8fa462f7ca146dc08e59b82c459add339e8860471d",
-      "role": "source"
-    },
-    {
-      "path": "Adventures/First_Collection/teacher/005_key.md",
-      "bytes": 5167,
-      "sha256": "fc4f861680842314c8ef12d11acf515e7ba5c7075a2b4ebbc3f3b16afc94a1cc",
-      "role": "source"
-    },
-    {
-      "path": "Luminara_Teaching_Room/30-modules/chem-1117-f2026/source/worksheet-teaching.md",
-      "bytes": 15464,
-      "sha256": "ece0001087ac42f9164e6366ade1f6d1c8460101a60431edaa2a215d0badf5ea",
-      "role": "source"
     }
   ],
   "additionalExtractions": [
